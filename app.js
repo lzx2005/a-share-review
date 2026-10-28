@@ -39,6 +39,14 @@ export function dataAnomalyNote(theme, poolSummary, limitUpCount) {
   return n
 }
 
+export function stockCard(s) {
+  let cls = 's-pct'
+  if (s.changePercent === null || s.changePercent === undefined) cls += ' neutral'
+  else if (s.changePercent < 0) cls += ' down'
+  const conceptHtml = s.badge ? `<div class="s-concept">${s.badge}</div>` : ''
+  return `<div class="stock-card"><div class="s-name">${s.name || '未知股票'}</div>${conceptHtml}<div class="${cls}">${fmtPct(s.changePercent)}</div></div>`
+}
+
 // ===== 以下为浏览器渲染相关,node 单测不导入 =====
 if (typeof window !== 'undefined') {
   const DATA_URL_TPL = './data/<date>.json'   // 本地预览;部署 cp 时改为 './data/<date>.json'(常量,见 spec §11.4)
@@ -198,14 +206,6 @@ if (typeof window !== 'undefined') {
       ${overflow > 0 ? `<button class="expand-btn" type="button" data-key="${expandedKey}" aria-expanded="false">展开全部 ${l.stocks.length} 只</button>` : ''}
       </div>
     </div>`
-  }
-
-  function stockCard(s) {
-    let cls = 's-pct'
-    if (s.changePercent === null || s.changePercent === undefined) cls += ' neutral'
-    else if (s.changePercent < 0) cls += ' down'
-    const badgeHtml = s.badge ? `<span class="badge">${s.badge}</span>` : ''
-    return `<div class="stock-card"><div class="s-name">${s.name || '未知股票'}${badgeHtml}</div><div class="${cls}">${fmtPct(s.changePercent)}</div></div>`
   }
 
   function _defaultVisible() { return window.matchMedia('(max-width:700px)').matches ? 6 : 4 }
