@@ -1,0 +1,1596 @@
+{
+  "tradeDate": "2026-08-20",
+  "weekday": "周四",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": true
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 82,
+    "limitUpSuccessRate": 64,
+    "limitDownCount": 12
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 30,
+      "currentCount": 4,
+      "rate": 13
+    },
+    "promotion2To3": {
+      "previousCount": 4,
+      "currentCount": 0,
+      "rate": 0
+    },
+    "previousLadderPerformance": -0.46,
+    "previousLimitUpPerformance": 0.27,
+    "highestBoard": {
+      "stockName": "金健米业",
+      "boardCount": 4
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 4,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 4
+      },
+      {
+        "boardCount": 1,
+        "stockCount": 77
+      }
+    ],
+    "hotTheme": {
+      "name": "创新药",
+      "stockCount": 22
+    },
+    "poolFirstBoardCount": 77,
+    "poolContinuousBoardCount": 5,
+    "poolBrokenBoardCount": 46
+  },
+  "themes": [
+    {
+      "id": "886015.TI",
+      "name": "创新药",
+      "stockCount": 22,
+      "highestBoardCount": 2,
+      "limitUpCount": 22,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002412",
+              "name": "汉森制药",
+              "changePercent": 9.98,
+              "badge": "创新药+中药+中报预增",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 21,
+          "stocks": [
+            {
+              "id": "000931",
+              "name": "中关村",
+              "changePercent": 9.98,
+              "badge": "创新药+精麻镇痛+药品获批",
+              "sortOrder": 1
+            },
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 2
+            },
+            {
+              "id": "002399",
+              "name": "海普瑞",
+              "changePercent": 10.05,
+              "badge": "创新药+依诺肝素制剂+集采中标",
+              "sortOrder": 3
+            },
+            {
+              "id": "002437",
+              "name": "誉衡药业",
+              "changePercent": 10.0,
+              "badge": "创新药+神经退行性疾病+仿制药龙头",
+              "sortOrder": 4
+            },
+            {
+              "id": "002581",
+              "name": "*ST未名",
+              "changePercent": 10.0,
+              "badge": "创新药+神经生长因子+中药饮片",
+              "sortOrder": 5
+            },
+            {
+              "id": "002940",
+              "name": "昂利康",
+              "changePercent": 9.99,
+              "badge": "创新药+仿制药获批+定增过会",
+              "sortOrder": 6
+            },
+            {
+              "id": "300006",
+              "name": "莱美药业",
+              "changePercent": 20.0,
+              "badge": "抗肿瘤药物+创新药+广西国资",
+              "sortOrder": 7
+            },
+            {
+              "id": "300009",
+              "name": "安科生物",
+              "changePercent": 19.98,
+              "badge": "mRNA+创新药+辅助生殖+新药受理",
+              "sortOrder": 8
+            },
+            {
+              "id": "300109",
+              "name": "新开源",
+              "changePercent": 19.97,
+              "badge": "肿瘤疫苗+创新药+PVP龙头",
+              "sortOrder": 9
+            },
+            {
+              "id": "300122",
+              "name": "智飞生物",
+              "changePercent": 19.97,
+              "badge": "默沙东代理+mRNA疫苗+GLP-1",
+              "sortOrder": 10
+            },
+            {
+              "id": "300142",
+              "name": "沃森生物",
+              "changePercent": 20.0,
+              "badge": "mRNA疫苗+创新药+海外出口",
+              "sortOrder": 11
+            },
+            {
+              "id": "300363",
+              "name": "博腾股份",
+              "changePercent": 20.0,
+              "badge": "细胞与基因治疗+创新药CDMO+业绩扭亏",
+              "sortOrder": 12
+            },
+            {
+              "id": "300601",
+              "name": "康泰生物",
+              "changePercent": 19.98,
+              "badge": "mRNA疫苗+创新药+海外业务",
+              "sortOrder": 13
+            },
+            {
+              "id": "300765",
+              "name": "石药创新",
+              "changePercent": 20.0,
+              "badge": "创新药+半年报扭亏+阿斯利康合作",
+              "sortOrder": 14
+            },
+            {
+              "id": "600211",
+              "name": "西藏药业",
+              "changePercent": 10.01,
+              "badge": "创新药+基因编辑+半年报增长",
+              "sortOrder": 15
+            },
+            {
+              "id": "603392",
+              "name": "万泰生物",
+              "changePercent": 10.0,
+              "badge": "九价HPV疫苗+出海+创新药",
+              "sortOrder": 16
+            },
+            {
+              "id": "603590",
+              "name": "康辰药业",
+              "changePercent": 10.0,
+              "badge": "创新药+KAT6/7抑制剂+血凝酶龙头",
+              "sortOrder": 17
+            },
+            {
+              "id": "603716",
+              "name": "塞力医疗",
+              "changePercent": 9.98,
+              "badge": "创新药+高血压疫苗+脑机接口",
+              "sortOrder": 18
+            },
+            {
+              "id": "605116",
+              "name": "奥锐特",
+              "changePercent": 10.0,
+              "badge": "创新药+司美格鲁肽+集采拟中选",
+              "sortOrder": 19
+            },
+            {
+              "id": "688356",
+              "name": "键凯科技",
+              "changePercent": 20.0,
+              "badge": "mRNA癌症疫苗+创新药+聚乙二醇",
+              "sortOrder": 20
+            },
+            {
+              "id": "688658",
+              "name": "悦康药业",
+              "changePercent": 19.98,
+              "badge": "siRNA药物+创新药+FDA批准",
+              "sortOrder": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885845.TI",
+      "name": "生物疫苗",
+      "stockCount": 18,
+      "highestBoardCount": 1,
+      "limitUpCount": 18,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 18,
+          "stocks": [
+            {
+              "id": "000931",
+              "name": "中关村",
+              "changePercent": 9.98,
+              "badge": "创新药+精麻镇痛+药品获批",
+              "sortOrder": 1
+            },
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 2
+            },
+            {
+              "id": "002399",
+              "name": "海普瑞",
+              "changePercent": 10.05,
+              "badge": "创新药+依诺肝素制剂+集采中标",
+              "sortOrder": 3
+            },
+            {
+              "id": "002581",
+              "name": "*ST未名",
+              "changePercent": 10.0,
+              "badge": "创新药+神经生长因子+中药饮片",
+              "sortOrder": 4
+            },
+            {
+              "id": "300006",
+              "name": "莱美药业",
+              "changePercent": 20.0,
+              "badge": "抗肿瘤药物+创新药+广西国资",
+              "sortOrder": 5
+            },
+            {
+              "id": "300009",
+              "name": "安科生物",
+              "changePercent": 19.98,
+              "badge": "mRNA+创新药+辅助生殖+新药受理",
+              "sortOrder": 6
+            },
+            {
+              "id": "300109",
+              "name": "新开源",
+              "changePercent": 19.97,
+              "badge": "肿瘤疫苗+创新药+PVP龙头",
+              "sortOrder": 7
+            },
+            {
+              "id": "300122",
+              "name": "智飞生物",
+              "changePercent": 19.97,
+              "badge": "默沙东代理+mRNA疫苗+GLP-1",
+              "sortOrder": 8
+            },
+            {
+              "id": "300142",
+              "name": "沃森生物",
+              "changePercent": 20.0,
+              "badge": "mRNA疫苗+创新药+海外出口",
+              "sortOrder": 9
+            },
+            {
+              "id": "300601",
+              "name": "康泰生物",
+              "changePercent": 19.98,
+              "badge": "mRNA疫苗+创新药+海外业务",
+              "sortOrder": 10
+            },
+            {
+              "id": "300765",
+              "name": "石药创新",
+              "changePercent": 20.0,
+              "badge": "创新药+半年报扭亏+阿斯利康合作",
+              "sortOrder": 11
+            },
+            {
+              "id": "300841",
+              "name": "康华生物",
+              "changePercent": 20.0,
+              "badge": "mRNA疫苗+半年报增长+狂犬病疫苗",
+              "sortOrder": 12
+            },
+            {
+              "id": "600211",
+              "name": "西藏药业",
+              "changePercent": 10.01,
+              "badge": "创新药+基因编辑+半年报增长",
+              "sortOrder": 13
+            },
+            {
+              "id": "603392",
+              "name": "万泰生物",
+              "changePercent": 10.0,
+              "badge": "九价HPV疫苗+出海+创新药",
+              "sortOrder": 14
+            },
+            {
+              "id": "603716",
+              "name": "塞力医疗",
+              "changePercent": 9.98,
+              "badge": "创新药+高血压疫苗+脑机接口",
+              "sortOrder": 15
+            },
+            {
+              "id": "688185",
+              "name": "康希诺",
+              "changePercent": 20.0,
+              "badge": "mRNA技术+百白破疫苗+创新疫苗",
+              "sortOrder": 16
+            },
+            {
+              "id": "688276",
+              "name": "百克生物",
+              "changePercent": 20.01,
+              "badge": "mRNA疫苗+肿瘤疫苗+鼻喷流感疫苗",
+              "sortOrder": 17
+            },
+            {
+              "id": "688658",
+              "name": "悦康药业",
+              "changePercent": 19.98,
+              "badge": "siRNA药物+创新药+FDA批准",
+              "sortOrder": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885879.TI",
+      "name": "流感",
+      "stockCount": 15,
+      "highestBoardCount": 2,
+      "limitUpCount": 15,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002412",
+              "name": "汉森制药",
+              "changePercent": 9.98,
+              "badge": "创新药+中药+中报预增",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 14,
+          "stocks": [
+            {
+              "id": "000590",
+              "name": "古汉医药",
+              "changePercent": 9.99,
+              "badge": "中药+流感",
+              "sortOrder": 1
+            },
+            {
+              "id": "002030",
+              "name": "达安基因",
+              "changePercent": 9.94,
+              "badge": "广药入主+猴痘概念+分子诊断+广州国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 3
+            },
+            {
+              "id": "300009",
+              "name": "安科生物",
+              "changePercent": 19.98,
+              "badge": "mRNA+创新药+辅助生殖+新药受理",
+              "sortOrder": 4
+            },
+            {
+              "id": "300122",
+              "name": "智飞生物",
+              "changePercent": 19.97,
+              "badge": "默沙东代理+mRNA疫苗+GLP-1",
+              "sortOrder": 5
+            },
+            {
+              "id": "300142",
+              "name": "沃森生物",
+              "changePercent": 20.0,
+              "badge": "mRNA疫苗+创新药+海外出口",
+              "sortOrder": 6
+            },
+            {
+              "id": "300601",
+              "name": "康泰生物",
+              "changePercent": 19.98,
+              "badge": "mRNA疫苗+创新药+海外业务",
+              "sortOrder": 7
+            },
+            {
+              "id": "600613",
+              "name": "神奇制药",
+              "changePercent": 10.03,
+              "badge": "创新药+抗肿瘤+品牌OTC",
+              "sortOrder": 8
+            },
+            {
+              "id": "603392",
+              "name": "万泰生物",
+              "changePercent": 10.0,
+              "badge": "九价HPV疫苗+出海+创新药",
+              "sortOrder": 9
+            },
+            {
+              "id": "688105",
+              "name": "诺唯赞",
+              "changePercent": 19.98,
+              "badge": "医药研发试剂+AD检测+控股股东增持",
+              "sortOrder": 10
+            },
+            {
+              "id": "688137",
+              "name": "近岸蛋白",
+              "changePercent": 20.0,
+              "badge": "肿瘤疫苗+mRNA原料+重组蛋白+CRO",
+              "sortOrder": 11
+            },
+            {
+              "id": "688185",
+              "name": "康希诺",
+              "changePercent": 20.0,
+              "badge": "mRNA技术+百白破疫苗+创新疫苗",
+              "sortOrder": 12
+            },
+            {
+              "id": "688276",
+              "name": "百克生物",
+              "changePercent": 20.01,
+              "badge": "mRNA疫苗+肿瘤疫苗+鼻喷流感疫苗",
+              "sortOrder": 13
+            },
+            {
+              "id": "688426",
+              "name": "康为世纪",
+              "changePercent": 19.99,
+              "badge": "分子诊断+基因测序+肺炎支原体检测",
+              "sortOrder": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885539.TI",
+      "name": "医疗器械概念",
+      "stockCount": 14,
+      "highestBoardCount": 1,
+      "limitUpCount": 14,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 14,
+          "stocks": [
+            {
+              "id": "000710",
+              "name": "贝瑞基因",
+              "changePercent": 9.98,
+              "badge": "AI医疗+基因测序+医疗服务",
+              "sortOrder": 1
+            },
+            {
+              "id": "002030",
+              "name": "达安基因",
+              "changePercent": 9.94,
+              "badge": "广药入主+猴痘概念+分子诊断+广州国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.0,
+              "badge": "PCB+定增获批+算力+光模块",
+              "sortOrder": 3
+            },
+            {
+              "id": "300006",
+              "name": "莱美药业",
+              "changePercent": 20.0,
+              "badge": "抗肿瘤药物+创新药+广西国资",
+              "sortOrder": 4
+            },
+            {
+              "id": "300009",
+              "name": "安科生物",
+              "changePercent": 19.98,
+              "badge": "mRNA+创新药+辅助生殖+新药受理",
+              "sortOrder": 5
+            },
+            {
+              "id": "301166",
+              "name": "优宁维",
+              "changePercent": 20.01,
+              "badge": "创新药+抗体+细胞因子蛋白+股份回购",
+              "sortOrder": 6
+            },
+            {
+              "id": "600211",
+              "name": "西藏药业",
+              "changePercent": 10.01,
+              "badge": "创新药+基因编辑+半年报增长",
+              "sortOrder": 7
+            },
+            {
+              "id": "603666",
+              "name": "亿嘉和",
+              "changePercent": 10.0,
+              "badge": "人形机器人+具身智能+华为合作",
+              "sortOrder": 8
+            },
+            {
+              "id": "603716",
+              "name": "塞力医疗",
+              "changePercent": 9.98,
+              "badge": "创新药+高血压疫苗+脑机接口",
+              "sortOrder": 9
+            },
+            {
+              "id": "603882",
+              "name": "金域医学",
+              "changePercent": 10.01,
+              "badge": "AI医疗+数据要素+半年报扭亏+回购",
+              "sortOrder": 10
+            },
+            {
+              "id": "688105",
+              "name": "诺唯赞",
+              "changePercent": 19.98,
+              "badge": "医药研发试剂+AD检测+控股股东增持",
+              "sortOrder": 11
+            },
+            {
+              "id": "688114",
+              "name": "华大智造",
+              "changePercent": 20.0,
+              "badge": "基因测序+AI应用+回购",
+              "sortOrder": 12
+            },
+            {
+              "id": "688356",
+              "name": "键凯科技",
+              "changePercent": 20.0,
+              "badge": "mRNA癌症疫苗+创新药+聚乙二醇",
+              "sortOrder": 13
+            },
+            {
+              "id": "688426",
+              "name": "康为世纪",
+              "changePercent": 19.99,
+              "badge": "分子诊断+基因测序+肺炎支原体检测",
+              "sortOrder": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885989.TI",
+      "name": "肝炎概念",
+      "stockCount": 13,
+      "highestBoardCount": 2,
+      "limitUpCount": 13,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002412",
+              "name": "汉森制药",
+              "changePercent": 9.98,
+              "badge": "创新药+中药+中报预增",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 12,
+          "stocks": [
+            {
+              "id": "002030",
+              "name": "达安基因",
+              "changePercent": 9.94,
+              "badge": "广药入主+猴痘概念+分子诊断+广州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 2
+            },
+            {
+              "id": "002437",
+              "name": "誉衡药业",
+              "changePercent": 10.0,
+              "badge": "创新药+神经退行性疾病+仿制药龙头",
+              "sortOrder": 3
+            },
+            {
+              "id": "002581",
+              "name": "*ST未名",
+              "changePercent": 10.0,
+              "badge": "创新药+神经生长因子+中药饮片",
+              "sortOrder": 4
+            },
+            {
+              "id": "002880",
+              "name": "卫光生物",
+              "changePercent": 10.0,
+              "badge": "血液制品+采浆增长+定增扩产+深圳国资",
+              "sortOrder": 5
+            },
+            {
+              "id": "300006",
+              "name": "莱美药业",
+              "changePercent": 20.0,
+              "badge": "抗肿瘤药物+创新药+广西国资",
+              "sortOrder": 6
+            },
+            {
+              "id": "300009",
+              "name": "安科生物",
+              "changePercent": 19.98,
+              "badge": "mRNA+创新药+辅助生殖+新药受理",
+              "sortOrder": 7
+            },
+            {
+              "id": "300122",
+              "name": "智飞生物",
+              "changePercent": 19.97,
+              "badge": "默沙东代理+mRNA疫苗+GLP-1",
+              "sortOrder": 8
+            },
+            {
+              "id": "300601",
+              "name": "康泰生物",
+              "changePercent": 19.98,
+              "badge": "mRNA疫苗+创新药+海外业务",
+              "sortOrder": 9
+            },
+            {
+              "id": "603392",
+              "name": "万泰生物",
+              "changePercent": 10.0,
+              "badge": "九价HPV疫苗+出海+创新药",
+              "sortOrder": 10
+            },
+            {
+              "id": "603882",
+              "name": "金域医学",
+              "changePercent": 10.01,
+              "badge": "AI医疗+数据要素+半年报扭亏+回购",
+              "sortOrder": 11
+            },
+            {
+              "id": "605116",
+              "name": "奥锐特",
+              "changePercent": 10.0,
+              "badge": "创新药+司美格鲁肽+集采拟中选",
+              "sortOrder": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885578.TI",
+      "name": "基因测序",
+      "stockCount": 12,
+      "highestBoardCount": 1,
+      "limitUpCount": 12,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 12,
+          "stocks": [
+            {
+              "id": "000710",
+              "name": "贝瑞基因",
+              "changePercent": 9.98,
+              "badge": "AI医疗+基因测序+医疗服务",
+              "sortOrder": 1
+            },
+            {
+              "id": "002030",
+              "name": "达安基因",
+              "changePercent": 9.94,
+              "badge": "广药入主+猴痘概念+分子诊断+广州国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 3
+            },
+            {
+              "id": "002437",
+              "name": "誉衡药业",
+              "changePercent": 10.0,
+              "badge": "创新药+神经退行性疾病+仿制药龙头",
+              "sortOrder": 4
+            },
+            {
+              "id": "300009",
+              "name": "安科生物",
+              "changePercent": 19.98,
+              "badge": "mRNA+创新药+辅助生殖+新药受理",
+              "sortOrder": 5
+            },
+            {
+              "id": "300109",
+              "name": "新开源",
+              "changePercent": 19.97,
+              "badge": "肿瘤疫苗+创新药+PVP龙头",
+              "sortOrder": 6
+            },
+            {
+              "id": "301166",
+              "name": "优宁维",
+              "changePercent": 20.01,
+              "badge": "创新药+抗体+细胞因子蛋白+股份回购",
+              "sortOrder": 7
+            },
+            {
+              "id": "600211",
+              "name": "西藏药业",
+              "changePercent": 10.01,
+              "badge": "创新药+基因编辑+半年报增长",
+              "sortOrder": 8
+            },
+            {
+              "id": "603882",
+              "name": "金域医学",
+              "changePercent": 10.01,
+              "badge": "AI医疗+数据要素+半年报扭亏+回购",
+              "sortOrder": 9
+            },
+            {
+              "id": "688105",
+              "name": "诺唯赞",
+              "changePercent": 19.98,
+              "badge": "医药研发试剂+AD检测+控股股东增持",
+              "sortOrder": 10
+            },
+            {
+              "id": "688114",
+              "name": "华大智造",
+              "changePercent": 20.0,
+              "badge": "基因测序+AI应用+回购",
+              "sortOrder": 11
+            },
+            {
+              "id": "688426",
+              "name": "康为世纪",
+              "changePercent": 19.99,
+              "badge": "分子诊断+基因测序+肺炎支原体检测",
+              "sortOrder": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886077.TI",
+      "name": "合成生物",
+      "stockCount": 12,
+      "highestBoardCount": 1,
+      "limitUpCount": 12,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 12,
+          "stocks": [
+            {
+              "id": "002880",
+              "name": "卫光生物",
+              "changePercent": 10.0,
+              "badge": "血液制品+采浆增长+定增扩产+深圳国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002940",
+              "name": "昂利康",
+              "changePercent": 9.99,
+              "badge": "创新药+仿制药获批+定增过会",
+              "sortOrder": 2
+            },
+            {
+              "id": "300122",
+              "name": "智飞生物",
+              "changePercent": 19.97,
+              "badge": "默沙东代理+mRNA疫苗+GLP-1",
+              "sortOrder": 3
+            },
+            {
+              "id": "300142",
+              "name": "沃森生物",
+              "changePercent": 20.0,
+              "badge": "mRNA疫苗+创新药+海外出口",
+              "sortOrder": 4
+            },
+            {
+              "id": "300601",
+              "name": "康泰生物",
+              "changePercent": 19.98,
+              "badge": "mRNA疫苗+创新药+海外业务",
+              "sortOrder": 5
+            },
+            {
+              "id": "300841",
+              "name": "康华生物",
+              "changePercent": 20.0,
+              "badge": "mRNA疫苗+半年报增长+狂犬病疫苗",
+              "sortOrder": 6
+            },
+            {
+              "id": "301166",
+              "name": "优宁维",
+              "changePercent": 20.01,
+              "badge": "创新药+抗体+细胞因子蛋白+股份回购",
+              "sortOrder": 7
+            },
+            {
+              "id": "605116",
+              "name": "奥锐特",
+              "changePercent": 10.0,
+              "badge": "创新药+司美格鲁肽+集采拟中选",
+              "sortOrder": 8
+            },
+            {
+              "id": "688105",
+              "name": "诺唯赞",
+              "changePercent": 19.98,
+              "badge": "医药研发试剂+AD检测+控股股东增持",
+              "sortOrder": 9
+            },
+            {
+              "id": "688114",
+              "name": "华大智造",
+              "changePercent": 20.0,
+              "badge": "基因测序+AI应用+回购",
+              "sortOrder": 10
+            },
+            {
+              "id": "688137",
+              "name": "近岸蛋白",
+              "changePercent": 20.0,
+              "badge": "肿瘤疫苗+mRNA原料+重组蛋白+CRO",
+              "sortOrder": 11
+            },
+            {
+              "id": "688185",
+              "name": "康希诺",
+              "changePercent": 20.0,
+              "badge": "mRNA技术+百白破疫苗+创新疫苗",
+              "sortOrder": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885769.TI",
+      "name": "细胞免疫治疗",
+      "stockCount": 11,
+      "highestBoardCount": 1,
+      "limitUpCount": 11,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 11,
+          "stocks": [
+            {
+              "id": "002880",
+              "name": "卫光生物",
+              "changePercent": 10.0,
+              "badge": "血液制品+采浆增长+定增扩产+深圳国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "300006",
+              "name": "莱美药业",
+              "changePercent": 20.0,
+              "badge": "抗肿瘤药物+创新药+广西国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "300009",
+              "name": "安科生物",
+              "changePercent": 19.98,
+              "badge": "mRNA+创新药+辅助生殖+新药受理",
+              "sortOrder": 3
+            },
+            {
+              "id": "300109",
+              "name": "新开源",
+              "changePercent": 19.97,
+              "badge": "肿瘤疫苗+创新药+PVP龙头",
+              "sortOrder": 4
+            },
+            {
+              "id": "300122",
+              "name": "智飞生物",
+              "changePercent": 19.97,
+              "badge": "默沙东代理+mRNA疫苗+GLP-1",
+              "sortOrder": 5
+            },
+            {
+              "id": "300363",
+              "name": "博腾股份",
+              "changePercent": 20.0,
+              "badge": "细胞与基因治疗+创新药CDMO+业绩扭亏",
+              "sortOrder": 6
+            },
+            {
+              "id": "301166",
+              "name": "优宁维",
+              "changePercent": 20.01,
+              "badge": "创新药+抗体+细胞因子蛋白+股份回购",
+              "sortOrder": 7
+            },
+            {
+              "id": "603716",
+              "name": "塞力医疗",
+              "changePercent": 9.98,
+              "badge": "创新药+高血压疫苗+脑机接口",
+              "sortOrder": 8
+            },
+            {
+              "id": "603882",
+              "name": "金域医学",
+              "changePercent": 10.01,
+              "badge": "AI医疗+数据要素+半年报扭亏+回购",
+              "sortOrder": 9
+            },
+            {
+              "id": "688137",
+              "name": "近岸蛋白",
+              "changePercent": 20.0,
+              "badge": "肿瘤疫苗+mRNA原料+重组蛋白+CRO",
+              "sortOrder": 10
+            },
+            {
+              "id": "688658",
+              "name": "悦康药业",
+              "changePercent": 19.98,
+              "badge": "siRNA药物+创新药+FDA批准",
+              "sortOrder": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 10,
+      "highestBoardCount": 1,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 10,
+          "stocks": [
+            {
+              "id": "000523",
+              "name": "红棉股份",
+              "changePercent": 9.97,
+              "badge": "代糖+饮料+半年报预增+广州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "000931",
+              "name": "中关村",
+              "changePercent": 9.98,
+              "badge": "创新药+精麻镇痛+药品获批",
+              "sortOrder": 2
+            },
+            {
+              "id": "002030",
+              "name": "达安基因",
+              "changePercent": 9.94,
+              "badge": "广药入主+猴痘概念+分子诊断+广州国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 4
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.0,
+              "badge": "PCB+定增获批+算力+光模块",
+              "sortOrder": 5
+            },
+            {
+              "id": "300122",
+              "name": "智飞生物",
+              "changePercent": 19.97,
+              "badge": "默沙东代理+mRNA疫苗+GLP-1",
+              "sortOrder": 6
+            },
+            {
+              "id": "300710",
+              "name": "万隆光电",
+              "changePercent": 20.01,
+              "badge": "光纤概念+拟收购中控信息+广电网络设备",
+              "sortOrder": 7
+            },
+            {
+              "id": "600683",
+              "name": "京投发展",
+              "changePercent": 10.02,
+              "badge": "资产重组+拟购光电子资产+TOD轨道物业+北京国资",
+              "sortOrder": 8
+            },
+            {
+              "id": "603519",
+              "name": "立霸股份",
+              "changePercent": 9.98,
+              "badge": "半年报增长+股权转让+第三代半导体+家电复合材料",
+              "sortOrder": 9
+            },
+            {
+              "id": "603590",
+              "name": "康辰药业",
+              "changePercent": 10.0,
+              "badge": "创新药+KAT6/7抑制剂+血凝酶龙头",
+              "sortOrder": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885402.TI",
+      "name": "智能医疗",
+      "stockCount": 10,
+      "highestBoardCount": 1,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 10,
+          "stocks": [
+            {
+              "id": "000590",
+              "name": "古汉医药",
+              "changePercent": 9.99,
+              "badge": "中药+流感",
+              "sortOrder": 1
+            },
+            {
+              "id": "000710",
+              "name": "贝瑞基因",
+              "changePercent": 9.98,
+              "badge": "AI医疗+基因测序+医疗服务",
+              "sortOrder": 2
+            },
+            {
+              "id": "002030",
+              "name": "达安基因",
+              "changePercent": 9.94,
+              "badge": "广药入主+猴痘概念+分子诊断+广州国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "300009",
+              "name": "安科生物",
+              "changePercent": 19.98,
+              "badge": "mRNA+创新药+辅助生殖+新药受理",
+              "sortOrder": 4
+            },
+            {
+              "id": "300109",
+              "name": "新开源",
+              "changePercent": 19.97,
+              "badge": "肿瘤疫苗+创新药+PVP龙头",
+              "sortOrder": 5
+            },
+            {
+              "id": "603392",
+              "name": "万泰生物",
+              "changePercent": 10.0,
+              "badge": "九价HPV疫苗+出海+创新药",
+              "sortOrder": 6
+            },
+            {
+              "id": "603716",
+              "name": "塞力医疗",
+              "changePercent": 9.98,
+              "badge": "创新药+高血压疫苗+脑机接口",
+              "sortOrder": 7
+            },
+            {
+              "id": "603882",
+              "name": "金域医学",
+              "changePercent": 10.01,
+              "badge": "AI医疗+数据要素+半年报扭亏+回购",
+              "sortOrder": 8
+            },
+            {
+              "id": "688114",
+              "name": "华大智造",
+              "changePercent": 20.0,
+              "badge": "基因测序+AI应用+回购",
+              "sortOrder": 9
+            },
+            {
+              "id": "688658",
+              "name": "悦康药业",
+              "changePercent": 19.98,
+              "badge": "siRNA药物+创新药+FDA批准",
+              "sortOrder": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885994.TI",
+      "name": "猴痘概念",
+      "stockCount": 10,
+      "highestBoardCount": 1,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 10,
+          "stocks": [
+            {
+              "id": "002030",
+              "name": "达安基因",
+              "changePercent": 9.94,
+              "badge": "广药入主+猴痘概念+分子诊断+广州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 2
+            },
+            {
+              "id": "300122",
+              "name": "智飞生物",
+              "changePercent": 19.97,
+              "badge": "默沙东代理+mRNA疫苗+GLP-1",
+              "sortOrder": 3
+            },
+            {
+              "id": "300765",
+              "name": "石药创新",
+              "changePercent": 20.0,
+              "badge": "创新药+半年报扭亏+阿斯利康合作",
+              "sortOrder": 4
+            },
+            {
+              "id": "301166",
+              "name": "优宁维",
+              "changePercent": 20.01,
+              "badge": "创新药+抗体+细胞因子蛋白+股份回购",
+              "sortOrder": 5
+            },
+            {
+              "id": "603392",
+              "name": "万泰生物",
+              "changePercent": 10.0,
+              "badge": "九价HPV疫苗+出海+创新药",
+              "sortOrder": 6
+            },
+            {
+              "id": "603590",
+              "name": "康辰药业",
+              "changePercent": 10.0,
+              "badge": "创新药+KAT6/7抑制剂+血凝酶龙头",
+              "sortOrder": 7
+            },
+            {
+              "id": "688105",
+              "name": "诺唯赞",
+              "changePercent": 19.98,
+              "badge": "医药研发试剂+AD检测+控股股东增持",
+              "sortOrder": 8
+            },
+            {
+              "id": "688185",
+              "name": "康希诺",
+              "changePercent": 20.0,
+              "badge": "mRNA技术+百白破疫苗+创新疫苗",
+              "sortOrder": 9
+            },
+            {
+              "id": "688426",
+              "name": "康为世纪",
+              "changePercent": 19.99,
+              "badge": "分子诊断+基因测序+肺炎支原体检测",
+              "sortOrder": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885661.TI",
+      "name": "医药电商",
+      "stockCount": 9,
+      "highestBoardCount": 2,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002412",
+              "name": "汉森制药",
+              "changePercent": 9.98,
+              "badge": "创新药+中药+中报预增",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 1
+            },
+            {
+              "id": "002365",
+              "name": "永安药业",
+              "changePercent": 9.98,
+              "badge": "牛磺酸+创新药+中报预增",
+              "sortOrder": 2
+            },
+            {
+              "id": "002437",
+              "name": "誉衡药业",
+              "changePercent": 10.0,
+              "badge": "创新药+神经退行性疾病+仿制药龙头",
+              "sortOrder": 3
+            },
+            {
+              "id": "300006",
+              "name": "莱美药业",
+              "changePercent": 20.0,
+              "badge": "抗肿瘤药物+创新药+广西国资",
+              "sortOrder": 4
+            },
+            {
+              "id": "301166",
+              "name": "优宁维",
+              "changePercent": 20.01,
+              "badge": "创新药+抗体+细胞因子蛋白+股份回购",
+              "sortOrder": 5
+            },
+            {
+              "id": "600613",
+              "name": "神奇制药",
+              "changePercent": 10.03,
+              "badge": "创新药+抗肿瘤+品牌OTC",
+              "sortOrder": 6
+            },
+            {
+              "id": "605116",
+              "name": "奥锐特",
+              "changePercent": 10.0,
+              "badge": "创新药+司美格鲁肽+集采拟中选",
+              "sortOrder": 7
+            },
+            {
+              "id": "688658",
+              "name": "悦康药业",
+              "changePercent": 19.98,
+              "badge": "siRNA药物+创新药+FDA批准",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885856.TI",
+      "name": "仿制药一致性评价",
+      "stockCount": 9,
+      "highestBoardCount": 2,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002412",
+              "name": "汉森制药",
+              "changePercent": 9.98,
+              "badge": "创新药+中药+中报预增",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "000931",
+              "name": "中关村",
+              "changePercent": 9.98,
+              "badge": "创新药+精麻镇痛+药品获批",
+              "sortOrder": 1
+            },
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 2
+            },
+            {
+              "id": "002437",
+              "name": "誉衡药业",
+              "changePercent": 10.0,
+              "badge": "创新药+神经退行性疾病+仿制药龙头",
+              "sortOrder": 3
+            },
+            {
+              "id": "002940",
+              "name": "昂利康",
+              "changePercent": 9.99,
+              "badge": "创新药+仿制药获批+定增过会",
+              "sortOrder": 4
+            },
+            {
+              "id": "300006",
+              "name": "莱美药业",
+              "changePercent": 20.0,
+              "badge": "抗肿瘤药物+创新药+广西国资",
+              "sortOrder": 5
+            },
+            {
+              "id": "300009",
+              "name": "安科生物",
+              "changePercent": 19.98,
+              "badge": "mRNA+创新药+辅助生殖+新药受理",
+              "sortOrder": 6
+            },
+            {
+              "id": "605116",
+              "name": "奥锐特",
+              "changePercent": 10.0,
+              "badge": "创新药+司美格鲁肽+集采拟中选",
+              "sortOrder": 7
+            },
+            {
+              "id": "688658",
+              "name": "悦康药业",
+              "changePercent": 19.98,
+              "badge": "siRNA药物+创新药+FDA批准",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885952.TI",
+      "name": "幽门螺杆菌概念",
+      "stockCount": 9,
+      "highestBoardCount": 2,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002412",
+              "name": "汉森制药",
+              "changePercent": 9.98,
+              "badge": "创新药+中药+中报预增",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "002030",
+              "name": "达安基因",
+              "changePercent": 9.94,
+              "badge": "广药入主+猴痘概念+分子诊断+广州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002038",
+              "name": "双鹭药业",
+              "changePercent": 10.09,
+              "badge": "mRNA平台+GLP-1+创新药+国企改革",
+              "sortOrder": 2
+            },
+            {
+              "id": "002940",
+              "name": "昂利康",
+              "changePercent": 9.99,
+              "badge": "创新药+仿制药获批+定增过会",
+              "sortOrder": 3
+            },
+            {
+              "id": "300006",
+              "name": "莱美药业",
+              "changePercent": 20.0,
+              "badge": "抗肿瘤药物+创新药+广西国资",
+              "sortOrder": 4
+            },
+            {
+              "id": "603392",
+              "name": "万泰生物",
+              "changePercent": 10.0,
+              "badge": "九价HPV疫苗+出海+创新药",
+              "sortOrder": 5
+            },
+            {
+              "id": "603882",
+              "name": "金域医学",
+              "changePercent": 10.01,
+              "badge": "AI医疗+数据要素+半年报扭亏+回购",
+              "sortOrder": 6
+            },
+            {
+              "id": "688426",
+              "name": "康为世纪",
+              "changePercent": 19.99,
+              "badge": "分子诊断+基因测序+肺炎支原体检测",
+              "sortOrder": 7
+            },
+            {
+              "id": "688658",
+              "name": "悦康药业",
+              "changePercent": 19.98,
+              "badge": "siRNA药物+创新药+FDA批准",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885921.TI",
+      "name": "储能",
+      "stockCount": 8,
+      "highestBoardCount": 2,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002667",
+              "name": "*ST威领",
+              "changePercent": 10.02,
+              "badge": "要约收购+钨锡铅锌矿+碳酸锂",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "001210",
+              "name": "金房能源",
+              "changePercent": 10.02,
+              "badge": "磁悬浮热泵+新能源供热+数据中心供冷+综合能源",
+              "sortOrder": 1
+            },
+            {
+              "id": "002313",
+              "name": "日海智能",
+              "changePercent": 10.03,
+              "badge": "端侧AI智能模组+机器人+半年报扭亏+珠海国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002491",
+              "name": "通鼎互联",
+              "changePercent": 9.99,
+              "badge": "中报扭亏+光纤光缆+光棒扩产",
+              "sortOrder": 3
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.0,
+              "badge": "PCB+定增获批+算力+光模块",
+              "sortOrder": 4
+            },
+            {
+              "id": "601877",
+              "name": "正泰电器",
+              "changePercent": 10.0,
+              "badge": "半年报增长+低压电器+光伏+储能",
+              "sortOrder": 5
+            },
+            {
+              "id": "603626",
+              "name": "科森科技",
+              "changePercent": 9.99,
+              "badge": "机器人+消费电子+AI散热+中报扭亏",
+              "sortOrder": 6
+            },
+            {
+              "id": "603988",
+              "name": "中电电机",
+              "changePercent": 10.02,
+              "badge": "实控人涉及黄金开采+电机+风电+储能",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

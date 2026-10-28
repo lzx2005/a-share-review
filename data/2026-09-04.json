@@ -1,0 +1,862 @@
+{
+  "tradeDate": "2026-09-04",
+  "weekday": "周五",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": true
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 40,
+    "limitUpSuccessRate": 45,
+    "limitDownCount": 9
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 37,
+      "currentCount": 6,
+      "rate": 16
+    },
+    "promotion2To3": {
+      "previousCount": 6,
+      "currentCount": 0,
+      "rate": 0
+    },
+    "previousLadderPerformance": 1.24,
+    "previousLimitUpPerformance": 1.15,
+    "highestBoard": {
+      "stockName": "龙版传媒",
+      "boardCount": 5
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 5,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 6
+      },
+      {
+        "boardCount": 1,
+        "stockCount": 33
+      }
+    ],
+    "hotTheme": {
+      "name": "乡村振兴",
+      "stockCount": 10
+    },
+    "poolFirstBoardCount": 33,
+    "poolContinuousBoardCount": 7,
+    "poolBrokenBoardCount": 48
+  },
+  "themes": [
+    {
+      "id": "885705.TI",
+      "name": "乡村振兴",
+      "stockCount": 10,
+      "highestBoardCount": 2,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600108",
+              "name": "亚盛集团",
+              "changePercent": 10.1,
+              "badge": "玉米制种+现代农业+甘肃国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 9,
+          "stocks": [
+            {
+              "id": "000592",
+              "name": "平潭发展",
+              "changePercent": 9.99,
+              "badge": "林业+林板一体化+海峡两岸",
+              "sortOrder": 1
+            },
+            {
+              "id": "000735",
+              "name": "罗牛山",
+              "changePercent": 10.05,
+              "badge": "生猪养殖+黑猪育种+全产业链",
+              "sortOrder": 2
+            },
+            {
+              "id": "000876",
+              "name": "新希望",
+              "changePercent": 10.0,
+              "badge": "猪价回暖+饲料增长+养殖降本",
+              "sortOrder": 3
+            },
+            {
+              "id": "001366",
+              "name": "播恩集团",
+              "changePercent": 10.04,
+              "badge": "饲料主业+业绩扭亏+并购布局",
+              "sortOrder": 4
+            },
+            {
+              "id": "600059",
+              "name": "古越龙山",
+              "changePercent": 10.06,
+              "badge": "高端黄酒+年轻化产品+全国化布局",
+              "sortOrder": 5
+            },
+            {
+              "id": "600354",
+              "name": "敦煌种业",
+              "changePercent": 10.04,
+              "badge": "种业+育种研发+中报增长",
+              "sortOrder": 6
+            },
+            {
+              "id": "600506",
+              "name": "统一股份",
+              "changePercent": 10.01,
+              "badge": "液冷+业绩增长+润滑油",
+              "sortOrder": 7
+            },
+            {
+              "id": "600975",
+              "name": "新五丰",
+              "changePercent": 10.04,
+              "badge": "生猪养殖+产能去化+国企改革",
+              "sortOrder": 8
+            },
+            {
+              "id": "603151",
+              "name": "邦基科技",
+              "changePercent": 10.01,
+              "badge": "猪饲料+生猪养殖+产业链一体化",
+              "sortOrder": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885939.TI",
+      "name": "海峡两岸",
+      "stockCount": 8,
+      "highestBoardCount": 2,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603162",
+              "name": "海通发展",
+              "changePercent": 9.99,
+              "badge": "干散货航运+定增募资+船舶购置+海峡两岸",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "000592",
+              "name": "平潭发展",
+              "changePercent": 9.99,
+              "badge": "林业+林板一体化+海峡两岸",
+              "sortOrder": 1
+            },
+            {
+              "id": "001316",
+              "name": "润贝航科",
+              "changePercent": 9.99,
+              "badge": "航材分销+航材国产化+AI航检眼镜+中报增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "002702",
+              "name": "海欣食品",
+              "changePercent": 10.0,
+              "badge": "速冻食品+山姆渠道+营收增长+海峡两岸",
+              "sortOrder": 3
+            },
+            {
+              "id": "002868",
+              "name": "绿康生化",
+              "changePercent": 10.01,
+              "badge": "动物保健+宠物经济+资产剥离",
+              "sortOrder": 4
+            },
+            {
+              "id": "600802",
+              "name": "福建水泥",
+              "changePercent": 9.92,
+              "badge": "水泥熟料+重点项目+福建国资",
+              "sortOrder": 5
+            },
+            {
+              "id": "603122",
+              "name": "合富中国",
+              "changePercent": 9.98,
+              "badge": "AI医疗+医疗数智化+体外诊断+海峡两岸",
+              "sortOrder": 6
+            },
+            {
+              "id": "603696",
+              "name": "安记食品",
+              "changePercent": 10.04,
+              "badge": "调味品+海峡两岸+智能制造",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885951.TI",
+      "name": "预制菜",
+      "stockCount": 6,
+      "highestBoardCount": 1,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "000428",
+              "name": "华天酒店",
+              "changePercent": 10.09,
+              "badge": "旅游酒店+文体旅融合+生活服务",
+              "sortOrder": 1
+            },
+            {
+              "id": "000702",
+              "name": "正虹科技",
+              "changePercent": 10.02,
+              "badge": "生猪养殖+饲料主业+反刍料+降本增效",
+              "sortOrder": 2
+            },
+            {
+              "id": "000798",
+              "name": "中水渔业",
+              "changePercent": 9.98,
+              "badge": "远洋渔业+AI渔业+半年报增长+央企平台",
+              "sortOrder": 3
+            },
+            {
+              "id": "000876",
+              "name": "新希望",
+              "changePercent": 10.0,
+              "badge": "猪价回暖+饲料增长+养殖降本",
+              "sortOrder": 4
+            },
+            {
+              "id": "002124",
+              "name": "天邦食品",
+              "changePercent": 10.0,
+              "badge": "生猪养殖+机器人概念+食品加工+预重整",
+              "sortOrder": 5
+            },
+            {
+              "id": "002702",
+              "name": "海欣食品",
+              "changePercent": 10.0,
+              "badge": "速冻食品+山姆渠道+营收增长+海峡两岸",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885976.TI",
+      "name": "数字经济",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 9.98,
+              "badge": "AI智能运维+国产数据库+数据中心运维",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002949",
+              "name": "华阳国际",
+              "changePercent": 10.01,
+              "badge": "AI设计+城市更新+建筑设计",
+              "sortOrder": 1
+            },
+            {
+              "id": "003040",
+              "name": "楚天龙",
+              "changePercent": 10.0,
+              "badge": "数字人民币+AI政务+数字安全",
+              "sortOrder": 2
+            },
+            {
+              "id": "601949",
+              "name": "中国出版",
+              "changePercent": 10.0,
+              "badge": "数智化出版+图书出版+央企背景",
+              "sortOrder": 3
+            },
+            {
+              "id": "603123",
+              "name": "翠微股份",
+              "changePercent": 10.04,
+              "badge": "数字人民币+跨境支付+AI应用+北京国资",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885573.TI",
+      "name": "猪肉",
+      "stockCount": 5,
+      "highestBoardCount": 1,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000702",
+              "name": "正虹科技",
+              "changePercent": 10.02,
+              "badge": "生猪养殖+饲料主业+反刍料+降本增效",
+              "sortOrder": 1
+            },
+            {
+              "id": "000735",
+              "name": "罗牛山",
+              "changePercent": 10.05,
+              "badge": "生猪养殖+黑猪育种+全产业链",
+              "sortOrder": 2
+            },
+            {
+              "id": "000876",
+              "name": "新希望",
+              "changePercent": 10.0,
+              "badge": "猪价回暖+饲料增长+养殖降本",
+              "sortOrder": 3
+            },
+            {
+              "id": "002124",
+              "name": "天邦食品",
+              "changePercent": 10.0,
+              "badge": "生猪养殖+机器人概念+食品加工+预重整",
+              "sortOrder": 4
+            },
+            {
+              "id": "600975",
+              "name": "新五丰",
+              "changePercent": 10.04,
+              "badge": "生猪养殖+产能去化+国企改革",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885418.TI",
+      "name": "文化传媒概念",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605577",
+              "name": "龙版传媒",
+              "changePercent": 9.97,
+              "badge": "AI漫剧+出版发行+黑龙江国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000892",
+              "name": "欢瑞世纪",
+              "changePercent": 10.04,
+              "badge": "AIGC影视+互动影游+影视制作",
+              "sortOrder": 1
+            },
+            {
+              "id": "002949",
+              "name": "华阳国际",
+              "changePercent": 10.01,
+              "badge": "AI设计+城市更新+建筑设计",
+              "sortOrder": 2
+            },
+            {
+              "id": "601949",
+              "name": "中国出版",
+              "changePercent": 10.0,
+              "badge": "数智化出版+图书出版+央企背景",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886095.TI",
+      "name": "IP经济(谷子经济)",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605577",
+              "name": "龙版传媒",
+              "changePercent": 9.97,
+              "badge": "AI漫剧+出版发行+黑龙江国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000892",
+              "name": "欢瑞世纪",
+              "changePercent": 10.04,
+              "badge": "AIGC影视+互动影游+影视制作",
+              "sortOrder": 1
+            },
+            {
+              "id": "001222",
+              "name": "源飞宠物",
+              "changePercent": 9.97,
+              "badge": "宠物食品+海外产能+自有品牌",
+              "sortOrder": 2
+            },
+            {
+              "id": "002862",
+              "name": "实丰文化",
+              "changePercent": 10.01,
+              "badge": "AI玩具+IP潮玩+玩具制造",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885505.TI",
+      "name": "生态农业",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600108",
+              "name": "亚盛集团",
+              "changePercent": 10.1,
+              "badge": "玉米制种+现代农业+甘肃国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000735",
+              "name": "罗牛山",
+              "changePercent": 10.05,
+              "badge": "生猪养殖+黑猪育种+全产业链",
+              "sortOrder": 1
+            },
+            {
+              "id": "000876",
+              "name": "新希望",
+              "changePercent": 10.0,
+              "badge": "猪价回暖+饲料增长+养殖降本",
+              "sortOrder": 2
+            },
+            {
+              "id": "600354",
+              "name": "敦煌种业",
+              "changePercent": 10.04,
+              "badge": "种业+育种研发+中报增长",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885617.TI",
+      "name": "福建自贸区",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603162",
+              "name": "海通发展",
+              "changePercent": 9.99,
+              "badge": "干散货航运+定增募资+船舶购置+海峡两岸",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000592",
+              "name": "平潭发展",
+              "changePercent": 9.99,
+              "badge": "林业+林板一体化+海峡两岸",
+              "sortOrder": 1
+            },
+            {
+              "id": "002702",
+              "name": "海欣食品",
+              "changePercent": 10.0,
+              "badge": "速冻食品+山姆渠道+营收增长+海峡两岸",
+              "sortOrder": 2
+            },
+            {
+              "id": "600802",
+              "name": "福建水泥",
+              "changePercent": 9.92,
+              "badge": "水泥熟料+重点项目+福建国资",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886110.TI",
+      "name": "2026中报预增",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603162",
+              "name": "海通发展",
+              "changePercent": 9.99,
+              "badge": "干散货航运+定增募资+船舶购置+海峡两岸",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "600354",
+              "name": "敦煌种业",
+              "changePercent": 10.04,
+              "badge": "种业+育种研发+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "600506",
+              "name": "统一股份",
+              "changePercent": 10.01,
+              "badge": "液冷+业绩增长+润滑油",
+              "sortOrder": 2
+            },
+            {
+              "id": "603390",
+              "name": "通达电气",
+              "changePercent": 10.0,
+              "badge": "智慧交通+智能网联+中报净利增长",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885756.TI",
+      "name": "芯片概念",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605580",
+              "name": "恒盛能源",
+              "changePercent": 9.99,
+              "badge": "培育钻石+金刚石散热+热电联产",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002827",
+              "name": "高争民爆",
+              "changePercent": 9.99,
+              "badge": "控股股东拟变更+矿山投资开发+民爆+西藏国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "600506",
+              "name": "统一股份",
+              "changePercent": 10.01,
+              "badge": "液冷+业绩增长+润滑油",
+              "sortOrder": 2
+            },
+            {
+              "id": "603123",
+              "name": "翠微股份",
+              "changePercent": 10.04,
+              "badge": "数字人民币+跨境支付+AI应用+北京国资",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885936.TI",
+      "name": "绿色电力",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605580",
+              "name": "恒盛能源",
+              "changePercent": 9.99,
+              "badge": "培育钻石+金刚石散热+热电联产",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002124",
+              "name": "天邦食品",
+              "changePercent": 10.0,
+              "badge": "生猪养殖+机器人概念+食品加工+预重整",
+              "sortOrder": 1
+            },
+            {
+              "id": "002862",
+              "name": "实丰文化",
+              "changePercent": 10.01,
+              "badge": "AI玩具+IP潮玩+玩具制造",
+              "sortOrder": 2
+            },
+            {
+              "id": "600506",
+              "name": "统一股份",
+              "changePercent": 10.01,
+              "badge": "液冷+业绩增长+润滑油",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886012.TI",
+      "name": "宠物经济",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000735",
+              "name": "罗牛山",
+              "changePercent": 10.05,
+              "badge": "生猪养殖+黑猪育种+全产业链",
+              "sortOrder": 1
+            },
+            {
+              "id": "001222",
+              "name": "源飞宠物",
+              "changePercent": 9.97,
+              "badge": "宠物食品+海外产能+自有品牌",
+              "sortOrder": 2
+            },
+            {
+              "id": "002862",
+              "name": "实丰文化",
+              "changePercent": 10.01,
+              "badge": "AI玩具+IP潮玩+玩具制造",
+              "sortOrder": 3
+            },
+            {
+              "id": "002868",
+              "name": "绿康生化",
+              "changePercent": 10.01,
+              "badge": "动物保健+宠物经济+资产剥离",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886068.TI",
+      "name": "AI视频",
+      "stockCount": 3,
+      "highestBoardCount": 5,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605577",
+              "name": "龙版传媒",
+              "changePercent": 9.97,
+              "badge": "AI漫剧+出版发行+黑龙江国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 9.98,
+              "badge": "AI智能运维+国产数据库+数据中心运维",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000892",
+              "name": "欢瑞世纪",
+              "changePercent": 10.04,
+              "badge": "AIGC影视+互动影游+影视制作",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885924.TI",
+      "name": "共同富裕示范区",
+      "stockCount": 3,
+      "highestBoardCount": 2,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002403",
+              "name": "爱仕达",
+              "changePercent": 10.05,
+              "badge": "人形机器人+工业机器人+炊具小家电",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "001222",
+              "name": "源飞宠物",
+              "changePercent": 9.97,
+              "badge": "宠物食品+海外产能+自有品牌",
+              "sortOrder": 1
+            },
+            {
+              "id": "601579",
+              "name": "会稽山",
+              "changePercent": 10.01,
+              "badge": "高端黄酒+云集系列+爽酒",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

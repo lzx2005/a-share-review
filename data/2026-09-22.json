@@ -1,0 +1,1527 @@
+{
+  "tradeDate": "2026-09-22",
+  "weekday": "周二",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": true
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 63,
+    "limitUpSuccessRate": 78,
+    "limitDownCount": 5
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 82,
+      "currentCount": 17,
+      "rate": 21
+    },
+    "promotion2To3": {
+      "previousCount": 13,
+      "currentCount": 4,
+      "rate": 31
+    },
+    "previousLadderPerformance": -1.04,
+    "previousLimitUpPerformance": -0.37,
+    "highestBoard": {
+      "stockName": "华瓷股份",
+      "boardCount": 6
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 6,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 5,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 4,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 3,
+        "stockCount": 4
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 17
+      },
+      {
+        "boardCount": 1,
+        "stockCount": 39
+      }
+    ],
+    "hotTheme": {
+      "name": "DeepSeek概念",
+      "stockCount": 16
+    },
+    "poolFirstBoardCount": 39,
+    "poolContinuousBoardCount": 24,
+    "poolBrokenBoardCount": 18
+  },
+  "themes": [
+    {
+      "id": "886100.TI",
+      "name": "DeepSeek概念",
+      "stockCount": 16,
+      "highestBoardCount": 3,
+      "limitUpCount": 16,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601811",
+              "name": "新华文轩",
+              "changePercent": 10.01,
+              "badge": "拟收购民族出版社+教科书发行+数字教育+“华”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002178",
+              "name": "延华智能",
+              "changePercent": 10.04,
+              "badge": "AI医疗+智慧城市+智慧康养+“华”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "002614",
+              "name": "奥佳华",
+              "changePercent": 10.08,
+              "badge": "股份转让+健康机器人+按摩椅+“华”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "600664",
+              "name": "哈药股份",
+              "changePercent": 10.06,
+              "badge": "创新药+医药工业+业绩增长",
+              "sortOrder": 3
+            },
+            {
+              "id": "603636",
+              "name": "南威软件",
+              "changePercent": 10.03,
+              "badge": "AI应用出海+算力租赁+政务数字化",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 11,
+          "stocks": [
+            {
+              "id": "002290",
+              "name": "禾盛新材",
+              "changePercent": 10.0,
+              "badge": "参股CPU+算力+家电复材",
+              "sortOrder": 1
+            },
+            {
+              "id": "002301",
+              "name": "齐心集团",
+              "changePercent": 9.96,
+              "badge": "AI应用+B2B集采+MRO工业品",
+              "sortOrder": 2
+            },
+            {
+              "id": "002313",
+              "name": "日海智能",
+              "changePercent": 10.06,
+              "badge": "端侧AI智能模组+机器人+半年报扭亏+珠海国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "002467",
+              "name": "二六三",
+              "changePercent": 9.94,
+              "badge": "AI智能通信+云网融合+跨境通信",
+              "sortOrder": 4
+            },
+            {
+              "id": "002672",
+              "name": "东江环保",
+              "changePercent": 10.11,
+              "badge": "危废资源化+稀贵金属回收+含氟废液资源化",
+              "sortOrder": 5
+            },
+            {
+              "id": "002912",
+              "name": "中新赛克",
+              "changePercent": 10.01,
+              "badge": "AI安全+网络安全+间接投资机器人+深圳国资",
+              "sortOrder": 6
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+行业数据智能+可信大模型",
+              "sortOrder": 7
+            },
+            {
+              "id": "600418",
+              "name": "江淮汽车",
+              "changePercent": 10.01,
+              "badge": "汽车整车+尊界高端+华为合作+智能制造",
+              "sortOrder": 8
+            },
+            {
+              "id": "600479",
+              "name": "千金药业",
+              "changePercent": 9.97,
+              "badge": "女性健康+创新药+药材种植+中报增长",
+              "sortOrder": 9
+            },
+            {
+              "id": "603039",
+              "name": "泛微网络",
+              "changePercent": 10.0,
+              "badge": "AI应用+协同办公+鸿蒙办公",
+              "sortOrder": 10
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.98,
+              "badge": "AI营销+AI短剧+全域营销",
+              "sortOrder": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885976.TI",
+      "name": "数字经济",
+      "stockCount": 15,
+      "highestBoardCount": 3,
+      "limitUpCount": 15,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601811",
+              "name": "新华文轩",
+              "changePercent": 10.01,
+              "badge": "拟收购民族出版社+教科书发行+数字教育+“华”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000560",
+              "name": "我爱我家",
+              "changePercent": 10.03,
+              "badge": "房产经纪+AI应用+净利增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "000607",
+              "name": "华媒控股",
+              "changePercent": 9.93,
+              "badge": "文化传媒+AI应用+杭州日报+国企",
+              "sortOrder": 2
+            },
+            {
+              "id": "600743",
+              "name": "华远控股",
+              "changePercent": 9.87,
+              "badge": "控股股东拟变更+物业管理+酒店管理",
+              "sortOrder": 3
+            },
+            {
+              "id": "603636",
+              "name": "南威软件",
+              "changePercent": 10.03,
+              "badge": "AI应用出海+算力租赁+政务数字化",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 10,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 10.04,
+              "badge": "数字营销+人工智能+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002301",
+              "name": "齐心集团",
+              "changePercent": 9.96,
+              "badge": "AI应用+B2B集采+MRO工业品",
+              "sortOrder": 2
+            },
+            {
+              "id": "002467",
+              "name": "二六三",
+              "changePercent": 9.94,
+              "badge": "AI智能通信+云网融合+跨境通信",
+              "sortOrder": 3
+            },
+            {
+              "id": "002757",
+              "name": "南兴股份",
+              "changePercent": 10.03,
+              "badge": "AI智算+AIDC+家具智能装备",
+              "sortOrder": 4
+            },
+            {
+              "id": "002912",
+              "name": "中新赛克",
+              "changePercent": 10.01,
+              "badge": "AI安全+网络安全+间接投资机器人+深圳国资",
+              "sortOrder": 5
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+行业数据智能+可信大模型",
+              "sortOrder": 6
+            },
+            {
+              "id": "600479",
+              "name": "千金药业",
+              "changePercent": 9.97,
+              "badge": "女性健康+创新药+药材种植+中报增长",
+              "sortOrder": 7
+            },
+            {
+              "id": "601949",
+              "name": "中国出版",
+              "changePercent": 9.97,
+              "badge": "AI出版+图书出版+中国出版集团",
+              "sortOrder": 8
+            },
+            {
+              "id": "603039",
+              "name": "泛微网络",
+              "changePercent": 10.0,
+              "badge": "AI应用+协同办公+鸿蒙办公",
+              "sortOrder": 9
+            },
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 10.01,
+              "badge": "AI运维+数据中心运维+短剧营销",
+              "sortOrder": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 12,
+      "highestBoardCount": 3,
+      "limitUpCount": 12,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601811",
+              "name": "新华文轩",
+              "changePercent": 10.01,
+              "badge": "拟收购民族出版社+教科书发行+数字教育+“华”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000560",
+              "name": "我爱我家",
+              "changePercent": 10.03,
+              "badge": "房产经纪+AI应用+净利增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "000607",
+              "name": "华媒控股",
+              "changePercent": 9.93,
+              "badge": "文化传媒+AI应用+杭州日报+国企",
+              "sortOrder": 2
+            },
+            {
+              "id": "002178",
+              "name": "延华智能",
+              "changePercent": 10.04,
+              "badge": "AI医疗+智慧城市+智慧康养+“华”字辈",
+              "sortOrder": 3
+            },
+            {
+              "id": "603636",
+              "name": "南威软件",
+              "changePercent": 10.03,
+              "badge": "AI应用出海+算力租赁+政务数字化",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "002301",
+              "name": "齐心集团",
+              "changePercent": 9.96,
+              "badge": "AI应用+B2B集采+MRO工业品",
+              "sortOrder": 1
+            },
+            {
+              "id": "002757",
+              "name": "南兴股份",
+              "changePercent": 10.03,
+              "badge": "AI智算+AIDC+家具智能装备",
+              "sortOrder": 2
+            },
+            {
+              "id": "002912",
+              "name": "中新赛克",
+              "changePercent": 10.01,
+              "badge": "AI安全+网络安全+间接投资机器人+深圳国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+行业数据智能+可信大模型",
+              "sortOrder": 4
+            },
+            {
+              "id": "600479",
+              "name": "千金药业",
+              "changePercent": 9.97,
+              "badge": "女性健康+创新药+药材种植+中报增长",
+              "sortOrder": 5
+            },
+            {
+              "id": "603039",
+              "name": "泛微网络",
+              "changePercent": 10.0,
+              "badge": "AI应用+协同办公+鸿蒙办公",
+              "sortOrder": 6
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.98,
+              "badge": "AI营销+AI短剧+全域营销",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885418.TI",
+      "name": "文化传媒概念",
+      "stockCount": 10,
+      "highestBoardCount": 5,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603230",
+              "name": "内蒙新华",
+              "changePercent": 9.98,
+              "badge": "出版发行+文化消费+“华”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601811",
+              "name": "新华文轩",
+              "changePercent": 10.01,
+              "badge": "拟收购民族出版社+教科书发行+数字教育+“华”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000607",
+              "name": "华媒控股",
+              "changePercent": 9.93,
+              "badge": "文化传媒+AI应用+杭州日报+国企",
+              "sortOrder": 1
+            },
+            {
+              "id": "600825",
+              "name": "新华传媒",
+              "changePercent": 9.93,
+              "badge": "资产重组+图书发行+上海国资+“华”字辈",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 10.04,
+              "badge": "数字营销+人工智能+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002238",
+              "name": "天威视讯",
+              "changePercent": 9.95,
+              "badge": "文化传媒+数据中心+深圳国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002290",
+              "name": "禾盛新材",
+              "changePercent": 10.0,
+              "badge": "参股CPU+算力+家电复材",
+              "sortOrder": 3
+            },
+            {
+              "id": "002301",
+              "name": "齐心集团",
+              "changePercent": 9.96,
+              "badge": "AI应用+B2B集采+MRO工业品",
+              "sortOrder": 4
+            },
+            {
+              "id": "601949",
+              "name": "中国出版",
+              "changePercent": 9.97,
+              "badge": "AI出版+图书出版+中国出版集团",
+              "sortOrder": 5
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.98,
+              "badge": "AI营销+AI短剧+全域营销",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885611.TI",
+      "name": "阿里巴巴概念",
+      "stockCount": 10,
+      "highestBoardCount": 3,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603068",
+              "name": "博通集成",
+              "changePercent": 10.0,
+              "badge": "端侧AI+无线芯片+业绩增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000607",
+              "name": "华媒控股",
+              "changePercent": 9.93,
+              "badge": "文化传媒+AI应用+杭州日报+国企",
+              "sortOrder": 1
+            },
+            {
+              "id": "000756",
+              "name": "新华制药",
+              "changePercent": 10.02,
+              "badge": "药品注册+阿尔茨海默病+解热镇痛+“华”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "603636",
+              "name": "南威软件",
+              "changePercent": 10.03,
+              "badge": "AI应用出海+算力租赁+政务数字化",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 10.04,
+              "badge": "数字营销+人工智能+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002313",
+              "name": "日海智能",
+              "changePercent": 10.06,
+              "badge": "端侧AI智能模组+机器人+半年报扭亏+珠海国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002467",
+              "name": "二六三",
+              "changePercent": 9.94,
+              "badge": "AI智能通信+云网融合+跨境通信",
+              "sortOrder": 3
+            },
+            {
+              "id": "002757",
+              "name": "南兴股份",
+              "changePercent": 10.03,
+              "badge": "AI智算+AIDC+家具智能装备",
+              "sortOrder": 4
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.98,
+              "badge": "AI营销+AI短剧+全域营销",
+              "sortOrder": 5
+            },
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 10.01,
+              "badge": "AI运维+数据中心运维+短剧营销",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885923.TI",
+      "name": "鸿蒙概念",
+      "stockCount": 10,
+      "highestBoardCount": 3,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603068",
+              "name": "博通集成",
+              "changePercent": 10.0,
+              "badge": "端侧AI+无线芯片+业绩增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000560",
+              "name": "我爱我家",
+              "changePercent": 10.03,
+              "badge": "房产经纪+AI应用+净利增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002178",
+              "name": "延华智能",
+              "changePercent": 10.04,
+              "badge": "AI医疗+智慧城市+智慧康养+“华”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "002614",
+              "name": "奥佳华",
+              "changePercent": 10.08,
+              "badge": "股份转让+健康机器人+按摩椅+“华”字辈",
+              "sortOrder": 3
+            },
+            {
+              "id": "603636",
+              "name": "南威软件",
+              "changePercent": 10.03,
+              "badge": "AI应用出海+算力租赁+政务数字化",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 10.04,
+              "badge": "数字营销+人工智能+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "001322",
+              "name": "箭牌家居",
+              "changePercent": 9.97,
+              "badge": "智能卫浴+鸿蒙智选+智能马桶",
+              "sortOrder": 2
+            },
+            {
+              "id": "002467",
+              "name": "二六三",
+              "changePercent": 9.94,
+              "badge": "AI智能通信+云网融合+跨境通信",
+              "sortOrder": 3
+            },
+            {
+              "id": "603039",
+              "name": "泛微网络",
+              "changePercent": 10.0,
+              "badge": "AI应用+协同办公+鸿蒙办公",
+              "sortOrder": 4
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.98,
+              "badge": "AI营销+AI短剧+全域营销",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885887.TI",
+      "name": "数据中心(AIDC)",
+      "stockCount": 10,
+      "highestBoardCount": 2,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002178",
+              "name": "延华智能",
+              "changePercent": 10.04,
+              "badge": "AI医疗+智慧城市+智慧康养+“华”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 9,
+          "stocks": [
+            {
+              "id": "001266",
+              "name": "宏英智能",
+              "changePercent": 9.99,
+              "badge": "液冷储能+智能电控+业绩增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002238",
+              "name": "天威视讯",
+              "changePercent": 9.95,
+              "badge": "文化传媒+数据中心+深圳国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002313",
+              "name": "日海智能",
+              "changePercent": 10.06,
+              "badge": "端侧AI智能模组+机器人+半年报扭亏+珠海国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "002467",
+              "name": "二六三",
+              "changePercent": 9.94,
+              "badge": "AI智能通信+云网融合+跨境通信",
+              "sortOrder": 4
+            },
+            {
+              "id": "002757",
+              "name": "南兴股份",
+              "changePercent": 10.03,
+              "badge": "AI智算+AIDC+家具智能装备",
+              "sortOrder": 5
+            },
+            {
+              "id": "002912",
+              "name": "中新赛克",
+              "changePercent": 10.01,
+              "badge": "AI安全+网络安全+间接投资机器人+深圳国资",
+              "sortOrder": 6
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+行业数据智能+可信大模型",
+              "sortOrder": 7
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "PCB+HDI板+服务器电源",
+              "sortOrder": 8
+            },
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 10.01,
+              "badge": "AI运维+数据中心运维+短剧营销",
+              "sortOrder": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886099.TI",
+      "name": "AI智能体",
+      "stockCount": 10,
+      "highestBoardCount": 2,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002178",
+              "name": "延华智能",
+              "changePercent": 10.04,
+              "badge": "AI医疗+智慧城市+智慧康养+“华”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "603636",
+              "name": "南威软件",
+              "changePercent": 10.03,
+              "badge": "AI应用出海+算力租赁+政务数字化",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 10.04,
+              "badge": "数字营销+人工智能+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "001266",
+              "name": "宏英智能",
+              "changePercent": 9.99,
+              "badge": "液冷储能+智能电控+业绩增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "002238",
+              "name": "天威视讯",
+              "changePercent": 9.95,
+              "badge": "文化传媒+数据中心+深圳国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "002467",
+              "name": "二六三",
+              "changePercent": 9.94,
+              "badge": "AI智能通信+云网融合+跨境通信",
+              "sortOrder": 4
+            },
+            {
+              "id": "002757",
+              "name": "南兴股份",
+              "changePercent": 10.03,
+              "badge": "AI智算+AIDC+家具智能装备",
+              "sortOrder": 5
+            },
+            {
+              "id": "002912",
+              "name": "中新赛克",
+              "changePercent": 10.01,
+              "badge": "AI安全+网络安全+间接投资机器人+深圳国资",
+              "sortOrder": 6
+            },
+            {
+              "id": "603039",
+              "name": "泛微网络",
+              "changePercent": 10.0,
+              "badge": "AI应用+协同办公+鸿蒙办公",
+              "sortOrder": 7
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.98,
+              "badge": "AI营销+AI短剧+全域营销",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886041.TI",
+      "name": "数据要素",
+      "stockCount": 10,
+      "highestBoardCount": 2,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000560",
+              "name": "我爱我家",
+              "changePercent": 10.03,
+              "badge": "房产经纪+AI应用+净利增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002178",
+              "name": "延华智能",
+              "changePercent": 10.04,
+              "badge": "AI医疗+智慧城市+智慧康养+“华”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "603636",
+              "name": "南威软件",
+              "changePercent": 10.03,
+              "badge": "AI应用出海+算力租赁+政务数字化",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "002238",
+              "name": "天威视讯",
+              "changePercent": 9.95,
+              "badge": "文化传媒+数据中心+深圳国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002912",
+              "name": "中新赛克",
+              "changePercent": 10.01,
+              "badge": "AI安全+网络安全+间接投资机器人+深圳国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+行业数据智能+可信大模型",
+              "sortOrder": 3
+            },
+            {
+              "id": "601949",
+              "name": "中国出版",
+              "changePercent": 9.97,
+              "badge": "AI出版+图书出版+中国出版集团",
+              "sortOrder": 4
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.98,
+              "badge": "AI营销+AI短剧+全域营销",
+              "sortOrder": 5
+            },
+            {
+              "id": "605178",
+              "name": "时空科技",
+              "changePercent": 10.0,
+              "badge": "存储芯片+拟收购嘉合劲威+照明工程",
+              "sortOrder": 6
+            },
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 10.01,
+              "badge": "AI运维+数据中心运维+短剧营销",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885950.TI",
+      "name": "虚拟数字人",
+      "stockCount": 9,
+      "highestBoardCount": 3,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601811",
+              "name": "新华文轩",
+              "changePercent": 10.01,
+              "badge": "拟收购民族出版社+教科书发行+数字教育+“华”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000607",
+              "name": "华媒控股",
+              "changePercent": 9.93,
+              "badge": "文化传媒+AI应用+杭州日报+国企",
+              "sortOrder": 1
+            },
+            {
+              "id": "603636",
+              "name": "南威软件",
+              "changePercent": 10.03,
+              "badge": "AI应用出海+算力租赁+政务数字化",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 10.04,
+              "badge": "数字营销+人工智能+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002238",
+              "name": "天威视讯",
+              "changePercent": 9.95,
+              "badge": "文化传媒+数据中心+深圳国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002301",
+              "name": "齐心集团",
+              "changePercent": 9.96,
+              "badge": "AI应用+B2B集采+MRO工业品",
+              "sortOrder": 3
+            },
+            {
+              "id": "002467",
+              "name": "二六三",
+              "changePercent": 9.94,
+              "badge": "AI智能通信+云网融合+跨境通信",
+              "sortOrder": 4
+            },
+            {
+              "id": "601949",
+              "name": "中国出版",
+              "changePercent": 9.97,
+              "badge": "AI出版+图书出版+中国出版集团",
+              "sortOrder": 5
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.98,
+              "badge": "AI营销+AI短剧+全域营销",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885478.TI",
+      "name": "智能家居",
+      "stockCount": 9,
+      "highestBoardCount": 3,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603068",
+              "name": "博通集成",
+              "changePercent": 10.0,
+              "badge": "端侧AI+无线芯片+业绩增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002614",
+              "name": "奥佳华",
+              "changePercent": 10.08,
+              "badge": "股份转让+健康机器人+按摩椅+“华”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "600743",
+              "name": "华远控股",
+              "changePercent": 9.87,
+              "badge": "控股股东拟变更+物业管理+酒店管理",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "001322",
+              "name": "箭牌家居",
+              "changePercent": 9.97,
+              "badge": "智能卫浴+鸿蒙智选+智能马桶",
+              "sortOrder": 1
+            },
+            {
+              "id": "002313",
+              "name": "日海智能",
+              "changePercent": 10.06,
+              "badge": "端侧AI智能模组+机器人+半年报扭亏+珠海国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002757",
+              "name": "南兴股份",
+              "changePercent": 10.03,
+              "badge": "AI智算+AIDC+家具智能装备",
+              "sortOrder": 3
+            },
+            {
+              "id": "603216",
+              "name": "梦天家居",
+              "changePercent": 10.01,
+              "badge": "功率半导体投资+全屋定制+智能制造",
+              "sortOrder": 4
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "PCB+HDI板+服务器电源",
+              "sortOrder": 5
+            },
+            {
+              "id": "605218",
+              "name": "伟时电子",
+              "changePercent": 10.01,
+              "badge": "背光显示模组+MiniLED+车载显示",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885956.TI",
+      "name": "智慧政务",
+      "stockCount": 9,
+      "highestBoardCount": 2,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002178",
+              "name": "延华智能",
+              "changePercent": 10.04,
+              "badge": "AI医疗+智慧城市+智慧康养+“华”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "603636",
+              "name": "南威软件",
+              "changePercent": 10.03,
+              "badge": "AI应用出海+算力租赁+政务数字化",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 10.04,
+              "badge": "数字营销+人工智能+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002238",
+              "name": "天威视讯",
+              "changePercent": 9.95,
+              "badge": "文化传媒+数据中心+深圳国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002301",
+              "name": "齐心集团",
+              "changePercent": 9.96,
+              "badge": "AI应用+B2B集采+MRO工业品",
+              "sortOrder": 3
+            },
+            {
+              "id": "002467",
+              "name": "二六三",
+              "changePercent": 9.94,
+              "badge": "AI智能通信+云网融合+跨境通信",
+              "sortOrder": 4
+            },
+            {
+              "id": "002912",
+              "name": "中新赛克",
+              "changePercent": 10.01,
+              "badge": "AI安全+网络安全+间接投资机器人+深圳国资",
+              "sortOrder": 5
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+行业数据智能+可信大模型",
+              "sortOrder": 6
+            },
+            {
+              "id": "603039",
+              "name": "泛微网络",
+              "changePercent": 10.0,
+              "badge": "AI应用+协同办公+鸿蒙办公",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885779.TI",
+      "name": "腾讯概念",
+      "stockCount": 9,
+      "highestBoardCount": 1,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 9,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 10.04,
+              "badge": "数字营销+人工智能+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002238",
+              "name": "天威视讯",
+              "changePercent": 9.95,
+              "badge": "文化传媒+数据中心+深圳国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002301",
+              "name": "齐心集团",
+              "changePercent": 9.96,
+              "badge": "AI应用+B2B集采+MRO工业品",
+              "sortOrder": 3
+            },
+            {
+              "id": "002467",
+              "name": "二六三",
+              "changePercent": 9.94,
+              "badge": "AI智能通信+云网融合+跨境通信",
+              "sortOrder": 4
+            },
+            {
+              "id": "002757",
+              "name": "南兴股份",
+              "changePercent": 10.03,
+              "badge": "AI智算+AIDC+家具智能装备",
+              "sortOrder": 5
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+行业数据智能+可信大模型",
+              "sortOrder": 6
+            },
+            {
+              "id": "603039",
+              "name": "泛微网络",
+              "changePercent": 10.0,
+              "badge": "AI应用+协同办公+鸿蒙办公",
+              "sortOrder": 7
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.98,
+              "badge": "AI营销+AI短剧+全域营销",
+              "sortOrder": 8
+            },
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 10.01,
+              "badge": "AI运维+数据中心运维+短剧营销",
+              "sortOrder": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885800.TI",
+      "name": "消费电子概念",
+      "stockCount": 8,
+      "highestBoardCount": 6,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 6,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001216",
+              "name": "华瓷股份",
+              "changePercent": 10.02,
+              "badge": "氧化锆粉体+MLCC验证+日用陶瓷+“华”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603068",
+              "name": "博通集成",
+              "changePercent": 10.0,
+              "badge": "端侧AI+无线芯片+业绩增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002303",
+              "name": "美盈森",
+              "changePercent": 10.05,
+              "badge": "导热凝胶+模切业务+消费电子包装+海外产能",
+              "sortOrder": 1
+            },
+            {
+              "id": "603580",
+              "name": "艾艾精工",
+              "changePercent": 10.0,
+              "badge": "控制权拟变更+精密金属结构件+轻型输送带",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 10.04,
+              "badge": "数字营销+人工智能+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002141",
+              "name": "贤丰控股",
+              "changePercent": 10.07,
+              "badge": "覆铜板+印制电路板+动物保健",
+              "sortOrder": 2
+            },
+            {
+              "id": "600770",
+              "name": "综艺股份",
+              "changePercent": 9.95,
+              "badge": "参股神州龙芯（CPU）+功率半导体IDM+金刚石散热",
+              "sortOrder": 3
+            },
+            {
+              "id": "605218",
+              "name": "伟时电子",
+              "changePercent": 10.01,
+              "badge": "背光显示模组+MiniLED+车载显示",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885756.TI",
+      "name": "芯片概念",
+      "stockCount": 8,
+      "highestBoardCount": 3,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603068",
+              "name": "博通集成",
+              "changePercent": 10.0,
+              "badge": "端侧AI+无线芯片+业绩增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "002290",
+              "name": "禾盛新材",
+              "changePercent": 10.0,
+              "badge": "参股CPU+算力+家电复材",
+              "sortOrder": 1
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+行业数据智能+可信大模型",
+              "sortOrder": 2
+            },
+            {
+              "id": "600641",
+              "name": "先导基电",
+              "changePercent": 10.01,
+              "badge": "半导体材料+离子注入机+半年报增长",
+              "sortOrder": 3
+            },
+            {
+              "id": "600770",
+              "name": "综艺股份",
+              "changePercent": 9.95,
+              "badge": "参股神州龙芯（CPU）+功率半导体IDM+金刚石散热",
+              "sortOrder": 4
+            },
+            {
+              "id": "603216",
+              "name": "梦天家居",
+              "changePercent": 10.01,
+              "badge": "功率半导体投资+全屋定制+智能制造",
+              "sortOrder": 5
+            },
+            {
+              "id": "605178",
+              "name": "时空科技",
+              "changePercent": 10.0,
+              "badge": "存储芯片+拟收购嘉合劲威+照明工程",
+              "sortOrder": 6
+            },
+            {
+              "id": "688781",
+              "name": "视涯科技",
+              "changePercent": 20.0,
+              "badge": "AI眼镜+硅基OLED+营收增长+次新股",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

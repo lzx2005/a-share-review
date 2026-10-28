@@ -1,0 +1,1093 @@
+{
+  "tradeDate": "2026-09-03",
+  "weekday": "周四",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": true
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 46,
+    "limitUpSuccessRate": 58,
+    "limitDownCount": 16
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 37,
+      "currentCount": 6,
+      "rate": 16
+    },
+    "promotion2To3": {
+      "previousCount": 8,
+      "currentCount": 0,
+      "rate": 0
+    },
+    "previousLadderPerformance": 0.06,
+    "previousLimitUpPerformance": 0.69,
+    "highestBoard": {
+      "stockName": "国芳集团",
+      "boardCount": 5
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 5,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 4,
+        "stockCount": 2
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 6
+      },
+      {
+        "boardCount": 1,
+        "stockCount": 37
+      }
+    ],
+    "hotTheme": {
+      "name": "液冷服务器",
+      "stockCount": 10
+    },
+    "poolFirstBoardCount": 37,
+    "poolContinuousBoardCount": 9,
+    "poolBrokenBoardCount": 33
+  },
+  "themes": [
+    {
+      "id": "886044.TI",
+      "name": "液冷服务器",
+      "stockCount": 10,
+      "highestBoardCount": 4,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002909",
+              "name": "集泰股份",
+              "changePercent": 10.03,
+              "badge": "液冷硅油+新能源胶+PCB三防漆",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603270",
+              "name": "金帝股份",
+              "changePercent": 10.01,
+              "badge": "液冷散热+人形机器人+电驱动定转子",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "002328",
+              "name": "新朋股份",
+              "changePercent": 10.02,
+              "badge": "液冷机柜+海外交付+储能配套",
+              "sortOrder": 1
+            },
+            {
+              "id": "002787",
+              "name": "华源控股",
+              "changePercent": 10.01,
+              "badge": "股份回购+半导体设备+光模块+金属包装",
+              "sortOrder": 2
+            },
+            {
+              "id": "003018",
+              "name": "金富科技",
+              "changePercent": 10.0,
+              "badge": "液冷散热+业绩增长+定增扩产",
+              "sortOrder": 3
+            },
+            {
+              "id": "301489",
+              "name": "思泉新材",
+              "changePercent": 20.0,
+              "badge": "液冷散热+算力散热+消费电子",
+              "sortOrder": 4
+            },
+            {
+              "id": "603090",
+              "name": "宏盛股份",
+              "changePercent": 9.99,
+              "badge": "液冷服务器+氢能源+铝制板翅式换热器+海外扩张",
+              "sortOrder": 5
+            },
+            {
+              "id": "603728",
+              "name": "鸣志电器",
+              "changePercent": 10.0,
+              "badge": "人形机器人+液冷服务器+运动控制",
+              "sortOrder": 6
+            },
+            {
+              "id": "603757",
+              "name": "大元泵业",
+              "changePercent": 10.0,
+              "badge": "液冷泵+算力服务+实控人变更",
+              "sortOrder": 7
+            },
+            {
+              "id": "603989",
+              "name": "艾华集团",
+              "changePercent": 9.99,
+              "badge": "MLPC+薄膜电容器+AI服务器+半年报增长",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886110.TI",
+      "name": "2026中报预增",
+      "stockCount": 8,
+      "highestBoardCount": 5,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601086",
+              "name": "国芳集团",
+              "changePercent": 10.0,
+              "badge": "连锁零售+新零售+半年报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "002328",
+              "name": "新朋股份",
+              "changePercent": 10.02,
+              "badge": "液冷机柜+海外交付+储能配套",
+              "sortOrder": 1
+            },
+            {
+              "id": "002787",
+              "name": "华源控股",
+              "changePercent": 10.01,
+              "badge": "股份回购+半导体设备+光模块+金属包装",
+              "sortOrder": 2
+            },
+            {
+              "id": "002969",
+              "name": "嘉美包装",
+              "changePercent": 10.01,
+              "badge": "实控人变更（追觅）+金属包装+饮料灌装+中报增长",
+              "sortOrder": 3
+            },
+            {
+              "id": "002980",
+              "name": "华盛昌",
+              "changePercent": 10.0,
+              "badge": "光通信测试+CPO+中报增长",
+              "sortOrder": 4
+            },
+            {
+              "id": "003018",
+              "name": "金富科技",
+              "changePercent": 10.0,
+              "badge": "液冷散热+业绩增长+定增扩产",
+              "sortOrder": 5
+            },
+            {
+              "id": "600969",
+              "name": "郴电国际",
+              "changePercent": 9.97,
+              "badge": "氩气+电力+业绩增长",
+              "sortOrder": 6
+            },
+            {
+              "id": "603162",
+              "name": "海通发展",
+              "changePercent": 10.0,
+              "badge": "干散货航运+运力扩张+中报高增",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885921.TI",
+      "name": "储能",
+      "stockCount": 8,
+      "highestBoardCount": 4,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002909",
+              "name": "集泰股份",
+              "changePercent": 10.03,
+              "badge": "液冷硅油+新能源胶+PCB三防漆",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "002328",
+              "name": "新朋股份",
+              "changePercent": 10.02,
+              "badge": "液冷机柜+海外交付+储能配套",
+              "sortOrder": 1
+            },
+            {
+              "id": "002980",
+              "name": "华盛昌",
+              "changePercent": 10.0,
+              "badge": "光通信测试+CPO+中报增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "301489",
+              "name": "思泉新材",
+              "changePercent": 20.0,
+              "badge": "液冷散热+算力散热+消费电子",
+              "sortOrder": 3
+            },
+            {
+              "id": "603090",
+              "name": "宏盛股份",
+              "changePercent": 9.99,
+              "badge": "液冷服务器+氢能源+铝制板翅式换热器+海外扩张",
+              "sortOrder": 4
+            },
+            {
+              "id": "603757",
+              "name": "大元泵业",
+              "changePercent": 10.0,
+              "badge": "液冷泵+算力服务+实控人变更",
+              "sortOrder": 5
+            },
+            {
+              "id": "603989",
+              "name": "艾华集团",
+              "changePercent": 9.99,
+              "badge": "MLPC+薄膜电容器+AI服务器+半年报增长",
+              "sortOrder": 6
+            },
+            {
+              "id": "605088",
+              "name": "冠盛股份",
+              "changePercent": 10.03,
+              "badge": "汽配出口+机器人研发+电池项目",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 8,
+      "highestBoardCount": 4,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002909",
+              "name": "集泰股份",
+              "changePercent": 10.03,
+              "badge": "液冷硅油+新能源胶+PCB三防漆",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.03,
+              "badge": "人形机器人+PCB收购+半年报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "603270",
+              "name": "金帝股份",
+              "changePercent": 10.01,
+              "badge": "液冷散热+人形机器人+电驱动定转子",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "301489",
+              "name": "思泉新材",
+              "changePercent": 20.0,
+              "badge": "液冷散热+算力散热+消费电子",
+              "sortOrder": 1
+            },
+            {
+              "id": "600703",
+              "name": "三安光电",
+              "changePercent": 9.98,
+              "badge": "重整撤回+光芯片+航天电池",
+              "sortOrder": 2
+            },
+            {
+              "id": "603150",
+              "name": "万朗磁塑",
+              "changePercent": 10.0,
+              "badge": "智能转向+钐铁氮+小家电",
+              "sortOrder": 3
+            },
+            {
+              "id": "603989",
+              "name": "艾华集团",
+              "changePercent": 9.99,
+              "badge": "MLPC+薄膜电容器+AI服务器+半年报增长",
+              "sortOrder": 4
+            },
+            {
+              "id": "605068",
+              "name": "明新旭腾",
+              "changePercent": 10.02,
+              "badge": "人形机器人+电子皮肤+汽车内饰",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885887.TI",
+      "name": "数据中心(AIDC)",
+      "stockCount": 8,
+      "highestBoardCount": 1,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "002328",
+              "name": "新朋股份",
+              "changePercent": 10.02,
+              "badge": "液冷机柜+海外交付+储能配套",
+              "sortOrder": 1
+            },
+            {
+              "id": "600611",
+              "name": "大众交通",
+              "changePercent": 10.04,
+              "badge": "无人驾驶+上海出租车+间接投资长江存储+算力",
+              "sortOrder": 2
+            },
+            {
+              "id": "600703",
+              "name": "三安光电",
+              "changePercent": 9.98,
+              "badge": "重整撤回+光芯片+航天电池",
+              "sortOrder": 3
+            },
+            {
+              "id": "603090",
+              "name": "宏盛股份",
+              "changePercent": 9.99,
+              "badge": "液冷服务器+氢能源+铝制板翅式换热器+海外扩张",
+              "sortOrder": 4
+            },
+            {
+              "id": "603138",
+              "name": "海量数据",
+              "changePercent": 10.02,
+              "badge": "多模态数据库+国产数据库+AI融合",
+              "sortOrder": 5
+            },
+            {
+              "id": "603757",
+              "name": "大元泵业",
+              "changePercent": 10.0,
+              "badge": "液冷泵+算力服务+实控人变更",
+              "sortOrder": 6
+            },
+            {
+              "id": "603989",
+              "name": "艾华集团",
+              "changePercent": 9.99,
+              "badge": "MLPC+薄膜电容器+AI服务器+半年报增长",
+              "sortOrder": 7
+            },
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 9.98,
+              "badge": "AI智能运维+国产数据库+员工持股",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886067.TI",
+      "name": "低空经济",
+      "stockCount": 7,
+      "highestBoardCount": 4,
+      "limitUpCount": 7,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002909",
+              "name": "集泰股份",
+              "changePercent": 10.03,
+              "badge": "液冷硅油+新能源胶+PCB三防漆",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.03,
+              "badge": "人形机器人+PCB收购+半年报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "603270",
+              "name": "金帝股份",
+              "changePercent": 10.01,
+              "badge": "液冷散热+人形机器人+电驱动定转子",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "600611",
+              "name": "大众交通",
+              "changePercent": 10.04,
+              "badge": "无人驾驶+上海出租车+间接投资长江存储+算力",
+              "sortOrder": 1
+            },
+            {
+              "id": "600703",
+              "name": "三安光电",
+              "changePercent": 9.98,
+              "badge": "重整撤回+光芯片+航天电池",
+              "sortOrder": 2
+            },
+            {
+              "id": "600969",
+              "name": "郴电国际",
+              "changePercent": 9.97,
+              "badge": "氩气+电力+业绩增长",
+              "sortOrder": 3
+            },
+            {
+              "id": "603989",
+              "name": "艾华集团",
+              "changePercent": 9.99,
+              "badge": "MLPC+薄膜电容器+AI服务器+半年报增长",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886069.TI",
+      "name": "人形机器人",
+      "stockCount": 7,
+      "highestBoardCount": 2,
+      "limitUpCount": 7,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002059",
+              "name": "云南旅游",
+              "changePercent": 10.1,
+              "badge": "景区运营+文旅科技+人形机器人",
+              "sortOrder": 1
+            },
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.03,
+              "badge": "人形机器人+PCB收购+半年报增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "603270",
+              "name": "金帝股份",
+              "changePercent": 10.01,
+              "badge": "液冷散热+人形机器人+电驱动定转子",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002403",
+              "name": "爱仕达",
+              "changePercent": 9.98,
+              "badge": "人形机器人+工业机器人+炊具小家电",
+              "sortOrder": 1
+            },
+            {
+              "id": "603728",
+              "name": "鸣志电器",
+              "changePercent": 10.0,
+              "badge": "人形机器人+液冷服务器+运动控制",
+              "sortOrder": 2
+            },
+            {
+              "id": "605068",
+              "name": "明新旭腾",
+              "changePercent": 10.02,
+              "badge": "人形机器人+电子皮肤+汽车内饰",
+              "sortOrder": 3
+            },
+            {
+              "id": "605088",
+              "name": "冠盛股份",
+              "changePercent": 10.03,
+              "badge": "汽配出口+机器人研发+电池项目",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885939.TI",
+      "name": "海峡两岸",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002300",
+              "name": "太阳电缆",
+              "changePercent": 9.96,
+              "badge": "电网设备+海底电缆+电线电缆",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "002787",
+              "name": "华源控股",
+              "changePercent": 10.01,
+              "badge": "股份回购+半导体设备+光模块+金属包装",
+              "sortOrder": 1
+            },
+            {
+              "id": "002969",
+              "name": "嘉美包装",
+              "changePercent": 10.01,
+              "badge": "实控人变更（追觅）+金属包装+饮料灌装+中报增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "600693",
+              "name": "东百集团",
+              "changePercent": 9.96,
+              "badge": "零售+首店经济+仓储物流+资产盘活",
+              "sortOrder": 3
+            },
+            {
+              "id": "600703",
+              "name": "三安光电",
+              "changePercent": 9.98,
+              "badge": "重整撤回+光芯片+航天电池",
+              "sortOrder": 4
+            },
+            {
+              "id": "603162",
+              "name": "海通发展",
+              "changePercent": 10.0,
+              "badge": "干散货航运+运力扩张+中报高增",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885461.TI",
+      "name": "充电桩",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002300",
+              "name": "太阳电缆",
+              "changePercent": 9.96,
+              "badge": "电网设备+海底电缆+电线电缆",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "002980",
+              "name": "华盛昌",
+              "changePercent": 10.0,
+              "badge": "光通信测试+CPO+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "300830",
+              "name": "金现代",
+              "changePercent": 19.98,
+              "badge": "AI低代码+军工数字化+电力信息化",
+              "sortOrder": 2
+            },
+            {
+              "id": "600703",
+              "name": "三安光电",
+              "changePercent": 9.98,
+              "badge": "重整撤回+光芯片+航天电池",
+              "sortOrder": 3
+            },
+            {
+              "id": "600969",
+              "name": "郴电国际",
+              "changePercent": 9.97,
+              "badge": "氩气+电力+业绩增长",
+              "sortOrder": 4
+            },
+            {
+              "id": "603989",
+              "name": "艾华集团",
+              "changePercent": 9.99,
+              "badge": "MLPC+薄膜电容器+AI服务器+半年报增长",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885915.TI",
+      "name": "物业管理",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600657",
+              "name": "信达地产",
+              "changePercent": 10.16,
+              "badge": "房地产+轻资产代建+央企背景",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "600185",
+              "name": "珠免集团",
+              "changePercent": 10.0,
+              "badge": "免税零售+海南免税+业绩扭亏",
+              "sortOrder": 1
+            },
+            {
+              "id": "600234",
+              "name": "科新发展",
+              "changePercent": 10.01,
+              "badge": "算力租赁+定增募资+建筑工程",
+              "sortOrder": 2
+            },
+            {
+              "id": "600611",
+              "name": "大众交通",
+              "changePercent": 10.04,
+              "badge": "无人驾驶+上海出租车+间接投资长江存储+算力",
+              "sortOrder": 3
+            },
+            {
+              "id": "600693",
+              "name": "东百集团",
+              "changePercent": 9.96,
+              "badge": "零售+首店经济+仓储物流+资产盘活",
+              "sortOrder": 4
+            },
+            {
+              "id": "600865",
+              "name": "百大集团",
+              "changePercent": 10.02,
+              "badge": "商业零售+物业租赁+恒隆租约",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885641.TI",
+      "name": "风电",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002300",
+              "name": "太阳电缆",
+              "changePercent": 9.96,
+              "badge": "电网设备+海底电缆+电线电缆",
+              "sortOrder": 1
+            },
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.03,
+              "badge": "人形机器人+PCB收购+半年报增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "603270",
+              "name": "金帝股份",
+              "changePercent": 10.01,
+              "badge": "液冷散热+人形机器人+电驱动定转子",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "300830",
+              "name": "金现代",
+              "changePercent": 19.98,
+              "badge": "AI低代码+军工数字化+电力信息化",
+              "sortOrder": 1
+            },
+            {
+              "id": "600969",
+              "name": "郴电国际",
+              "changePercent": 9.97,
+              "badge": "氩气+电力+业绩增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "603090",
+              "name": "宏盛股份",
+              "changePercent": 9.99,
+              "badge": "液冷服务器+氢能源+铝制板翅式换热器+海外扩张",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 6,
+      "highestBoardCount": 1,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "002328",
+              "name": "新朋股份",
+              "changePercent": 10.02,
+              "badge": "液冷机柜+海外交付+储能配套",
+              "sortOrder": 1
+            },
+            {
+              "id": "002787",
+              "name": "华源控股",
+              "changePercent": 10.01,
+              "badge": "股份回购+半导体设备+光模块+金属包装",
+              "sortOrder": 2
+            },
+            {
+              "id": "600611",
+              "name": "大众交通",
+              "changePercent": 10.04,
+              "badge": "无人驾驶+上海出租车+间接投资长江存储+算力",
+              "sortOrder": 3
+            },
+            {
+              "id": "600865",
+              "name": "百大集团",
+              "changePercent": 10.02,
+              "badge": "商业零售+物业租赁+恒隆租约",
+              "sortOrder": 4
+            },
+            {
+              "id": "603150",
+              "name": "万朗磁塑",
+              "changePercent": 10.0,
+              "badge": "智能转向+钐铁氮+小家电",
+              "sortOrder": 5
+            },
+            {
+              "id": "605288",
+              "name": "凯迪股份",
+              "changePercent": 10.01,
+              "badge": "机器人+线性驱动+汽车零部件",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885531.TI",
+      "name": "光伏概念",
+      "stockCount": 5,
+      "highestBoardCount": 4,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002909",
+              "name": "集泰股份",
+              "changePercent": 10.03,
+              "badge": "液冷硅油+新能源胶+PCB三防漆",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002300",
+              "name": "太阳电缆",
+              "changePercent": 9.96,
+              "badge": "电网设备+海底电缆+电线电缆",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002980",
+              "name": "华盛昌",
+              "changePercent": 10.0,
+              "badge": "光通信测试+CPO+中报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "600703",
+              "name": "三安光电",
+              "changePercent": 9.98,
+              "badge": "重整撤回+光芯片+航天电池",
+              "sortOrder": 2
+            },
+            {
+              "id": "605288",
+              "name": "凯迪股份",
+              "changePercent": 10.01,
+              "badge": "机器人+线性驱动+汽车零部件",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885736.TI",
+      "name": "无人驾驶",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.03,
+              "badge": "人形机器人+PCB收购+半年报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "600611",
+              "name": "大众交通",
+              "changePercent": 10.04,
+              "badge": "无人驾驶+上海出租车+间接投资长江存储+算力",
+              "sortOrder": 1
+            },
+            {
+              "id": "600703",
+              "name": "三安光电",
+              "changePercent": 9.98,
+              "badge": "重整撤回+光芯片+航天电池",
+              "sortOrder": 2
+            },
+            {
+              "id": "603150",
+              "name": "万朗磁塑",
+              "changePercent": 10.0,
+              "badge": "智能转向+钐铁氮+小家电",
+              "sortOrder": 3
+            },
+            {
+              "id": "603728",
+              "name": "鸣志电器",
+              "changePercent": 10.0,
+              "badge": "人形机器人+液冷服务器+运动控制",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885700.TI",
+      "name": "军工",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002297",
+              "name": "博云新材",
+              "changePercent": 10.0,
+              "badge": "军工材料+航天材料+硬质合金+业绩增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002300",
+              "name": "太阳电缆",
+              "changePercent": 9.96,
+              "badge": "电网设备+海底电缆+电线电缆",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "300830",
+              "name": "金现代",
+              "changePercent": 19.98,
+              "badge": "AI低代码+军工数字化+电力信息化",
+              "sortOrder": 1
+            },
+            {
+              "id": "603150",
+              "name": "万朗磁塑",
+              "changePercent": 10.0,
+              "badge": "智能转向+钐铁氮+小家电",
+              "sortOrder": 2
+            },
+            {
+              "id": "603989",
+              "name": "艾华集团",
+              "changePercent": 9.99,
+              "badge": "MLPC+薄膜电容器+AI服务器+半年报增长",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

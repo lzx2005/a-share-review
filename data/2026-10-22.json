@@ -1,0 +1,947 @@
+{
+  "tradeDate": "2026-10-22",
+  "weekday": "周四",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": true
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 33,
+    "limitUpSuccessRate": 60,
+    "limitDownCount": 55
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 34,
+      "currentCount": 5,
+      "rate": 15
+    },
+    "promotion2To3": {
+      "previousCount": 12,
+      "currentCount": 2,
+      "rate": 17
+    },
+    "previousLadderPerformance": -1.71,
+    "previousLimitUpPerformance": -1.38,
+    "highestBoard": {
+      "stockName": "海洋王",
+      "boardCount": 5
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 5,
+        "stockCount": 2
+      },
+      {
+        "boardCount": 3,
+        "stockCount": 2
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 5
+      },
+      {
+        "boardCount": 1,
+        "stockCount": 24
+      }
+    ],
+    "hotTheme": {
+      "name": "人形机器人",
+      "stockCount": 8
+    },
+    "poolFirstBoardCount": 24,
+    "poolContinuousBoardCount": 9,
+    "poolBrokenBoardCount": 22
+  },
+  "themes": [
+    {
+      "id": "886069.TI",
+      "name": "人形机器人",
+      "stockCount": 8,
+      "highestBoardCount": 5,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603278",
+              "name": "大业股份",
+              "changePercent": 10.01,
+              "badge": "人形机器人+橡胶骨架材料+全球销售",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "002249",
+              "name": "大洋电机",
+              "changePercent": 9.97,
+              "badge": "机器人关节+电机业务+数据中心风机+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "003021",
+              "name": "兆威机电",
+              "changePercent": 10.0,
+              "badge": "人形机器人+灵巧手+微型传动",
+              "sortOrder": 2
+            },
+            {
+              "id": "301023",
+              "name": "奕帆传动",
+              "changePercent": 19.99,
+              "badge": "人形机器人+微特减速电机+伺服电机",
+              "sortOrder": 3
+            },
+            {
+              "id": "603028",
+              "name": "赛福天",
+              "changePercent": 10.07,
+              "badge": "机器人腱绳+特种钢索",
+              "sortOrder": 4
+            },
+            {
+              "id": "603528",
+              "name": "多伦科技",
+              "changePercent": 9.96,
+              "badge": "人形机器人+智慧交管+智慧驾培",
+              "sortOrder": 5
+            },
+            {
+              "id": "603728",
+              "name": "鸣志电器",
+              "changePercent": 10.0,
+              "badge": "人形机器人+运动控制+数据中心液冷",
+              "sortOrder": 6
+            },
+            {
+              "id": "603933",
+              "name": "睿能科技",
+              "changePercent": 9.99,
+              "badge": "人形机器人+工业自动化+IC分销",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885921.TI",
+      "name": "储能",
+      "stockCount": 8,
+      "highestBoardCount": 3,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002076",
+              "name": "星光股份",
+              "changePercent": 10.2,
+              "badge": "数据要素+信息安全+LED封装+量子科技",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 9.97,
+              "badge": "冰雪工程+数据中心液冷+军工+冷热设备",
+              "sortOrder": 1
+            },
+            {
+              "id": "002249",
+              "name": "大洋电机",
+              "changePercent": 9.97,
+              "badge": "机器人关节+电机业务+数据中心风机+“羊”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "002535",
+              "name": "林州重机",
+              "changePercent": 10.0,
+              "badge": "煤矿机械+煤矿服务+军工配套",
+              "sortOrder": 3
+            },
+            {
+              "id": "301023",
+              "name": "奕帆传动",
+              "changePercent": 19.99,
+              "badge": "人形机器人+微特减速电机+伺服电机",
+              "sortOrder": 4
+            },
+            {
+              "id": "603370",
+              "name": "华新精科",
+              "changePercent": 10.0,
+              "badge": "人形机器人+精密铁芯",
+              "sortOrder": 5
+            },
+            {
+              "id": "603528",
+              "name": "多伦科技",
+              "changePercent": 9.96,
+              "badge": "人形机器人+智慧交管+智慧驾培",
+              "sortOrder": 6
+            },
+            {
+              "id": "603933",
+              "name": "睿能科技",
+              "changePercent": 9.99,
+              "badge": "人形机器人+工业自动化+IC分销",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 8,
+      "highestBoardCount": 2,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603330",
+              "name": "天洋新材",
+              "changePercent": 10.01,
+              "badge": "电子胶+光模块胶+热熔胶+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 9.97,
+              "badge": "冰雪工程+数据中心液冷+军工+冷热设备",
+              "sortOrder": 1
+            },
+            {
+              "id": "000678",
+              "name": "襄阳轴承",
+              "changePercent": 9.96,
+              "badge": "机器人轴承+汽车轴承+湖北国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "002249",
+              "name": "大洋电机",
+              "changePercent": 9.97,
+              "badge": "机器人关节+电机业务+数据中心风机+“羊”字辈",
+              "sortOrder": 3
+            },
+            {
+              "id": "003021",
+              "name": "兆威机电",
+              "changePercent": 10.0,
+              "badge": "人形机器人+灵巧手+微型传动",
+              "sortOrder": 4
+            },
+            {
+              "id": "603089",
+              "name": "正裕工业",
+              "changePercent": 9.97,
+              "badge": "机器人零部件+柔性触觉+汽车减震器",
+              "sortOrder": 5
+            },
+            {
+              "id": "603370",
+              "name": "华新精科",
+              "changePercent": 10.0,
+              "badge": "人形机器人+精密铁芯",
+              "sortOrder": 6
+            },
+            {
+              "id": "603528",
+              "name": "多伦科技",
+              "changePercent": 9.96,
+              "badge": "人形机器人+智慧交管+智慧驾培",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885571.TI",
+      "name": "核电",
+      "stockCount": 6,
+      "highestBoardCount": 5,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002724",
+              "name": "海洋王",
+              "changePercent": 10.01,
+              "badge": "专业照明+AI照明+军工+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600202",
+              "name": "哈空调",
+              "changePercent": 10.05,
+              "badge": "空冷器+飞翼空冷器+股东增持",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 9.97,
+              "badge": "冰雪工程+数据中心液冷+军工+冷热设备",
+              "sortOrder": 1
+            },
+            {
+              "id": "600192",
+              "name": "长城电工",
+              "changePercent": 10.04,
+              "badge": "输配电设备+核电项目+资产处置",
+              "sortOrder": 2
+            },
+            {
+              "id": "601091",
+              "name": "沈鼓集团",
+              "changePercent": 9.99,
+              "badge": "离心压缩机+煤化工+核电装备",
+              "sortOrder": 3
+            },
+            {
+              "id": "603280",
+              "name": "南方路机",
+              "changePercent": 9.99,
+              "badge": "工程搅拌+智能机器人+AI智能体",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885531.TI",
+      "name": "光伏概念",
+      "stockCount": 6,
+      "highestBoardCount": 3,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002076",
+              "name": "星光股份",
+              "changePercent": 10.2,
+              "badge": "数据要素+信息安全+LED封装+量子科技",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603330",
+              "name": "天洋新材",
+              "changePercent": 10.01,
+              "badge": "电子胶+光模块胶+热熔胶+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "301023",
+              "name": "奕帆传动",
+              "changePercent": 19.99,
+              "badge": "人形机器人+微特减速电机+伺服电机",
+              "sortOrder": 1
+            },
+            {
+              "id": "600192",
+              "name": "长城电工",
+              "changePercent": 10.04,
+              "badge": "输配电设备+核电项目+资产处置",
+              "sortOrder": 2
+            },
+            {
+              "id": "603028",
+              "name": "赛福天",
+              "changePercent": 10.07,
+              "badge": "机器人腱绳+特种钢索",
+              "sortOrder": 3
+            },
+            {
+              "id": "603528",
+              "name": "多伦科技",
+              "changePercent": 9.96,
+              "badge": "人形机器人+智慧交管+智慧驾培",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885700.TI",
+      "name": "军工",
+      "stockCount": 5,
+      "highestBoardCount": 5,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002724",
+              "name": "海洋王",
+              "changePercent": 10.01,
+              "badge": "专业照明+AI照明+军工+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 9.97,
+              "badge": "冰雪工程+数据中心液冷+军工+冷热设备",
+              "sortOrder": 1
+            },
+            {
+              "id": "002097",
+              "name": "山河智能",
+              "changePercent": 10.0,
+              "badge": "工程机械+无人应急装备+机器人概念+电动化",
+              "sortOrder": 2
+            },
+            {
+              "id": "002535",
+              "name": "林州重机",
+              "changePercent": 10.0,
+              "badge": "煤矿机械+煤矿服务+军工配套",
+              "sortOrder": 3
+            },
+            {
+              "id": "600192",
+              "name": "长城电工",
+              "changePercent": 10.04,
+              "badge": "输配电设备+核电项目+资产处置",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885478.TI",
+      "name": "智能家居",
+      "stockCount": 5,
+      "highestBoardCount": 3,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002076",
+              "name": "星光股份",
+              "changePercent": 10.2,
+              "badge": "数据要素+信息安全+LED封装+量子科技",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002983",
+              "name": "芯瑞达",
+              "changePercent": 10.0,
+              "badge": "Mini/Micro-LED+AR-AI显示+像素车灯",
+              "sortOrder": 1
+            },
+            {
+              "id": "301502",
+              "name": "华阳智能",
+              "changePercent": 20.0,
+              "badge": "机器人关节+无框电机+微特电机",
+              "sortOrder": 2
+            },
+            {
+              "id": "600261",
+              "name": "阳光照明",
+              "changePercent": 10.09,
+              "badge": "照明业务+LED+激光通信投资+氢能装备",
+              "sortOrder": 3
+            },
+            {
+              "id": "603933",
+              "name": "睿能科技",
+              "changePercent": 9.99,
+              "badge": "人形机器人+工业自动化+IC分销",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885976.TI",
+      "name": "数字经济",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601999",
+              "name": "出版传媒",
+              "changePercent": 10.0,
+              "badge": "出版发行+AI出版+数智基金",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 9.97,
+              "badge": "冰雪工程+数据中心液冷+军工+冷热设备",
+              "sortOrder": 1
+            },
+            {
+              "id": "002097",
+              "name": "山河智能",
+              "changePercent": 10.0,
+              "badge": "工程机械+无人应急装备+机器人概念+电动化",
+              "sortOrder": 2
+            },
+            {
+              "id": "603280",
+              "name": "南方路机",
+              "changePercent": 9.99,
+              "badge": "工程搅拌+智能机器人+AI智能体",
+              "sortOrder": 3
+            },
+            {
+              "id": "603933",
+              "name": "睿能科技",
+              "changePercent": 9.99,
+              "badge": "人形机器人+工业自动化+IC分销",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885823.TI",
+      "name": "氢能源",
+      "stockCount": 5,
+      "highestBoardCount": 1,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 9.97,
+              "badge": "冰雪工程+数据中心液冷+军工+冷热设备",
+              "sortOrder": 1
+            },
+            {
+              "id": "002249",
+              "name": "大洋电机",
+              "changePercent": 9.97,
+              "badge": "机器人关节+电机业务+数据中心风机+“羊”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "300839",
+              "name": "博汇股份",
+              "changePercent": 20.0,
+              "badge": "液冷算力+特种油升级+三季报增长",
+              "sortOrder": 3
+            },
+            {
+              "id": "600261",
+              "name": "阳光照明",
+              "changePercent": 10.09,
+              "badge": "照明业务+LED+激光通信投资+氢能装备",
+              "sortOrder": 4
+            },
+            {
+              "id": "601091",
+              "name": "沈鼓集团",
+              "changePercent": 9.99,
+              "badge": "离心压缩机+煤化工+核电装备",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886044.TI",
+      "name": "液冷服务器",
+      "stockCount": 5,
+      "highestBoardCount": 1,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 9.97,
+              "badge": "冰雪工程+数据中心液冷+军工+冷热设备",
+              "sortOrder": 1
+            },
+            {
+              "id": "002249",
+              "name": "大洋电机",
+              "changePercent": 9.97,
+              "badge": "机器人关节+电机业务+数据中心风机+“羊”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "300839",
+              "name": "博汇股份",
+              "changePercent": 20.0,
+              "badge": "液冷算力+特种油升级+三季报增长",
+              "sortOrder": 3
+            },
+            {
+              "id": "603370",
+              "name": "华新精科",
+              "changePercent": 10.0,
+              "badge": "人形机器人+精密铁芯",
+              "sortOrder": 4
+            },
+            {
+              "id": "603728",
+              "name": "鸣志电器",
+              "changePercent": 10.0,
+              "badge": "人形机器人+运动控制+数据中心液冷",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885312.TI",
+      "name": "物联网",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002724",
+              "name": "海洋王",
+              "changePercent": 10.01,
+              "badge": "专业照明+AI照明+军工+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "603280",
+              "name": "南方路机",
+              "changePercent": 9.99,
+              "badge": "工程搅拌+智能机器人+AI智能体",
+              "sortOrder": 1
+            },
+            {
+              "id": "603528",
+              "name": "多伦科技",
+              "changePercent": 9.96,
+              "badge": "人形机器人+智慧交管+智慧驾培",
+              "sortOrder": 2
+            },
+            {
+              "id": "603933",
+              "name": "睿能科技",
+              "changePercent": 9.99,
+              "badge": "人形机器人+工业自动化+IC分销",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885939.TI",
+      "name": "海峡两岸",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603278",
+              "name": "大业股份",
+              "changePercent": 10.01,
+              "badge": "人形机器人+橡胶骨架材料+全球销售",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002097",
+              "name": "山河智能",
+              "changePercent": 10.0,
+              "badge": "工程机械+无人应急装备+机器人概念+电动化",
+              "sortOrder": 1
+            },
+            {
+              "id": "603280",
+              "name": "南方路机",
+              "changePercent": 9.99,
+              "badge": "工程搅拌+智能机器人+AI智能体",
+              "sortOrder": 2
+            },
+            {
+              "id": "603933",
+              "name": "睿能科技",
+              "changePercent": 9.99,
+              "badge": "人形机器人+工业自动化+IC分销",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885641.TI",
+      "name": "风电",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603278",
+              "name": "大业股份",
+              "changePercent": 10.01,
+              "badge": "人形机器人+橡胶骨架材料+全球销售",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002249",
+              "name": "大洋电机",
+              "changePercent": 9.97,
+              "badge": "机器人关节+电机业务+数据中心风机+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "600192",
+              "name": "长城电工",
+              "changePercent": 10.04,
+              "badge": "输配电设备+核电项目+资产处置",
+              "sortOrder": 2
+            },
+            {
+              "id": "603028",
+              "name": "赛福天",
+              "changePercent": 10.07,
+              "badge": "机器人腱绳+特种钢索",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885427.TI",
+      "name": "高端装备",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603278",
+              "name": "大业股份",
+              "changePercent": 10.01,
+              "badge": "人形机器人+橡胶骨架材料+全球销售",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "001360",
+              "name": "南矿集团",
+              "changePercent": 10.01,
+              "badge": "矿山装备+金属矿山+智能运维",
+              "sortOrder": 1
+            },
+            {
+              "id": "002097",
+              "name": "山河智能",
+              "changePercent": 10.0,
+              "badge": "工程机械+无人应急装备+机器人概念+电动化",
+              "sortOrder": 2
+            },
+            {
+              "id": "002535",
+              "name": "林州重机",
+              "changePercent": 10.0,
+              "badge": "煤矿机械+煤矿服务+军工配套",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885756.TI",
+      "name": "芯片概念",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002076",
+              "name": "星光股份",
+              "changePercent": 10.2,
+              "badge": "数据要素+信息安全+LED封装+量子科技",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603330",
+              "name": "天洋新材",
+              "changePercent": 10.01,
+              "badge": "电子胶+光模块胶+热熔胶+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "603528",
+              "name": "多伦科技",
+              "changePercent": 9.96,
+              "badge": "人形机器人+智慧交管+智慧驾培",
+              "sortOrder": 1
+            },
+            {
+              "id": "603933",
+              "name": "睿能科技",
+              "changePercent": 9.99,
+              "badge": "人形机器人+工业自动化+IC分销",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
