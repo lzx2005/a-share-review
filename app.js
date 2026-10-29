@@ -65,21 +65,26 @@ if (typeof window !== 'undefined') {
 
   function latestDate() { return state.dates[state.dates.length - 1] || null }
 
-  async function loadDate(date) {
+  async function loadDate(date, silent = false) {
     if (currentAC) currentAC.abort()
     const ac = new AbortController(); currentAC = ac
     const my = ++reqSeq
-    setActiveLoading(date)
-    setHidden('#errorBanner', true); setHidden('#emptyBanner', true); setHidden('#skeletonSummary,#skeletonSentiment,#skeletonThemes', true)
+    if (!silent) setActiveLoading(date)
+    setHidden('#errorBanner', true); setHidden('#emptyBanner', true)
+    if (!silent) setHidden('#skeletonSummary,#skeletonSentiment,#skeletonThemes', true)
     try {
       const r = await fetch(DATA_URL_TPL.replace('<date>', date), { cache: 'no-cache', signal: ac.signal })
       if (my !== reqSeq) return
-      if (r.status === 404) { state.mode = 'empty'; setHidden('#emptyBanner', false); renderState(); return }
+      if (r.status === 404) {
+        if (silent) { console.warn('[silent refresh] 404:', date); return }    // 静默 404 不破坏现状有 UI
+        state.mode = 'empty'; setHidden('#emptyBanner', false); renderState(); return
+      }
       state.report = await r.json()
       reconcile()
       state.mode = 'ready'
     } catch (e) {
       if (e.name === 'AbortError' || my !== reqSeq) return
+      if (silent) { console.warn('[silent refresh] error:', e); return }        // 静默失败保旧 UI
       state.mode = 'page-error'; setHidden('#errorBanner', false)
     }
     renderState()
@@ -112,6 +117,23 @@ if (typeof window !== 'undefined') {
     if (state.mode === 'ready') renderReport()
     const banner = document.getElementById('statusBanner')
     if (state.mode === 'ready') banner.textContent = `已加载 ${state.report.tradeDate} ${state.report.weekday} 涨停题材复盘 / dataAnomaly=${state.anomaly}`
+    // 更新时间元素(每 60s 静默拉取后也走这里更新)
+    const upEl = document.getElementById('updatedAt')
+    if (upEl) upEl.textContent = (state.report && state.report.updatedAt) ? state.report.updatedAt : '--'
+  }
+
+  // 盘中每 60s 静默拉取当前 date 最新数据(update state.report 复用 renderState 重画, 不刷页 + 不骨架屏);
+  // 仅当 tab 可见(document.visibilityState 'visible')且当前 mode 已 ready + 有 state.date 时触发。
+  let autoRefreshTimer = null
+  function startAutoRefresh() {
+    if (autoRefreshTimer) clearInterval(autoRefreshTimer)
+    autoRefreshTimer = setInterval(() => {
+      if (state.mode !== 'ready' || !state.date) return
+      if (typeof document !== 'undefined' && document.visibilityState && document.visibilityState !== 'visible') return
+      const el = document.querySelector('.updated-at')
+      if (el) { el.classList.add('refreshing'); setTimeout(() => el.classList.remove('refreshing'), 1200) }
+      loadDate(state.date, true)
+    }, 60000)
   }
 
   function renderReport() {
@@ -259,6 +281,7 @@ if (typeof window !== 'undefined') {
     if (!start) { state.mode = 'empty'; setHidden('#emptyBanner', false); renderState(); return }
     await loadDate(start)
     updateNavButtons()
+    startAutoRefresh()
   }
 
   boot()

@@ -87,6 +87,13 @@ body{overflow-x:hidden;font-feature-settings:"tnum" on}
 .status-banner{font-size:13px;color:var(--text-sec);text-align:center;min-height:0;padding:0}
 .status-banner[hidden]{display:none}
 
+.updated-at{font-size:12px;color:var(--text-sec);text-align:center;min-height:0;padding:4px 0 6px}
+.updated-at[hidden]{display:none}
+.updated-at #updatedAt{color:var(--text-main);font-variant-numeric:tabular-nums;font-weight:600}
+@keyframes updated-blink{0%,60%{opacity:1}70%,80%{opacity:.45}90%,100%{opacity:1}}
+.updated-at.refreshing #updatedAt{animation:updated-blink 1.4s ease-in-out 1}
+@media(prefers-reduced-motion:reduce){.updated-at.refreshing #updatedAt{animation:none}}
+
 @media(max-width:1199px){
   :root{--pad-x:16px}
   .primary-nav{height:64px}

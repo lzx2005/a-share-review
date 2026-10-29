@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 39,
+    "limitUpCount": 40,
     "limitUpSuccessRate": 63,
-    "limitDownCount": 13
+    "limitDownCount": 14
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,14 +43,14 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 27
+        "stockCount": 28
       }
     ],
     "hotTheme": {
       "name": "商业航天",
       "stockCount": 14
     },
-    "poolFirstBoardCount": 27,
+    "poolFirstBoardCount": 28,
     "poolContinuousBoardCount": 12,
     "poolBrokenBoardCount": 23
   },
@@ -397,6 +397,75 @@
       ]
     },
     {
+      "id": "886067.TI",
+      "name": "低空经济",
+      "stockCount": 6,
+      "highestBoardCount": 4,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 9.98,
+              "badge": "人形机器人+PCB+汽车零部件+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002526",
+              "name": "山东矿机",
+              "changePercent": 10.07,
+              "badge": "煤炭机械+焊接机器人+第三季度业绩增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000701",
+              "name": "厦门信达",
+              "changePercent": 9.98,
+              "badge": "大宗商品+算力业务+三季报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "600118",
+              "name": "中国卫星",
+              "changePercent": 10.0,
+              "badge": "三季报增长+卫星制造+商业航天",
+              "sortOrder": 2
+            },
+            {
+              "id": "600576",
+              "name": "祥源文旅",
+              "changePercent": 10.02,
+              "badge": "旅游景区+冰雪产业+低空文旅",
+              "sortOrder": 3
+            },
+            {
+              "id": "600728",
+              "name": "佳都科技",
+              "changePercent": 10.09,
+              "badge": null,
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885426.TI",
       "name": "海工装备",
       "stockCount": 6,
@@ -454,68 +523,6 @@
               "changePercent": 9.98,
               "badge": "关节轴承+人形机器人+智元机器人",
               "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886067.TI",
-      "name": "低空经济",
-      "stockCount": 5,
-      "highestBoardCount": 4,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002708",
-              "name": "光洋股份",
-              "changePercent": 9.98,
-              "badge": "人形机器人+PCB+汽车零部件+“羊”字辈",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002526",
-              "name": "山东矿机",
-              "changePercent": 10.07,
-              "badge": "煤炭机械+焊接机器人+第三季度业绩增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000701",
-              "name": "厦门信达",
-              "changePercent": 9.98,
-              "badge": "大宗商品+算力业务+三季报增长",
-              "sortOrder": 1
-            },
-            {
-              "id": "600118",
-              "name": "中国卫星",
-              "changePercent": 10.0,
-              "badge": "三季报增长+卫星制造+商业航天",
-              "sortOrder": 2
-            },
-            {
-              "id": "600576",
-              "name": "祥源文旅",
-              "changePercent": 10.02,
-              "badge": "旅游景区+冰雪产业+低空文旅",
-              "sortOrder": 3
             }
           ]
         }
@@ -1020,5 +1027,6 @@
         }
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-10-29 13:42:16"
 }
