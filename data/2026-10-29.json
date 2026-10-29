@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 41,
-    "limitUpSuccessRate": 64,
-    "limitDownCount": 28
+    "limitUpCount": 42,
+    "limitUpSuccessRate": 65,
+    "limitDownCount": 30
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,14 +43,14 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 30
+        "stockCount": 31
       }
     ],
     "hotTheme": {
       "name": "商业航天",
       "stockCount": 13
     },
-    "poolFirstBoardCount": 30,
+    "poolFirstBoardCount": 31,
     "poolContinuousBoardCount": 11,
     "poolBrokenBoardCount": 23
   },
@@ -1008,5 +1008,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-29 14:24:39"
+  "updatedAt": "2026-10-29 14:31:53"
 }
