@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 41,
-    "limitUpSuccessRate": 62,
-    "limitDownCount": 35
+    "limitUpCount": 38,
+    "limitUpSuccessRate": 59,
+    "limitDownCount": 36
   },
   "sentiment": {
     "promotion1To2": {
@@ -35,7 +35,7 @@
       },
       {
         "boardCount": 3,
-        "stockCount": 3
+        "stockCount": 2
       },
       {
         "boardCount": 2,
@@ -43,38 +43,25 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 31
+        "stockCount": 29
       }
     ],
     "hotTheme": {
       "name": "商业航天",
-      "stockCount": 13
+      "stockCount": 12
     },
-    "poolFirstBoardCount": 31,
-    "poolContinuousBoardCount": 10,
-    "poolBrokenBoardCount": 25
+    "poolFirstBoardCount": 29,
+    "poolContinuousBoardCount": 9,
+    "poolBrokenBoardCount": 26
   },
   "themes": [
     {
       "id": "886078.TI",
       "name": "商业航天",
-      "stockCount": 13,
-      "highestBoardCount": 3,
-      "limitUpCount": 13,
+      "stockCount": 12,
+      "highestBoardCount": 2,
+      "limitUpCount": 12,
       "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "001400",
-              "name": "江顺科技",
-              "changePercent": 10.0,
-              "badge": "三季报增长+商业航天3D打印+铝挤压模具+液冷",
-              "sortOrder": 1
-            }
-          ]
-        },
         {
           "boardCount": 2,
           "totalCount": 1,
@@ -358,62 +345,6 @@
               "changePercent": 9.98,
               "badge": "关节轴承+人形机器人+智元机器人",
               "sortOrder": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885641.TI",
-      "name": "风电",
-      "stockCount": 5,
-      "highestBoardCount": 3,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "001400",
-              "name": "江顺科技",
-              "changePercent": 10.0,
-              "badge": "三季报增长+商业航天3D打印+铝挤压模具+液冷",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002531",
-              "name": "天顺风能",
-              "changePercent": 9.97,
-              "badge": "三季报增长+海上风电+油气船舶",
-              "sortOrder": 1
-            },
-            {
-              "id": "301079",
-              "name": "邵阳液压",
-              "changePercent": 20.01,
-              "badge": "航天+液压主业+三季报增长+生肖炒作",
-              "sortOrder": 2
-            },
-            {
-              "id": "600592",
-              "name": "龙溪股份",
-              "changePercent": 9.98,
-              "badge": "关节轴承+人形机器人+智元机器人",
-              "sortOrder": 3
-            },
-            {
-              "id": "601188",
-              "name": "龙江交通",
-              "changePercent": 10.06,
-              "badge": "冰雪旅游保障+高速公路运营",
-              "sortOrder": 4
             }
           ]
         }
@@ -961,7 +892,56 @@
           ]
         }
       ]
+    },
+    {
+      "id": "886095.TI",
+      "name": "IP经济(谷子经济)",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002862",
+              "name": "实丰文化",
+              "changePercent": 10.01,
+              "badge": "AI玩具+IP潮玩+玩具出海",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000701",
+              "name": "厦门信达",
+              "changePercent": 9.98,
+              "badge": "大宗商品+算力业务+三季报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "600576",
+              "name": "祥源文旅",
+              "changePercent": 10.02,
+              "badge": "旅游景区+冰雪产业+低空文旅",
+              "sortOrder": 2
+            },
+            {
+              "id": "603103",
+              "name": "横店影视",
+              "changePercent": 10.03,
+              "badge": "AI短剧+影视全产业链+电影放映",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-10-29 14:34:58"
+  "updatedAt": "2026-10-29 14:38:11"
 }
