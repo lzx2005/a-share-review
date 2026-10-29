@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 38,
-    "limitUpSuccessRate": 60,
-    "limitDownCount": 38
+    "limitUpCount": 40,
+    "limitUpSuccessRate": 62,
+    "limitDownCount": 43
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,19 +39,19 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 5
+        "stockCount": 6
       },
       {
         "boardCount": 1,
-        "stockCount": 29
+        "stockCount": 30
       }
     ],
     "hotTheme": {
       "name": "商业航天",
       "stockCount": 11
     },
-    "poolFirstBoardCount": 29,
-    "poolContinuousBoardCount": 9,
+    "poolFirstBoardCount": 30,
+    "poolContinuousBoardCount": 10,
     "poolBrokenBoardCount": 25
   },
   "themes": [
@@ -469,6 +469,74 @@
       ]
     },
     {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 5,
+      "highestBoardCount": 4,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 9.98,
+              "badge": "人形机器人+PCB+汽车零部件+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601956",
+              "name": "东贝集团",
+              "changePercent": 10.02,
+              "badge": "机器人电机+制冷压缩机+商用制冷",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002943",
+              "name": "宇晶股份",
+              "changePercent": 10.0,
+              "badge": "机器人+碳化硅设备+磷化铟设备",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 10.03,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷",
+              "sortOrder": 1
+            },
+            {
+              "id": "600428",
+              "name": "中远海特",
+              "changePercent": 10.05,
+              "badge": "三季报增长+特种运输+重吊船",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885936.TI",
       "name": "绿色电力",
       "stockCount": 5,
@@ -643,61 +711,6 @@
       ]
     },
     {
-      "id": "885997.TI",
-      "name": "比亚迪概念",
-      "stockCount": 4,
-      "highestBoardCount": 4,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002708",
-              "name": "光洋股份",
-              "changePercent": 9.98,
-              "badge": "人形机器人+PCB+汽车零部件+“羊”字辈",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "601956",
-              "name": "东贝集团",
-              "changePercent": 10.02,
-              "badge": "机器人电机+制冷压缩机+商用制冷",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "000530",
-              "name": "冰山冷热",
-              "changePercent": 10.03,
-              "badge": "冰雪工程+数据中心液冷+船舶制冷",
-              "sortOrder": 1
-            },
-            {
-              "id": "600428",
-              "name": "中远海特",
-              "changePercent": 10.05,
-              "badge": "三季报增长+特种运输+重吊船",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "886069.TI",
       "name": "人形机器人",
       "stockCount": 4,
@@ -747,6 +760,61 @@
               "changePercent": 9.98,
               "badge": "关节轴承+人形机器人+智元机器人",
               "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885540.TI",
+      "name": "三胎概念",
+      "stockCount": 4,
+      "highestBoardCount": 4,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001219",
+              "name": "青岛食品",
+              "changePercent": 10.01,
+              "badge": "股权转让+三季报增长+饼干食品",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002172",
+              "name": "澳洋健康",
+              "changePercent": 10.04,
+              "badge": "脑机接口+医疗服务+国资控股+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "002862",
+              "name": "实丰文化",
+              "changePercent": 10.01,
+              "badge": "AI玩具+IP潮玩+玩具出海",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605179",
+              "name": "一鸣食品",
+              "changePercent": 10.0,
+              "badge": "低温乳品+烘焙食品+米制鲜食",
+              "sortOrder": 1
             }
           ]
         }
@@ -910,56 +978,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "885564.TI",
-      "name": "无人机",
-      "stockCount": 4,
-      "highestBoardCount": 2,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002526",
-              "name": "山东矿机",
-              "changePercent": 10.07,
-              "badge": "煤炭机械+焊接机器人+第三季度业绩增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000701",
-              "name": "厦门信达",
-              "changePercent": 9.98,
-              "badge": "大宗商品+算力业务+三季报增长",
-              "sortOrder": 1
-            },
-            {
-              "id": "600118",
-              "name": "中国卫星",
-              "changePercent": 10.0,
-              "badge": "三季报增长+卫星制造+商业航天",
-              "sortOrder": 2
-            },
-            {
-              "id": "605598",
-              "name": "上海港湾",
-              "changePercent": 9.98,
-              "badge": "商业航天+卫星能源+钙钛矿电池",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-10-29 14:45:21"
+  "updatedAt": "2026-10-29 14:55:42"
 }
