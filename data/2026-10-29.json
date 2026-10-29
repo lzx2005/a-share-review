@@ -9,7 +9,7 @@
     "indexChangePercent": null,
     "limitUpCount": 40,
     "limitUpSuccessRate": 63,
-    "limitDownCount": 15
+    "limitDownCount": 17
   },
   "sentiment": {
     "promotion1To2": {
@@ -458,7 +458,7 @@
               "id": "600728",
               "name": "佳都科技",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "交通AI+智能轨交+交通鸿蒙",
               "sortOrder": 4
             }
           ]
@@ -1028,5 +1028,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-29 13:43:34"
+  "updatedAt": "2026-10-29 13:53:54"
 }
