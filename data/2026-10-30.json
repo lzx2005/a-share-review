@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 50,
-    "limitUpSuccessRate": 62,
-    "limitDownCount": 69
+    "limitUpCount": 49,
+    "limitUpSuccessRate": 60,
+    "limitDownCount": 77
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 41
+        "stockCount": 40
       }
     ],
     "hotTheme": {
       "name": "乡村振兴",
       "stockCount": 9
     },
-    "poolFirstBoardCount": 41,
+    "poolFirstBoardCount": 40,
     "poolContinuousBoardCount": 9,
-    "poolBrokenBoardCount": 31
+    "poolBrokenBoardCount": 32
   },
   "themes": [
     {
@@ -136,13 +136,13 @@
     {
       "id": "886110.TI",
       "name": "2026中报预增",
-      "stockCount": 8,
+      "stockCount": 7,
       "highestBoardCount": 1,
-      "limitUpCount": 8,
+      "limitUpCount": 7,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 8,
+          "totalCount": 7,
           "stocks": [
             {
               "id": "000676",
@@ -166,39 +166,32 @@
               "sortOrder": 3
             },
             {
-              "id": "002164",
-              "name": "宁波东力",
-              "changePercent": 10.01,
-              "badge": "机器人+精密减速器+三季报增长",
-              "sortOrder": 4
-            },
-            {
               "id": "002365",
               "name": "永安药业",
               "changePercent": 9.98,
               "badge": "三季报大增+牛磺酸+量价齐升",
-              "sortOrder": 5
+              "sortOrder": 4
             },
             {
               "id": "002432",
               "name": "九安医疗",
               "changePercent": 9.99,
               "badge": "三季报大增+科创投资+糖尿病照护",
-              "sortOrder": 6
+              "sortOrder": 5
             },
             {
               "id": "002636",
               "name": "金安国纪",
               "changePercent": 10.0,
               "badge": "三季报高增+覆铜板+AI服务器",
-              "sortOrder": 7
+              "sortOrder": 6
             },
             {
               "id": "600189",
               "name": "泉阳泉",
               "changePercent": 9.95,
               "badge": "矿泉水+大消费+三季报增长+仓储",
-              "sortOrder": 8
+              "sortOrder": 7
             }
           ]
         }
@@ -908,5 +901,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-30 14:41:59"
+  "updatedAt": "2026-10-30 14:52:23"
 }
