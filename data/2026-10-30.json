@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 51,
-    "limitUpSuccessRate": 64,
-    "limitDownCount": 50
+    "limitUpCount": 50,
+    "limitUpSuccessRate": 62,
+    "limitDownCount": 69
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,20 +39,20 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 5
+        "stockCount": 6
       },
       {
         "boardCount": 1,
-        "stockCount": 43
+        "stockCount": 41
       }
     ],
     "hotTheme": {
       "name": "乡村振兴",
       "stockCount": 9
     },
-    "poolFirstBoardCount": 43,
-    "poolContinuousBoardCount": 8,
-    "poolBrokenBoardCount": 29
+    "poolFirstBoardCount": 41,
+    "poolContinuousBoardCount": 9,
+    "poolBrokenBoardCount": 31
   },
   "themes": [
     {
@@ -136,13 +136,13 @@
     {
       "id": "886110.TI",
       "name": "2026中报预增",
-      "stockCount": 9,
+      "stockCount": 8,
       "highestBoardCount": 1,
-      "limitUpCount": 9,
+      "limitUpCount": 8,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 9,
+          "totalCount": 8,
           "stocks": [
             {
               "id": "000676",
@@ -199,13 +199,6 @@
               "changePercent": 9.95,
               "badge": "矿泉水+大消费+三季报增长+仓储",
               "sortOrder": 8
-            },
-            {
-              "id": "603002",
-              "name": "宏昌电子",
-              "changePercent": 9.98,
-              "badge": "三季报大增+高速覆铜板+封装膜材",
-              "sortOrder": 9
             }
           ]
         }
@@ -338,63 +331,6 @@
       ]
     },
     {
-      "id": "885800.TI",
-      "name": "消费电子概念",
-      "stockCount": 6,
-      "highestBoardCount": 1,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 6,
-          "stocks": [
-            {
-              "id": "000676",
-              "name": "智度股份",
-              "changePercent": 9.98,
-              "badge": "三季报增长+数字营销+鲸鸿动能",
-              "sortOrder": 1
-            },
-            {
-              "id": "001287",
-              "name": "中电港",
-              "changePercent": 10.0,
-              "badge": "三季报大增+存储分销+分销龙头",
-              "sortOrder": 2
-            },
-            {
-              "id": "301132",
-              "name": "满坤科技",
-              "changePercent": 20.01,
-              "badge": "三季报增长+PCB+服务器电源+光模块",
-              "sortOrder": 3
-            },
-            {
-              "id": "600745",
-              "name": "*ST闻泰",
-              "changePercent": 10.04,
-              "badge": "安世谈判+功率半导体+机器人",
-              "sortOrder": 4
-            },
-            {
-              "id": "605118",
-              "name": "力鼎光电",
-              "changePercent": 10.0,
-              "badge": "三季报增长+具身智能+机器人光学+无人机光学",
-              "sortOrder": 5
-            },
-            {
-              "id": "688045",
-              "name": "必易微",
-              "changePercent": 20.0,
-              "badge": "三季报扭亏+数字电源+机器人传感+模拟芯片",
-              "sortOrder": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "886057.TI",
       "name": "新型工业化",
       "stockCount": 5,
@@ -500,62 +436,6 @@
               "name": "大参林",
               "changePercent": 9.99,
               "badge": "三季报增长+回购注销+医药零售",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885556.TI",
-      "name": "5G",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603703",
-              "name": "盛洋科技",
-              "changePercent": 10.04,
-              "badge": "卫星通信终端+高速铜缆+“羊”字辈",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "301132",
-              "name": "满坤科技",
-              "changePercent": 20.01,
-              "badge": "三季报增长+PCB+服务器电源+光模块",
-              "sortOrder": 1
-            },
-            {
-              "id": "600745",
-              "name": "*ST闻泰",
-              "changePercent": 10.04,
-              "badge": "安世谈判+功率半导体+机器人",
-              "sortOrder": 2
-            },
-            {
-              "id": "603002",
-              "name": "宏昌电子",
-              "changePercent": 9.98,
-              "badge": "三季报大增+高速覆铜板+封装膜材",
-              "sortOrder": 3
-            },
-            {
-              "id": "605058",
-              "name": "澳弘电子",
-              "changePercent": 10.0,
-              "badge": "PCB+HDI板+AI服务器+三季报增长",
               "sortOrder": 4
             }
           ]
@@ -698,6 +578,56 @@
               "name": "九安医疗",
               "changePercent": 9.99,
               "badge": "三季报大增+科创投资+糖尿病照护",
+              "sortOrder": 3
+            },
+            {
+              "id": "600745",
+              "name": "*ST闻泰",
+              "changePercent": 10.04,
+              "badge": "安世谈判+功率半导体+机器人",
+              "sortOrder": 4
+            },
+            {
+              "id": "688045",
+              "name": "必易微",
+              "changePercent": 20.0,
+              "badge": "三季报扭亏+数字电源+机器人传感+模拟芯片",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885800.TI",
+      "name": "消费电子概念",
+      "stockCount": 5,
+      "highestBoardCount": 1,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 9.98,
+              "badge": "三季报增长+数字营销+鲸鸿动能",
+              "sortOrder": 1
+            },
+            {
+              "id": "001287",
+              "name": "中电港",
+              "changePercent": 10.0,
+              "badge": "三季报大增+存储分销+分销龙头",
+              "sortOrder": 2
+            },
+            {
+              "id": "301132",
+              "name": "满坤科技",
+              "changePercent": 20.01,
+              "badge": "三季报增长+PCB+服务器电源+光模块",
               "sortOrder": 3
             },
             {
@@ -921,7 +851,62 @@
           ]
         }
       ]
+    },
+    {
+      "id": "885574.TI",
+      "name": "卫星导航",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603131",
+              "name": "上海沪工",
+              "changePercent": 10.03,
+              "badge": "三季报扭亏+商业航天+焊接机器人+焊接切割设备",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603703",
+              "name": "盛洋科技",
+              "changePercent": 10.04,
+              "badge": "卫星通信终端+高速铜缆+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "001287",
+              "name": "中电港",
+              "changePercent": 10.0,
+              "badge": "三季报大增+存储分销+分销龙头",
+              "sortOrder": 1
+            },
+            {
+              "id": "688066",
+              "name": "*ST航图",
+              "changePercent": 20.04,
+              "badge": "被申请重整+空天信息+卫星遥感",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-10-30 14:31:37"
+  "updatedAt": "2026-10-30 14:41:59"
 }
