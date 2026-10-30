@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 56,
-    "limitUpSuccessRate": 71,
-    "limitDownCount": 25
+    "limitUpCount": 58,
+    "limitUpSuccessRate": 72,
+    "limitDownCount": 32
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,14 +43,14 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 47
+        "stockCount": 49
       }
     ],
     "hotTheme": {
       "name": "乡村振兴",
       "stockCount": 11
     },
-    "poolFirstBoardCount": 47,
+    "poolFirstBoardCount": 49,
     "poolContinuousBoardCount": 9,
     "poolBrokenBoardCount": 23
   },
@@ -358,6 +358,63 @@
               "changePercent": 20.04,
               "badge": "被申请重整+空天信息+卫星遥感",
               "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 6,
+      "highestBoardCount": 1,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "000417",
+              "name": "合百集团",
+              "changePercent": 10.04,
+              "badge": "三季报大增+间接投资长鑫科技+百货零售",
+              "sortOrder": 1
+            },
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 9.98,
+              "badge": "三季报增长+数字营销+鲸鸿动能",
+              "sortOrder": 2
+            },
+            {
+              "id": "002432",
+              "name": "九安医疗",
+              "changePercent": 9.99,
+              "badge": "三季报大增+科创投资+糖尿病照护",
+              "sortOrder": 3
+            },
+            {
+              "id": "002582",
+              "name": "好想你",
+              "changePercent": 9.97,
+              "badge": "三季报扭亏+红枣龙头+大消费+鸣鸣很忙",
+              "sortOrder": 4
+            },
+            {
+              "id": "301187",
+              "name": "欧圣电气",
+              "changePercent": 20.0,
+              "badge": "三季度净利增+关税退税+空压机+护理机器人",
+              "sortOrder": 5
+            },
+            {
+              "id": "600510",
+              "name": "黑牡丹",
+              "changePercent": 10.05,
+              "badge": "牛仔布+新型城镇化+园区运营",
+              "sortOrder": 6
             }
           ]
         }
@@ -672,7 +729,7 @@
             {
               "id": "001210",
               "name": "金房能源",
-              "changePercent": 10.01,
+              "changePercent": 9.35,
               "badge": "供热+智能巡检+三季报增长",
               "sortOrder": 1
             },
@@ -758,8 +815,8 @@
       ]
     },
     {
-      "id": "885413.TI",
-      "name": "创投",
+      "id": "885835.TI",
+      "name": "参股银行",
       "stockCount": 5,
       "highestBoardCount": 1,
       "limitUpCount": 5,
@@ -776,31 +833,31 @@
               "sortOrder": 1
             },
             {
-              "id": "000676",
-              "name": "智度股份",
-              "changePercent": 9.98,
-              "badge": "三季报增长+数字营销+鲸鸿动能",
-              "sortOrder": 2
-            },
-            {
-              "id": "002432",
-              "name": "九安医疗",
-              "changePercent": 9.99,
-              "badge": "三季报大增+科创投资+糖尿病照护",
-              "sortOrder": 3
-            },
-            {
               "id": "002582",
               "name": "好想你",
               "changePercent": 9.97,
               "badge": "三季报扭亏+红枣龙头+大消费+鸣鸣很忙",
+              "sortOrder": 2
+            },
+            {
+              "id": "300829",
+              "name": "金丹科技",
+              "changePercent": 20.02,
+              "badge": "乳酸+聚乳酸+可降解材料",
+              "sortOrder": 3
+            },
+            {
+              "id": "600113",
+              "name": "浙江东日",
+              "changePercent": 10.01,
+              "badge": "农批市场+大消费+温州国资",
               "sortOrder": 4
             },
             {
-              "id": "301187",
-              "name": "欧圣电气",
-              "changePercent": 20.0,
-              "badge": "三季度净利增+关税退税+空压机+护理机器人",
+              "id": "600510",
+              "name": "黑牡丹",
+              "changePercent": 10.05,
+              "badge": "牛仔布+新型城镇化+园区运营",
               "sortOrder": 5
             }
           ]
@@ -906,57 +963,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "885921.TI",
-      "name": "储能",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000716",
-              "name": "黑芝麻",
-              "changePercent": 10.08,
-              "badge": "三季报大增+黑色食养+药食同源",
-              "sortOrder": 1
-            },
-            {
-              "id": "001210",
-              "name": "金房能源",
-              "changePercent": 10.01,
-              "badge": "供热+智能巡检+三季报增长",
-              "sortOrder": 2
-            },
-            {
-              "id": "001287",
-              "name": "中电港",
-              "changePercent": 10.0,
-              "badge": "三季报大增+存储分销+分销龙头",
-              "sortOrder": 3
-            },
-            {
-              "id": "605058",
-              "name": "澳弘电子",
-              "changePercent": 10.0,
-              "badge": "PCB+HDI板+AI服务器+三季报增长",
-              "sortOrder": 4
-            },
-            {
-              "id": "688045",
-              "name": "必易微",
-              "changePercent": 20.0,
-              "badge": "三季报扭亏+数字电源+机器人传感+模拟芯片",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-10-30 14:00:33"
+  "updatedAt": "2026-10-30 14:10:52"
 }
