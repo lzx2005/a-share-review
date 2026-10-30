@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 58,
-    "limitUpSuccessRate": 72,
-    "limitDownCount": 23
+    "limitUpCount": 56,
+    "limitUpSuccessRate": 71,
+    "limitDownCount": 25
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 49
+        "stockCount": 47
       }
     ],
     "hotTheme": {
       "name": "乡村振兴",
       "stockCount": 11
     },
-    "poolFirstBoardCount": 49,
+    "poolFirstBoardCount": 47,
     "poolContinuousBoardCount": 9,
-    "poolBrokenBoardCount": 22
+    "poolBrokenBoardCount": 23
   },
   "themes": [
     {
@@ -105,7 +105,7 @@
               "id": "001318",
               "name": "阳光乳业",
               "changePercent": 10.01,
-              "badge": "低温乳制品+大消费+羊字辈",
+              "badge": "低温乳制品+大消费+“羊”字辈",
               "sortOrder": 6
             },
             {
@@ -226,70 +226,6 @@
       ]
     },
     {
-      "id": "886100.TI",
-      "name": "DeepSeek概念",
-      "stockCount": 7,
-      "highestBoardCount": 1,
-      "limitUpCount": 7,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 7,
-          "stocks": [
-            {
-              "id": "001287",
-              "name": "中电港",
-              "changePercent": 10.0,
-              "badge": "三季报大增+存储分销+分销龙头",
-              "sortOrder": 1
-            },
-            {
-              "id": "300030",
-              "name": "阳普医疗",
-              "changePercent": 20.03,
-              "badge": "“羊”字辈+智慧医疗+真空采血+许可证延续",
-              "sortOrder": 2
-            },
-            {
-              "id": "301520",
-              "name": "万邦医药",
-              "changePercent": 20.0,
-              "badge": "CRO+创新药+赛德盛并购+数智化",
-              "sortOrder": 3
-            },
-            {
-              "id": "600664",
-              "name": "哈药股份",
-              "changePercent": 10.02,
-              "badge": "创新药+医药工业+三季报增长",
-              "sortOrder": 4
-            },
-            {
-              "id": "603112",
-              "name": "华翔股份",
-              "changePercent": 9.99,
-              "badge": "机器人减速器+压缩机零部件+三季报",
-              "sortOrder": 5
-            },
-            {
-              "id": "603233",
-              "name": "大参林",
-              "changePercent": 9.99,
-              "badge": "三季报增长+回购注销+医药零售",
-              "sortOrder": 6
-            },
-            {
-              "id": "688066",
-              "name": "*ST航图",
-              "changePercent": 20.04,
-              "badge": "被申请重整+空天信息+卫星遥感",
-              "sortOrder": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885540.TI",
       "name": "三胎概念",
       "stockCount": 6,
@@ -330,7 +266,7 @@
               "id": "001318",
               "name": "阳光乳业",
               "changePercent": 10.01,
-              "badge": "低温乳制品+大消费+羊字辈",
+              "badge": "低温乳制品+大消费+“羊”字辈",
               "sortOrder": 1
             },
             {
@@ -478,6 +414,63 @@
               "name": "必易微",
               "changePercent": 20.0,
               "badge": "三季报扭亏+数字电源+机器人传感+模拟芯片",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886100.TI",
+      "name": "DeepSeek概念",
+      "stockCount": 6,
+      "highestBoardCount": 1,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "001287",
+              "name": "中电港",
+              "changePercent": 10.0,
+              "badge": "三季报大增+存储分销+分销龙头",
+              "sortOrder": 1
+            },
+            {
+              "id": "300030",
+              "name": "阳普医疗",
+              "changePercent": 20.03,
+              "badge": "“羊”字辈+智慧医疗+真空采血+许可证延续",
+              "sortOrder": 2
+            },
+            {
+              "id": "301520",
+              "name": "万邦医药",
+              "changePercent": 20.0,
+              "badge": "CRO+创新药+赛德盛并购+数智化",
+              "sortOrder": 3
+            },
+            {
+              "id": "600664",
+              "name": "哈药股份",
+              "changePercent": 10.02,
+              "badge": "创新药+医药工业+三季报增长",
+              "sortOrder": 4
+            },
+            {
+              "id": "603233",
+              "name": "大参林",
+              "changePercent": 9.99,
+              "badge": "三季报增长+回购注销+医药零售",
+              "sortOrder": 5
+            },
+            {
+              "id": "688066",
+              "name": "*ST航图",
+              "changePercent": 20.04,
+              "badge": "被申请重整+空天信息+卫星遥感",
               "sortOrder": 6
             }
           ]
@@ -965,5 +958,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-30 13:50:14"
+  "updatedAt": "2026-10-30 14:00:33"
 }
