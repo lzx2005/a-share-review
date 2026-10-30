@@ -108,7 +108,7 @@
               "id": "300829",
               "name": "金丹科技",
               "changePercent": 20.02,
-              "badge": null,
+              "badge": "乳酸+聚乳酸+可降解材料",
               "sortOrder": 7
             },
             {
@@ -229,7 +229,7 @@
               "id": "301132",
               "name": "满坤科技",
               "changePercent": 20.01,
-              "badge": null,
+              "badge": "三季报增长+PCB+服务器电源+光模块",
               "sortOrder": 3
             },
             {
@@ -368,7 +368,7 @@
               "id": "301132",
               "name": "满坤科技",
               "changePercent": 20.01,
-              "badge": null,
+              "badge": "三季报增长+PCB+服务器电源+光模块",
               "sortOrder": 2
             },
             {
@@ -737,7 +737,7 @@
               "id": "301132",
               "name": "满坤科技",
               "changePercent": 20.01,
-              "badge": null,
+              "badge": "三季报增长+PCB+服务器电源+光模块",
               "sortOrder": 2
             },
             {
@@ -844,7 +844,7 @@
               "id": "301132",
               "name": "满坤科技",
               "changePercent": 20.01,
-              "badge": null,
+              "badge": "三季报增长+PCB+服务器电源+光模块",
               "sortOrder": 3
             },
             {
@@ -921,5 +921,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-30 11:36:07"
+  "updatedAt": "2026-10-30 11:46:26"
 }
