@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 58,
-    "limitUpSuccessRate": 72,
-    "limitDownCount": 32
+    "limitUpCount": 31,
+    "limitUpSuccessRate": 56,
+    "limitDownCount": 38
   },
   "sentiment": {
     "promotion1To2": {
@@ -35,36 +35,36 @@
       },
       {
         "boardCount": 3,
-        "stockCount": 2
+        "stockCount": 1
       },
       {
         "boardCount": 2,
-        "stockCount": 6
+        "stockCount": 3
       },
       {
         "boardCount": 1,
-        "stockCount": 49
+        "stockCount": 26
       }
     ],
     "hotTheme": {
       "name": "乡村振兴",
-      "stockCount": 11
+      "stockCount": 8
     },
-    "poolFirstBoardCount": 49,
-    "poolContinuousBoardCount": 9,
-    "poolBrokenBoardCount": 23
+    "poolFirstBoardCount": 26,
+    "poolContinuousBoardCount": 5,
+    "poolBrokenBoardCount": 24
   },
   "themes": [
     {
       "id": "885705.TI",
       "name": "乡村振兴",
-      "stockCount": 11,
+      "stockCount": 8,
       "highestBoardCount": 1,
-      "limitUpCount": 11,
+      "limitUpCount": 8,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 11,
+          "totalCount": 8,
           "stocks": [
             {
               "id": "000417",
@@ -121,27 +121,6 @@
               "changePercent": 20.02,
               "badge": "乳酸+聚乳酸+可降解材料",
               "sortOrder": 8
-            },
-            {
-              "id": "600113",
-              "name": "浙江东日",
-              "changePercent": 10.01,
-              "badge": "农批市场+大消费+温州国资",
-              "sortOrder": 9
-            },
-            {
-              "id": "600189",
-              "name": "泉阳泉",
-              "changePercent": 9.95,
-              "badge": "矿泉水+大消费+三季报增长+仓储",
-              "sortOrder": 10
-            },
-            {
-              "id": "603029",
-              "name": "天鹅股份",
-              "changePercent": 10.01,
-              "badge": "三季报增长+采棉机+供销社",
-              "sortOrder": 11
             }
           ]
         }
@@ -150,13 +129,13 @@
     {
       "id": "886110.TI",
       "name": "2026中报预增",
-      "stockCount": 9,
+      "stockCount": 7,
       "highestBoardCount": 1,
-      "limitUpCount": 9,
+      "limitUpCount": 7,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 9,
+          "totalCount": 7,
           "stocks": [
             {
               "id": "000676",
@@ -206,158 +185,6 @@
               "changePercent": 10.0,
               "badge": "三季报高增+覆铜板+AI服务器",
               "sortOrder": 7
-            },
-            {
-              "id": "600189",
-              "name": "泉阳泉",
-              "changePercent": 9.95,
-              "badge": "矿泉水+大消费+三季报增长+仓储",
-              "sortOrder": 8
-            },
-            {
-              "id": "603002",
-              "name": "宏昌电子",
-              "changePercent": 9.98,
-              "badge": "三季报大增+高速覆铜板+封装膜材",
-              "sortOrder": 9
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885540.TI",
-      "name": "三胎概念",
-      "stockCount": 6,
-      "highestBoardCount": 5,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 5,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "001219",
-              "name": "青岛食品",
-              "changePercent": 9.98,
-              "badge": "青啤拟入主+三季报增长+饼干食品",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002172",
-              "name": "澳洋健康",
-              "changePercent": 10.06,
-              "badge": "脑机接口+医疗服务+国资控股+“羊”字辈",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "001318",
-              "name": "阳光乳业",
-              "changePercent": 10.01,
-              "badge": "低温乳制品+大消费+“羊”字辈",
-              "sortOrder": 1
-            },
-            {
-              "id": "002365",
-              "name": "永安药业",
-              "changePercent": 9.98,
-              "badge": "三季报大增+牛磺酸+量价齐升",
-              "sortOrder": 2
-            },
-            {
-              "id": "600189",
-              "name": "泉阳泉",
-              "changePercent": 9.95,
-              "badge": "矿泉水+大消费+三季报增长+仓储",
-              "sortOrder": 3
-            },
-            {
-              "id": "600664",
-              "name": "哈药股份",
-              "changePercent": 10.02,
-              "badge": "创新药+医药工业+三季报增长",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886078.TI",
-      "name": "商业航天",
-      "stockCount": 6,
-      "highestBoardCount": 3,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603131",
-              "name": "上海沪工",
-              "changePercent": 10.03,
-              "badge": "三季报扭亏+商业航天+焊接机器人+焊接切割设备",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "600261",
-              "name": "阳光照明",
-              "changePercent": 9.95,
-              "badge": "商业航天+激光通信投资+LED照明+“羊”字辈",
-              "sortOrder": 1
-            },
-            {
-              "id": "603703",
-              "name": "盛洋科技",
-              "changePercent": 10.04,
-              "badge": "卫星通信终端+高速铜缆+“羊”字辈",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000410",
-              "name": "沈阳机床",
-              "changePercent": 10.04,
-              "badge": "扭亏+工业母机+航空航天+购买资产",
-              "sortOrder": 1
-            },
-            {
-              "id": "605058",
-              "name": "澳弘电子",
-              "changePercent": 10.0,
-              "badge": "PCB+HDI板+AI服务器+三季报增长",
-              "sortOrder": 2
-            },
-            {
-              "id": "688066",
-              "name": "*ST航图",
-              "changePercent": 20.04,
-              "badge": "被申请重整+空天信息+卫星遥感",
-              "sortOrder": 3
             }
           ]
         }
@@ -366,13 +193,13 @@
     {
       "id": "885413.TI",
       "name": "创投",
-      "stockCount": 6,
+      "stockCount": 5,
       "highestBoardCount": 1,
-      "limitUpCount": 6,
+      "limitUpCount": 5,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 6,
+          "totalCount": 5,
           "stocks": [
             {
               "id": "000417",
@@ -408,13 +235,202 @@
               "changePercent": 20.0,
               "badge": "三季度净利增+关税退税+空压机+护理机器人",
               "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885876.TI",
+      "name": "网红经济",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001219",
+              "name": "青岛食品",
+              "changePercent": 9.98,
+              "badge": "青啤拟入主+三季报增长+饼干食品",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 9.98,
+              "badge": "三季报增长+数字营销+鲸鸿动能",
+              "sortOrder": 1
             },
             {
-              "id": "600510",
-              "name": "黑牡丹",
-              "changePercent": 10.05,
-              "badge": "牛仔布+新型城镇化+园区运营",
-              "sortOrder": 6
+              "id": "000716",
+              "name": "黑芝麻",
+              "changePercent": 10.08,
+              "badge": "三季报大增+黑色食养+药食同源",
+              "sortOrder": 2
+            },
+            {
+              "id": "002582",
+              "name": "好想你",
+              "changePercent": 9.97,
+              "badge": "三季报扭亏+红枣龙头+大消费+鸣鸣很忙",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885540.TI",
+      "name": "三胎概念",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001219",
+              "name": "青岛食品",
+              "changePercent": 9.98,
+              "badge": "青啤拟入主+三季报增长+饼干食品",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002172",
+              "name": "澳洋健康",
+              "changePercent": 10.06,
+              "badge": "脑机接口+医疗服务+国资控股+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "001318",
+              "name": "阳光乳业",
+              "changePercent": 10.01,
+              "badge": "低温乳制品+大消费+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "002365",
+              "name": "永安药业",
+              "changePercent": 9.98,
+              "badge": "三季报大增+牛磺酸+量价齐升",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885539.TI",
+      "name": "医疗器械概念",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002086",
+              "name": "东方海洋",
+              "changePercent": 10.12,
+              "badge": "“羊”字辈+体外诊断+海参养殖+水溶性维生素试剂",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002432",
+              "name": "九安医疗",
+              "changePercent": 9.99,
+              "badge": "三季报大增+科创投资+糖尿病照护",
+              "sortOrder": 1
+            },
+            {
+              "id": "002636",
+              "name": "金安国纪",
+              "changePercent": 10.0,
+              "badge": "三季报高增+覆铜板+AI服务器",
+              "sortOrder": 2
+            },
+            {
+              "id": "300030",
+              "name": "阳普医疗",
+              "changePercent": 20.03,
+              "badge": "“羊”字辈+智慧医疗+真空采血+许可证延续",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885785.TI",
+      "name": "小米概念",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000676",
+              "name": "智度股份",
+              "changePercent": 9.98,
+              "badge": "三季报增长+数字营销+鲸鸿动能",
+              "sortOrder": 1
+            },
+            {
+              "id": "001287",
+              "name": "中电港",
+              "changePercent": 10.0,
+              "badge": "三季报大增+存储分销+分销龙头",
+              "sortOrder": 2
+            },
+            {
+              "id": "002432",
+              "name": "九安医疗",
+              "changePercent": 9.99,
+              "badge": "三季报大增+科创投资+糖尿病照护",
+              "sortOrder": 3
+            },
+            {
+              "id": "600745",
+              "name": "*ST闻泰",
+              "changePercent": 10.04,
+              "badge": "安世谈判+功率半导体+机器人",
+              "sortOrder": 4
             }
           ]
         }
@@ -423,13 +439,13 @@
     {
       "id": "885800.TI",
       "name": "消费电子概念",
-      "stockCount": 6,
+      "stockCount": 4,
       "highestBoardCount": 1,
-      "limitUpCount": 6,
+      "limitUpCount": 4,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 6,
+          "totalCount": 4,
           "stocks": [
             {
               "id": "000676",
@@ -458,20 +474,49 @@
               "changePercent": 10.04,
               "badge": "安世谈判+功率半导体+机器人",
               "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885812.TI",
+      "name": "农业种植",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000716",
+              "name": "黑芝麻",
+              "changePercent": 10.08,
+              "badge": "三季报大增+黑色食养+药食同源",
+              "sortOrder": 1
             },
             {
-              "id": "605118",
-              "name": "力鼎光电",
-              "changePercent": 10.0,
-              "badge": "三季报增长+具身智能+机器人光学+无人机光学",
-              "sortOrder": 5
+              "id": "000995",
+              "name": "皇台酒业",
+              "changePercent": 10.01,
+              "badge": "白酒+老窖池+葡萄酒",
+              "sortOrder": 2
             },
             {
-              "id": "688045",
-              "name": "必易微",
-              "changePercent": 20.0,
-              "badge": "三季报扭亏+数字电源+机器人传感+模拟芯片",
-              "sortOrder": 6
+              "id": "002582",
+              "name": "好想你",
+              "changePercent": 9.97,
+              "badge": "三季报扭亏+红枣龙头+大消费+鸣鸣很忙",
+              "sortOrder": 3
+            },
+            {
+              "id": "300829",
+              "name": "金丹科技",
+              "changePercent": 20.02,
+              "badge": "乳酸+聚乳酸+可降解材料",
+              "sortOrder": 4
             }
           ]
         }
@@ -480,13 +525,13 @@
     {
       "id": "886100.TI",
       "name": "DeepSeek概念",
-      "stockCount": 6,
+      "stockCount": 4,
       "highestBoardCount": 1,
-      "limitUpCount": 6,
+      "limitUpCount": 4,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 6,
+          "totalCount": 4,
           "stocks": [
             {
               "id": "001287",
@@ -510,80 +555,10 @@
               "sortOrder": 3
             },
             {
-              "id": "600664",
-              "name": "哈药股份",
-              "changePercent": 10.02,
-              "badge": "创新药+医药工业+三季报增长",
-              "sortOrder": 4
-            },
-            {
-              "id": "603233",
-              "name": "大参林",
-              "changePercent": 9.99,
-              "badge": "三季报增长+回购注销+医药零售",
-              "sortOrder": 5
-            },
-            {
               "id": "688066",
               "name": "*ST航图",
               "changePercent": 20.04,
               "badge": "被申请重整+空天信息+卫星遥感",
-              "sortOrder": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886057.TI",
-      "name": "新型工业化",
-      "stockCount": 5,
-      "highestBoardCount": 3,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603131",
-              "name": "上海沪工",
-              "changePercent": 10.03,
-              "badge": "三季报扭亏+商业航天+焊接机器人+焊接切割设备",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000410",
-              "name": "沈阳机床",
-              "changePercent": 10.04,
-              "badge": "扭亏+工业母机+航空航天+购买资产",
-              "sortOrder": 1
-            },
-            {
-              "id": "600215",
-              "name": "派斯林",
-              "changePercent": 10.02,
-              "badge": "自动化+减亏+北美订单+仿生机器人",
-              "sortOrder": 2
-            },
-            {
-              "id": "603029",
-              "name": "天鹅股份",
-              "changePercent": 10.01,
-              "badge": "三季报增长+采棉机+供销社",
-              "sortOrder": 3
-            },
-            {
-              "id": "603273",
-              "name": "天元智能",
-              "changePercent": 10.01,
-              "badge": "机器人集成+混凝土装备+三季报落地",
               "sortOrder": 4
             }
           ]
@@ -591,168 +566,42 @@
       ]
     },
     {
-      "id": "885539.TI",
-      "name": "医疗器械概念",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
+      "id": "885462.TI",
+      "name": "乳业",
+      "stockCount": 3,
+      "highestBoardCount": 5,
+      "limitUpCount": 3,
       "ladders": [
         {
-          "boardCount": 2,
+          "boardCount": 5,
           "totalCount": 1,
           "stocks": [
             {
-              "id": "002086",
-              "name": "东方海洋",
-              "changePercent": 10.12,
-              "badge": "“羊”字辈+体外诊断+海参养殖+水溶性维生素试剂",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002432",
-              "name": "九安医疗",
-              "changePercent": 9.99,
-              "badge": "三季报大增+科创投资+糖尿病照护",
-              "sortOrder": 1
-            },
-            {
-              "id": "002636",
-              "name": "金安国纪",
-              "changePercent": 10.0,
-              "badge": "三季报高增+覆铜板+AI服务器",
-              "sortOrder": 2
-            },
-            {
-              "id": "300030",
-              "name": "阳普医疗",
-              "changePercent": 20.03,
-              "badge": "“羊”字辈+智慧医疗+真空采血+许可证延续",
-              "sortOrder": 3
-            },
-            {
-              "id": "603233",
-              "name": "大参林",
-              "changePercent": 9.99,
-              "badge": "三季报增长+回购注销+医药零售",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885556.TI",
-      "name": "5G",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603703",
-              "name": "盛洋科技",
-              "changePercent": 10.04,
-              "badge": "卫星通信终端+高速铜缆+“羊”字辈",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "301132",
-              "name": "满坤科技",
-              "changePercent": 20.01,
-              "badge": "三季报增长+PCB+服务器电源+光模块",
-              "sortOrder": 1
-            },
-            {
-              "id": "600745",
-              "name": "*ST闻泰",
-              "changePercent": 10.04,
-              "badge": "安世谈判+功率半导体+机器人",
-              "sortOrder": 2
-            },
-            {
-              "id": "603002",
-              "name": "宏昌电子",
+              "id": "001219",
+              "name": "青岛食品",
               "changePercent": 9.98,
-              "badge": "三季报大增+高速覆铜板+封装膜材",
-              "sortOrder": 3
-            },
-            {
-              "id": "605058",
-              "name": "澳弘电子",
-              "changePercent": 10.0,
-              "badge": "PCB+HDI板+AI服务器+三季报增长",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885887.TI",
-      "name": "数据中心(AIDC)",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603703",
-              "name": "盛洋科技",
-              "changePercent": 10.04,
-              "badge": "卫星通信终端+高速铜缆+“羊”字辈",
+              "badge": "青啤拟入主+三季报增长+饼干食品",
               "sortOrder": 1
             }
           ]
         },
         {
           "boardCount": 1,
-          "totalCount": 4,
+          "totalCount": 2,
           "stocks": [
             {
-              "id": "001210",
-              "name": "金房能源",
-              "changePercent": 9.35,
-              "badge": "供热+智能巡检+三季报增长",
+              "id": "001318",
+              "name": "阳光乳业",
+              "changePercent": 10.01,
+              "badge": "低温乳制品+大消费+“羊”字辈",
               "sortOrder": 1
             },
             {
-              "id": "600745",
-              "name": "*ST闻泰",
-              "changePercent": 10.04,
-              "badge": "安世谈判+功率半导体+机器人",
+              "id": "002946",
+              "name": "新乳业",
+              "changePercent": 10.01,
+              "badge": "三季报增长+低温鲜奶+大消费",
               "sortOrder": 2
-            },
-            {
-              "id": "603200",
-              "name": "上海洗霸",
-              "changePercent": 10.0,
-              "badge": "固态电池+数据中心液冷+水处理",
-              "sortOrder": 3
-            },
-            {
-              "id": "605058",
-              "name": "澳弘电子",
-              "changePercent": 10.0,
-              "badge": "PCB+HDI板+AI服务器+三季报增长",
-              "sortOrder": 4
             }
           ]
         }
@@ -761,13 +610,13 @@
     {
       "id": "886072.TI",
       "name": "高股息精选",
-      "stockCount": 5,
+      "stockCount": 3,
       "highestBoardCount": 2,
-      "limitUpCount": 5,
+      "limitUpCount": 3,
       "ladders": [
         {
           "boardCount": 2,
-          "totalCount": 2,
+          "totalCount": 1,
           "stocks": [
             {
               "id": "002275",
@@ -775,19 +624,12 @@
               "changePercent": 9.99,
               "badge": "三季报增长+中成药+西瓜霜+抗体研发",
               "sortOrder": 1
-            },
-            {
-              "id": "600261",
-              "name": "阳光照明",
-              "changePercent": 9.95,
-              "badge": "商业航天+激光通信投资+LED照明+“羊”字辈",
-              "sortOrder": 2
             }
           ]
         },
         {
           "boardCount": 1,
-          "totalCount": 3,
+          "totalCount": 2,
           "stocks": [
             {
               "id": "000568",
@@ -802,12 +644,83 @@
               "changePercent": 9.97,
               "badge": "三季报扭亏+红枣龙头+大消费+鸣鸣很忙",
               "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885586.TI",
+      "name": "职业教育",
+      "stockCount": 3,
+      "highestBoardCount": 2,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "003032",
+              "name": "传智教育",
+              "changePercent": 10.06,
+              "badge": "三季报增长+人工智能培训+具身智能",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000410",
+              "name": "沈阳机床",
+              "changePercent": 10.04,
+              "badge": "扭亏+工业母机+航空航天+购买资产",
+              "sortOrder": 1
             },
             {
-              "id": "600285",
-              "name": "羚锐制药",
+              "id": "002582",
+              "name": "好想你",
+              "changePercent": 9.97,
+              "badge": "三季报扭亏+红枣龙头+大消费+鸣鸣很忙",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885461.TI",
+      "name": "充电桩",
+      "stockCount": 3,
+      "highestBoardCount": 1,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000417",
+              "name": "合百集团",
+              "changePercent": 10.04,
+              "badge": "三季报大增+间接投资长鑫科技+百货零售",
+              "sortOrder": 1
+            },
+            {
+              "id": "001287",
+              "name": "中电港",
               "changePercent": 10.0,
-              "badge": "三季报增长+中药+高股息",
+              "badge": "三季报大增+存储分销+分销龙头",
+              "sortOrder": 2
+            },
+            {
+              "id": "301132",
+              "name": "满坤科技",
+              "changePercent": 20.01,
+              "badge": "三季报增长+PCB+服务器电源+光模块",
               "sortOrder": 3
             }
           ]
@@ -817,13 +730,13 @@
     {
       "id": "885835.TI",
       "name": "参股银行",
-      "stockCount": 5,
+      "stockCount": 3,
       "highestBoardCount": 1,
-      "limitUpCount": 5,
+      "limitUpCount": 3,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 5,
+          "totalCount": 3,
           "stocks": [
             {
               "id": "000417",
@@ -845,125 +758,11 @@
               "changePercent": 20.02,
               "badge": "乳酸+聚乳酸+可降解材料",
               "sortOrder": 3
-            },
-            {
-              "id": "600113",
-              "name": "浙江东日",
-              "changePercent": 10.01,
-              "badge": "农批市场+大消费+温州国资",
-              "sortOrder": 4
-            },
-            {
-              "id": "600510",
-              "name": "黑牡丹",
-              "changePercent": 10.05,
-              "badge": "牛仔布+新型城镇化+园区运营",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885525.TI",
-      "name": "白酒概念",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000568",
-              "name": "泸州老窖",
-              "changePercent": 10.01,
-              "badge": "业绩环增+高端白酒+库存去化",
-              "sortOrder": 1
-            },
-            {
-              "id": "000596",
-              "name": "古井贡酒",
-              "changePercent": 10.0,
-              "badge": "中期分红+三季报+白酒",
-              "sortOrder": 2
-            },
-            {
-              "id": "000995",
-              "name": "皇台酒业",
-              "changePercent": 10.01,
-              "badge": "白酒+老窖池+葡萄酒",
-              "sortOrder": 3
-            },
-            {
-              "id": "600189",
-              "name": "泉阳泉",
-              "changePercent": 9.95,
-              "badge": "矿泉水+大消费+三季报增长+仓储",
-              "sortOrder": 4
-            },
-            {
-              "id": "603198",
-              "name": "迎驾贡酒",
-              "changePercent": 9.99,
-              "badge": "三季报增长+徽酒代表+中高档白酒",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885785.TI",
-      "name": "小米概念",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000676",
-              "name": "智度股份",
-              "changePercent": 9.98,
-              "badge": "三季报增长+数字营销+鲸鸿动能",
-              "sortOrder": 1
-            },
-            {
-              "id": "001287",
-              "name": "中电港",
-              "changePercent": 10.0,
-              "badge": "三季报大增+存储分销+分销龙头",
-              "sortOrder": 2
-            },
-            {
-              "id": "002432",
-              "name": "九安医疗",
-              "changePercent": 9.99,
-              "badge": "三季报大增+科创投资+糖尿病照护",
-              "sortOrder": 3
-            },
-            {
-              "id": "600745",
-              "name": "*ST闻泰",
-              "changePercent": 10.04,
-              "badge": "安世谈判+功率半导体+机器人",
-              "sortOrder": 4
-            },
-            {
-              "id": "688045",
-              "name": "必易微",
-              "changePercent": 20.0,
-              "badge": "三季报扭亏+数字电源+机器人传感+模拟芯片",
-              "sortOrder": 5
             }
           ]
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-30 14:10:52"
+  "updatedAt": "2026-10-30 14:21:18"
 }
