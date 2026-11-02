@@ -7,7 +7,7 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 127,
+    "limitUpCount": 128,
     "limitUpSuccessRate": 82,
     "limitDownCount": 7
   },
@@ -47,24 +47,24 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 117
+        "stockCount": 118
       }
     ],
     "hotTheme": {
       "name": "AI应用",
-      "stockCount": 45
+      "stockCount": 46
     },
-    "poolFirstBoardCount": 117,
+    "poolFirstBoardCount": 118,
     "poolContinuousBoardCount": 10,
-    "poolBrokenBoardCount": 28
+    "poolBrokenBoardCount": 29
   },
   "themes": [
     {
       "id": "886108.TI",
       "name": "AI应用",
-      "stockCount": 45,
+      "stockCount": 46,
       "highestBoardCount": 2,
-      "limitUpCount": 45,
+      "limitUpCount": 46,
       "ladders": [
         {
           "boardCount": 2,
@@ -81,7 +81,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 44,
+          "totalCount": 45,
           "stocks": [
             {
               "id": "000156",
@@ -164,7 +164,7 @@
               "id": "002425",
               "name": "凯撒文化",
               "changePercent": 10.14,
-              "badge": null,
+              "badge": "手游+新游储备+人工智能游戏+实控人变更",
               "sortOrder": 12
             },
             {
@@ -203,193 +203,200 @@
               "sortOrder": 17
             },
             {
+              "id": "300010",
+              "name": "ST豆神",
+              "changePercent": 20.15,
+              "badge": null,
+              "sortOrder": 18
+            },
+            {
               "id": "300085",
               "name": "银之杰",
               "changePercent": 20.02,
               "badge": "金融科技+减亏+人工智能",
-              "sortOrder": 18
+              "sortOrder": 19
             },
             {
               "id": "300182",
               "name": "捷成股份",
               "changePercent": 20.0,
               "badge": "AI漫剧+影视版权+智能营销",
-              "sortOrder": 19
+              "sortOrder": 20
             },
             {
               "id": "300377",
               "name": "赢时胜",
               "changePercent": 20.0,
               "badge": "金融科技+智能金融+资产托管",
-              "sortOrder": 20
+              "sortOrder": 21
             },
             {
               "id": "300413",
               "name": "芒果超媒",
               "changePercent": 20.0,
               "badge": "后西游记+微短剧+长视频平台",
-              "sortOrder": 21
+              "sortOrder": 22
             },
             {
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.0,
               "badge": "人工智能影视+互动影游+短剧出海",
-              "sortOrder": 22
+              "sortOrder": 23
             },
             {
               "id": "300781",
               "name": "因赛集团",
               "changePercent": 20.0,
               "badge": "AI营销+AIGC+品牌营销+红人营销",
-              "sortOrder": 23
+              "sortOrder": 24
             },
             {
               "id": "300788",
               "name": "中信出版",
               "changePercent": 20.0,
               "badge": "AI视频+IP运营+图书出版",
-              "sortOrder": 24
+              "sortOrder": 25
             },
             {
               "id": "301052",
               "name": "果麦文化",
               "changePercent": 19.99,
               "badge": "AI短剧+图书出版+AI出版",
-              "sortOrder": 25
+              "sortOrder": 26
             },
             {
               "id": "301218",
               "name": "华是科技",
               "changePercent": 19.99,
               "badge": "AI短剧+机器人投资+智慧城市",
-              "sortOrder": 26
+              "sortOrder": 27
             },
             {
               "id": "301262",
               "name": "海看股份",
               "changePercent": 20.0,
               "badge": "AI影视+微短剧+山东IPTV",
-              "sortOrder": 27
+              "sortOrder": 28
             },
             {
               "id": "600020",
               "name": "中原高速",
               "changePercent": 9.92,
               "badge": "三季报增长+高速+AI应用+高分红",
-              "sortOrder": 28
+              "sortOrder": 29
             },
             {
               "id": "600556",
               "name": "天下秀",
               "changePercent": 10.07,
               "badge": "AIGC+AI营销+红人经济+双11营销",
-              "sortOrder": 29
+              "sortOrder": 30
             },
             {
               "id": "600570",
               "name": "恒生电子",
               "changePercent": 10.02,
               "badge": "证券软件+三季报净利增长+数据要素+大模型",
-              "sortOrder": 30
+              "sortOrder": 31
             },
             {
               "id": "600633",
               "name": "浙数文化",
               "changePercent": 9.96,
               "badge": "AI短剧+数据中心+游戏+AI应用",
-              "sortOrder": 31
+              "sortOrder": 32
             },
             {
               "id": "600640",
               "name": "国脉文化",
               "changePercent": 9.97,
               "badge": "AI短剧+云游戏+央企",
-              "sortOrder": 32
+              "sortOrder": 33
             },
             {
               "id": "600715",
               "name": "文投控股",
               "changePercent": 9.8,
               "badge": "AI漫剧+游戏运营+影院多元业态",
-              "sortOrder": 33
+              "sortOrder": 34
             },
             {
               "id": "600734",
               "name": "*ST实达",
               "changePercent": 10.13,
               "badge": "资产重组+智能算力+数字安全+保壳预期",
-              "sortOrder": 34
+              "sortOrder": 35
             },
             {
               "id": "601599",
               "name": "浙文影业",
               "changePercent": 10.16,
               "badge": "AI影视+微短剧+三季报增长",
-              "sortOrder": 35
+              "sortOrder": 36
             },
             {
               "id": "601999",
               "name": "出版传媒",
               "changePercent": 10.08,
               "badge": "AI出版+数智文化基金+教材教辅",
-              "sortOrder": 36
+              "sortOrder": 37
             },
             {
               "id": "603108",
               "name": "润达医疗",
               "changePercent": 10.04,
               "badge": "智元机器人合作+AI医疗+体外诊断",
-              "sortOrder": 37
+              "sortOrder": 38
             },
             {
               "id": "603171",
               "name": "税友股份",
               "changePercent": 10.01,
               "badge": "AI智能体+财税数字化+三季报增长",
-              "sortOrder": 38
+              "sortOrder": 39
             },
             {
               "id": "603383",
               "name": "顶点软件",
               "changePercent": 10.0,
               "badge": "金融科技+金融智能体+三季报净利增长",
-              "sortOrder": 39
+              "sortOrder": 40
             },
             {
               "id": "603533",
               "name": "掌阅科技",
               "changePercent": 10.0,
               "badge": "AI短剧+短剧出海+数字阅读",
-              "sortOrder": 40
+              "sortOrder": 41
             },
             {
               "id": "603598",
               "name": "引力传媒",
               "changePercent": 9.99,
               "badge": "AI短剧+AI营销+三季报增长",
-              "sortOrder": 41
+              "sortOrder": 42
             },
             {
               "id": "603636",
               "name": "南威软件",
               "changePercent": 10.03,
               "badge": "AI短剧+政务AI+智算中心",
-              "sortOrder": 42
+              "sortOrder": 43
             },
             {
               "id": "603721",
               "name": "中广天择",
               "changePercent": 10.01,
               "badge": "AI漫剧+火山引擎+AI语料+城发文旅入主",
-              "sortOrder": 43
+              "sortOrder": 44
             },
             {
               "id": "605287",
               "name": "德才股份",
               "changePercent": 10.01,
               "badge": "AI漫剧+智能体+建筑装饰",
-              "sortOrder": 44
+              "sortOrder": 45
             }
           ]
         }
@@ -473,7 +480,7 @@
               "id": "002425",
               "name": "凯撒文化",
               "changePercent": 10.14,
-              "badge": null,
+              "badge": "手游+新游储备+人工智能游戏+实控人变更",
               "sortOrder": 10
             },
             {
@@ -700,13 +707,13 @@
     {
       "id": "886100.TI",
       "name": "DeepSeek概念",
-      "stockCount": 35,
+      "stockCount": 36,
       "highestBoardCount": 1,
-      "limitUpCount": 35,
+      "limitUpCount": 36,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 35,
+          "totalCount": 36,
           "stocks": [
             {
               "id": "000156",
@@ -786,172 +793,179 @@
               "sortOrder": 11
             },
             {
+              "id": "300010",
+              "name": "ST豆神",
+              "changePercent": 20.15,
+              "badge": null,
+              "sortOrder": 12
+            },
+            {
               "id": "300182",
               "name": "捷成股份",
               "changePercent": 20.0,
               "badge": "AI漫剧+影视版权+智能营销",
-              "sortOrder": 12
+              "sortOrder": 13
             },
             {
               "id": "300377",
               "name": "赢时胜",
               "changePercent": 20.0,
               "badge": "金融科技+智能金融+资产托管",
-              "sortOrder": 13
+              "sortOrder": 14
             },
             {
               "id": "300413",
               "name": "芒果超媒",
               "changePercent": 20.0,
               "badge": "后西游记+微短剧+长视频平台",
-              "sortOrder": 14
+              "sortOrder": 15
             },
             {
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.0,
               "badge": "人工智能影视+互动影游+短剧出海",
-              "sortOrder": 15
+              "sortOrder": 16
             },
             {
               "id": "300781",
               "name": "因赛集团",
               "changePercent": 20.0,
               "badge": "AI营销+AIGC+品牌营销+红人营销",
-              "sortOrder": 16
+              "sortOrder": 17
             },
             {
               "id": "300788",
               "name": "中信出版",
               "changePercent": 20.0,
               "badge": "AI视频+IP运营+图书出版",
-              "sortOrder": 17
+              "sortOrder": 18
             },
             {
               "id": "301218",
               "name": "华是科技",
               "changePercent": 19.99,
               "badge": "AI短剧+机器人投资+智慧城市",
-              "sortOrder": 18
+              "sortOrder": 19
             },
             {
               "id": "301262",
               "name": "海看股份",
               "changePercent": 20.0,
               "badge": "AI影视+微短剧+山东IPTV",
-              "sortOrder": 19
+              "sortOrder": 20
             },
             {
               "id": "600299",
               "name": "安迪苏",
               "changePercent": 10.07,
               "badge": "三季报增长+蛋氨酸+央企",
-              "sortOrder": 20
+              "sortOrder": 21
             },
             {
               "id": "600345",
               "name": "长江通信",
               "changePercent": 10.01,
               "badge": "低轨卫星+三季报暴增+应急通信+央企",
-              "sortOrder": 21
+              "sortOrder": 22
             },
             {
               "id": "600570",
               "name": "恒生电子",
               "changePercent": 10.02,
               "badge": "证券软件+三季报净利增长+数据要素+大模型",
-              "sortOrder": 22
+              "sortOrder": 23
             },
             {
               "id": "600633",
               "name": "浙数文化",
               "changePercent": 9.96,
               "badge": "AI短剧+数据中心+游戏+AI应用",
-              "sortOrder": 23
+              "sortOrder": 24
             },
             {
               "id": "600640",
               "name": "国脉文化",
               "changePercent": 9.97,
               "badge": "AI短剧+云游戏+央企",
-              "sortOrder": 24
+              "sortOrder": 25
             },
             {
               "id": "600734",
               "name": "*ST实达",
               "changePercent": 10.13,
               "badge": "资产重组+智能算力+数字安全+保壳预期",
-              "sortOrder": 25
+              "sortOrder": 26
             },
             {
               "id": "600960",
               "name": "渤海汽车",
               "changePercent": 9.92,
               "badge": "机器人+并购重组+三季报扭亏+活塞",
-              "sortOrder": 26
+              "sortOrder": 27
             },
             {
               "id": "601019",
               "name": "山东出版",
               "changePercent": 9.97,
               "badge": "AI出版+教育出版+山东国资",
-              "sortOrder": 27
+              "sortOrder": 28
             },
             {
               "id": "601599",
               "name": "浙文影业",
               "changePercent": 10.16,
               "badge": "AI影视+微短剧+三季报增长",
-              "sortOrder": 28
+              "sortOrder": 29
             },
             {
               "id": "603108",
               "name": "润达医疗",
               "changePercent": 10.04,
               "badge": "智元机器人合作+AI医疗+体外诊断",
-              "sortOrder": 29
+              "sortOrder": 30
             },
             {
               "id": "603110",
               "name": "东方材料",
               "changePercent": 9.98,
               "badge": "算力业务+软包装油墨+上海东方极梦",
-              "sortOrder": 30
+              "sortOrder": 31
             },
             {
               "id": "603171",
               "name": "税友股份",
               "changePercent": 10.01,
               "badge": "AI智能体+财税数字化+三季报增长",
-              "sortOrder": 31
+              "sortOrder": 32
             },
             {
               "id": "603383",
               "name": "顶点软件",
               "changePercent": 10.0,
               "badge": "金融科技+金融智能体+三季报净利增长",
-              "sortOrder": 32
+              "sortOrder": 33
             },
             {
               "id": "603466",
               "name": "风语筑",
               "changePercent": 9.98,
               "badge": "物理AI+三启万物合作+数字展示",
-              "sortOrder": 33
+              "sortOrder": 34
             },
             {
               "id": "603598",
               "name": "引力传媒",
               "changePercent": 9.99,
               "badge": "AI短剧+AI营销+三季报增长",
-              "sortOrder": 34
+              "sortOrder": 35
             },
             {
               "id": "603636",
               "name": "南威软件",
               "changePercent": 10.03,
               "badge": "AI短剧+政务AI+智算中心",
-              "sortOrder": 35
+              "sortOrder": 36
             }
           ]
         }
@@ -960,13 +974,13 @@
     {
       "id": "886019.TI",
       "name": "AIGC概念",
-      "stockCount": 33,
+      "stockCount": 34,
       "highestBoardCount": 1,
-      "limitUpCount": 33,
+      "limitUpCount": 34,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 33,
+          "totalCount": 34,
           "stocks": [
             {
               "id": "000156",
@@ -1021,7 +1035,7 @@
               "id": "002425",
               "name": "凯撒文化",
               "changePercent": 10.14,
-              "badge": null,
+              "badge": "手游+新游储备+人工智能游戏+实控人变更",
               "sortOrder": 8
             },
             {
@@ -1053,151 +1067,158 @@
               "sortOrder": 12
             },
             {
+              "id": "300010",
+              "name": "ST豆神",
+              "changePercent": 20.15,
+              "badge": null,
+              "sortOrder": 13
+            },
+            {
               "id": "300182",
               "name": "捷成股份",
               "changePercent": 20.0,
               "badge": "AI漫剧+影视版权+智能营销",
-              "sortOrder": 13
+              "sortOrder": 14
             },
             {
               "id": "300413",
               "name": "芒果超媒",
               "changePercent": 20.0,
               "badge": "后西游记+微短剧+长视频平台",
-              "sortOrder": 14
+              "sortOrder": 15
             },
             {
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.0,
               "badge": "人工智能影视+互动影游+短剧出海",
-              "sortOrder": 15
+              "sortOrder": 16
             },
             {
               "id": "300556",
               "name": "丝路视觉",
               "changePercent": 19.99,
               "badge": "季报扭亏+数字视觉+人工智能漫剧+数字孪生",
-              "sortOrder": 16
+              "sortOrder": 17
             },
             {
               "id": "300781",
               "name": "因赛集团",
               "changePercent": 20.0,
               "badge": "AI营销+AIGC+品牌营销+红人营销",
-              "sortOrder": 17
+              "sortOrder": 18
             },
             {
               "id": "300788",
               "name": "中信出版",
               "changePercent": 20.0,
               "badge": "AI视频+IP运营+图书出版",
-              "sortOrder": 18
+              "sortOrder": 19
             },
             {
               "id": "301052",
               "name": "果麦文化",
               "changePercent": 19.99,
               "badge": "AI短剧+图书出版+AI出版",
-              "sortOrder": 19
+              "sortOrder": 20
             },
             {
               "id": "301262",
               "name": "海看股份",
               "changePercent": 20.0,
               "badge": "AI影视+微短剧+山东IPTV",
-              "sortOrder": 20
+              "sortOrder": 21
             },
             {
               "id": "600229",
               "name": "城市传媒",
               "changePercent": 10.06,
               "badge": "教育出版+IP运营+AIGC",
-              "sortOrder": 21
+              "sortOrder": 22
             },
             {
               "id": "600556",
               "name": "天下秀",
               "changePercent": 10.07,
               "badge": "AIGC+AI营销+红人经济+双11营销",
-              "sortOrder": 22
+              "sortOrder": 23
             },
             {
               "id": "600570",
               "name": "恒生电子",
               "changePercent": 10.02,
               "badge": "证券软件+三季报净利增长+数据要素+大模型",
-              "sortOrder": 23
+              "sortOrder": 24
             },
             {
               "id": "600633",
               "name": "浙数文化",
               "changePercent": 9.96,
               "badge": "AI短剧+数据中心+游戏+AI应用",
-              "sortOrder": 24
+              "sortOrder": 25
             },
             {
               "id": "600640",
               "name": "国脉文化",
               "changePercent": 9.97,
               "badge": "AI短剧+云游戏+央企",
-              "sortOrder": 25
+              "sortOrder": 26
             },
             {
               "id": "603108",
               "name": "润达医疗",
               "changePercent": 10.04,
               "badge": "智元机器人合作+AI医疗+体外诊断",
-              "sortOrder": 26
+              "sortOrder": 27
             },
             {
               "id": "603110",
               "name": "东方材料",
               "changePercent": 9.98,
               "badge": "算力业务+软包装油墨+上海东方极梦",
-              "sortOrder": 27
+              "sortOrder": 28
             },
             {
               "id": "603171",
               "name": "税友股份",
               "changePercent": 10.01,
               "badge": "AI智能体+财税数字化+三季报增长",
-              "sortOrder": 28
+              "sortOrder": 29
             },
             {
               "id": "603258",
               "name": "电魂网络",
               "changePercent": 10.01,
               "badge": "游戏+漫剧+衍生品",
-              "sortOrder": 29
+              "sortOrder": 30
             },
             {
               "id": "603466",
               "name": "风语筑",
               "changePercent": 9.98,
               "badge": "物理AI+三启万物合作+数字展示",
-              "sortOrder": 30
+              "sortOrder": 31
             },
             {
               "id": "603533",
               "name": "掌阅科技",
               "changePercent": 10.0,
               "badge": "AI短剧+短剧出海+数字阅读",
-              "sortOrder": 31
+              "sortOrder": 32
             },
             {
               "id": "603598",
               "name": "引力传媒",
               "changePercent": 9.99,
               "badge": "AI短剧+AI营销+三季报增长",
-              "sortOrder": 32
+              "sortOrder": 33
             },
             {
               "id": "605287",
               "name": "德才股份",
               "changePercent": 10.01,
               "badge": "AI漫剧+智能体+建筑装饰",
-              "sortOrder": 33
+              "sortOrder": 34
             }
           ]
         }
@@ -1287,7 +1308,7 @@
               "id": "002425",
               "name": "凯撒文化",
               "changePercent": 10.14,
-              "badge": null,
+              "badge": "手游+新游储备+人工智能游戏+实控人变更",
               "sortOrder": 9
             },
             {
@@ -1451,13 +1472,13 @@
     {
       "id": "886099.TI",
       "name": "AI智能体",
-      "stockCount": 30,
+      "stockCount": 31,
       "highestBoardCount": 1,
-      "limitUpCount": 30,
+      "limitUpCount": 31,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 30,
+          "totalCount": 31,
           "stocks": [
             {
               "id": "000156",
@@ -1537,137 +1558,144 @@
               "sortOrder": 11
             },
             {
+              "id": "300010",
+              "name": "ST豆神",
+              "changePercent": 20.15,
+              "badge": null,
+              "sortOrder": 12
+            },
+            {
               "id": "300182",
               "name": "捷成股份",
               "changePercent": 20.0,
               "badge": "AI漫剧+影视版权+智能营销",
-              "sortOrder": 12
+              "sortOrder": 13
             },
             {
               "id": "300377",
               "name": "赢时胜",
               "changePercent": 20.0,
               "badge": "金融科技+智能金融+资产托管",
-              "sortOrder": 13
+              "sortOrder": 14
             },
             {
               "id": "300413",
               "name": "芒果超媒",
               "changePercent": 20.0,
               "badge": "后西游记+微短剧+长视频平台",
-              "sortOrder": 14
+              "sortOrder": 15
             },
             {
               "id": "300781",
               "name": "因赛集团",
               "changePercent": 20.0,
               "badge": "AI营销+AIGC+品牌营销+红人营销",
-              "sortOrder": 15
+              "sortOrder": 16
             },
             {
               "id": "300788",
               "name": "中信出版",
               "changePercent": 20.0,
               "badge": "AI视频+IP运营+图书出版",
-              "sortOrder": 16
+              "sortOrder": 17
             },
             {
               "id": "600556",
               "name": "天下秀",
               "changePercent": 10.07,
               "badge": "AIGC+AI营销+红人经济+双11营销",
-              "sortOrder": 17
+              "sortOrder": 18
             },
             {
               "id": "600570",
               "name": "恒生电子",
               "changePercent": 10.02,
               "badge": "证券软件+三季报净利增长+数据要素+大模型",
-              "sortOrder": 18
+              "sortOrder": 19
             },
             {
               "id": "600633",
               "name": "浙数文化",
               "changePercent": 9.96,
               "badge": "AI短剧+数据中心+游戏+AI应用",
-              "sortOrder": 19
+              "sortOrder": 20
             },
             {
               "id": "600640",
               "name": "国脉文化",
               "changePercent": 9.97,
               "badge": "AI短剧+云游戏+央企",
-              "sortOrder": 20
+              "sortOrder": 21
             },
             {
               "id": "600734",
               "name": "*ST实达",
               "changePercent": 10.13,
               "badge": "资产重组+智能算力+数字安全+保壳预期",
-              "sortOrder": 21
+              "sortOrder": 22
             },
             {
               "id": "603108",
               "name": "润达医疗",
               "changePercent": 10.04,
               "badge": "智元机器人合作+AI医疗+体外诊断",
-              "sortOrder": 22
+              "sortOrder": 23
             },
             {
               "id": "603171",
               "name": "税友股份",
               "changePercent": 10.01,
               "badge": "AI智能体+财税数字化+三季报增长",
-              "sortOrder": 23
+              "sortOrder": 24
             },
             {
               "id": "603258",
               "name": "电魂网络",
               "changePercent": 10.01,
               "badge": "游戏+漫剧+衍生品",
-              "sortOrder": 24
+              "sortOrder": 25
             },
             {
               "id": "603383",
               "name": "顶点软件",
               "changePercent": 10.0,
               "badge": "金融科技+金融智能体+三季报净利增长",
-              "sortOrder": 25
+              "sortOrder": 26
             },
             {
               "id": "603466",
               "name": "风语筑",
               "changePercent": 9.98,
               "badge": "物理AI+三启万物合作+数字展示",
-              "sortOrder": 26
+              "sortOrder": 27
             },
             {
               "id": "603533",
               "name": "掌阅科技",
               "changePercent": 10.0,
               "badge": "AI短剧+短剧出海+数字阅读",
-              "sortOrder": 27
+              "sortOrder": 28
             },
             {
               "id": "603598",
               "name": "引力传媒",
               "changePercent": 9.99,
               "badge": "AI短剧+AI营销+三季报增长",
-              "sortOrder": 28
+              "sortOrder": 29
             },
             {
               "id": "603636",
               "name": "南威软件",
               "changePercent": 10.03,
               "badge": "AI短剧+政务AI+智算中心",
-              "sortOrder": 29
+              "sortOrder": 30
             },
             {
               "id": "605287",
               "name": "德才股份",
               "changePercent": 10.01,
               "badge": "AI漫剧+智能体+建筑装饰",
-              "sortOrder": 30
+              "sortOrder": 31
             }
           ]
         }
@@ -2145,7 +2173,7 @@
               "id": "002425",
               "name": "凯撒文化",
               "changePercent": 10.14,
-              "badge": null,
+              "badge": "手游+新游储备+人工智能游戏+实控人变更",
               "sortOrder": 6
             },
             {
@@ -2475,6 +2503,189 @@
       ]
     },
     {
+      "id": "885779.TI",
+      "name": "腾讯概念",
+      "stockCount": 24,
+      "highestBoardCount": 1,
+      "limitUpCount": 24,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 24,
+          "stocks": [
+            {
+              "id": "000156",
+              "name": "华数传媒",
+              "changePercent": 9.97,
+              "badge": "AI漫剧+智能体+杭州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "000681",
+              "name": "视觉中国",
+              "changePercent": 9.99,
+              "badge": "AI应用+AI语料+参股MiniMax",
+              "sortOrder": 2
+            },
+            {
+              "id": "001330",
+              "name": "博纳影业",
+              "changePercent": 10.08,
+              "badge": "AI影视+AI短剧+院线影院+三季报减亏",
+              "sortOrder": 3
+            },
+            {
+              "id": "002094",
+              "name": "青岛金王",
+              "changePercent": 10.09,
+              "badge": "蜡烛香薰+美妆零售+CIPS+青岛本地股",
+              "sortOrder": 4
+            },
+            {
+              "id": "002174",
+              "name": "游族网络",
+              "changePercent": 10.05,
+              "badge": "AI游戏+海外游戏+三季报增长",
+              "sortOrder": 5
+            },
+            {
+              "id": "002238",
+              "name": "天威视讯",
+              "changePercent": 9.98,
+              "badge": "短剧+数据中心+广电网络+深圳国资",
+              "sortOrder": 6
+            },
+            {
+              "id": "002292",
+              "name": "奥飞娱乐",
+              "changePercent": 9.97,
+              "badge": "潮玩品牌+智能内容制作+喜羊羊+三季报增长",
+              "sortOrder": 7
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.14,
+              "badge": "手游+新游储备+人工智能游戏+实控人变更",
+              "sortOrder": 8
+            },
+            {
+              "id": "002558",
+              "name": "巨人网络",
+              "changePercent": 10.0,
+              "badge": "游戏+三季报高增+超跌反弹",
+              "sortOrder": 9
+            },
+            {
+              "id": "002712",
+              "name": "思美传媒",
+              "changePercent": 10.02,
+              "badge": "AI营销+AI漫剧+文化传媒",
+              "sortOrder": 10
+            },
+            {
+              "id": "002995",
+              "name": "天地在线",
+              "changePercent": 9.99,
+              "badge": "短剧游戏+字节广告+数字营销+三季报减亏",
+              "sortOrder": 11
+            },
+            {
+              "id": "300010",
+              "name": "ST豆神",
+              "changePercent": 20.15,
+              "badge": null,
+              "sortOrder": 12
+            },
+            {
+              "id": "300182",
+              "name": "捷成股份",
+              "changePercent": 20.0,
+              "badge": "AI漫剧+影视版权+智能营销",
+              "sortOrder": 13
+            },
+            {
+              "id": "300377",
+              "name": "赢时胜",
+              "changePercent": 20.0,
+              "badge": "金融科技+智能金融+资产托管",
+              "sortOrder": 14
+            },
+            {
+              "id": "300781",
+              "name": "因赛集团",
+              "changePercent": 20.0,
+              "badge": "AI营销+AIGC+品牌营销+红人营销",
+              "sortOrder": 15
+            },
+            {
+              "id": "301262",
+              "name": "海看股份",
+              "changePercent": 20.0,
+              "badge": "AI影视+微短剧+山东IPTV",
+              "sortOrder": 16
+            },
+            {
+              "id": "600109",
+              "name": "国金证券",
+              "changePercent": 10.03,
+              "badge": "三季报增长+券商+回购注销",
+              "sortOrder": 17
+            },
+            {
+              "id": "600556",
+              "name": "天下秀",
+              "changePercent": 10.07,
+              "badge": "AIGC+AI营销+红人经济+双11营销",
+              "sortOrder": 18
+            },
+            {
+              "id": "600633",
+              "name": "浙数文化",
+              "changePercent": 9.96,
+              "badge": "AI短剧+数据中心+游戏+AI应用",
+              "sortOrder": 19
+            },
+            {
+              "id": "603383",
+              "name": "顶点软件",
+              "changePercent": 10.0,
+              "badge": "金融科技+金融智能体+三季报净利增长",
+              "sortOrder": 20
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 9.99,
+              "badge": "AI短剧+AI营销+三季报增长",
+              "sortOrder": 21
+            },
+            {
+              "id": "603721",
+              "name": "中广天择",
+              "changePercent": 10.01,
+              "badge": "AI漫剧+火山引擎+AI语料+城发文旅入主",
+              "sortOrder": 22
+            },
+            {
+              "id": "603887",
+              "name": "城地香江",
+              "changePercent": 10.03,
+              "badge": "数据中心+三季报增长+东数西算",
+              "sortOrder": 23
+            },
+            {
+              "id": "688376",
+              "name": "美埃科技",
+              "changePercent": 20.0,
+              "badge": "三季报高增+洁净室设备+海外扩产",
+              "sortOrder": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885890.TI",
       "name": "抖音概念(字节概念)",
       "stockCount": 24,
@@ -2524,7 +2735,7 @@
               "id": "002425",
               "name": "凯撒文化",
               "changePercent": 10.14,
-              "badge": null,
+              "badge": "手游+新游储备+人工智能游戏+实控人变更",
               "sortOrder": 6
             },
             {
@@ -2652,182 +2863,6 @@
               "changePercent": 10.03,
               "badge": "数据中心+三季报增长+东数西算",
               "sortOrder": 24
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885779.TI",
-      "name": "腾讯概念",
-      "stockCount": 23,
-      "highestBoardCount": 1,
-      "limitUpCount": 23,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 23,
-          "stocks": [
-            {
-              "id": "000156",
-              "name": "华数传媒",
-              "changePercent": 9.97,
-              "badge": "AI漫剧+智能体+杭州国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "000681",
-              "name": "视觉中国",
-              "changePercent": 9.99,
-              "badge": "AI应用+AI语料+参股MiniMax",
-              "sortOrder": 2
-            },
-            {
-              "id": "001330",
-              "name": "博纳影业",
-              "changePercent": 10.08,
-              "badge": "AI影视+AI短剧+院线影院+三季报减亏",
-              "sortOrder": 3
-            },
-            {
-              "id": "002094",
-              "name": "青岛金王",
-              "changePercent": 10.09,
-              "badge": "蜡烛香薰+美妆零售+CIPS+青岛本地股",
-              "sortOrder": 4
-            },
-            {
-              "id": "002174",
-              "name": "游族网络",
-              "changePercent": 10.05,
-              "badge": "AI游戏+海外游戏+三季报增长",
-              "sortOrder": 5
-            },
-            {
-              "id": "002238",
-              "name": "天威视讯",
-              "changePercent": 9.98,
-              "badge": "短剧+数据中心+广电网络+深圳国资",
-              "sortOrder": 6
-            },
-            {
-              "id": "002292",
-              "name": "奥飞娱乐",
-              "changePercent": 9.97,
-              "badge": "潮玩品牌+智能内容制作+喜羊羊+三季报增长",
-              "sortOrder": 7
-            },
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.14,
-              "badge": null,
-              "sortOrder": 8
-            },
-            {
-              "id": "002558",
-              "name": "巨人网络",
-              "changePercent": 10.0,
-              "badge": "游戏+三季报高增+超跌反弹",
-              "sortOrder": 9
-            },
-            {
-              "id": "002712",
-              "name": "思美传媒",
-              "changePercent": 10.02,
-              "badge": "AI营销+AI漫剧+文化传媒",
-              "sortOrder": 10
-            },
-            {
-              "id": "002995",
-              "name": "天地在线",
-              "changePercent": 9.99,
-              "badge": "短剧游戏+字节广告+数字营销+三季报减亏",
-              "sortOrder": 11
-            },
-            {
-              "id": "300182",
-              "name": "捷成股份",
-              "changePercent": 20.0,
-              "badge": "AI漫剧+影视版权+智能营销",
-              "sortOrder": 12
-            },
-            {
-              "id": "300377",
-              "name": "赢时胜",
-              "changePercent": 20.0,
-              "badge": "金融科技+智能金融+资产托管",
-              "sortOrder": 13
-            },
-            {
-              "id": "300781",
-              "name": "因赛集团",
-              "changePercent": 20.0,
-              "badge": "AI营销+AIGC+品牌营销+红人营销",
-              "sortOrder": 14
-            },
-            {
-              "id": "301262",
-              "name": "海看股份",
-              "changePercent": 20.0,
-              "badge": "AI影视+微短剧+山东IPTV",
-              "sortOrder": 15
-            },
-            {
-              "id": "600109",
-              "name": "国金证券",
-              "changePercent": 10.03,
-              "badge": "三季报增长+券商+回购注销",
-              "sortOrder": 16
-            },
-            {
-              "id": "600556",
-              "name": "天下秀",
-              "changePercent": 10.07,
-              "badge": "AIGC+AI营销+红人经济+双11营销",
-              "sortOrder": 17
-            },
-            {
-              "id": "600633",
-              "name": "浙数文化",
-              "changePercent": 9.96,
-              "badge": "AI短剧+数据中心+游戏+AI应用",
-              "sortOrder": 18
-            },
-            {
-              "id": "603383",
-              "name": "顶点软件",
-              "changePercent": 10.0,
-              "badge": "金融科技+金融智能体+三季报净利增长",
-              "sortOrder": 19
-            },
-            {
-              "id": "603598",
-              "name": "引力传媒",
-              "changePercent": 9.99,
-              "badge": "AI短剧+AI营销+三季报增长",
-              "sortOrder": 20
-            },
-            {
-              "id": "603721",
-              "name": "中广天择",
-              "changePercent": 10.01,
-              "badge": "AI漫剧+火山引擎+AI语料+城发文旅入主",
-              "sortOrder": 21
-            },
-            {
-              "id": "603887",
-              "name": "城地香江",
-              "changePercent": 10.03,
-              "badge": "数据中心+三季报增长+东数西算",
-              "sortOrder": 22
-            },
-            {
-              "id": "688376",
-              "name": "美埃科技",
-              "changePercent": 20.0,
-              "badge": "三季报高增+洁净室设备+海外扩产",
-              "sortOrder": 23
             }
           ]
         }
@@ -3066,7 +3101,7 @@
               "id": "002425",
               "name": "凯撒文化",
               "changePercent": 10.14,
-              "badge": null,
+              "badge": "手游+新游储备+人工智能游戏+实控人变更",
               "sortOrder": 7
             },
             {
@@ -3128,7 +3163,7 @@
             {
               "id": "600363",
               "name": "ST联光",
-              "changePercent": 9.99,
+              "changePercent": 9.86,
               "badge": "ST板块+智能控制+高温超导",
               "sortOrder": 16
             },
@@ -3241,7 +3276,7 @@
               "id": "002425",
               "name": "凯撒文化",
               "changePercent": 10.14,
-              "badge": null,
+              "badge": "手游+新游储备+人工智能游戏+实控人变更",
               "sortOrder": 6
             },
             {
@@ -3326,5 +3361,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-02 14:24:34"
+  "updatedAt": "2026-11-02 14:34:55"
 }
