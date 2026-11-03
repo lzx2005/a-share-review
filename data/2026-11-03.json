@@ -7,7 +7,7 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 46,
+    "limitUpCount": 48,
     "limitUpSuccessRate": 84,
     "limitDownCount": 3
   },
@@ -39,28 +39,28 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 19
+        "stockCount": 20
       },
       {
         "boardCount": 1,
-        "stockCount": 24
+        "stockCount": 25
       }
     ],
     "hotTheme": {
       "name": "锂电池概念",
-      "stockCount": 10
+      "stockCount": 11
     },
-    "poolFirstBoardCount": 24,
-    "poolContinuousBoardCount": 22,
+    "poolFirstBoardCount": 25,
+    "poolContinuousBoardCount": 23,
     "poolBrokenBoardCount": 9
   },
   "themes": [
     {
       "id": "885710.TI",
       "name": "锂电池概念",
-      "stockCount": 10,
+      "stockCount": 11,
       "highestBoardCount": 2,
-      "limitUpCount": 10,
+      "limitUpCount": 11,
       "ladders": [
         {
           "boardCount": 2,
@@ -84,7 +84,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 8,
+          "totalCount": 9,
           "stocks": [
             {
               "id": "002088",
@@ -97,7 +97,7 @@
               "id": "002190",
               "name": "成飞集成",
               "changePercent": 10.0,
-              "badge": "其它",
+              "badge": "航空零部件+商业航天+低空经济+C919",
               "sortOrder": 2
             },
             {
@@ -125,22 +125,29 @@
               "id": "301513",
               "name": "尚水智能",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 6
+            },
+            {
+              "id": "600241",
+              "name": "时代万恒",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 7
             },
             {
               "id": "603906",
               "name": "龙蟠科技",
               "changePercent": 9.99,
               "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
-              "sortOrder": 7
+              "sortOrder": 8
             },
             {
               "id": "605378",
               "name": "野马电池",
               "changePercent": 10.04,
               "badge": "锌锰电池+锂电池+海外基地",
-              "sortOrder": 8
+              "sortOrder": 9
             }
           ]
         }
@@ -175,7 +182,7 @@
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 3
             },
             {
@@ -189,7 +196,7 @@
               "id": "600715",
               "name": "文投控股",
               "changePercent": 9.82,
-              "badge": null,
+              "badge": "AI漫剧+游戏运营+影院多元业态",
               "sortOrder": 5
             },
             {
@@ -259,14 +266,14 @@
               "id": "002811",
               "name": "郑中设计",
               "changePercent": 9.99,
-              "badge": null,
+              "badge": "入股深迪半导体+AI设计+室内设计",
               "sortOrder": 2
             },
             {
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 3
             },
             {
@@ -329,14 +336,14 @@
               "id": "000591",
               "name": "太阳能",
               "changePercent": 10.07,
-              "badge": "其它",
+              "badge": "光伏电站+机器人概念+央企+“羊”字辈",
               "sortOrder": 1
             },
             {
               "id": "002190",
               "name": "成飞集成",
               "changePercent": 10.0,
-              "badge": "其它",
+              "badge": "航空零部件+商业航天+低空经济+C919",
               "sortOrder": 2
             },
             {
@@ -364,7 +371,7 @@
               "id": "300739",
               "name": "明阳电路",
               "changePercent": 19.98,
-              "badge": null,
+              "badge": "三季报增长+PCB+机器人+“羊”字辈",
               "sortOrder": 6
             },
             {
@@ -427,7 +434,7 @@
               "id": "301513",
               "name": "尚水智能",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 3
             },
             {
@@ -511,7 +518,7 @@
               "id": "301513",
               "name": "尚水智能",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 5
             },
             {
@@ -547,21 +554,21 @@
               "id": "002811",
               "name": "郑中设计",
               "changePercent": 9.99,
-              "badge": null,
+              "badge": "入股深迪半导体+AI设计+室内设计",
               "sortOrder": 2
             },
             {
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 3
             },
             {
               "id": "600715",
               "name": "文投控股",
               "changePercent": 9.82,
-              "badge": null,
+              "badge": "AI漫剧+游戏运营+影院多元业态",
               "sortOrder": 4
             },
             {
@@ -604,7 +611,7 @@
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 1
             },
             {
@@ -618,7 +625,7 @@
               "id": "600715",
               "name": "文投控股",
               "changePercent": 9.82,
-              "badge": null,
+              "badge": "AI漫剧+游戏运营+影院多元业态",
               "sortOrder": 3
             },
             {
@@ -681,7 +688,7 @@
               "id": "000591",
               "name": "太阳能",
               "changePercent": 10.07,
-              "badge": "其它",
+              "badge": "光伏电站+机器人概念+央企+“羊”字辈",
               "sortOrder": 1
             },
             {
@@ -759,7 +766,7 @@
               "id": "301513",
               "name": "尚水智能",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 5
             },
             {
@@ -768,62 +775,6 @@
               "changePercent": 9.99,
               "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
               "sortOrder": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885564.TI",
-      "name": "无人机",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600734",
-              "name": "*ST实达",
-              "changePercent": 9.77,
-              "badge": "资产重组+智能算力+数字安全+保壳预期",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002190",
-              "name": "成飞集成",
-              "changePercent": 10.0,
-              "badge": "其它",
-              "sortOrder": 1
-            },
-            {
-              "id": "002651",
-              "name": "利君股份",
-              "changePercent": 10.0,
-              "badge": "航空军工+粉磨装备",
-              "sortOrder": 2
-            },
-            {
-              "id": "300739",
-              "name": "明阳电路",
-              "changePercent": 19.98,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
-              "id": "603906",
-              "name": "龙蟠科技",
-              "changePercent": 9.99,
-              "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
-              "sortOrder": 4
             }
           ]
         }
@@ -907,7 +858,7 @@
               "id": "002811",
               "name": "郑中设计",
               "changePercent": 9.99,
-              "badge": null,
+              "badge": "入股深迪半导体+AI设计+室内设计",
               "sortOrder": 2
             },
             {
@@ -1012,14 +963,14 @@
               "id": "002811",
               "name": "郑中设计",
               "changePercent": 9.99,
-              "badge": null,
+              "badge": "入股深迪半导体+AI设计+室内设计",
               "sortOrder": 1
             },
             {
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 2
             },
             {
@@ -1046,7 +997,63 @@
               "id": "000591",
               "name": "太阳能",
               "changePercent": 10.07,
-              "badge": "其它",
+              "badge": "光伏电站+机器人概念+央企+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885603.TI",
+      "name": "网络游戏",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "600576",
+              "name": "祥源文旅",
+              "changePercent": 9.96,
+              "badge": "冰雪产业+旅游景区+低空文旅",
+              "sortOrder": 1
+            },
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 9.82,
+              "badge": "AI漫剧+游戏运营+影院多元业态",
+              "sortOrder": 2
+            },
+            {
+              "id": "600892",
+              "name": "大晟文化",
+              "changePercent": 10.07,
+              "badge": "短剧+三季报减亏+股权转让",
+              "sortOrder": 3
+            },
+            {
+              "id": "603258",
+              "name": "电魂网络",
+              "changePercent": 10.02,
+              "badge": "游戏+漫剧+衍生品",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600358",
+              "name": "国旅联合",
+              "changePercent": 10.08,
+              "badge": "互联网营销+三季报增长+饮用水+跨境电商",
               "sortOrder": 1
             }
           ]
@@ -1054,5 +1061,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03 10:15:32"
+  "updatedAt": "2026-11-03 10:26:01"
 }
