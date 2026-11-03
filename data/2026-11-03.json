@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 54,
-    "limitUpSuccessRate": 81,
+    "limitUpCount": 55,
+    "limitUpSuccessRate": 80,
     "limitDownCount": 4
   },
   "sentiment": {
@@ -39,20 +39,20 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 20
+        "stockCount": 19
       },
       {
         "boardCount": 1,
-        "stockCount": 31
+        "stockCount": 33
       }
     ],
     "hotTheme": {
       "name": "锂电池概念",
       "stockCount": 11
     },
-    "poolFirstBoardCount": 31,
-    "poolContinuousBoardCount": 23,
-    "poolBrokenBoardCount": 13
+    "poolFirstBoardCount": 33,
+    "poolContinuousBoardCount": 22,
+    "poolBrokenBoardCount": 14
   },
   "themes": [
     {
@@ -244,7 +244,7 @@
               "id": "603402",
               "name": "陕西旅游",
               "changePercent": 9.99,
-              "badge": "其它",
+              "badge": "旅游演艺+旅游索道+次新股+陕西国资",
               "sortOrder": 2
             }
           ]
@@ -266,7 +266,7 @@
               "id": "000151",
               "name": "中成股份",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 1
             },
             {
@@ -476,7 +476,7 @@
               "id": "603289",
               "name": "泰瑞机器",
               "changePercent": 9.97,
-              "badge": "一体化压铸+汽车注塑+海外业务",
+              "badge": "拟收购半导体公司+一体化压铸+汽车注塑+海外业务",
               "sortOrder": 5
             },
             {
@@ -525,7 +525,7 @@
               "id": "000151",
               "name": "中成股份",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 1
             },
             {
@@ -773,6 +773,69 @@
       ]
     },
     {
+      "id": "885540.TI",
+      "name": "三胎概念",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002292",
+              "name": "奥飞娱乐",
+              "changePercent": 9.99,
+              "badge": "智能内容制作+喜羊羊+潮玩品牌+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "001318",
+              "name": "阳光乳业",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002105",
+              "name": "信隆健康",
+              "changePercent": 10.1,
+              "badge": "外骨骼机器人+自行车配件",
+              "sortOrder": 2
+            },
+            {
+              "id": "600327",
+              "name": "大东方",
+              "changePercent": 10.13,
+              "badge": "百货零售+医疗服务",
+              "sortOrder": 3
+            },
+            {
+              "id": "600630",
+              "name": "龙头股份",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 4
+            },
+            {
+              "id": "605388",
+              "name": "均瑶健康",
+              "changePercent": 10.03,
+              "badge": "益生菌食品+益生菌出海+菌株研发",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885939.TI",
       "name": "海峡两岸",
       "stockCount": 6,
@@ -956,173 +1019,123 @@
       ]
     },
     {
-      "id": "885976.TI",
-      "name": "数字经济",
+      "id": "885705.TI",
+      "name": "乡村振兴",
       "stockCount": 5,
-      "highestBoardCount": 2,
+      "highestBoardCount": 3,
       "limitUpCount": 5,
       "ladders": [
         {
-          "boardCount": 2,
-          "totalCount": 4,
+          "boardCount": 3,
+          "totalCount": 1,
           "stocks": [
             {
-              "id": "002029",
-              "name": "七 匹 狼",
-              "changePercent": 10.01,
-              "badge": "夹克男装+投资科技+基金备案+海峡两岸",
+              "id": "000995",
+              "name": "皇台酒业",
+              "changePercent": 10.0,
+              "badge": "白酒+老窖池+董事会换届",
               "sortOrder": 1
-            },
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
             {
-              "id": "002811",
-              "name": "郑中设计",
+              "id": "002292",
+              "name": "奥飞娱乐",
               "changePercent": 9.99,
-              "badge": "入股深迪半导体+AI设计+室内设计",
-              "sortOrder": 2
-            },
-            {
-              "id": "002949",
-              "name": "华阳国际",
-              "changePercent": 10.01,
-              "badge": "“羊”字辈+微短剧+低空规划+AI设计",
-              "sortOrder": 3
-            },
-            {
-              "id": "600734",
-              "name": "*ST实达",
-              "changePercent": 9.77,
-              "badge": "资产重组+智能算力+数字安全+保壳预期",
-              "sortOrder": 4
+              "badge": "智能内容制作+喜羊羊+潮玩品牌+三季报增长",
+              "sortOrder": 1
             }
           ]
         },
         {
           "boardCount": 1,
-          "totalCount": 1,
+          "totalCount": 3,
           "stocks": [
             {
-              "id": "603906",
-              "name": "龙蟠科技",
-              "changePercent": 9.99,
-              "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
-              "sortOrder": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885413.TI",
-      "name": "创投",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002058",
-              "name": "紫竹高科",
-              "changePercent": 9.99,
-              "badge": "固态电池+铝塑膜+汽车检具",
+              "id": "001318",
+              "name": "阳光乳业",
+              "changePercent": 10.0,
+              "badge": null,
               "sortOrder": 1
             },
             {
-              "id": "600734",
-              "name": "*ST实达",
-              "changePercent": 9.77,
-              "badge": "资产重组+智能算力+数字安全+保壳预期",
-              "sortOrder": 2
-            },
-            {
-              "id": "600892",
-              "name": "大晟文化",
-              "changePercent": 10.07,
-              "badge": "短剧+三季报减亏+股权转让",
-              "sortOrder": 3
-            },
-            {
-              "id": "603258",
-              "name": "电魂网络",
-              "changePercent": 10.02,
-              "badge": "游戏+漫剧+衍生品",
-              "sortOrder": 4
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002580",
-              "name": "圣阳股份",
-              "changePercent": 10.02,
-              "badge": "固态电池+液冷储能+算力+“羊”字辈",
-              "sortOrder": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885603.TI",
-      "name": "网络游戏",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "600576",
-              "name": "祥源文旅",
+              "id": "002696",
+              "name": "百洋股份",
               "changePercent": 9.96,
-              "badge": "冰雪产业+旅游景区+低空文旅",
-              "sortOrder": 1
-            },
-            {
-              "id": "600715",
-              "name": "文投控股",
-              "changePercent": 9.82,
-              "badge": "AI漫剧+游戏运营+影院多元业态",
+              "badge": "水产加工+鱼粉鱼油+“羊”字辈",
               "sortOrder": 2
             },
             {
-              "id": "600892",
-              "name": "大晟文化",
-              "changePercent": 10.07,
-              "badge": "短剧+三季报减亏+股权转让",
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.12,
+              "badge": "冰雪旅游保障+高速公路运营",
               "sortOrder": 3
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885835.TI",
+      "name": "参股银行",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
             {
-              "id": "603258",
-              "name": "电魂网络",
-              "changePercent": 10.02,
-              "badge": "游戏+漫剧+衍生品",
-              "sortOrder": 4
+              "id": "600293",
+              "name": "三峡新材",
+              "changePercent": 9.89,
+              "badge": "赛纬重组+锂电电解液+浮法玻璃",
+              "sortOrder": 1
             }
           ]
         },
         {
           "boardCount": 1,
-          "totalCount": 1,
+          "totalCount": 4,
           "stocks": [
             {
-              "id": "600358",
-              "name": "国旅联合",
-              "changePercent": 10.08,
-              "badge": "互联网营销+饮用水+跨境电商+三季报增长",
+              "id": "600327",
+              "name": "大东方",
+              "changePercent": 10.13,
+              "badge": "百货零售+医疗服务",
               "sortOrder": 1
+            },
+            {
+              "id": "600630",
+              "name": "龙头股份",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "600802",
+              "name": "福建水泥",
+              "changePercent": 9.96,
+              "badge": "水泥熟料+重点工程+福建国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.12,
+              "badge": "冰雪旅游保障+高速公路运营",
+              "sortOrder": 4
             }
           ]
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-03 11:18:10"
+  "updatedAt": "2026-11-03 11:28:31"
 }
