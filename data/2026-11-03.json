@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 48,
-    "limitUpSuccessRate": 63,
-    "limitDownCount": 10
+    "limitUpCount": 49,
+    "limitUpSuccessRate": 64,
+    "limitDownCount": 9
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 30
+        "stockCount": 31
       }
     ],
     "hotTheme": {
       "name": "锂电池概念",
       "stockCount": 9
     },
-    "poolFirstBoardCount": 30,
+    "poolFirstBoardCount": 31,
     "poolContinuousBoardCount": 18,
-    "poolBrokenBoardCount": 28
+    "poolBrokenBoardCount": 27
   },
   "themes": [
     {
@@ -688,6 +688,68 @@
       ]
     },
     {
+      "id": "885705.TI",
+      "name": "乡村振兴",
+      "stockCount": 5,
+      "highestBoardCount": 3,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000995",
+              "name": "皇台酒业",
+              "changePercent": 10.0,
+              "badge": "白酒+老窖池+董事会换届",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002292",
+              "name": "奥飞娱乐",
+              "changePercent": 9.99,
+              "badge": "智能内容制作+喜羊羊+潮玩品牌+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002696",
+              "name": "百洋股份",
+              "changePercent": 9.96,
+              "badge": "水产加工+鱼粉鱼油+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.12,
+              "badge": "冰雪旅游保障+高速公路运营",
+              "sortOrder": 2
+            },
+            {
+              "id": "601366",
+              "name": "利群股份",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885540.TI",
       "name": "三胎概念",
       "stockCount": 5,
@@ -912,76 +974,21 @@
       ]
     },
     {
-      "id": "885705.TI",
-      "name": "乡村振兴",
+      "id": "885951.TI",
+      "name": "预制菜",
       "stockCount": 4,
-      "highestBoardCount": 3,
+      "highestBoardCount": 4,
       "limitUpCount": 4,
       "ladders": [
         {
-          "boardCount": 3,
+          "boardCount": 4,
           "totalCount": 1,
           "stocks": [
             {
-              "id": "000995",
-              "name": "皇台酒业",
-              "changePercent": 10.0,
-              "badge": "白酒+老窖池+董事会换届",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002292",
-              "name": "奥飞娱乐",
-              "changePercent": 9.99,
-              "badge": "智能内容制作+喜羊羊+潮玩品牌+三季报增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002696",
-              "name": "百洋股份",
-              "changePercent": 9.96,
-              "badge": "水产加工+鱼粉鱼油+“羊”字辈",
-              "sortOrder": 1
-            },
-            {
-              "id": "601188",
-              "name": "龙江交通",
-              "changePercent": 10.12,
-              "badge": "冰雪旅游保障+高速公路运营",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885936.TI",
-      "name": "绿色电力",
-      "stockCount": 4,
-      "highestBoardCount": 2,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600537",
-              "name": "*ST亿晶",
-              "changePercent": 10.0,
-              "badge": "预重整+中润光能拟入主+光伏组件",
+              "id": "002086",
+              "name": "东方海洋",
+              "changePercent": 9.97,
+              "badge": "“羊”字辈+体外诊断+海参养殖+水溶性维生素试剂",
               "sortOrder": 1
             }
           ]
@@ -991,24 +998,24 @@
           "totalCount": 3,
           "stocks": [
             {
-              "id": "000591",
-              "name": "太阳能",
-              "changePercent": 10.07,
-              "badge": "光伏电站+机器人概念+央企+“羊”字辈",
+              "id": "002696",
+              "name": "百洋股份",
+              "changePercent": 9.96,
+              "badge": "水产加工+鱼粉鱼油+“羊”字辈",
               "sortOrder": 1
             },
             {
-              "id": "601188",
-              "name": "龙江交通",
-              "changePercent": 10.12,
-              "badge": "冰雪旅游保障+高速公路运营",
+              "id": "600327",
+              "name": "大东方",
+              "changePercent": 10.13,
+              "badge": "百货零售+医疗服务",
               "sortOrder": 2
             },
             {
-              "id": "603381",
-              "name": "永臻股份",
-              "changePercent": 10.03,
-              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
+              "id": "601366",
+              "name": "利群股份",
+              "changePercent": 10.0,
+              "badge": null,
               "sortOrder": 3
             }
           ]
@@ -1016,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03 13:53:16"
+  "updatedAt": "2026-11-03 14:03:36"
 }
