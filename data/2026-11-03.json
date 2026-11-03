@@ -156,9 +156,9 @@
     {
       "id": "885418.TI",
       "name": "文化传媒概念",
-      "stockCount": 10,
+      "stockCount": 11,
       "highestBoardCount": 2,
-      "limitUpCount": 10,
+      "limitUpCount": 11,
       "ladders": [
         {
           "boardCount": 2,
@@ -231,14 +231,21 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 1,
+          "totalCount": 2,
           "stocks": [
             {
               "id": "600358",
               "name": "国旅联合",
               "changePercent": 10.08,
-              "badge": "互联网营销+三季报增长+饮用水+跨境电商",
+              "badge": "互联网营销+饮用水+跨境电商+三季报增长",
               "sortOrder": 1
+            },
+            {
+              "id": "603402",
+              "name": "陕西旅游",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 2
             }
           ]
         }
@@ -266,7 +273,7 @@
               "id": "002112",
               "name": "三变科技",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "变压器+AI算力+国企改革",
               "sortOrder": 2
             },
             {
@@ -277,38 +284,38 @@
               "sortOrder": 3
             },
             {
-              "id": "002535",
-              "name": "林州重机",
-              "changePercent": 9.24,
-              "badge": "其它",
-              "sortOrder": 4
-            },
-            {
               "id": "002580",
               "name": "圣阳股份",
               "changePercent": 10.02,
               "badge": "固态电池+液冷储能+算力+“羊”字辈",
-              "sortOrder": 5
+              "sortOrder": 4
             },
             {
               "id": "002692",
               "name": "远程股份",
               "changePercent": 10.0,
               "badge": "拟收购中复碳芯股权+电线电缆",
-              "sortOrder": 6
+              "sortOrder": 5
             },
             {
               "id": "002805",
               "name": "丰元股份",
               "changePercent": 10.04,
               "badge": "固态电池+磷酸铁锂+比亚迪合作",
-              "sortOrder": 7
+              "sortOrder": 6
             },
             {
               "id": "300739",
               "name": "明阳电路",
               "changePercent": 19.98,
-              "badge": "三季报增长+PCB+机器人+“羊”字辈",
+              "badge": "PCB+机器人+三季报增长+“羊”字辈",
+              "sortOrder": 7
+            },
+            {
+              "id": "301311",
+              "name": "昆船智能",
+              "changePercent": 19.97,
+              "badge": null,
               "sortOrder": 8
             },
             {
@@ -324,6 +331,83 @@
               "changePercent": 9.99,
               "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
               "sortOrder": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 8,
+      "highestBoardCount": 2,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000599",
+              "name": "青岛双星",
+              "changePercent": 10.02,
+              "badge": "轮胎+锦湖并表+并购重组+青岛国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "002805",
+              "name": "丰元股份",
+              "changePercent": 10.04,
+              "badge": "固态电池+磷酸铁锂+比亚迪合作",
+              "sortOrder": 1
+            },
+            {
+              "id": "301311",
+              "name": "昆船智能",
+              "changePercent": 19.97,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "301487",
+              "name": "盟固利",
+              "changePercent": 19.99,
+              "badge": "三季报增长+固态电池+具身智能",
+              "sortOrder": 3
+            },
+            {
+              "id": "301513",
+              "name": "尚水智能",
+              "changePercent": 20.0,
+              "badge": "固态电池设备+锂电智能装备+制浆龙头",
+              "sortOrder": 4
+            },
+            {
+              "id": "603289",
+              "name": "泰瑞机器",
+              "changePercent": 9.97,
+              "badge": "一体化压铸+汽车注塑+海外业务",
+              "sortOrder": 5
+            },
+            {
+              "id": "603381",
+              "name": "永臻股份",
+              "changePercent": 10.03,
+              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
+              "sortOrder": 6
+            },
+            {
+              "id": "603906",
+              "name": "龙蟠科技",
+              "changePercent": 9.99,
+              "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
+              "sortOrder": 7
             }
           ]
         }
@@ -401,76 +485,6 @@
               "changePercent": 10.13,
               "badge": "百货零售+医疗服务",
               "sortOrder": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885997.TI",
-      "name": "比亚迪概念",
-      "stockCount": 7,
-      "highestBoardCount": 2,
-      "limitUpCount": 7,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "000599",
-              "name": "青岛双星",
-              "changePercent": 10.02,
-              "badge": "轮胎+锦湖并表+并购重组+青岛国资",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 6,
-          "stocks": [
-            {
-              "id": "002805",
-              "name": "丰元股份",
-              "changePercent": 10.04,
-              "badge": "固态电池+磷酸铁锂+比亚迪合作",
-              "sortOrder": 1
-            },
-            {
-              "id": "301487",
-              "name": "盟固利",
-              "changePercent": 19.99,
-              "badge": "三季报增长+固态电池+具身智能",
-              "sortOrder": 2
-            },
-            {
-              "id": "301513",
-              "name": "尚水智能",
-              "changePercent": 20.0,
-              "badge": "固态电池设备+锂电智能装备+制浆龙头",
-              "sortOrder": 3
-            },
-            {
-              "id": "603289",
-              "name": "泰瑞机器",
-              "changePercent": 9.97,
-              "badge": "一体化压铸+汽车注塑+海外业务",
-              "sortOrder": 4
-            },
-            {
-              "id": "603381",
-              "name": "永臻股份",
-              "changePercent": 10.03,
-              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
-              "sortOrder": 5
-            },
-            {
-              "id": "603906",
-              "name": "龙蟠科技",
-              "changePercent": 9.99,
-              "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
-              "sortOrder": 6
             }
           ]
         }
@@ -581,7 +595,7 @@
               "id": "002112",
               "name": "三变科技",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "变压器+AI算力+国企改革",
               "sortOrder": 2
             },
             {
@@ -1074,7 +1088,7 @@
               "id": "600358",
               "name": "国旅联合",
               "changePercent": 10.08,
-              "badge": "互联网营销+三季报增长+饮用水+跨境电商",
+              "badge": "互联网营销+饮用水+跨境电商+三季报增长",
               "sortOrder": 1
             }
           ]
@@ -1082,5 +1096,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03 10:46:51"
+  "updatedAt": "2026-11-03 10:57:25"
 }
