@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 50,
-    "limitUpSuccessRate": 83,
+    "limitUpCount": 51,
+    "limitUpSuccessRate": 81,
     "limitDownCount": 3
   },
   "sentiment": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 27
+        "stockCount": 28
       }
     ],
     "hotTheme": {
       "name": "锂电池概念",
       "stockCount": 11
     },
-    "poolFirstBoardCount": 27,
+    "poolFirstBoardCount": 28,
     "poolContinuousBoardCount": 23,
-    "poolBrokenBoardCount": 10
+    "poolBrokenBoardCount": 12
   },
   "themes": [
     {
@@ -247,13 +247,13 @@
     {
       "id": "885921.TI",
       "name": "储能",
-      "stockCount": 9,
+      "stockCount": 10,
       "highestBoardCount": 1,
-      "limitUpCount": 9,
+      "limitUpCount": 10,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 9,
+          "totalCount": 10,
           "stocks": [
             {
               "id": "000591",
@@ -263,60 +263,67 @@
               "sortOrder": 1
             },
             {
+              "id": "002112",
+              "name": "三变科技",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
               "id": "002190",
               "name": "成飞集成",
               "changePercent": 10.0,
               "badge": "航空零部件+商业航天+低空经济+C919",
-              "sortOrder": 2
+              "sortOrder": 3
             },
             {
               "id": "002535",
               "name": "林州重机",
-              "changePercent": 10.04,
-              "badge": null,
-              "sortOrder": 3
+              "changePercent": 9.24,
+              "badge": "其它",
+              "sortOrder": 4
             },
             {
               "id": "002580",
               "name": "圣阳股份",
               "changePercent": 10.02,
               "badge": "固态电池+液冷储能+算力+“羊”字辈",
-              "sortOrder": 4
+              "sortOrder": 5
             },
             {
               "id": "002692",
               "name": "远程股份",
               "changePercent": 10.0,
               "badge": "拟收购中复碳芯股权+电线电缆",
-              "sortOrder": 5
+              "sortOrder": 6
             },
             {
               "id": "002805",
               "name": "丰元股份",
               "changePercent": 10.04,
               "badge": "固态电池+磷酸铁锂+比亚迪合作",
-              "sortOrder": 6
+              "sortOrder": 7
             },
             {
               "id": "300739",
               "name": "明阳电路",
               "changePercent": 19.98,
               "badge": "三季报增长+PCB+机器人+“羊”字辈",
-              "sortOrder": 7
+              "sortOrder": 8
             },
             {
               "id": "603381",
               "name": "永臻股份",
               "changePercent": 10.03,
               "badge": "光伏+电池铝箔+人形机器人+三季报增长",
-              "sortOrder": 8
+              "sortOrder": 9
             },
             {
               "id": "603906",
               "name": "龙蟠科技",
               "changePercent": 9.99,
               "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
-              "sortOrder": 9
+              "sortOrder": 10
             }
           ]
         }
@@ -540,6 +547,76 @@
       ]
     },
     {
+      "id": "885531.TI",
+      "name": "光伏概念",
+      "stockCount": 7,
+      "highestBoardCount": 2,
+      "limitUpCount": 7,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600537",
+              "name": "*ST亿晶",
+              "changePercent": 10.0,
+              "badge": "预重整+中润光能拟入主+光伏组件",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "000591",
+              "name": "太阳能",
+              "changePercent": 10.07,
+              "badge": "光伏电站+机器人概念+央企+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "002112",
+              "name": "三变科技",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "002300",
+              "name": "太阳电缆",
+              "changePercent": 9.96,
+              "badge": "电线电缆+海底电缆+海峡两岸+“羊”字辈",
+              "sortOrder": 3
+            },
+            {
+              "id": "002692",
+              "name": "远程股份",
+              "changePercent": 10.0,
+              "badge": "拟收购中复碳芯股权+电线电缆",
+              "sortOrder": 4
+            },
+            {
+              "id": "002915",
+              "name": "中欣氟材",
+              "changePercent": 10.01,
+              "badge": "PEEK材料+新能源材料+氟化工+萤石",
+              "sortOrder": 5
+            },
+            {
+              "id": "603381",
+              "name": "永臻股份",
+              "changePercent": 10.03,
+              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "886108.TI",
       "name": "AI应用",
       "stockCount": 7,
@@ -662,69 +739,6 @@
               "changePercent": 9.99,
               "badge": "AI短剧+短剧出海+数字阅读",
               "sortOrder": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885531.TI",
-      "name": "光伏概念",
-      "stockCount": 6,
-      "highestBoardCount": 2,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600537",
-              "name": "*ST亿晶",
-              "changePercent": 10.0,
-              "badge": "预重整+中润光能拟入主+光伏组件",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000591",
-              "name": "太阳能",
-              "changePercent": 10.07,
-              "badge": "光伏电站+机器人概念+央企+“羊”字辈",
-              "sortOrder": 1
-            },
-            {
-              "id": "002300",
-              "name": "太阳电缆",
-              "changePercent": 9.96,
-              "badge": "电线电缆+海底电缆+海峡两岸+“羊”字辈",
-              "sortOrder": 2
-            },
-            {
-              "id": "002692",
-              "name": "远程股份",
-              "changePercent": 10.0,
-              "badge": "拟收购中复碳芯股权+电线电缆",
-              "sortOrder": 3
-            },
-            {
-              "id": "002915",
-              "name": "中欣氟材",
-              "changePercent": 10.01,
-              "badge": "PEEK材料+新能源材料+氟化工+萤石",
-              "sortOrder": 4
-            },
-            {
-              "id": "603381",
-              "name": "永臻股份",
-              "changePercent": 10.03,
-              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
-              "sortOrder": 5
             }
           ]
         }
@@ -1068,5 +1082,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03 10:36:26"
+  "updatedAt": "2026-11-03 10:46:51"
 }
