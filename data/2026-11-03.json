@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 51,
-    "limitUpSuccessRate": 64,
-    "limitDownCount": 10
+    "limitUpCount": 52,
+    "limitUpSuccessRate": 62,
+    "limitDownCount": 15
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 33
+        "stockCount": 34
       }
     ],
     "hotTheme": {
       "name": "比亚迪概念",
       "stockCount": 9
     },
-    "poolFirstBoardCount": 33,
+    "poolFirstBoardCount": 34,
     "poolContinuousBoardCount": 18,
-    "poolBrokenBoardCount": 29
+    "poolBrokenBoardCount": 32
   },
   "themes": [
     {
@@ -83,7 +83,7 @@
               "id": "002249",
               "name": "大洋电机",
               "changePercent": 10.05,
-              "badge": null,
+              "badge": "机器人关节+散热风机+羊字辈",
               "sortOrder": 1
             },
             {
@@ -97,7 +97,7 @@
               "id": "002992",
               "name": "宝明科技",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 3
             },
             {
@@ -118,7 +118,7 @@
               "id": "603330",
               "name": "天洋新材",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 6
             },
             {
@@ -188,7 +188,7 @@
               "id": "002992",
               "name": "宝明科技",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 4
             },
             {
@@ -286,7 +286,7 @@
               "id": "603330",
               "name": "天洋新材",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 5
             },
             {
@@ -406,7 +406,7 @@
               "id": "002249",
               "name": "大洋电机",
               "changePercent": 10.05,
-              "badge": null,
+              "badge": "机器人关节+散热风机+羊字辈",
               "sortOrder": 3
             },
             {
@@ -560,7 +560,7 @@
               "id": "002992",
               "name": "宝明科技",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 3
             },
             {
@@ -748,7 +748,7 @@
               "id": "002992",
               "name": "宝明科技",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "其它",
               "sortOrder": 1
             },
             {
@@ -1022,5 +1022,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03 14:34:40"
+  "updatedAt": "2026-11-03 14:45:02"
 }
