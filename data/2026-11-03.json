@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 48,
-    "limitUpSuccessRate": 84,
+    "limitUpCount": 50,
+    "limitUpSuccessRate": 83,
     "limitDownCount": 3
   },
   "sentiment": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 25
+        "stockCount": 27
       }
     ],
     "hotTheme": {
       "name": "锂电池概念",
       "stockCount": 11
     },
-    "poolFirstBoardCount": 25,
+    "poolFirstBoardCount": 27,
     "poolContinuousBoardCount": 23,
-    "poolBrokenBoardCount": 9
+    "poolBrokenBoardCount": 10
   },
   "themes": [
     {
@@ -118,21 +118,21 @@
               "id": "301487",
               "name": "盟固利",
               "changePercent": 19.99,
-              "badge": "其它",
+              "badge": "三季报增长+固态电池+具身智能",
               "sortOrder": 5
             },
             {
               "id": "301513",
               "name": "尚水智能",
               "changePercent": 20.0,
-              "badge": "其它",
+              "badge": "固态电池设备+锂电智能装备+制浆龙头",
               "sortOrder": 6
             },
             {
               "id": "600241",
               "name": "时代万恒",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "锂电池+镍氢电池+辽宁国资",
               "sortOrder": 7
             },
             {
@@ -182,7 +182,7 @@
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": "其它",
+              "badge": "人工智能影视+互动影游+短剧出海",
               "sortOrder": 3
             },
             {
@@ -245,6 +245,84 @@
       ]
     },
     {
+      "id": "885921.TI",
+      "name": "储能",
+      "stockCount": 9,
+      "highestBoardCount": 1,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 9,
+          "stocks": [
+            {
+              "id": "000591",
+              "name": "太阳能",
+              "changePercent": 10.07,
+              "badge": "光伏电站+机器人概念+央企+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "002190",
+              "name": "成飞集成",
+              "changePercent": 10.0,
+              "badge": "航空零部件+商业航天+低空经济+C919",
+              "sortOrder": 2
+            },
+            {
+              "id": "002535",
+              "name": "林州重机",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 3
+            },
+            {
+              "id": "002580",
+              "name": "圣阳股份",
+              "changePercent": 10.02,
+              "badge": "固态电池+液冷储能+算力+“羊”字辈",
+              "sortOrder": 4
+            },
+            {
+              "id": "002692",
+              "name": "远程股份",
+              "changePercent": 10.0,
+              "badge": "拟收购中复碳芯股权+电线电缆",
+              "sortOrder": 5
+            },
+            {
+              "id": "002805",
+              "name": "丰元股份",
+              "changePercent": 10.04,
+              "badge": "固态电池+磷酸铁锂+比亚迪合作",
+              "sortOrder": 6
+            },
+            {
+              "id": "300739",
+              "name": "明阳电路",
+              "changePercent": 19.98,
+              "badge": "三季报增长+PCB+机器人+“羊”字辈",
+              "sortOrder": 7
+            },
+            {
+              "id": "603381",
+              "name": "永臻股份",
+              "changePercent": 10.03,
+              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
+              "sortOrder": 8
+            },
+            {
+              "id": "603906",
+              "name": "龙蟠科技",
+              "changePercent": 9.99,
+              "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
+              "sortOrder": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "886095.TI",
       "name": "IP经济(谷子经济)",
       "stockCount": 8,
@@ -273,7 +351,7 @@
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": "其它",
+              "badge": "人工智能影视+互动影游+短剧出海",
               "sortOrder": 3
             },
             {
@@ -322,77 +400,6 @@
       ]
     },
     {
-      "id": "885921.TI",
-      "name": "储能",
-      "stockCount": 8,
-      "highestBoardCount": 1,
-      "limitUpCount": 8,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 8,
-          "stocks": [
-            {
-              "id": "000591",
-              "name": "太阳能",
-              "changePercent": 10.07,
-              "badge": "光伏电站+机器人概念+央企+“羊”字辈",
-              "sortOrder": 1
-            },
-            {
-              "id": "002190",
-              "name": "成飞集成",
-              "changePercent": 10.0,
-              "badge": "航空零部件+商业航天+低空经济+C919",
-              "sortOrder": 2
-            },
-            {
-              "id": "002580",
-              "name": "圣阳股份",
-              "changePercent": 10.02,
-              "badge": "固态电池+液冷储能+算力+“羊”字辈",
-              "sortOrder": 3
-            },
-            {
-              "id": "002692",
-              "name": "远程股份",
-              "changePercent": 10.0,
-              "badge": "其它",
-              "sortOrder": 4
-            },
-            {
-              "id": "002805",
-              "name": "丰元股份",
-              "changePercent": 10.04,
-              "badge": "固态电池+磷酸铁锂+比亚迪合作",
-              "sortOrder": 5
-            },
-            {
-              "id": "300739",
-              "name": "明阳电路",
-              "changePercent": 19.98,
-              "badge": "三季报增长+PCB+机器人+“羊”字辈",
-              "sortOrder": 6
-            },
-            {
-              "id": "603381",
-              "name": "永臻股份",
-              "changePercent": 10.03,
-              "badge": "其它",
-              "sortOrder": 7
-            },
-            {
-              "id": "603906",
-              "name": "龙蟠科技",
-              "changePercent": 9.99,
-              "badge": "固态电池材料+磷酸铁锂+液冷+三季报扭亏",
-              "sortOrder": 8
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885997.TI",
       "name": "比亚迪概念",
       "stockCount": 7,
@@ -427,14 +434,14 @@
               "id": "301487",
               "name": "盟固利",
               "changePercent": 19.99,
-              "badge": "其它",
+              "badge": "三季报增长+固态电池+具身智能",
               "sortOrder": 2
             },
             {
               "id": "301513",
               "name": "尚水智能",
               "changePercent": 20.0,
-              "badge": "其它",
+              "badge": "固态电池设备+锂电智能装备+制浆龙头",
               "sortOrder": 3
             },
             {
@@ -448,7 +455,7 @@
               "id": "603381",
               "name": "永臻股份",
               "changePercent": 10.03,
-              "badge": "其它",
+              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
               "sortOrder": 5
             },
             {
@@ -511,14 +518,14 @@
               "id": "301487",
               "name": "盟固利",
               "changePercent": 19.99,
-              "badge": "其它",
+              "badge": "三季报增长+固态电池+具身智能",
               "sortOrder": 4
             },
             {
               "id": "301513",
               "name": "尚水智能",
               "changePercent": 20.0,
-              "badge": "其它",
+              "badge": "固态电池设备+锂电智能装备+制浆龙头",
               "sortOrder": 5
             },
             {
@@ -561,7 +568,7 @@
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": "其它",
+              "badge": "人工智能影视+互动影游+短剧出海",
               "sortOrder": 3
             },
             {
@@ -611,7 +618,7 @@
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": "其它",
+              "badge": "人工智能影视+互动影游+短剧出海",
               "sortOrder": 1
             },
             {
@@ -702,7 +709,7 @@
               "id": "002692",
               "name": "远程股份",
               "changePercent": 10.0,
-              "badge": "其它",
+              "badge": "拟收购中复碳芯股权+电线电缆",
               "sortOrder": 3
             },
             {
@@ -716,7 +723,7 @@
               "id": "603381",
               "name": "永臻股份",
               "changePercent": 10.03,
-              "badge": "其它",
+              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
               "sortOrder": 5
             }
           ]
@@ -759,14 +766,14 @@
               "id": "301487",
               "name": "盟固利",
               "changePercent": 19.99,
-              "badge": "其它",
+              "badge": "三季报增长+固态电池+具身智能",
               "sortOrder": 4
             },
             {
               "id": "301513",
               "name": "尚水智能",
               "changePercent": 20.0,
-              "badge": "其它",
+              "badge": "固态电池设备+锂电智能装备+制浆龙头",
               "sortOrder": 5
             },
             {
@@ -970,7 +977,7 @@
               "id": "300426",
               "name": "华智数媒",
               "changePercent": 20.03,
-              "badge": "其它",
+              "badge": "人工智能影视+互动影游+短剧出海",
               "sortOrder": 2
             },
             {
@@ -1061,5 +1068,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-03 10:26:01"
+  "updatedAt": "2026-11-03 10:36:26"
 }
