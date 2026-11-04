@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 31,
-    "limitUpSuccessRate": 58,
-    "limitDownCount": 16
+    "limitUpCount": 32,
+    "limitUpSuccessRate": 63,
+    "limitDownCount": 15
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 20
+        "stockCount": 21
       }
     ],
     "hotTheme": {
       "name": "人形机器人",
       "stockCount": 7
     },
-    "poolFirstBoardCount": 20,
+    "poolFirstBoardCount": 21,
     "poolContinuousBoardCount": 11,
-    "poolBrokenBoardCount": 22
+    "poolBrokenBoardCount": 19
   },
   "themes": [
     {
@@ -593,6 +593,54 @@
       ]
     },
     {
+      "id": "886095.TI",
+      "name": "IP经济(谷子经济)",
+      "stockCount": 3,
+      "highestBoardCount": 3,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605577",
+              "name": "龙版传媒",
+              "changePercent": 10.0,
+              "badge": "AI漫剧+出版发行+数字出版",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600327",
+              "name": "大东方",
+              "changePercent": 10.11,
+              "badge": "百货零售+医疗服务",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603777",
+              "name": "来伊份",
+              "changePercent": 8.95,
+              "badge": "休闲食品+全渠道零售",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885539.TI",
       "name": "医疗器械概念",
       "stockCount": 3,
@@ -735,43 +783,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "886078.TI",
-      "name": "商业航天",
-      "stockCount": 3,
-      "highestBoardCount": 1,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "002565",
-              "name": "顺灏股份",
-              "changePercent": 9.98,
-              "badge": "太空算力+特种纸印刷+员工持股计划",
-              "sortOrder": 1
-            },
-            {
-              "id": "603131",
-              "name": "上海沪工",
-              "changePercent": 10.02,
-              "badge": "商业航天+焊接机器人+三季报扭亏",
-              "sortOrder": 2
-            },
-            {
-              "id": "688507",
-              "name": "索辰科技",
-              "changePercent": 20.0,
-              "badge": "物理AI+低空经济+工程仿真",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-11-04 12:50:55"
+  "updatedAt": "2026-11-04 13:01:14"
 }
