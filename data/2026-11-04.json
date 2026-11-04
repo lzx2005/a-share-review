@@ -9,7 +9,7 @@
     "indexChangePercent": null,
     "limitUpCount": 32,
     "limitUpSuccessRate": 60,
-    "limitDownCount": 14
+    "limitDownCount": 16
   },
   "sentiment": {
     "promotion1To2": {
@@ -633,7 +633,7 @@
               "id": "603777",
               "name": "来伊份",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "休闲食品+全渠道零售",
               "sortOrder": 1
             }
           ]
@@ -785,5 +785,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-04 11:18:05"
+  "updatedAt": "2026-11-04 11:28:25"
 }
