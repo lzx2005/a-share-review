@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 26,
-    "limitUpSuccessRate": 67,
+    "limitUpCount": 25,
+    "limitUpSuccessRate": 64,
     "limitDownCount": 8
   },
   "sentiment": {
@@ -35,7 +35,7 @@
       },
       {
         "boardCount": 3,
-        "stockCount": 5
+        "stockCount": 4
       },
       {
         "boardCount": 2,
@@ -51,8 +51,8 @@
       "stockCount": 6
     },
     "poolFirstBoardCount": 16,
-    "poolContinuousBoardCount": 10,
-    "poolBrokenBoardCount": 13
+    "poolContinuousBoardCount": 9,
+    "poolBrokenBoardCount": 14
   },
   "themes": [
     {
@@ -188,62 +188,6 @@
       ]
     },
     {
-      "id": "885418.TI",
-      "name": "文化传媒概念",
-      "stockCount": 5,
-      "highestBoardCount": 3,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "600892",
-              "name": "大晟文化",
-              "changePercent": 9.98,
-              "badge": "短剧+三季报减亏+股权转让",
-              "sortOrder": 1
-            },
-            {
-              "id": "601599",
-              "name": "浙文影业",
-              "changePercent": 9.95,
-              "badge": "AI漫剧+微短剧+三季报增长",
-              "sortOrder": 2
-            },
-            {
-              "id": "605577",
-              "name": "龙版传媒",
-              "changePercent": 9.09,
-              "badge": "AI漫剧+出版发行+数字出版",
-              "sortOrder": 3
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "603598",
-              "name": "引力传媒",
-              "changePercent": 10.0,
-              "badge": "AI短剧+AI营销+三季报增长",
-              "sortOrder": 1
-            },
-            {
-              "id": "605287",
-              "name": "德才股份",
-              "changePercent": 9.99,
-              "badge": "AI漫剧+智能体+建筑装饰",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885997.TI",
       "name": "比亚迪概念",
       "stockCount": 5,
@@ -341,6 +285,55 @@
               "name": "金 螳 螂",
               "changePercent": 9.97,
               "badge": "其它",
+              "sortOrder": 1
+            },
+            {
+              "id": "605287",
+              "name": "德才股份",
+              "changePercent": 9.99,
+              "badge": "AI漫剧+智能体+建筑装饰",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885418.TI",
+      "name": "文化传媒概念",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "600892",
+              "name": "大晟文化",
+              "changePercent": 9.98,
+              "badge": "短剧+三季报减亏+股权转让",
+              "sortOrder": 1
+            },
+            {
+              "id": "601599",
+              "name": "浙文影业",
+              "changePercent": 9.95,
+              "badge": "AI漫剧+微短剧+三季报增长",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 10.0,
+              "badge": "AI短剧+AI营销+三季报增长",
               "sortOrder": 1
             },
             {
@@ -748,5 +741,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-04 10:04:22"
+  "updatedAt": "2026-11-04 10:05:44"
 }
