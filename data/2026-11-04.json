@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 118,
-    "limitUpSuccessRate": 78,
-    "limitDownCount": 10
+    "limitUpCount": 119,
+    "limitUpSuccessRate": 79,
+    "limitDownCount": 11
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,16 +39,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 105
+        "stockCount": 106
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
       "stockCount": 45
     },
-    "poolFirstBoardCount": 105,
+    "poolFirstBoardCount": 106,
     "poolContinuousBoardCount": 13,
-    "poolBrokenBoardCount": 33
+    "poolBrokenBoardCount": 32
   },
   "themes": [
     {
@@ -2147,6 +2147,132 @@
       ]
     },
     {
+      "id": "885552.TI",
+      "name": "小金属概念",
+      "stockCount": 15,
+      "highestBoardCount": 2,
+      "limitUpCount": 15,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601123",
+              "name": "马矿股份",
+              "changePercent": 10.02,
+              "badge": "铁精粉+采选扩能+三季报增长+次新股",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 14,
+          "stocks": [
+            {
+              "id": "000426",
+              "name": "兴业银锡",
+              "changePercent": 10.02,
+              "badge": "白银+锡+银漫矿业复产+高管增持",
+              "sortOrder": 1
+            },
+            {
+              "id": "000506",
+              "name": "招金黄金",
+              "changePercent": 10.01,
+              "badge": "黄金+斐济金矿+三季报增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "000603",
+              "name": "盛达资源",
+              "changePercent": 9.99,
+              "badge": "白银采选+贵金属+拟购方鑫矿业+三季报高增",
+              "sortOrder": 3
+            },
+            {
+              "id": "000657",
+              "name": "中钨高新",
+              "changePercent": 10.01,
+              "badge": "AI PCB微钻+钨全产业链+三季报高增",
+              "sortOrder": 4
+            },
+            {
+              "id": "000962",
+              "name": "东方钽业",
+              "changePercent": 9.99,
+              "badge": "半导体钽材+商业航天+三季报增长",
+              "sortOrder": 5
+            },
+            {
+              "id": "000975",
+              "name": "山金国际",
+              "changePercent": 10.01,
+              "badge": "黄金+央行购金+海外金矿+三季报增长",
+              "sortOrder": 6
+            },
+            {
+              "id": "002155",
+              "name": "湖南黄金",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 7
+            },
+            {
+              "id": "002428",
+              "name": "云南锗业",
+              "changePercent": 10.0,
+              "badge": "与AOI签订长期供货协议+磷化铟+卫星锗晶片+三季报增长",
+              "sortOrder": 8
+            },
+            {
+              "id": "002716",
+              "name": "湖南白银",
+              "changePercent": 9.99,
+              "badge": "白银+贵金属+三季报增长",
+              "sortOrder": 9
+            },
+            {
+              "id": "600641",
+              "name": "先导基电",
+              "changePercent": 9.98,
+              "badge": "铟+离子注入机+半导体设备+SOFC",
+              "sortOrder": 10
+            },
+            {
+              "id": "601069",
+              "name": "西部黄金",
+              "changePercent": 10.0,
+              "badge": "黄金采选冶+三季报增长+拟发行H股",
+              "sortOrder": 11
+            },
+            {
+              "id": "601212",
+              "name": "白银有色",
+              "changePercent": 9.96,
+              "badge": null,
+              "sortOrder": 12
+            },
+            {
+              "id": "603067",
+              "name": "振华股份",
+              "changePercent": 9.98,
+              "badge": "铬盐+SOFC+金属铬+超跌反弹",
+              "sortOrder": 13
+            },
+            {
+              "id": "605376",
+              "name": "博迁新材",
+              "changePercent": 10.0,
+              "badge": "MLCC镍粉+AI服务器+三季报增长",
+              "sortOrder": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885545.TI",
       "name": "汽车电子",
       "stockCount": 15,
@@ -2267,127 +2393,8 @@
       ]
     },
     {
-      "id": "885552.TI",
-      "name": "小金属概念",
-      "stockCount": 14,
-      "highestBoardCount": 2,
-      "limitUpCount": 14,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "601123",
-              "name": "马矿股份",
-              "changePercent": 10.02,
-              "badge": "铁精粉+采选扩能+三季报增长+次新股",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 13,
-          "stocks": [
-            {
-              "id": "000426",
-              "name": "兴业银锡",
-              "changePercent": 10.02,
-              "badge": "白银+锡+银漫矿业复产+高管增持",
-              "sortOrder": 1
-            },
-            {
-              "id": "000506",
-              "name": "招金黄金",
-              "changePercent": 10.01,
-              "badge": "黄金+斐济金矿+三季报增长",
-              "sortOrder": 2
-            },
-            {
-              "id": "000603",
-              "name": "盛达资源",
-              "changePercent": 9.99,
-              "badge": "白银采选+贵金属+拟购方鑫矿业+三季报高增",
-              "sortOrder": 3
-            },
-            {
-              "id": "000657",
-              "name": "中钨高新",
-              "changePercent": 10.01,
-              "badge": "AI PCB微钻+钨全产业链+三季报高增",
-              "sortOrder": 4
-            },
-            {
-              "id": "000962",
-              "name": "东方钽业",
-              "changePercent": 9.99,
-              "badge": "半导体钽材+商业航天+三季报增长",
-              "sortOrder": 5
-            },
-            {
-              "id": "000975",
-              "name": "山金国际",
-              "changePercent": 10.01,
-              "badge": "黄金+央行购金+海外金矿+三季报增长",
-              "sortOrder": 6
-            },
-            {
-              "id": "002428",
-              "name": "云南锗业",
-              "changePercent": 10.0,
-              "badge": "与AOI签订长期供货协议+磷化铟+卫星锗晶片+三季报增长",
-              "sortOrder": 7
-            },
-            {
-              "id": "002716",
-              "name": "湖南白银",
-              "changePercent": 9.99,
-              "badge": "白银+贵金属+三季报增长",
-              "sortOrder": 8
-            },
-            {
-              "id": "600641",
-              "name": "先导基电",
-              "changePercent": 9.98,
-              "badge": "铟+离子注入机+半导体设备+SOFC",
-              "sortOrder": 9
-            },
-            {
-              "id": "601069",
-              "name": "西部黄金",
-              "changePercent": 10.0,
-              "badge": "黄金采选冶+三季报增长+拟发行H股",
-              "sortOrder": 10
-            },
-            {
-              "id": "601212",
-              "name": "白银有色",
-              "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 11
-            },
-            {
-              "id": "603067",
-              "name": "振华股份",
-              "changePercent": 9.98,
-              "badge": "铬盐+SOFC+金属铬+超跌反弹",
-              "sortOrder": 12
-            },
-            {
-              "id": "605376",
-              "name": "博迁新材",
-              "changePercent": 10.0,
-              "badge": "MLCC镍粉+AI服务器+三季报增长",
-              "sortOrder": 13
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885887.TI",
-      "name": "数据中心(AIDC)",
+      "id": "885530.TI",
+      "name": "黄金概念",
       "stockCount": 14,
       "highestBoardCount": 1,
       "limitUpCount": 14,
@@ -2397,101 +2404,101 @@
           "totalCount": 14,
           "stocks": [
             {
-              "id": "000096",
-              "name": "广聚能源",
-              "changePercent": 10.01,
-              "badge": "成品油+光储充放油+深圳国资+三季报增长",
+              "id": "000017",
+              "name": "深中华A",
+              "changePercent": 10.0,
+              "badge": "黄金珠宝+珠宝加工+客户拓展",
               "sortOrder": 1
             },
             {
-              "id": "000530",
-              "name": "冰山冷热",
-              "changePercent": 10.0,
-              "badge": "冰雪工程+数据中心液冷+船舶制冷",
+              "id": "000426",
+              "name": "兴业银锡",
+              "changePercent": 10.02,
+              "badge": "白银+锡+银漫矿业复产+高管增持",
               "sortOrder": 2
             },
             {
-              "id": "001389",
-              "name": "广合科技",
-              "changePercent": 10.0,
-              "badge": "算力PCB+首次回购+三季报高增",
+              "id": "000506",
+              "name": "招金黄金",
+              "changePercent": 10.01,
+              "badge": "黄金+斐济金矿+三季报增长",
               "sortOrder": 3
             },
             {
-              "id": "002353",
-              "name": "杰瑞股份",
-              "changePercent": 10.0,
-              "badge": "AIDC燃气轮机+油气装备",
+              "id": "000603",
+              "name": "盛达资源",
+              "changePercent": 9.99,
+              "badge": "白银采选+贵金属+拟购方鑫矿业+三季报高增",
               "sortOrder": 4
             },
             {
-              "id": "002364",
-              "name": "中恒电气",
-              "changePercent": 9.98,
-              "badge": null,
+              "id": "000975",
+              "name": "山金国际",
+              "changePercent": 10.01,
+              "badge": "黄金+央行购金+海外金矿+三季报增长",
               "sortOrder": 5
             },
             {
-              "id": "002463",
-              "name": "沪电股份",
-              "changePercent": 9.99,
-              "badge": "印制电路板+高速交换机+三季报高增+超跌反弹",
+              "id": "001337",
+              "name": "四川黄金",
+              "changePercent": 10.0,
+              "badge": "黄金采选+金价上涨+四川国资",
               "sortOrder": 6
             },
             {
-              "id": "002536",
-              "name": "飞龙股份",
-              "changePercent": 9.99,
-              "badge": null,
+              "id": "001360",
+              "name": "南矿集团",
+              "changePercent": 10.01,
+              "badge": "拟购境外金矿+矿山装备",
               "sortOrder": 7
             },
             {
-              "id": "002916",
-              "name": "深南电路",
-              "changePercent": 10.0,
-              "badge": "算力PCB订单饱满+超跌反弹+三季报增长",
+              "id": "002155",
+              "name": "湖南黄金",
+              "changePercent": 10.02,
+              "badge": null,
               "sortOrder": 8
             },
             {
-              "id": "600584",
-              "name": "长电科技",
+              "id": "002716",
+              "name": "湖南白银",
               "changePercent": 9.99,
-              "badge": "先进封装+CPO+三季报增长",
+              "badge": "白银+贵金属+三季报增长",
               "sortOrder": 9
             },
             {
-              "id": "600699",
-              "name": "均胜电子",
-              "changePercent": 10.01,
-              "badge": "回购注销+数据中心液冷+人形机器人",
+              "id": "300139",
+              "name": "晓程科技",
+              "changePercent": 19.99,
+              "badge": "黄金+加纳金矿+FGM选厂",
               "sortOrder": 10
             },
             {
-              "id": "603115",
-              "name": "海星股份",
-              "changePercent": 10.01,
-              "badge": "电极箔+AI算力+三季报增长",
+              "id": "600547",
+              "name": "山东黄金",
+              "changePercent": 10.0,
+              "badge": "黄金+回购+山东国资",
               "sortOrder": 11
             },
             {
-              "id": "603256",
-              "name": "宏和科技",
-              "changePercent": 10.01,
-              "badge": "电子布+PCB概念+三季报增长",
+              "id": "600988",
+              "name": "赤峰黄金",
+              "changePercent": 10.0,
+              "badge": "黄金+紫金入主+三季报增长",
               "sortOrder": 12
             },
             {
-              "id": "603662",
-              "name": "柯力传感",
+              "id": "601069",
+              "name": "西部黄金",
               "changePercent": 10.0,
-              "badge": "人形机器人+六维力传感器",
+              "badge": "黄金采选冶+三季报增长+拟发行H股",
               "sortOrder": 13
             },
             {
-              "id": "605111",
-              "name": "新洁能",
-              "changePercent": 9.99,
-              "badge": "功率半导体+回购提议+三季报增长",
+              "id": "601212",
+              "name": "白银有色",
+              "changePercent": 9.96,
+              "badge": null,
               "sortOrder": 14
             }
           ]
@@ -2499,5 +2506,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-04 14:55:06"
+  "updatedAt": "2026-11-04 14:59:18"
 }
