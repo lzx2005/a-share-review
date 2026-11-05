@@ -8,7 +8,7 @@
   "marketSummary": {
     "indexChangePercent": null,
     "limitUpCount": 69,
-    "limitUpSuccessRate": 62,
+    "limitUpSuccessRate": 61,
     "limitDownCount": 0
   },
   "sentiment": {
@@ -39,28 +39,28 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 16
+        "stockCount": 15
       },
       {
         "boardCount": 1,
-        "stockCount": 48
+        "stockCount": 49
       }
     ],
     "hotTheme": {
       "name": "光伏概念",
-      "stockCount": 22
+      "stockCount": 21
     },
-    "poolFirstBoardCount": 48,
-    "poolContinuousBoardCount": 21,
-    "poolBrokenBoardCount": 42
+    "poolFirstBoardCount": 49,
+    "poolContinuousBoardCount": 20,
+    "poolBrokenBoardCount": 44
   },
   "themes": [
     {
       "id": "885531.TI",
       "name": "光伏概念",
-      "stockCount": 22,
+      "stockCount": 21,
       "highestBoardCount": 4,
-      "limitUpCount": 22,
+      "limitUpCount": 21,
       "ladders": [
         {
           "boardCount": 4,
@@ -138,7 +138,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 14,
+          "totalCount": 13,
           "stocks": [
             {
               "id": "000533",
@@ -162,81 +162,74 @@
               "sortOrder": 3
             },
             {
-              "id": "002150",
-              "name": "正泰电源",
-              "changePercent": 9.99,
-              "badge": "逆变器+储能+海外市场",
-              "sortOrder": 4
-            },
-            {
               "id": "002506",
               "name": "协鑫集成",
               "changePercent": 9.96,
               "badge": "光伏组件+GPC电池+储能系统",
-              "sortOrder": 5
+              "sortOrder": 4
             },
             {
               "id": "002865",
               "name": "钧达股份",
               "changePercent": 10.0,
               "badge": "光伏电池+商业航天+太空光伏",
-              "sortOrder": 6
+              "sortOrder": 5
             },
             {
               "id": "002929",
               "name": "润建股份",
               "changePercent": 10.01,
               "badge": "词元出海+算力网络+机器人",
-              "sortOrder": 7
+              "sortOrder": 6
             },
             {
               "id": "300093",
               "name": "金刚光伏",
               "changePercent": 20.0,
               "badge": "光伏HJT+算力服务+GPU采购",
-              "sortOrder": 8
+              "sortOrder": 7
             },
             {
               "id": "600481",
               "name": "双良节能",
               "changePercent": 9.89,
               "badge": "光伏+冷却塔+液冷",
-              "sortOrder": 9
+              "sortOrder": 8
             },
             {
               "id": "600539",
               "name": "狮头股份",
               "changePercent": 9.99,
               "badge": "光伏+机器视觉+半导体先进封装+AI应用",
-              "sortOrder": 10
+              "sortOrder": 9
             },
             {
               "id": "603098",
               "name": "森特股份",
               "changePercent": 10.01,
               "badge": "BIPV+光储充+高管增持",
-              "sortOrder": 11
+              "sortOrder": 10
             },
             {
               "id": "603185",
               "name": "弘元绿能",
               "changePercent": 10.02,
               "badge": "光伏一体化+TOPCon组件+高端装备",
-              "sortOrder": 12
+              "sortOrder": 11
             },
             {
               "id": "603212",
               "name": "赛伍技术",
               "changePercent": 10.0,
               "badge": "光伏胶膜+半导体材料+三季报减亏",
-              "sortOrder": 13
+              "sortOrder": 12
             },
             {
               "id": "688429",
               "name": "时创能源",
               "changePercent": 19.98,
               "badge": "光伏设备+叠栅技术+TOPCon电池",
-              "sortOrder": 14
+              "sortOrder": 13
             }
           ]
         }
@@ -245,9 +238,9 @@
     {
       "id": "885921.TI",
       "name": "储能",
-      "stockCount": 17,
+      "stockCount": 16,
       "highestBoardCount": 3,
-      "limitUpCount": 17,
+      "limitUpCount": 16,
       "ladders": [
         {
           "boardCount": 3,
@@ -291,7 +284,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 13,
+          "totalCount": 12,
           "stocks": [
             {
               "id": "000533",
@@ -315,74 +308,192 @@
               "sortOrder": 3
             },
             {
-              "id": "002150",
-              "name": "正泰电源",
-              "changePercent": 9.99,
-              "badge": "逆变器+储能+海外市场",
-              "sortOrder": 4
-            },
-            {
               "id": "002313",
               "name": "日海智能",
               "changePercent": 9.95,
               "badge": "端侧AI+通信模组+机器人应用+国资划转",
-              "sortOrder": 5
+              "sortOrder": 4
             },
             {
               "id": "002506",
               "name": "协鑫集成",
               "changePercent": 9.96,
               "badge": "光伏组件+GPC电池+储能系统",
-              "sortOrder": 6
+              "sortOrder": 5
             },
             {
               "id": "002929",
               "name": "润建股份",
               "changePercent": 10.01,
               "badge": "词元出海+算力网络+机器人",
-              "sortOrder": 7
+              "sortOrder": 6
             },
             {
               "id": "301000",
               "name": "肇民科技",
               "changePercent": 20.0,
               "badge": "人形机器人+精密注塑+汽车零部件",
-              "sortOrder": 8
+              "sortOrder": 7
             },
             {
               "id": "600481",
               "name": "双良节能",
               "changePercent": 9.89,
               "badge": "光伏+冷却塔+液冷",
-              "sortOrder": 9
+              "sortOrder": 8
             },
             {
               "id": "603098",
               "name": "森特股份",
               "changePercent": 10.01,
               "badge": "BIPV+光储充+高管增持",
-              "sortOrder": 10
+              "sortOrder": 9
             },
             {
               "id": "603185",
               "name": "弘元绿能",
               "changePercent": 10.02,
               "badge": "光伏一体化+TOPCon组件+高端装备",
-              "sortOrder": 11
+              "sortOrder": 10
             },
             {
               "id": "603212",
               "name": "赛伍技术",
               "changePercent": 10.0,
               "badge": "光伏胶膜+半导体材料+三季报减亏",
-              "sortOrder": 12
+              "sortOrder": 11
             },
             {
               "id": "603876",
               "name": "鼎胜新材",
               "changePercent": 9.97,
               "badge": "电池铝箔+固态电池+三季报增长",
-              "sortOrder": 13
+              "sortOrder": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 14,
+      "highestBoardCount": 4,
+      "limitUpCount": 14,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601599",
+              "name": "浙文影业",
+              "changePercent": 10.0,
+              "badge": "AI漫剧+微短剧+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 10.01,
+              "badge": "AI短剧+AI营销+三季报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "605287",
+              "name": "德才股份",
+              "changePercent": 10.0,
+              "badge": "AI漫剧+互动影游+智能体",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 11,
+          "stocks": [
+            {
+              "id": "001330",
+              "name": "博纳影业",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002131",
+              "name": "利欧股份",
+              "changePercent": 10.03,
+              "badge": "AI营销+智能体+液冷泵",
+              "sortOrder": 2
+            },
+            {
+              "id": "002421",
+              "name": "达实智能",
+              "changePercent": 10.03,
+              "badge": "智慧空间+AIoT平台+战略合作",
+              "sortOrder": 3
+            },
+            {
+              "id": "002929",
+              "name": "润建股份",
+              "changePercent": 10.01,
+              "badge": "词元出海+算力网络+机器人",
+              "sortOrder": 4
+            },
+            {
+              "id": "300049",
+              "name": "福瑞医科",
+              "changePercent": 20.0,
+              "badge": "收购Echosens+MAS​​H筛查+肝病诊断",
+              "sortOrder": 5
+            },
+            {
+              "id": "300071",
+              "name": "福石控股",
+              "changePercent": 20.05,
+              "badge": "AI应用+数字营销+三季报减亏",
+              "sortOrder": 6
+            },
+            {
+              "id": "600539",
+              "name": "狮头股份",
+              "changePercent": 9.99,
+              "badge": "光伏+机器视觉+半导体先进封装+AI应用",
+              "sortOrder": 7
+            },
+            {
+              "id": "600986",
+              "name": "浙文互联",
+              "changePercent": 10.07,
+              "badge": "AI营销+算力基础设施+数字文化",
+              "sortOrder": 8
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.13,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 9
+            },
+            {
+              "id": "603212",
+              "name": "赛伍技术",
+              "changePercent": 10.0,
+              "badge": "光伏胶膜+半导体材料+三季报减亏",
+              "sortOrder": 10
+            },
+            {
+              "id": "603990",
+              "name": "麦迪科技",
+              "changePercent": 9.99,
+              "badge": "AI医疗+康养机器人+绵阳国资",
+              "sortOrder": 11
             }
           ]
         }
@@ -485,14 +596,14 @@
               "id": "601929",
               "name": "吉视传媒",
               "changePercent": 10.13,
-              "badge": null,
+              "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 9
             },
             {
               "id": "603737",
               "name": "三棵树",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "建筑涂料+好房子战略合作+马上住4.0",
               "sortOrder": 10
             },
             {
@@ -501,124 +612,6 @@
               "changePercent": 9.99,
               "badge": "AI医疗+康养机器人+绵阳国资",
               "sortOrder": 11
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886108.TI",
-      "name": "AI应用",
-      "stockCount": 13,
-      "highestBoardCount": 4,
-      "limitUpCount": 13,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "601599",
-              "name": "浙文影业",
-              "changePercent": 10.0,
-              "badge": "AI漫剧+微短剧+三季报增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "603598",
-              "name": "引力传媒",
-              "changePercent": 10.01,
-              "badge": "AI短剧+AI营销+三季报增长",
-              "sortOrder": 1
-            },
-            {
-              "id": "605287",
-              "name": "德才股份",
-              "changePercent": 10.0,
-              "badge": "AI漫剧+互动影游+智能体",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 10,
-          "stocks": [
-            {
-              "id": "002131",
-              "name": "利欧股份",
-              "changePercent": 10.03,
-              "badge": "AI营销+智能体+液冷泵",
-              "sortOrder": 1
-            },
-            {
-              "id": "002421",
-              "name": "达实智能",
-              "changePercent": 10.03,
-              "badge": "智慧空间+AIoT平台+战略合作",
-              "sortOrder": 2
-            },
-            {
-              "id": "002929",
-              "name": "润建股份",
-              "changePercent": 10.01,
-              "badge": "词元出海+算力网络+机器人",
-              "sortOrder": 3
-            },
-            {
-              "id": "300049",
-              "name": "福瑞医科",
-              "changePercent": 20.0,
-              "badge": "收购Echosens+MAS​​H筛查+肝病诊断",
-              "sortOrder": 4
-            },
-            {
-              "id": "300071",
-              "name": "福石控股",
-              "changePercent": 20.05,
-              "badge": "AI应用+数字营销+三季报减亏",
-              "sortOrder": 5
-            },
-            {
-              "id": "600539",
-              "name": "狮头股份",
-              "changePercent": 9.99,
-              "badge": "光伏+机器视觉+半导体先进封装+AI应用",
-              "sortOrder": 6
-            },
-            {
-              "id": "600986",
-              "name": "浙文互联",
-              "changePercent": 10.07,
-              "badge": "AI营销+算力基础设施+数字文化",
-              "sortOrder": 7
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.13,
-              "badge": null,
-              "sortOrder": 8
-            },
-            {
-              "id": "603212",
-              "name": "赛伍技术",
-              "changePercent": 10.0,
-              "badge": "光伏胶膜+半导体材料+三季报减亏",
-              "sortOrder": 9
-            },
-            {
-              "id": "603990",
-              "name": "麦迪科技",
-              "changePercent": 9.99,
-              "badge": "AI医疗+康养机器人+绵阳国资",
-              "sortOrder": 10
             }
           ]
         }
@@ -646,7 +639,7 @@
         },
         {
           "boardCount": 2,
-          "totalCount": 5,
+          "totalCount": 4,
           "stocks": [
             {
               "id": "002309",
@@ -663,31 +656,24 @@
               "sortOrder": 2
             },
             {
-              "id": "003033",
-              "name": "征和工业",
-              "changePercent": 10.01,
-              "badge": "灵巧手+机器人+农机链",
-              "sortOrder": 3
-            },
-            {
               "id": "301697",
               "name": "贝特利",
               "changePercent": 19.98,
               "badge": "光伏银粉+低温光伏浆料+次新股",
-              "sortOrder": 4
+              "sortOrder": 3
             },
             {
               "id": "603893",
               "name": "瑞芯微",
               "changePercent": 10.0,
               "badge": "端侧AI+机器人数据采集+半导体",
-              "sortOrder": 5
+              "sortOrder": 4
             }
           ]
         },
         {
           "boardCount": 1,
-          "totalCount": 7,
+          "totalCount": 8,
           "stocks": [
             {
               "id": "000533",
@@ -725,18 +711,25 @@
               "sortOrder": 5
             },
             {
+              "id": "300709",
+              "name": "精研科技",
+              "changePercent": 20.01,
+              "badge": "机器人+液冷散热+高速连接器",
+              "sortOrder": 6
+            },
+            {
               "id": "603212",
               "name": "赛伍技术",
               "changePercent": 10.0,
               "badge": "光伏胶膜+半导体材料+三季报减亏",
-              "sortOrder": 6
+              "sortOrder": 7
             },
             {
               "id": "603876",
               "name": "鼎胜新材",
               "changePercent": 9.97,
               "badge": "电池铝箔+固态电池+三季报增长",
-              "sortOrder": 7
+              "sortOrder": 8
             }
           ]
         }
@@ -819,7 +812,7 @@
               "id": "601929",
               "name": "吉视传媒",
               "changePercent": 10.13,
-              "badge": null,
+              "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 4
             },
             {
@@ -945,6 +938,96 @@
               "changePercent": 10.01,
               "badge": "BIPV+光储充+高管增持",
               "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885418.TI",
+      "name": "文化传媒概念",
+      "stockCount": 9,
+      "highestBoardCount": 4,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601599",
+              "name": "浙文影业",
+              "changePercent": 10.0,
+              "badge": "AI漫剧+微短剧+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000603",
+              "name": "盛达资源",
+              "changePercent": 10.01,
+              "badge": "白银采选+贵金属+拟购方鑫矿业+三季报高增",
+              "sortOrder": 1
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 10.01,
+              "badge": "AI短剧+AI营销+三季报增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "605287",
+              "name": "德才股份",
+              "changePercent": 10.0,
+              "badge": "AI漫剧+互动影游+智能体",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "001330",
+              "name": "博纳影业",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002131",
+              "name": "利欧股份",
+              "changePercent": 10.03,
+              "badge": "AI营销+智能体+液冷泵",
+              "sortOrder": 2
+            },
+            {
+              "id": "300071",
+              "name": "福石控股",
+              "changePercent": 20.05,
+              "badge": "AI应用+数字营销+三季报减亏",
+              "sortOrder": 3
+            },
+            {
+              "id": "600986",
+              "name": "浙文互联",
+              "changePercent": 10.07,
+              "badge": "AI营销+算力基础设施+数字文化",
+              "sortOrder": 4
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.13,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 5
             }
           ]
         }
@@ -1213,7 +1296,91 @@
               "id": "688648",
               "name": "中邮科技",
               "changePercent": 19.99,
+              "badge": "智能物流+机器人+无人车",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885890.TI",
+      "name": "抖音概念(字节概念)",
+      "stockCount": 9,
+      "highestBoardCount": 2,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 10.01,
+              "badge": "AI短剧+AI营销+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "001330",
+              "name": "博纳影业",
+              "changePercent": 10.0,
               "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002131",
+              "name": "利欧股份",
+              "changePercent": 10.03,
+              "badge": "AI营销+智能体+液冷泵",
+              "sortOrder": 2
+            },
+            {
+              "id": "002421",
+              "name": "达实智能",
+              "changePercent": 10.03,
+              "badge": "智慧空间+AIoT平台+战略合作",
+              "sortOrder": 3
+            },
+            {
+              "id": "300071",
+              "name": "福石控股",
+              "changePercent": 20.05,
+              "badge": "AI应用+数字营销+三季报减亏",
+              "sortOrder": 4
+            },
+            {
+              "id": "300493",
+              "name": "润欣科技",
+              "changePercent": 19.97,
+              "badge": "端侧AI+芯片分销+三季报增长",
+              "sortOrder": 5
+            },
+            {
+              "id": "600986",
+              "name": "浙文互联",
+              "changePercent": 10.07,
+              "badge": "AI营销+算力基础设施+数字文化",
+              "sortOrder": 6
+            },
+            {
+              "id": "603068",
+              "name": "博通集成",
+              "changePercent": 9.99,
+              "badge": "端侧AI+无线芯片+AIoT",
+              "sortOrder": 7
+            },
+            {
+              "id": "688648",
+              "name": "中邮科技",
+              "changePercent": 19.99,
+              "badge": "智能物流+机器人+无人车",
               "sortOrder": 8
             }
           ]
@@ -1463,179 +1630,13 @@
               "id": "601929",
               "name": "吉视传媒",
               "changePercent": 10.13,
-              "badge": null,
+              "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885418.TI",
-      "name": "文化传媒概念",
-      "stockCount": 8,
-      "highestBoardCount": 4,
-      "limitUpCount": 8,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "601599",
-              "name": "浙文影业",
-              "changePercent": 10.0,
-              "badge": "AI漫剧+微短剧+三季报增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000603",
-              "name": "盛达资源",
-              "changePercent": 10.01,
-              "badge": "白银采选+贵金属+拟购方鑫矿业+三季报高增",
-              "sortOrder": 1
-            },
-            {
-              "id": "603598",
-              "name": "引力传媒",
-              "changePercent": 10.01,
-              "badge": "AI短剧+AI营销+三季报增长",
-              "sortOrder": 2
-            },
-            {
-              "id": "605287",
-              "name": "德才股份",
-              "changePercent": 10.0,
-              "badge": "AI漫剧+互动影游+智能体",
-              "sortOrder": 3
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002131",
-              "name": "利欧股份",
-              "changePercent": 10.03,
-              "badge": "AI营销+智能体+液冷泵",
-              "sortOrder": 1
-            },
-            {
-              "id": "300071",
-              "name": "福石控股",
-              "changePercent": 20.05,
-              "badge": "AI应用+数字营销+三季报减亏",
-              "sortOrder": 2
-            },
-            {
-              "id": "600986",
-              "name": "浙文互联",
-              "changePercent": 10.07,
-              "badge": "AI营销+算力基础设施+数字文化",
-              "sortOrder": 3
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.13,
-              "badge": null,
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886069.TI",
-      "name": "人形机器人",
-      "stockCount": 8,
-      "highestBoardCount": 3,
-      "limitUpCount": 8,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603381",
-              "name": "永臻股份",
-              "changePercent": 9.98,
-              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002388",
-              "name": "新亚制程",
-              "changePercent": 9.98,
-              "badge": "锂电材料+固态电池+启元气体收购+AI服务器电源",
-              "sortOrder": 1
-            },
-            {
-              "id": "003033",
-              "name": "征和工业",
-              "changePercent": 10.01,
-              "badge": "灵巧手+机器人+农机链",
-              "sortOrder": 2
-            },
-            {
-              "id": "603893",
-              "name": "瑞芯微",
-              "changePercent": 10.0,
-              "badge": "端侧AI+机器人数据采集+半导体",
-              "sortOrder": 3
-            },
-            {
-              "id": "605488",
-              "name": "福莱新材",
-              "changePercent": 10.0,
-              "badge": "柔性传感+数据采集手套+人形机器人+广告喷墨",
-              "sortOrder": 4
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000700",
-              "name": "模塑科技",
-              "changePercent": 9.97,
-              "badge": "人形机器人+汽车外饰件+机器人外覆盖件+社保基金持仓",
-              "sortOrder": 1
-            },
-            {
-              "id": "301000",
-              "name": "肇民科技",
-              "changePercent": 20.0,
-              "badge": "人形机器人+精密注塑+汽车零部件",
-              "sortOrder": 2
-            },
-            {
-              "id": "603990",
-              "name": "麦迪科技",
-              "changePercent": 9.99,
-              "badge": "AI医疗+康养机器人+绵阳国资",
-              "sortOrder": 3
             }
           ]
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-05 13:22:41"
+  "updatedAt": "2026-11-05 13:33:00"
 }
