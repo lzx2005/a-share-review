@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 80,
-    "limitUpSuccessRate": 62,
+    "limitUpCount": 82,
+    "limitUpSuccessRate": 63,
     "limitDownCount": 1
   },
   "sentiment": {
@@ -39,19 +39,19 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 16
+        "stockCount": 17
       },
       {
         "boardCount": 1,
-        "stockCount": 59
+        "stockCount": 60
       }
     ],
     "hotTheme": {
       "name": "光伏概念",
       "stockCount": 21
     },
-    "poolFirstBoardCount": 59,
-    "poolContinuousBoardCount": 21,
+    "poolFirstBoardCount": 60,
+    "poolContinuousBoardCount": 22,
     "poolBrokenBoardCount": 48
   },
   "themes": [
@@ -367,7 +367,7 @@
               "id": "688109",
               "name": "品茗科技",
               "changePercent": 19.99,
-              "badge": null,
+              "badge": "AI建造+建筑信息化+实控人立案",
               "sortOrder": 14
             },
             {
@@ -1092,7 +1092,7 @@
               "id": "688109",
               "name": "品茗科技",
               "changePercent": 19.99,
-              "badge": null,
+              "badge": "AI建造+建筑信息化+实控人立案",
               "sortOrder": 9
             }
           ]
@@ -1211,7 +1211,7 @@
               "id": "002565",
               "name": "顺灏股份",
               "changePercent": 9.97,
-              "badge": null,
+              "badge": "太空算力+商业航天+特种防伪环保纸",
               "sortOrder": 1
             }
           ]
@@ -1462,7 +1462,7 @@
               "id": "688109",
               "name": "品茗科技",
               "changePercent": 19.99,
-              "badge": null,
+              "badge": "AI建造+建筑信息化+实控人立案",
               "sortOrder": 8
             }
           ]
@@ -1716,7 +1716,7 @@
               "id": "688109",
               "name": "品茗科技",
               "changePercent": 19.99,
-              "badge": null,
+              "badge": "AI建造+建筑信息化+实控人立案",
               "sortOrder": 9
             },
             {
@@ -1731,5 +1731,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-05 14:35:11"
+  "updatedAt": "2026-11-05 14:45:38"
 }
