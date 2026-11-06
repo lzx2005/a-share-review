@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 32,
-    "limitUpSuccessRate": 71,
-    "limitDownCount": 7
+    "limitUpCount": 31,
+    "limitUpSuccessRate": 69,
+    "limitDownCount": 8
   },
   "sentiment": {
     "promotion1To2": {
@@ -47,16 +47,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 21
+        "stockCount": 20
       }
     ],
     "hotTheme": {
       "name": "光伏概念",
       "stockCount": 9
     },
-    "poolFirstBoardCount": 21,
+    "poolFirstBoardCount": 20,
     "poolContinuousBoardCount": 11,
-    "poolBrokenBoardCount": 13
+    "poolBrokenBoardCount": 14
   },
   "themes": [
     {
@@ -998,5 +998,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-06 14:12:09"
+  "updatedAt": "2026-11-06 14:22:35"
 }
