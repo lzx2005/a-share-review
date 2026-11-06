@@ -8,7 +8,7 @@
   "marketSummary": {
     "indexChangePercent": null,
     "limitUpCount": 23,
-    "limitUpSuccessRate": 74,
+    "limitUpSuccessRate": 70,
     "limitDownCount": 0
   },
   "sentiment": {
@@ -43,20 +43,20 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 4
+        "stockCount": 3
       },
       {
         "boardCount": 1,
-        "stockCount": 12
+        "stockCount": 13
       }
     ],
     "hotTheme": {
       "name": "光伏概念",
       "stockCount": 9
     },
-    "poolFirstBoardCount": 12,
-    "poolContinuousBoardCount": 11,
-    "poolBrokenBoardCount": 8
+    "poolFirstBoardCount": 13,
+    "poolContinuousBoardCount": 10,
+    "poolBrokenBoardCount": 10
   },
   "themes": [
     {
@@ -104,10 +104,10 @@
           "totalCount": 2,
           "stocks": [
             {
-              "id": "002529",
-              "name": "海源复材",
-              "changePercent": 9.97,
-              "badge": "光伏组件+汽车轻量化+储能",
+              "id": "002388",
+              "name": "新亚制程",
+              "changePercent": 10.07,
+              "badge": null,
               "sortOrder": 1
             },
             {
@@ -180,10 +180,10 @@
           "totalCount": 1,
           "stocks": [
             {
-              "id": "002529",
-              "name": "海源复材",
-              "changePercent": 9.97,
-              "badge": "光伏组件+汽车轻量化+储能",
+              "id": "002388",
+              "name": "新亚制程",
+              "changePercent": 10.07,
+              "badge": null,
               "sortOrder": 1
             }
           ]
@@ -321,67 +321,6 @@
       ]
     },
     {
-      "id": "885789.TI",
-      "name": "宁德时代概念",
-      "stockCount": 4,
-      "highestBoardCount": 5,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 5,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002578",
-              "name": "闽发铝业",
-              "changePercent": 10.11,
-              "badge": "光伏边框+液冷铝材+机器人布局+三季报扭亏",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002529",
-              "name": "海源复材",
-              "changePercent": 9.97,
-              "badge": "光伏组件+汽车轻量化+储能",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002045",
-              "name": "国光电器",
-              "changePercent": 10.0,
-              "badge": "AI眼镜+智能音箱+声学模组",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "601188",
-              "name": "龙江交通",
-              "changePercent": 10.12,
-              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
-              "sortOrder": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885641.TI",
       "name": "风电",
       "stockCount": 4,
@@ -425,6 +364,91 @@
       ]
     },
     {
+      "id": "885705.TI",
+      "name": "乡村振兴",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002310",
+              "name": "东方新能",
+              "changePercent": 9.95,
+              "badge": "光伏+重组+三季报扭亏+北京国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "600371",
+              "name": "万向德农",
+              "changePercent": 10.04,
+              "badge": "玉米种业+转基因玉米+新品研发",
+              "sortOrder": 2
+            },
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.12,
+              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "601595",
+              "name": "上海电影",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885418.TI",
+      "name": "文化传媒概念",
+      "stockCount": 3,
+      "highestBoardCount": 5,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601599",
+              "name": "浙文影业",
+              "changePercent": 9.96,
+              "badge": "AI漫剧+微短剧+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "600229",
+              "name": "城市传媒",
+              "changePercent": 9.93,
+              "badge": "AIGC+IP运营+教育出版+青岛国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "601595",
+              "name": "上海电影",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "886100.TI",
       "name": "DeepSeek概念",
       "stockCount": 3,
@@ -452,7 +476,7 @@
               "id": "002889",
               "name": "东方嘉盛",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "光刻机保税维修+智慧仓+名称炒作",
               "sortOrder": 1
             },
             {
@@ -461,6 +485,102 @@
               "changePercent": 10.12,
               "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
               "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885939.TI",
+      "name": "海峡两岸",
+      "stockCount": 3,
+      "highestBoardCount": 5,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002578",
+              "name": "闽发铝业",
+              "changePercent": 10.11,
+              "badge": "光伏边框+液冷铝材+机器人布局+三季报扭亏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605339",
+              "name": "南侨食品",
+              "changePercent": 10.03,
+              "badge": "烘焙油脂+乳制品+预制烘焙",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001316",
+              "name": "润贝航科",
+              "changePercent": 10.0,
+              "badge": "航材国产化+AI航检眼镜+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885789.TI",
+      "name": "宁德时代概念",
+      "stockCount": 3,
+      "highestBoardCount": 5,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002578",
+              "name": "闽发铝业",
+              "changePercent": 10.11,
+              "badge": "光伏边框+液冷铝材+机器人布局+三季报扭亏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002045",
+              "name": "国光电器",
+              "changePercent": 10.0,
+              "badge": "AI眼镜+智能音箱+声学模组",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.12,
+              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
+              "sortOrder": 1
             }
           ]
         }
@@ -515,6 +635,90 @@
       ]
     },
     {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 3,
+      "highestBoardCount": 4,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603381",
+              "name": "永臻股份",
+              "changePercent": 10.03,
+              "badge": "光伏+电池铝箔+人形机器人+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002388",
+              "name": "新亚制程",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "301697",
+              "name": "贝特利",
+              "changePercent": 20.0,
+              "badge": "光伏银粉+低温光伏浆料+电子皮肤+次新股",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885461.TI",
+      "name": "充电桩",
+      "stockCount": 3,
+      "highestBoardCount": 3,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002388",
+              "name": "新亚制程",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "001258",
+              "name": "立新能源",
+              "changePercent": 10.0,
+              "badge": "风电光伏+疆电外送+三季报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.04,
+              "badge": "储能+空气能热泵+光伏",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885543.TI",
       "name": "家用电器",
       "stockCount": 3,
@@ -563,6 +767,48 @@
       ]
     },
     {
+      "id": "885800.TI",
+      "name": "消费电子概念",
+      "stockCount": 3,
+      "highestBoardCount": 3,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002388",
+              "name": "新亚制程",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "301697",
+              "name": "贝特利",
+              "changePercent": 20.0,
+              "badge": "光伏银粉+低温光伏浆料+电子皮肤+次新股",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002045",
+              "name": "国光电器",
+              "changePercent": 10.0,
+              "badge": "AI眼镜+智能音箱+声学模组",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885413.TI",
       "name": "创投",
       "stockCount": 3,
@@ -603,233 +849,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "885539.TI",
-      "name": "医疗器械概念",
-      "stockCount": 3,
-      "highestBoardCount": 2,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002086",
-              "name": "东方海洋",
-              "changePercent": 9.97,
-              "badge": "“羊”字辈+海洋养殖+体外诊断",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "600207",
-              "name": "安彩高科",
-              "changePercent": 9.91,
-              "badge": "光伏玻璃+高透产品+河南国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "600278",
-              "name": "东方创业",
-              "changePercent": 10.05,
-              "badge": "贸易+现代物流+上海国企",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885478.TI",
-      "name": "智能家居",
-      "stockCount": 3,
-      "highestBoardCount": 2,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002045",
-              "name": "国光电器",
-              "changePercent": 10.0,
-              "badge": "AI眼镜+智能音箱+声学模组",
-              "sortOrder": 1
-            },
-            {
-              "id": "600261",
-              "name": "阳光照明",
-              "changePercent": 9.98,
-              "badge": "商业航天+激光通信+照明+“羊”字辈",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603366",
-              "name": "日出东方",
-              "changePercent": 10.04,
-              "badge": "储能+空气能热泵+光伏",
-              "sortOrder": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885705.TI",
-      "name": "乡村振兴",
-      "stockCount": 3,
-      "highestBoardCount": 1,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "002310",
-              "name": "东方新能",
-              "changePercent": 9.95,
-              "badge": "光伏+重组+三季报扭亏+北京国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "600371",
-              "name": "万向德农",
-              "changePercent": 10.04,
-              "badge": "玉米种业+转基因玉米+新品研发",
-              "sortOrder": 2
-            },
-            {
-              "id": "601188",
-              "name": "龙江交通",
-              "changePercent": 10.12,
-              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885835.TI",
-      "name": "参股银行",
-      "stockCount": 3,
-      "highestBoardCount": 1,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "600327",
-              "name": "大东方",
-              "changePercent": 10.09,
-              "badge": "百货零售+儿科医疗+回购注销",
-              "sortOrder": 1
-            },
-            {
-              "id": "601188",
-              "name": "龙江交通",
-              "changePercent": 10.12,
-              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
-              "sortOrder": 2
-            },
-            {
-              "id": "603366",
-              "name": "日出东方",
-              "changePercent": 10.04,
-              "badge": "储能+空气能热泵+光伏",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885418.TI",
-      "name": "文化传媒概念",
-      "stockCount": 2,
-      "highestBoardCount": 5,
-      "limitUpCount": 2,
-      "ladders": [
-        {
-          "boardCount": 5,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "601599",
-              "name": "浙文影业",
-              "changePercent": 9.96,
-              "badge": "AI漫剧+微短剧+三季报增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600229",
-              "name": "城市传媒",
-              "changePercent": 9.93,
-              "badge": "AIGC+IP运营+教育出版+青岛国资",
-              "sortOrder": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886060.TI",
-      "name": "短剧游戏",
-      "stockCount": 2,
-      "highestBoardCount": 5,
-      "limitUpCount": 2,
-      "ladders": [
-        {
-          "boardCount": 5,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "601599",
-              "name": "浙文影业",
-              "changePercent": 9.96,
-              "badge": "AI漫剧+微短剧+三季报增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600229",
-              "name": "城市传媒",
-              "changePercent": 9.93,
-              "badge": "AIGC+IP运营+教育出版+青岛国资",
-              "sortOrder": 1
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-11-06 10:24:46"
+  "updatedAt": "2026-11-06 10:35:07"
 }
