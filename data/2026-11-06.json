@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 24,
-    "limitUpSuccessRate": 69,
+    "limitUpCount": 23,
+    "limitUpSuccessRate": 66,
     "limitDownCount": 0
   },
   "sentiment": {
@@ -39,7 +39,7 @@
       },
       {
         "boardCount": 3,
-        "stockCount": 4
+        "stockCount": 3
       },
       {
         "boardCount": 2,
@@ -52,19 +52,19 @@
     ],
     "hotTheme": {
       "name": "光伏概念",
-      "stockCount": 10
+      "stockCount": 9
     },
     "poolFirstBoardCount": 13,
-    "poolContinuousBoardCount": 11,
-    "poolBrokenBoardCount": 11
+    "poolContinuousBoardCount": 10,
+    "poolBrokenBoardCount": 12
   },
   "themes": [
     {
       "id": "885531.TI",
       "name": "光伏概念",
-      "stockCount": 10,
+      "stockCount": 9,
       "highestBoardCount": 5,
-      "limitUpCount": 10,
+      "limitUpCount": 9,
       "ladders": [
         {
           "boardCount": 5,
@@ -101,7 +101,7 @@
         },
         {
           "boardCount": 3,
-          "totalCount": 3,
+          "totalCount": 2,
           "stocks": [
             {
               "id": "002388",
@@ -111,18 +111,11 @@
               "sortOrder": 1
             },
             {
-              "id": "002529",
-              "name": "海源复材",
-              "changePercent": 9.97,
-              "badge": "光伏组件+汽车轻量化+储能",
-              "sortOrder": 2
-            },
-            {
               "id": "301697",
               "name": "贝特利",
               "changePercent": 20.0,
               "badge": "光伏银粉+低温光伏浆料+电子皮肤+次新股",
-              "sortOrder": 3
+              "sortOrder": 2
             }
           ]
         },
@@ -165,9 +158,9 @@
     {
       "id": "885921.TI",
       "name": "储能",
-      "stockCount": 10,
+      "stockCount": 9,
       "highestBoardCount": 4,
-      "limitUpCount": 10,
+      "limitUpCount": 9,
       "ladders": [
         {
           "boardCount": 4,
@@ -184,7 +177,7 @@
         },
         {
           "boardCount": 3,
-          "totalCount": 2,
+          "totalCount": 1,
           "stocks": [
             {
               "id": "002388",
@@ -192,13 +185,6 @@
               "changePercent": 10.07,
               "badge": "电解液+固态电池+启元气体收购+AI服务器电源",
               "sortOrder": 1
-            },
-            {
-              "id": "002529",
-              "name": "海源复材",
-              "changePercent": 9.97,
-              "badge": "光伏组件+汽车轻量化+储能",
-              "sortOrder": 2
             }
           ]
         },
@@ -355,7 +341,7 @@
               "id": "002712",
               "name": "思美传媒",
               "changePercent": 9.96,
-              "badge": null,
+              "badge": "AI营销+AI漫剧+四川国资",
               "sortOrder": 1
             },
             {
@@ -411,14 +397,14 @@
               "id": "001308",
               "name": "康冠科技",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "AI终端硬件+端侧AI+智能显示",
               "sortOrder": 1
             },
             {
               "id": "002712",
               "name": "思美传媒",
               "changePercent": 9.96,
-              "badge": null,
+              "badge": "AI营销+AI漫剧+四川国资",
               "sortOrder": 2
             }
           ]
@@ -473,7 +459,7 @@
               "id": "001308",
               "name": "康冠科技",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "AI终端硬件+端侧AI+智能显示",
               "sortOrder": 1
             }
           ]
@@ -515,7 +501,7 @@
               "id": "001308",
               "name": "康冠科技",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "AI终端硬件+端侧AI+智能显示",
               "sortOrder": 1
             },
             {
@@ -557,7 +543,7 @@
               "id": "002712",
               "name": "思美传媒",
               "changePercent": 9.96,
-              "badge": null,
+              "badge": "AI营销+AI漫剧+四川国资",
               "sortOrder": 1
             },
             {
@@ -599,14 +585,14 @@
               "id": "001308",
               "name": "康冠科技",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "AI终端硬件+端侧AI+智能显示",
               "sortOrder": 1
             },
             {
               "id": "002712",
               "name": "思美传媒",
               "changePercent": 9.96,
-              "badge": null,
+              "badge": "AI营销+AI漫剧+四川国资",
               "sortOrder": 2
             }
           ]
@@ -710,54 +696,6 @@
       ]
     },
     {
-      "id": "885789.TI",
-      "name": "宁德时代概念",
-      "stockCount": 3,
-      "highestBoardCount": 5,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 5,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002578",
-              "name": "闽发铝业",
-              "changePercent": 10.11,
-              "badge": "光伏边框+液冷铝材+机器人布局+三季报扭亏",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002529",
-              "name": "海源复材",
-              "changePercent": 9.97,
-              "badge": "光伏组件+汽车轻量化+储能",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002045",
-              "name": "国光电器",
-              "changePercent": 10.0,
-              "badge": "AI眼镜+智能音箱+声学模组",
-              "sortOrder": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885997.TI",
       "name": "比亚迪概念",
       "stockCount": 3,
@@ -842,29 +780,35 @@
       ]
     },
     {
-      "id": "885742.TI",
-      "name": "摘帽",
+      "id": "885543.TI",
+      "name": "家用电器",
       "stockCount": 3,
       "highestBoardCount": 3,
       "limitUpCount": 3,
       "ladders": [
         {
           "boardCount": 3,
-          "totalCount": 2,
+          "totalCount": 1,
           "stocks": [
             {
-              "id": "002388",
-              "name": "新亚制程",
-              "changePercent": 10.07,
-              "badge": "电解液+固态电池+启元气体收购+AI服务器电源",
+              "id": "603657",
+              "name": "春光科技",
+              "changePercent": 10.0,
+              "badge": "扫地机器人+家庭具身机器人+清洁电器代工",
               "sortOrder": 1
-            },
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
             {
-              "id": "002529",
-              "name": "海源复材",
-              "changePercent": 9.97,
-              "badge": "光伏组件+汽车轻量化+储能",
-              "sortOrder": 2
+              "id": "002045",
+              "name": "国光电器",
+              "changePercent": 10.0,
+              "badge": "AI眼镜+智能音箱+声学模组",
+              "sortOrder": 1
             }
           ]
         },
@@ -873,16 +817,58 @@
           "totalCount": 1,
           "stocks": [
             {
-              "id": "000595",
-              "name": "新能股份",
-              "changePercent": 10.02,
-              "badge": "储能并网+风光储一体化+宁夏国资",
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.04,
+              "badge": "储能+空气能热泵+光伏",
               "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 3,
+      "highestBoardCount": 2,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002045",
+              "name": "国光电器",
+              "changePercent": 10.0,
+              "badge": "AI眼镜+智能音箱+声学模组",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002712",
+              "name": "思美传媒",
+              "changePercent": 9.96,
+              "badge": "AI营销+AI漫剧+四川国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.04,
+              "badge": "储能+空气能热泵+光伏",
+              "sortOrder": 2
             }
           ]
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-06 10:45:27"
+  "updatedAt": "2026-11-06 10:55:47"
 }
