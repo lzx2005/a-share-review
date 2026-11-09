@@ -237,7 +237,7 @@
               "id": "600156",
               "name": "华升股份",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "算力租赁+重组推进+苎麻纺织",
               "sortOrder": 1
             }
           ]
@@ -328,7 +328,7 @@
               "id": "600156",
               "name": "华升股份",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "算力租赁+重组推进+苎麻纺织",
               "sortOrder": 1
             }
           ]
@@ -971,7 +971,7 @@
               "id": "600156",
               "name": "华升股份",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "算力租赁+重组推进+苎麻纺织",
               "sortOrder": 1
             }
           ]
@@ -1159,7 +1159,7 @@
               "id": "603389",
               "name": "亚振家居",
               "changePercent": 10.0,
-              "badge": "锆钛矿选矿+高端家居+培育钻石",
+              "badge": "培育钻石+锆钛矿选矿+高端家居",
               "sortOrder": 5
             }
           ]
@@ -1295,5 +1295,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-09 11:40:18"
+  "updatedAt": "2026-11-09 11:50:39"
 }
