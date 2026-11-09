@@ -7,7 +7,7 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 56,
+    "limitUpCount": 57,
     "limitUpSuccessRate": 56,
     "limitDownCount": 1
   },
@@ -34,24 +34,20 @@
         "stockCount": 1
       },
       {
-        "boardCount": 3,
-        "stockCount": 1
-      },
-      {
         "boardCount": 2,
         "stockCount": 8
       },
       {
         "boardCount": 1,
-        "stockCount": 46
+        "stockCount": 48
       }
     ],
     "hotTheme": {
       "name": "商业航天",
       "stockCount": 14
     },
-    "poolFirstBoardCount": 46,
-    "poolContinuousBoardCount": 10,
+    "poolFirstBoardCount": 48,
+    "poolContinuousBoardCount": 9,
     "poolBrokenBoardCount": 44
   },
   "themes": [
@@ -408,6 +404,83 @@
       ]
     },
     {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 8,
+      "highestBoardCount": 2,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "600278",
+              "name": "东方创业",
+              "changePercent": 9.97,
+              "badge": "“东方”+货物贸易+现代物流+上海国企",
+              "sortOrder": 1
+            },
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.01,
+              "badge": "“东方”+储能+光伏",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "002347",
+              "name": "泰尔股份",
+              "changePercent": 10.06,
+              "badge": "工业机器人+冶金装备+三季报减亏",
+              "sortOrder": 1
+            },
+            {
+              "id": "600853",
+              "name": "龙建股份",
+              "changePercent": 10.0,
+              "badge": "冰雪经济+海外基建+寒区施工+黑龙江国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "600892",
+              "name": "大晟文化",
+              "changePercent": 9.94,
+              "badge": "短剧+游戏+股权转让+三季报减亏",
+              "sortOrder": 3
+            },
+            {
+              "id": "603121",
+              "name": "华培动力",
+              "changePercent": 10.01,
+              "badge": "人形机器人+六维力传感器+压力传感器",
+              "sortOrder": 4
+            },
+            {
+              "id": "603389",
+              "name": "亚振家居",
+              "changePercent": 10.0,
+              "badge": "培育钻石+锆钛矿选矿+高端家居",
+              "sortOrder": 5
+            },
+            {
+              "id": "603683",
+              "name": "晶华新材",
+              "changePercent": 10.01,
+              "badge": "机器人触觉+柔性传感器+胶粘材料",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885976.TI",
       "name": "数字经济",
       "stockCount": 7,
@@ -548,76 +621,6 @@
       ]
     },
     {
-      "id": "885413.TI",
-      "name": "创投",
-      "stockCount": 7,
-      "highestBoardCount": 2,
-      "limitUpCount": 7,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "600278",
-              "name": "东方创业",
-              "changePercent": 9.97,
-              "badge": "“东方”+货物贸易+现代物流+上海国企",
-              "sortOrder": 1
-            },
-            {
-              "id": "603366",
-              "name": "日出东方",
-              "changePercent": 10.01,
-              "badge": "“东方”+储能+光伏",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "002347",
-              "name": "泰尔股份",
-              "changePercent": 10.06,
-              "badge": "工业机器人+冶金装备+三季报减亏",
-              "sortOrder": 1
-            },
-            {
-              "id": "600853",
-              "name": "龙建股份",
-              "changePercent": 10.0,
-              "badge": "冰雪经济+海外基建+寒区施工+黑龙江国资",
-              "sortOrder": 2
-            },
-            {
-              "id": "603121",
-              "name": "华培动力",
-              "changePercent": 10.01,
-              "badge": "人形机器人+六维力传感器+压力传感器",
-              "sortOrder": 3
-            },
-            {
-              "id": "603389",
-              "name": "亚振家居",
-              "changePercent": 10.0,
-              "badge": "培育钻石+锆钛矿选矿+高端家居",
-              "sortOrder": 4
-            },
-            {
-              "id": "603683",
-              "name": "晶华新材",
-              "changePercent": 10.01,
-              "badge": "机器人触觉+柔性传感器+胶粘材料",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885997.TI",
       "name": "比亚迪概念",
       "stockCount": 7,
@@ -676,6 +679,138 @@
               "changePercent": 9.99,
               "badge": "人形机器人+电子皮肤+汽车洗涤系统",
               "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885531.TI",
+      "name": "光伏概念",
+      "stockCount": 6,
+      "highestBoardCount": 6,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 6,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002578",
+              "name": "闽发铝业",
+              "changePercent": 9.98,
+              "badge": "光伏边框+液冷铝材+机器人布局+三季报扭亏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.01,
+              "badge": "“东方”+储能+光伏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "001379",
+              "name": "腾达科技",
+              "changePercent": 9.99,
+              "badge": "航天紧固件+核电紧固件+不锈钢紧固件",
+              "sortOrder": 1
+            },
+            {
+              "id": "301226",
+              "name": "祥明智能",
+              "changePercent": 20.0,
+              "badge": "机器人关节模组+无框电机+商业航天",
+              "sortOrder": 2
+            },
+            {
+              "id": "603843",
+              "name": "*ST正平",
+              "changePercent": 10.07,
+              "badge": "算力租赁+绿色算力+基建工程",
+              "sortOrder": 3
+            },
+            {
+              "id": "603920",
+              "name": "世运电路",
+              "changePercent": 9.99,
+              "badge": "回购+人形机器人PCB+AI服务器PCB",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885572.TI",
+      "name": "水利",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002310",
+              "name": "东方新能",
+              "changePercent": 9.91,
+              "badge": "“东方”+光伏+重组",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "002037",
+              "name": "保利联合",
+              "changePercent": 10.05,
+              "badge": "民爆一体化+资产注入预期+央企",
+              "sortOrder": 1
+            },
+            {
+              "id": "002596",
+              "name": "海南瑞泽",
+              "changePercent": 10.13,
+              "badge": "商品混凝土+智算布局+海南自贸港",
+              "sortOrder": 2
+            },
+            {
+              "id": "002639",
+              "name": "雪人集团",
+              "changePercent": 10.0,
+              "badge": "冰雪产业+氦气压缩机+商业航天+数据中心制冷",
+              "sortOrder": 3
+            },
+            {
+              "id": "600853",
+              "name": "龙建股份",
+              "changePercent": 10.0,
+              "badge": "冰雪经济+海外基建+寒区施工+黑龙江国资",
+              "sortOrder": 4
+            },
+            {
+              "id": "603843",
+              "name": "*ST正平",
+              "changePercent": 10.07,
+              "badge": "算力租赁+绿色算力+基建工程",
+              "sortOrder": 5
             }
           ]
         }
@@ -977,126 +1112,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "885756.TI",
-      "name": "芯片概念",
-      "stockCount": 6,
-      "highestBoardCount": 1,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 6,
-          "stocks": [
-            {
-              "id": "001388",
-              "name": "信通电子",
-              "changePercent": 10.01,
-              "badge": "物理AI+具身智能+防冰机器人+电力巡检",
-              "sortOrder": 1
-            },
-            {
-              "id": "002037",
-              "name": "保利联合",
-              "changePercent": 10.05,
-              "badge": "民爆一体化+资产注入预期+央企",
-              "sortOrder": 2
-            },
-            {
-              "id": "002811",
-              "name": "郑中设计",
-              "changePercent": 9.98,
-              "badge": "入股深迪半导体+AI设计+室内设计",
-              "sortOrder": 3
-            },
-            {
-              "id": "301226",
-              "name": "祥明智能",
-              "changePercent": 20.0,
-              "badge": "机器人关节模组+无框电机+商业航天",
-              "sortOrder": 4
-            },
-            {
-              "id": "603121",
-              "name": "华培动力",
-              "changePercent": 10.01,
-              "badge": "人形机器人+六维力传感器+压力传感器",
-              "sortOrder": 5
-            },
-            {
-              "id": "603286",
-              "name": "日盈电子",
-              "changePercent": 9.99,
-              "badge": "人形机器人+电子皮肤+汽车洗涤系统",
-              "sortOrder": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885939.TI",
-      "name": "海峡两岸",
-      "stockCount": 5,
-      "highestBoardCount": 6,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 6,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002578",
-              "name": "闽发铝业",
-              "changePercent": 9.98,
-              "badge": "光伏边框+液冷铝材+机器人布局+三季报扭亏",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "001316",
-              "name": "润贝航科",
-              "changePercent": 9.99,
-              "badge": "航材国产化+AI航检眼镜+三季报增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "002639",
-              "name": "雪人集团",
-              "changePercent": 10.0,
-              "badge": "冰雪产业+氦气压缩机+商业航天+数据中心制冷",
-              "sortOrder": 1
-            },
-            {
-              "id": "301226",
-              "name": "祥明智能",
-              "changePercent": 20.0,
-              "badge": "机器人关节模组+无框电机+商业航天",
-              "sortOrder": 2
-            },
-            {
-              "id": "603920",
-              "name": "世运电路",
-              "changePercent": 9.99,
-              "badge": "回购+人形机器人PCB+AI服务器PCB",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-11-09 14:46:34"
+  "updatedAt": "2026-11-09 14:56:58"
 }
