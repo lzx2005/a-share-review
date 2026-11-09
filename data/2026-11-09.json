@@ -1,0 +1,1180 @@
+{
+  "tradeDate": "2026-11-09",
+  "weekday": "周一",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": false
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 48,
+    "limitUpSuccessRate": 76,
+    "limitDownCount": 1
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "promotion2To3": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "previousLadderPerformance": null,
+    "previousLimitUpPerformance": null,
+    "highestBoard": {
+      "stockName": "闽发铝业",
+      "boardCount": 6
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 6,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 10
+      },
+      {
+        "boardCount": 1,
+        "stockCount": 37
+      }
+    ],
+    "hotTheme": {
+      "name": "商业航天",
+      "stockCount": 17
+    },
+    "poolFirstBoardCount": 37,
+    "poolContinuousBoardCount": 11,
+    "poolBrokenBoardCount": 15
+  },
+  "themes": [
+    {
+      "id": "886078.TI",
+      "name": "商业航天",
+      "stockCount": 17,
+      "highestBoardCount": 2,
+      "limitUpCount": 17,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001316",
+              "name": "润贝航科",
+              "changePercent": 9.99,
+              "badge": "航材国产化+AI航检眼镜+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 16,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "001379",
+              "name": "腾达科技",
+              "changePercent": 9.99,
+              "badge": "航天紧固件+核电紧固件+不锈钢紧固件",
+              "sortOrder": 2
+            },
+            {
+              "id": "002149",
+              "name": "西部材料",
+              "changePercent": 9.99,
+              "badge": "商业航天+可控核聚变+稀贵金属",
+              "sortOrder": 3
+            },
+            {
+              "id": "002347",
+              "name": "泰尔股份",
+              "changePercent": 10.06,
+              "badge": "工业机器人+冶金装备+三季报减亏",
+              "sortOrder": 4
+            },
+            {
+              "id": "002565",
+              "name": "顺灏股份",
+              "changePercent": 10.02,
+              "badge": "太空算力+商业航天+特种防伪环保纸",
+              "sortOrder": 5
+            },
+            {
+              "id": "002865",
+              "name": "钧达股份",
+              "changePercent": 10.0,
+              "badge": "太空光伏+商业航天+光伏电池",
+              "sortOrder": 6
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 7
+            },
+            {
+              "id": "301226",
+              "name": "祥明智能",
+              "changePercent": 20.0,
+              "badge": "机器人关节模组+无框电机+商业航天",
+              "sortOrder": 8
+            },
+            {
+              "id": "600118",
+              "name": "中国卫星",
+              "changePercent": 10.0,
+              "badge": "商业航天+卫星导航+三季报增长",
+              "sortOrder": 9
+            },
+            {
+              "id": "600498",
+              "name": "烽火通信",
+              "changePercent": 10.0,
+              "badge": "商业航天+星载路由+光通信国家队",
+              "sortOrder": 10
+            },
+            {
+              "id": "600776",
+              "name": "东方通信",
+              "changePercent": 9.99,
+              "badge": "卫星互联网+商业航天+专网通信",
+              "sortOrder": 11
+            },
+            {
+              "id": "600853",
+              "name": "龙建股份",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 12
+            },
+            {
+              "id": "603601",
+              "name": "再升科技",
+              "changePercent": 9.99,
+              "badge": "商业航天+石英纤维+干净空气材料",
+              "sortOrder": 13
+            },
+            {
+              "id": "603660",
+              "name": "苏州科达",
+              "changePercent": 9.98,
+              "badge": "AI应用+低空经济+音视频产品",
+              "sortOrder": 14
+            },
+            {
+              "id": "603703",
+              "name": "盛洋科技",
+              "changePercent": 10.01,
+              "badge": "卫星通信终端+高速线缆+商业航天",
+              "sortOrder": 15
+            },
+            {
+              "id": "603920",
+              "name": "世运电路",
+              "changePercent": 9.99,
+              "badge": "回购+人形机器人PCB+AI服务器PCB",
+              "sortOrder": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885756.TI",
+      "name": "芯片概念",
+      "stockCount": 10,
+      "highestBoardCount": 1,
+      "limitUpCount": 10,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 10,
+          "stocks": [
+            {
+              "id": "001388",
+              "name": "信通电子",
+              "changePercent": 10.01,
+              "badge": "具身智能+电力巡检+防冰机器人",
+              "sortOrder": 1
+            },
+            {
+              "id": "002037",
+              "name": "保利联合",
+              "changePercent": 10.05,
+              "badge": "民爆一体化+资产注入预期+央企",
+              "sortOrder": 2
+            },
+            {
+              "id": "002811",
+              "name": "郑中设计",
+              "changePercent": 9.98,
+              "badge": "入股深迪半导体+AI设计+室内设计",
+              "sortOrder": 3
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 4
+            },
+            {
+              "id": "301226",
+              "name": "祥明智能",
+              "changePercent": 20.0,
+              "badge": "机器人关节模组+无框电机+商业航天",
+              "sortOrder": 5
+            },
+            {
+              "id": "600118",
+              "name": "中国卫星",
+              "changePercent": 10.0,
+              "badge": "商业航天+卫星导航+三季报增长",
+              "sortOrder": 6
+            },
+            {
+              "id": "600498",
+              "name": "烽火通信",
+              "changePercent": 10.0,
+              "badge": "商业航天+星载路由+光通信国家队",
+              "sortOrder": 7
+            },
+            {
+              "id": "603121",
+              "name": "华培动力",
+              "changePercent": 10.01,
+              "badge": "人形机器人+六维力传感器+压力传感器",
+              "sortOrder": 8
+            },
+            {
+              "id": "603286",
+              "name": "日盈电子",
+              "changePercent": 9.99,
+              "badge": "人形机器人+汽车零部件+汽车洗涤系统",
+              "sortOrder": 9
+            },
+            {
+              "id": "603601",
+              "name": "再升科技",
+              "changePercent": 9.99,
+              "badge": "商业航天+石英纤维+干净空气材料",
+              "sortOrder": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 9,
+      "highestBoardCount": 2,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002712",
+              "name": "思美传媒",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "600278",
+              "name": "东方创业",
+              "changePercent": 9.97,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.01,
+              "badge": "“东方”+储能+光伏",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "002347",
+              "name": "泰尔股份",
+              "changePercent": 10.06,
+              "badge": "工业机器人+冶金装备+三季报减亏",
+              "sortOrder": 1
+            },
+            {
+              "id": "300624",
+              "name": "万兴科技",
+              "changePercent": 20.0,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "600498",
+              "name": "烽火通信",
+              "changePercent": 10.0,
+              "badge": "商业航天+星载路由+光通信国家队",
+              "sortOrder": 3
+            },
+            {
+              "id": "600853",
+              "name": "龙建股份",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 4
+            },
+            {
+              "id": "603121",
+              "name": "华培动力",
+              "changePercent": 10.01,
+              "badge": "人形机器人+六维力传感器+压力传感器",
+              "sortOrder": 5
+            },
+            {
+              "id": "603683",
+              "name": "晶华新材",
+              "changePercent": 10.01,
+              "badge": "机器人触觉+柔性传感器+胶粘材料",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886069.TI",
+      "name": "人形机器人",
+      "stockCount": 9,
+      "highestBoardCount": 1,
+      "limitUpCount": 9,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 9,
+          "stocks": [
+            {
+              "id": "002403",
+              "name": "爱仕达",
+              "changePercent": 10.0,
+              "badge": "人形机器人+智元合作+工业机器人",
+              "sortOrder": 1
+            },
+            {
+              "id": "002488",
+              "name": "金固股份",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.02,
+              "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
+              "sortOrder": 3
+            },
+            {
+              "id": "301226",
+              "name": "祥明智能",
+              "changePercent": 20.0,
+              "badge": "机器人关节模组+无框电机+商业航天",
+              "sortOrder": 4
+            },
+            {
+              "id": "603121",
+              "name": "华培动力",
+              "changePercent": 10.01,
+              "badge": "人形机器人+六维力传感器+压力传感器",
+              "sortOrder": 5
+            },
+            {
+              "id": "603286",
+              "name": "日盈电子",
+              "changePercent": 9.99,
+              "badge": "人形机器人+汽车零部件+汽车洗涤系统",
+              "sortOrder": 6
+            },
+            {
+              "id": "603683",
+              "name": "晶华新材",
+              "changePercent": 10.01,
+              "badge": "机器人触觉+柔性传感器+胶粘材料",
+              "sortOrder": 7
+            },
+            {
+              "id": "603920",
+              "name": "世运电路",
+              "changePercent": 9.99,
+              "badge": "回购+人形机器人PCB+AI服务器PCB",
+              "sortOrder": 8
+            },
+            {
+              "id": "605488",
+              "name": "福莱新材",
+              "changePercent": 10.0,
+              "badge": "柔性传感+数据采集手套+人形机器人",
+              "sortOrder": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885556.TI",
+      "name": "5G",
+      "stockCount": 8,
+      "highestBoardCount": 6,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 6,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002578",
+              "name": "闽发铝业",
+              "changePercent": 9.98,
+              "badge": "光伏边框+液冷铝材+机器人布局+三季报扭亏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002149",
+              "name": "西部材料",
+              "changePercent": 9.99,
+              "badge": "商业航天+可控核聚变+稀贵金属",
+              "sortOrder": 2
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 3
+            },
+            {
+              "id": "600498",
+              "name": "烽火通信",
+              "changePercent": 10.0,
+              "badge": "商业航天+星载路由+光通信国家队",
+              "sortOrder": 4
+            },
+            {
+              "id": "600776",
+              "name": "东方通信",
+              "changePercent": 9.99,
+              "badge": "卫星互联网+商业航天+专网通信",
+              "sortOrder": 5
+            },
+            {
+              "id": "603703",
+              "name": "盛洋科技",
+              "changePercent": 10.01,
+              "badge": "卫星通信终端+高速线缆+商业航天",
+              "sortOrder": 6
+            },
+            {
+              "id": "603920",
+              "name": "世运电路",
+              "changePercent": 9.99,
+              "badge": "回购+人形机器人PCB+AI服务器PCB",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885887.TI",
+      "name": "数据中心(AIDC)",
+      "stockCount": 8,
+      "highestBoardCount": 1,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 10.0,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
+              "sortOrder": 1
+            },
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 3
+            },
+            {
+              "id": "301226",
+              "name": "祥明智能",
+              "changePercent": 20.0,
+              "badge": "机器人关节模组+无框电机+商业航天",
+              "sortOrder": 4
+            },
+            {
+              "id": "600498",
+              "name": "烽火通信",
+              "changePercent": 10.0,
+              "badge": "商业航天+星载路由+光通信国家队",
+              "sortOrder": 5
+            },
+            {
+              "id": "603121",
+              "name": "华培动力",
+              "changePercent": 10.01,
+              "badge": "人形机器人+六维力传感器+压力传感器",
+              "sortOrder": 6
+            },
+            {
+              "id": "603703",
+              "name": "盛洋科技",
+              "changePercent": 10.01,
+              "badge": "卫星通信终端+高速线缆+商业航天",
+              "sortOrder": 7
+            },
+            {
+              "id": "603920",
+              "name": "世运电路",
+              "changePercent": 9.99,
+              "badge": "回购+人形机器人PCB+AI服务器PCB",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 8,
+      "highestBoardCount": 1,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 10.0,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
+              "sortOrder": 1
+            },
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "002488",
+              "name": "金固股份",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 3
+            },
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.02,
+              "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
+              "sortOrder": 4
+            },
+            {
+              "id": "301226",
+              "name": "祥明智能",
+              "changePercent": 20.0,
+              "badge": "机器人关节模组+无框电机+商业航天",
+              "sortOrder": 5
+            },
+            {
+              "id": "603040",
+              "name": "新坐标",
+              "changePercent": 10.0,
+              "badge": "机器人丝杠+汽车零部件+三季报",
+              "sortOrder": 6
+            },
+            {
+              "id": "603121",
+              "name": "华培动力",
+              "changePercent": 10.01,
+              "badge": "人形机器人+六维力传感器+压力传感器",
+              "sortOrder": 7
+            },
+            {
+              "id": "603286",
+              "name": "日盈电子",
+              "changePercent": 9.99,
+              "badge": "人形机器人+汽车零部件+汽车洗涤系统",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885574.TI",
+      "name": "卫星导航",
+      "stockCount": 8,
+      "highestBoardCount": 1,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002149",
+              "name": "西部材料",
+              "changePercent": 9.99,
+              "badge": "商业航天+可控核聚变+稀贵金属",
+              "sortOrder": 2
+            },
+            {
+              "id": "002565",
+              "name": "顺灏股份",
+              "changePercent": 10.02,
+              "badge": "太空算力+商业航天+特种防伪环保纸",
+              "sortOrder": 3
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 4
+            },
+            {
+              "id": "600118",
+              "name": "中国卫星",
+              "changePercent": 10.0,
+              "badge": "商业航天+卫星导航+三季报增长",
+              "sortOrder": 5
+            },
+            {
+              "id": "600498",
+              "name": "烽火通信",
+              "changePercent": 10.0,
+              "badge": "商业航天+星载路由+光通信国家队",
+              "sortOrder": 6
+            },
+            {
+              "id": "600776",
+              "name": "东方通信",
+              "changePercent": 9.99,
+              "badge": "卫星互联网+商业航天+专网通信",
+              "sortOrder": 7
+            },
+            {
+              "id": "603703",
+              "name": "盛洋科技",
+              "changePercent": 10.01,
+              "badge": "卫星通信终端+高速线缆+商业航天",
+              "sortOrder": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885531.TI",
+      "name": "光伏概念",
+      "stockCount": 6,
+      "highestBoardCount": 6,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 6,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002578",
+              "name": "闽发铝业",
+              "changePercent": 9.98,
+              "badge": "光伏边框+液冷铝材+机器人布局+三季报扭亏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.01,
+              "badge": "“东方”+储能+光伏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "001379",
+              "name": "腾达科技",
+              "changePercent": 9.99,
+              "badge": "航天紧固件+核电紧固件+不锈钢紧固件",
+              "sortOrder": 1
+            },
+            {
+              "id": "002865",
+              "name": "钧达股份",
+              "changePercent": 10.0,
+              "badge": "太空光伏+商业航天+光伏电池",
+              "sortOrder": 2
+            },
+            {
+              "id": "301226",
+              "name": "祥明智能",
+              "changePercent": 20.0,
+              "badge": "机器人关节模组+无框电机+商业航天",
+              "sortOrder": 3
+            },
+            {
+              "id": "603920",
+              "name": "世运电路",
+              "changePercent": 9.99,
+              "badge": "回购+人形机器人PCB+AI服务器PCB",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885545.TI",
+      "name": "汽车电子",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001308",
+              "name": "康冠科技",
+              "changePercent": 9.98,
+              "badge": "端侧AI+AI眼镜+智能显示",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.02,
+              "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 3
+            },
+            {
+              "id": "603286",
+              "name": "日盈电子",
+              "changePercent": 9.99,
+              "badge": "人形机器人+汽车零部件+汽车洗涤系统",
+              "sortOrder": 4
+            },
+            {
+              "id": "603920",
+              "name": "世运电路",
+              "changePercent": 9.99,
+              "badge": "回购+人形机器人PCB+AI服务器PCB",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885709.TI",
+      "name": "虚拟现实",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001308",
+              "name": "康冠科技",
+              "changePercent": 9.98,
+              "badge": "端侧AI+AI眼镜+智能显示",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 2
+            },
+            {
+              "id": "300624",
+              "name": "万兴科技",
+              "changePercent": 20.0,
+              "badge": null,
+              "sortOrder": 3
+            },
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 10.21,
+              "badge": "AI漫剧+游戏运营+北京国资",
+              "sortOrder": 4
+            },
+            {
+              "id": "603660",
+              "name": "苏州科达",
+              "changePercent": 9.98,
+              "badge": "AI应用+低空经济+音视频产品",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885800.TI",
+      "name": "消费电子概念",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001308",
+              "name": "康冠科技",
+              "changePercent": 9.98,
+              "badge": "端侧AI+AI眼镜+智能显示",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.02,
+              "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 3
+            },
+            {
+              "id": "603683",
+              "name": "晶华新材",
+              "changePercent": 10.01,
+              "badge": "机器人触觉+柔性传感器+胶粘材料",
+              "sortOrder": 4
+            },
+            {
+              "id": "605488",
+              "name": "福莱新材",
+              "changePercent": 10.0,
+              "badge": "柔性传感+数据采集手套+人形机器人",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886067.TI",
+      "name": "低空经济",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001316",
+              "name": "润贝航科",
+              "changePercent": 9.99,
+              "badge": "航材国产化+AI航检眼镜+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.02,
+              "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "003004",
+              "name": "声迅股份",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 3
+            },
+            {
+              "id": "600118",
+              "name": "中国卫星",
+              "changePercent": 10.0,
+              "badge": "商业航天+卫星导航+三季报增长",
+              "sortOrder": 4
+            },
+            {
+              "id": "603920",
+              "name": "世运电路",
+              "changePercent": 9.99,
+              "badge": "回购+人形机器人PCB+AI服务器PCB",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885976.TI",
+      "name": "数字经济",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002889",
+              "name": "东方嘉盛",
+              "changePercent": 9.99,
+              "badge": "“东方”+光刻机保税维修+智慧仓",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 10.0,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
+              "sortOrder": 1
+            },
+            {
+              "id": "002347",
+              "name": "泰尔股份",
+              "changePercent": 10.06,
+              "badge": "工业机器人+冶金装备+三季报减亏",
+              "sortOrder": 2
+            },
+            {
+              "id": "002811",
+              "name": "郑中设计",
+              "changePercent": 9.98,
+              "badge": "入股深迪半导体+AI设计+室内设计",
+              "sortOrder": 3
+            },
+            {
+              "id": "003004",
+              "name": "声迅股份",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 4
+            },
+            {
+              "id": "600776",
+              "name": "东方通信",
+              "changePercent": 9.99,
+              "badge": "卫星互联网+商业航天+专网通信",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886085.TI",
+      "name": "AI眼镜",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "001308",
+              "name": "康冠科技",
+              "changePercent": 9.98,
+              "badge": "端侧AI+AI眼镜+智能显示",
+              "sortOrder": 1
+            },
+            {
+              "id": "001316",
+              "name": "润贝航科",
+              "changePercent": 9.99,
+              "badge": "航材国产化+AI航检眼镜+三季报增长",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.02,
+              "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
+              "sortOrder": 2
+            },
+            {
+              "id": "300136",
+              "name": "信维通信",
+              "changePercent": 20.0,
+              "badge": "商业卫星通信+端侧AI+射频器件",
+              "sortOrder": 3
+            },
+            {
+              "id": "603920",
+              "name": "世运电路",
+              "changePercent": 9.99,
+              "badge": "回购+人形机器人PCB+AI服务器PCB",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-09 10:07:05"
+}
