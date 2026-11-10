@@ -48,7 +48,7 @@
     },
     "poolFirstBoardCount": 63,
     "poolContinuousBoardCount": 13,
-    "poolBrokenBoardCount": 21
+    "poolBrokenBoardCount": 22
   },
   "themes": [
     {
@@ -240,7 +240,7 @@
               "id": "001314",
               "name": "亿道信息",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "AI PC+端侧AI+三季报增长",
               "sortOrder": 3
             },
             {
@@ -638,7 +638,7 @@
               "id": "001314",
               "name": "亿道信息",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "AI PC+端侧AI+三季报增长",
               "sortOrder": 3
             },
             {
@@ -757,7 +757,7 @@
               "id": "001314",
               "name": "亿道信息",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "AI PC+端侧AI+三季报增长",
               "sortOrder": 3
             },
             {
@@ -876,7 +876,7 @@
               "id": "001314",
               "name": "亿道信息",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "AI PC+端侧AI+三季报增长",
               "sortOrder": 3
             },
             {
@@ -1087,7 +1087,7 @@
               "id": "001314",
               "name": "亿道信息",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "AI PC+端侧AI+三季报增长",
               "sortOrder": 2
             },
             {
@@ -1213,7 +1213,7 @@
               "id": "001314",
               "name": "亿道信息",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "AI PC+端侧AI+三季报增长",
               "sortOrder": 3
             },
             {
@@ -1698,7 +1698,7 @@
               "id": "001314",
               "name": "亿道信息",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "AI PC+端侧AI+三季报增长",
               "sortOrder": 2
             },
             {
@@ -1769,5 +1769,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-10 13:56:47"
+  "updatedAt": "2026-11-10 14:07:12"
 }
