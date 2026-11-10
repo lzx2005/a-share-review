@@ -1,0 +1,818 @@
+{
+  "tradeDate": "2026-11-10",
+  "weekday": "周二",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": false
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 26,
+    "limitUpSuccessRate": 72,
+    "limitDownCount": 0
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "promotion2To3": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "previousLadderPerformance": null,
+    "previousLimitUpPerformance": null,
+    "highestBoard": {
+      "stockName": "东方新能",
+      "boardCount": 3
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 3,
+        "stockCount": 4
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 7
+      },
+      {
+        "boardCount": 1,
+        "stockCount": 15
+      }
+    ],
+    "hotTheme": {
+      "name": "储能",
+      "stockCount": 5
+    },
+    "poolFirstBoardCount": 15,
+    "poolContinuousBoardCount": 11,
+    "poolBrokenBoardCount": 10
+  },
+  "themes": [
+    {
+      "id": "885921.TI",
+      "name": "储能",
+      "stockCount": 5,
+      "highestBoardCount": 3,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002310",
+              "name": "东方新能",
+              "changePercent": 10.2,
+              "badge": "算力板卡+GPU采购+光伏+北京国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.01,
+              "badge": "“东方系”+空气能热泵+储能+三季报增长",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 10.03,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
+              "sortOrder": 1
+            },
+            {
+              "id": "002623",
+              "name": "亚玛顿",
+              "changePercent": 10.01,
+              "badge": "复牌+控制权变更+光伏玻璃+玻璃基板",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603037",
+              "name": "凯众股份",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 10.03,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
+              "sortOrder": 1
+            },
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.01,
+              "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "301255",
+              "name": "通力科技",
+              "changePercent": 19.99,
+              "badge": "减速机+机器人灵巧手+机器人参股",
+              "sortOrder": 1
+            },
+            {
+              "id": "603037",
+              "name": "凯众股份",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "603809",
+              "name": "豪能股份",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886019.TI",
+      "name": "AIGC概念",
+      "stockCount": 5,
+      "highestBoardCount": 1,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "002343",
+              "name": "慈文传媒",
+              "changePercent": 10.02,
+              "badge": "影视院线+微短剧+国企改革",
+              "sortOrder": 1
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.13,
+              "badge": "手游+IP储备+AI游戏",
+              "sortOrder": 2
+            },
+            {
+              "id": "603533",
+              "name": "掌阅科技",
+              "changePercent": 8.38,
+              "badge": "AI短剧+短剧出海+数字阅读",
+              "sortOrder": 3
+            },
+            {
+              "id": "603666",
+              "name": "亿嘉和",
+              "changePercent": 9.99,
+              "badge": "人形机器人+华为合作+电力机器人",
+              "sortOrder": 4
+            },
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 10.0,
+              "badge": "短剧营销+智能运维+AI应用",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886095.TI",
+      "name": "IP经济(谷子经济)",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600327",
+              "name": "大东方",
+              "changePercent": 10.0,
+              "badge": "“东方系”+百货零售+儿科医疗",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002343",
+              "name": "慈文传媒",
+              "changePercent": 10.02,
+              "badge": "影视院线+微短剧+国企改革",
+              "sortOrder": 1
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.13,
+              "badge": "手游+IP储备+AI游戏",
+              "sortOrder": 2
+            },
+            {
+              "id": "603533",
+              "name": "掌阅科技",
+              "changePercent": 8.38,
+              "badge": "AI短剧+短剧出海+数字阅读",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.01,
+              "badge": "“东方系”+空气能热泵+储能+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002347",
+              "name": "泰尔股份",
+              "changePercent": 10.0,
+              "badge": "商业航天+激光3D打印+冶金装备",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002343",
+              "name": "慈文传媒",
+              "changePercent": 10.02,
+              "badge": "影视院线+微短剧+国企改革",
+              "sortOrder": 1
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.13,
+              "badge": "手游+IP储备+AI游戏",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885467.TI",
+      "name": "特斯拉概念",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.01,
+              "badge": "“东方系”+空气能热泵+储能+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002623",
+              "name": "亚玛顿",
+              "changePercent": 10.01,
+              "badge": "复牌+控制权变更+光伏玻璃+玻璃基板",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "603037",
+              "name": "凯众股份",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "603809",
+              "name": "豪能股份",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885835.TI",
+      "name": "参股银行",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "600327",
+              "name": "大东方",
+              "changePercent": 10.0,
+              "badge": "“东方系”+百货零售+儿科医疗",
+              "sortOrder": 1
+            },
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.02,
+              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.01,
+              "badge": "“东方系”+空气能热泵+储能+三季报增长",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002347",
+              "name": "泰尔股份",
+              "changePercent": 10.0,
+              "badge": "商业航天+激光3D打印+冶金装备",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886078.TI",
+      "name": "商业航天",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002347",
+              "name": "泰尔股份",
+              "changePercent": 10.0,
+              "badge": "商业航天+激光3D打印+冶金装备",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "600261",
+              "name": "阳光照明",
+              "changePercent": 9.96,
+              "badge": "商业航天+激光通信+LED照明+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "603809",
+              "name": "豪能股份",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "605598",
+              "name": "上海港湾",
+              "changePercent": 10.0,
+              "badge": "商业航天+卫星能源+钙钛矿电池",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886069.TI",
+      "name": "人形机器人",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.01,
+              "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "603666",
+              "name": "亿嘉和",
+              "changePercent": 9.99,
+              "badge": "人形机器人+华为合作+电力机器人",
+              "sortOrder": 1
+            },
+            {
+              "id": "603809",
+              "name": "豪能股份",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "605488",
+              "name": "福莱新材",
+              "changePercent": 10.0,
+              "badge": "柔性传感+数据采集手套+人形机器人",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885418.TI",
+      "name": "文化传媒概念",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 10.04,
+              "badge": "AI漫剧+剧集发行+北京国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002343",
+              "name": "慈文传媒",
+              "changePercent": 10.02,
+              "badge": "影视院线+微短剧+国企改革",
+              "sortOrder": 1
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.13,
+              "badge": "手游+IP储备+AI游戏",
+              "sortOrder": 2
+            },
+            {
+              "id": "603533",
+              "name": "掌阅科技",
+              "changePercent": 8.38,
+              "badge": "AI短剧+短剧出海+数字阅读",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886060.TI",
+      "name": "短剧游戏",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 10.04,
+              "badge": "AI漫剧+剧集发行+北京国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002343",
+              "name": "慈文传媒",
+              "changePercent": 10.02,
+              "badge": "影视院线+微短剧+国企改革",
+              "sortOrder": 1
+            },
+            {
+              "id": "603533",
+              "name": "掌阅科技",
+              "changePercent": 8.38,
+              "badge": "AI短剧+短剧出海+数字阅读",
+              "sortOrder": 2
+            },
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 10.0,
+              "badge": "短剧营销+智能运维+AI应用",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 10.04,
+              "badge": "AI漫剧+剧集发行+北京国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002343",
+              "name": "慈文传媒",
+              "changePercent": 10.02,
+              "badge": "影视院线+微短剧+国企改革",
+              "sortOrder": 1
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.13,
+              "badge": "手游+IP储备+AI游戏",
+              "sortOrder": 2
+            },
+            {
+              "id": "603533",
+              "name": "掌阅科技",
+              "changePercent": 8.38,
+              "badge": "AI短剧+短剧出海+数字阅读",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885823.TI",
+      "name": "氢能源",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000530",
+              "name": "冰山冷热",
+              "changePercent": 10.03,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
+              "sortOrder": 1
+            },
+            {
+              "id": "600408",
+              "name": "安泰集团",
+              "changePercent": 9.94,
+              "badge": "煤炭+焦炉煤气制氢+大型H型钢",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "600261",
+              "name": "阳光照明",
+              "changePercent": 9.96,
+              "badge": "商业航天+激光通信+LED照明+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "603037",
+              "name": "凯众股份",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886061.TI",
+      "name": "长安汽车概念",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002708",
+              "name": "光洋股份",
+              "changePercent": 10.01,
+              "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "002931",
+              "name": "锋龙股份",
+              "changePercent": 10.01,
+              "badge": "人形机器人+优必选入主+机电组件送样",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "603037",
+              "name": "凯众股份",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "603809",
+              "name": "豪能股份",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885779.TI",
+      "name": "腾讯概念",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002343",
+              "name": "慈文传媒",
+              "changePercent": 10.02,
+              "badge": "影视院线+微短剧+国企改革",
+              "sortOrder": 1
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.13,
+              "badge": "手游+IP储备+AI游戏",
+              "sortOrder": 2
+            },
+            {
+              "id": "603666",
+              "name": "亿嘉和",
+              "changePercent": 9.99,
+              "badge": "人形机器人+华为合作+电力机器人",
+              "sortOrder": 3
+            },
+            {
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 10.0,
+              "badge": "短剧营销+智能运维+AI应用",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-10 09:52:23"
+}
