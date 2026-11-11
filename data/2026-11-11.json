@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 81,
+    "limitUpCount": 82,
     "limitUpSuccessRate": 80,
-    "limitDownCount": 1
+    "limitDownCount": 2
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,14 +43,14 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 63
+        "stockCount": 64
       }
     ],
     "hotTheme": {
       "name": "比亚迪概念",
       "stockCount": 23
     },
-    "poolFirstBoardCount": 63,
+    "poolFirstBoardCount": 64,
     "poolContinuousBoardCount": 18,
     "poolBrokenBoardCount": 20
   },
@@ -387,9 +387,9 @@
     {
       "id": "885556.TI",
       "name": "5G",
-      "stockCount": 16,
+      "stockCount": 17,
       "highestBoardCount": 2,
-      "limitUpCount": 16,
+      "limitUpCount": 17,
       "ladders": [
         {
           "boardCount": 2,
@@ -406,7 +406,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 15,
+          "totalCount": 16,
           "stocks": [
             {
               "id": "002148",
@@ -472,46 +472,53 @@
               "sortOrder": 9
             },
             {
+              "id": "600776",
+              "name": "东方通信",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 10
+            },
+            {
               "id": "601869",
               "name": "长飞光纤",
               "changePercent": 10.0,
               "badge": "空芯光纤+光通信+三季报增长",
-              "sortOrder": 10
+              "sortOrder": 11
             },
             {
               "id": "603042",
               "name": "华脉科技",
               "changePercent": 10.03,
               "badge": "光纤光缆+光通信+6G",
-              "sortOrder": 11
+              "sortOrder": 12
             },
             {
               "id": "603083",
               "name": "剑桥科技",
               "changePercent": 10.0,
               "badge": "高速光模块+北美业务正常推进+产能扩张",
-              "sortOrder": 12
+              "sortOrder": 13
             },
             {
               "id": "603228",
               "name": "景旺电子",
               "changePercent": 10.0,
               "badge": "AI算力PCB+光模块+前三季度业绩增长+回购",
-              "sortOrder": 13
+              "sortOrder": 14
             },
             {
               "id": "688135",
               "name": "利扬芯片",
               "changePercent": 20.01,
               "badge": "存储芯片测试+芯片测试+三季报增长",
-              "sortOrder": 14
+              "sortOrder": 15
             },
             {
               "id": "688498",
               "name": "源杰科技",
               "changePercent": 20.0,
               "badge": "光芯片+CPO+数据中心",
-              "sortOrder": 15
+              "sortOrder": 16
             }
           ]
         }
@@ -653,9 +660,9 @@
     {
       "id": "886110.TI",
       "name": "2026中报预增",
-      "stockCount": 14,
+      "stockCount": 15,
       "highestBoardCount": 2,
-      "limitUpCount": 14,
+      "limitUpCount": 15,
       "ladders": [
         {
           "boardCount": 2,
@@ -672,7 +679,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 13,
+          "totalCount": 14,
           "stocks": [
             {
               "id": "002164",
@@ -731,39 +738,46 @@
               "sortOrder": 8
             },
             {
+              "id": "600776",
+              "name": "东方通信",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 9
+            },
+            {
               "id": "601869",
               "name": "长飞光纤",
               "changePercent": 10.0,
               "badge": "空芯光纤+光通信+三季报增长",
-              "sortOrder": 9
+              "sortOrder": 10
             },
             {
               "id": "603083",
               "name": "剑桥科技",
               "changePercent": 10.0,
               "badge": "高速光模块+北美业务正常推进+产能扩张",
-              "sortOrder": 10
+              "sortOrder": 11
             },
             {
               "id": "603135",
               "name": "中重科技",
               "changePercent": 9.99,
               "badge": "工业机器人+冶金装备+海外拓展",
-              "sortOrder": 11
+              "sortOrder": 12
             },
             {
               "id": "603730",
               "name": "岱美股份",
               "changePercent": 10.03,
               "badge": "机器人电子皮肤+汽车内饰+特斯拉",
-              "sortOrder": 12
+              "sortOrder": 13
             },
             {
               "id": "688498",
               "name": "源杰科技",
               "changePercent": 20.0,
               "badge": "光芯片+CPO+数据中心",
-              "sortOrder": 13
+              "sortOrder": 14
             }
           ]
         }
@@ -1772,5 +1786,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-11 14:31:27"
+  "updatedAt": "2026-11-11 14:41:50"
 }
