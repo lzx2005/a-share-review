@@ -9,7 +9,7 @@
     "indexChangePercent": null,
     "limitUpCount": 46,
     "limitUpSuccessRate": 71,
-    "limitDownCount": 0
+    "limitDownCount": 1
   },
   "sentiment": {
     "promotion1To2": {
@@ -183,7 +183,7 @@
               "id": "600467",
               "name": "好当家",
               "changePercent": 10.22,
-              "badge": null,
+              "badge": "海参+预制菜+海洋经济",
               "sortOrder": 3
             },
             {
@@ -343,7 +343,7 @@
               "id": "605222",
               "name": "起帆电缆",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "机器人电缆+商业航天+海缆",
               "sortOrder": 3
             }
           ]
@@ -418,7 +418,7 @@
               "id": "605222",
               "name": "起帆电缆",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "机器人电缆+商业航天+海缆",
               "sortOrder": 2
             }
           ]
@@ -550,7 +550,7 @@
               "id": "605222",
               "name": "起帆电缆",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "机器人电缆+商业航天+海缆",
               "sortOrder": 5
             }
           ]
@@ -781,7 +781,7 @@
               "id": "605222",
               "name": "起帆电缆",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "机器人电缆+商业航天+海缆",
               "sortOrder": 3
             }
           ]
@@ -943,7 +943,7 @@
               "id": "600467",
               "name": "好当家",
               "changePercent": 10.22,
-              "badge": null,
+              "badge": "海参+预制菜+海洋经济",
               "sortOrder": 5
             }
           ]
@@ -992,7 +992,7 @@
               "id": "605222",
               "name": "起帆电缆",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "机器人电缆+商业航天+海缆",
               "sortOrder": 3
             }
           ]
@@ -1000,5 +1000,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-12 11:27:01"
+  "updatedAt": "2026-11-12 11:37:22"
 }
