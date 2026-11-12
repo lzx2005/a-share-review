@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 40,
-    "limitUpSuccessRate": 75,
+    "limitUpCount": 39,
+    "limitUpSuccessRate": 74,
     "limitDownCount": 0
   },
   "sentiment": {
@@ -47,24 +47,24 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 25
+        "stockCount": 24
       }
     ],
     "hotTheme": {
       "name": "创投",
-      "stockCount": 8
+      "stockCount": 7
     },
-    "poolFirstBoardCount": 25,
+    "poolFirstBoardCount": 24,
     "poolContinuousBoardCount": 15,
-    "poolBrokenBoardCount": 13
+    "poolBrokenBoardCount": 14
   },
   "themes": [
     {
       "id": "885413.TI",
       "name": "创投",
-      "stockCount": 8,
+      "stockCount": 7,
       "highestBoardCount": 5,
-      "limitUpCount": 8,
+      "limitUpCount": 7,
       "ladders": [
         {
           "boardCount": 5,
@@ -114,7 +114,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 4,
+          "totalCount": 3,
           "stocks": [
             {
               "id": "000573",
@@ -124,185 +124,18 @@
               "sortOrder": 1
             },
             {
-              "id": "002156",
-              "name": "通富微电",
-              "changePercent": 10.0,
-              "badge": "AMD封测+先进封装+三季报增长",
-              "sortOrder": 2
-            },
-            {
               "id": "002187",
               "name": "广百股份",
               "changePercent": 10.07,
               "badge": "百货零售+免税退税+广州国资",
-              "sortOrder": 3
+              "sortOrder": 2
             },
             {
               "id": "600853",
               "name": "龙建股份",
               "changePercent": 9.92,
               "badge": "冰雪经济+海外基建+寒区施工+黑龙江国资",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885997.TI",
-      "name": "比亚迪概念",
-      "stockCount": 8,
-      "highestBoardCount": 3,
-      "limitUpCount": 8,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "000678",
-              "name": "襄阳轴承",
-              "changePercent": 10.0,
-              "badge": "机器人轴承+汽车轴承+湖北国资+“羊”字辈",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "001282",
-              "name": "三联锻造",
-              "changePercent": 10.0,
-              "badge": "人形机器人+关节模组+汽车锻件",
-              "sortOrder": 1
-            },
-            {
-              "id": "603228",
-              "name": "景旺电子",
-              "changePercent": 10.01,
-              "badge": null,
-              "sortOrder": 2
-            },
-            {
-              "id": "603330",
-              "name": "天洋新材",
-              "changePercent": 9.97,
-              "badge": "光模块胶+电子胶+卫材压敏胶+“羊”字辈",
               "sortOrder": 3
-            },
-            {
-              "id": "603725",
-              "name": "天安新材",
-              "changePercent": 10.03,
-              "badge": "光通信+拟收购嘉万光+机器人皮肤",
-              "sortOrder": 4
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "002156",
-              "name": "通富微电",
-              "changePercent": 10.0,
-              "badge": "AMD封测+先进封装+三季报增长",
-              "sortOrder": 1
-            },
-            {
-              "id": "603175",
-              "name": "超颖电子",
-              "changePercent": 10.0,
-              "badge": "AI算力PCB+存储PCB+高阶PCB认证",
-              "sortOrder": 2
-            },
-            {
-              "id": "603936",
-              "name": "博敏电子",
-              "changePercent": 10.03,
-              "badge": null,
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885756.TI",
-      "name": "芯片概念",
-      "stockCount": 8,
-      "highestBoardCount": 2,
-      "limitUpCount": 8,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "603330",
-              "name": "天洋新材",
-              "changePercent": 9.97,
-              "badge": "光模块胶+电子胶+卫材压敏胶+“羊”字辈",
-              "sortOrder": 1
-            },
-            {
-              "id": "603396",
-              "name": "金辰股份",
-              "changePercent": 10.0,
-              "badge": "光伏设备+半导体装备+玻璃基封装+股份回购",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 6,
-          "stocks": [
-            {
-              "id": "002081",
-              "name": "金 螳 螂",
-              "changePercent": 9.98,
-              "badge": "洁净室+半导体厂房配套+建筑装饰",
-              "sortOrder": 1
-            },
-            {
-              "id": "002156",
-              "name": "通富微电",
-              "changePercent": 10.0,
-              "badge": "AMD封测+先进封装+三季报增长",
-              "sortOrder": 2
-            },
-            {
-              "id": "002685",
-              "name": "华东重机",
-              "changePercent": 9.98,
-              "badge": "GPU芯片+港口装卸设备+三季报增长",
-              "sortOrder": 3
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.2,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 4
-            },
-            {
-              "id": "603175",
-              "name": "超颖电子",
-              "changePercent": 10.0,
-              "badge": "AI算力PCB+存储PCB+高阶PCB认证",
-              "sortOrder": 5
-            },
-            {
-              "id": "603353",
-              "name": "和顺石油",
-              "changePercent": 10.0,
-              "badge": "半导体IP+存储芯片+Chiplet",
-              "sortOrder": 6
             }
           ]
         }
@@ -371,7 +204,7 @@
               "id": "603936",
               "name": "博敏电子",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "AI服务器PCB+光模块PCB+陶瓷衬板",
               "sortOrder": 6
             }
           ]
@@ -379,111 +212,98 @@
       ]
     },
     {
-      "id": "886033.TI",
-      "name": "共封装光学(CPO)",
+      "id": "885756.TI",
+      "name": "芯片概念",
       "stockCount": 7,
       "highestBoardCount": 2,
       "limitUpCount": 7,
       "ladders": [
         {
           "boardCount": 2,
-          "totalCount": 4,
+          "totalCount": 2,
           "stocks": [
-            {
-              "id": "600103",
-              "name": "青山纸业",
-              "changePercent": 10.06,
-              "badge": "光模块+竹浆纸+福建国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "603083",
-              "name": "剑桥科技",
-              "changePercent": 10.0,
-              "badge": "高速光模块+北美业务正常推进+产能扩张",
-              "sortOrder": 2
-            },
-            {
-              "id": "603228",
-              "name": "景旺电子",
-              "changePercent": 10.01,
-              "badge": null,
-              "sortOrder": 3
-            },
             {
               "id": "603330",
               "name": "天洋新材",
               "changePercent": 9.97,
               "badge": "光模块胶+电子胶+卫材压敏胶+“羊”字辈",
-              "sortOrder": 4
+              "sortOrder": 1
+            },
+            {
+              "id": "603396",
+              "name": "金辰股份",
+              "changePercent": 10.0,
+              "badge": "光伏设备+半导体装备+玻璃基封装+股份回购",
+              "sortOrder": 2
             }
           ]
         },
         {
           "boardCount": 1,
-          "totalCount": 3,
+          "totalCount": 5,
           "stocks": [
             {
-              "id": "002156",
-              "name": "通富微电",
-              "changePercent": 10.0,
-              "badge": "AMD封测+先进封装+三季报增长",
+              "id": "002081",
+              "name": "金 螳 螂",
+              "changePercent": 9.98,
+              "badge": "洁净室+半导体厂房配套+建筑装饰",
               "sortOrder": 1
             },
             {
-              "id": "002396",
-              "name": "星网锐捷",
-              "changePercent": 10.02,
-              "badge": "数据中心交换机+光通信+CPO+福建国资",
+              "id": "002685",
+              "name": "华东重机",
+              "changePercent": 9.98,
+              "badge": "GPU芯片+港口装卸设备+三季报增长",
               "sortOrder": 2
             },
             {
-              "id": "603936",
-              "name": "博敏电子",
-              "changePercent": 10.03,
-              "badge": null,
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.2,
+              "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 3
+            },
+            {
+              "id": "603175",
+              "name": "超颖电子",
+              "changePercent": 10.0,
+              "badge": "AI算力PCB+存储PCB+高阶PCB认证",
+              "sortOrder": 4
+            },
+            {
+              "id": "603353",
+              "name": "和顺石油",
+              "changePercent": 10.0,
+              "badge": "半导体IP+存储芯片+Chiplet",
+              "sortOrder": 5
             }
           ]
         }
       ]
     },
     {
-      "id": "885467.TI",
-      "name": "特斯拉概念",
+      "id": "885997.TI",
+      "name": "比亚迪概念",
       "stockCount": 6,
-      "highestBoardCount": 5,
+      "highestBoardCount": 3,
       "limitUpCount": 6,
       "ladders": [
         {
-          "boardCount": 5,
+          "boardCount": 3,
           "totalCount": 1,
           "stocks": [
             {
-              "id": "603366",
-              "name": "日出东方",
-              "changePercent": 10.03,
-              "badge": "“东方系”+光伏+储能+空气能热泵",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002623",
-              "name": "亚玛顿",
-              "changePercent": 9.99,
-              "badge": "复牌+控制权变更+光伏玻璃+玻璃基板",
+              "id": "000678",
+              "name": "襄阳轴承",
+              "changePercent": 10.0,
+              "badge": "机器人轴承+汽车轴承+湖北国资+“羊”字辈",
               "sortOrder": 1
             }
           ]
         },
         {
           "boardCount": 2,
-          "totalCount": 2,
+          "totalCount": 3,
           "stocks": [
             {
               "id": "001282",
@@ -493,11 +313,18 @@
               "sortOrder": 1
             },
             {
-              "id": "603228",
-              "name": "景旺电子",
-              "changePercent": 10.01,
-              "badge": null,
+              "id": "603330",
+              "name": "天洋新材",
+              "changePercent": 9.97,
+              "badge": "光模块胶+电子胶+卫材压敏胶+“羊”字辈",
               "sortOrder": 2
+            },
+            {
+              "id": "603725",
+              "name": "天安新材",
+              "changePercent": 10.03,
+              "badge": "光通信+拟收购嘉万光+机器人皮肤",
+              "sortOrder": 3
             }
           ]
         },
@@ -506,17 +333,17 @@
           "totalCount": 2,
           "stocks": [
             {
-              "id": "002156",
-              "name": "通富微电",
-              "changePercent": 10.0,
-              "badge": "AMD封测+先进封装+三季报增长",
-              "sortOrder": 1
-            },
-            {
               "id": "603175",
               "name": "超颖电子",
               "changePercent": 10.0,
               "badge": "AI算力PCB+存储PCB+高阶PCB认证",
+              "sortOrder": 1
+            },
+            {
+              "id": "603936",
+              "name": "博敏电子",
+              "changePercent": 10.03,
+              "badge": "AI服务器PCB+光模块PCB+陶瓷衬板",
               "sortOrder": 2
             }
           ]
@@ -524,55 +351,42 @@
       ]
     },
     {
-      "id": "885705.TI",
-      "name": "乡村振兴",
+      "id": "886100.TI",
+      "name": "DeepSeek概念",
       "stockCount": 6,
-      "highestBoardCount": 2,
+      "highestBoardCount": 1,
       "limitUpCount": 6,
       "ladders": [
         {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600103",
-              "name": "青山纸业",
-              "changePercent": 10.06,
-              "badge": "光模块+竹浆纸+福建国资",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
           "boardCount": 1,
-          "totalCount": 5,
+          "totalCount": 6,
           "stocks": [
             {
-              "id": "001318",
-              "name": "阳光乳业",
-              "changePercent": 10.01,
-              "badge": "低温乳制品+送奶上户+“羊”字辈",
+              "id": "000710",
+              "name": "贝瑞基因",
+              "changePercent": 9.97,
+              "badge": null,
               "sortOrder": 1
             },
             {
-              "id": "002696",
-              "name": "百洋股份",
-              "changePercent": 9.98,
-              "badge": "“羊”字辈+水产加工+鱼粉鱼油",
+              "id": "002229",
+              "name": "鸿博股份",
+              "changePercent": 10.02,
+              "badge": "算力租赁+AI算力+彩票印刷",
               "sortOrder": 2
             },
             {
-              "id": "300829",
-              "name": "金丹科技",
-              "changePercent": 19.99,
-              "badge": null,
+              "id": "002396",
+              "name": "星网锐捷",
+              "changePercent": 10.02,
+              "badge": "数据中心交换机+光通信+CPO+福建国资",
               "sortOrder": 3
             },
             {
-              "id": "600853",
-              "name": "龙建股份",
-              "changePercent": 9.92,
-              "badge": "冰雪经济+海外基建+寒区施工+黑龙江国资",
+              "id": "002685",
+              "name": "华东重机",
+              "changePercent": 9.98,
+              "badge": "GPU芯片+港口装卸设备+三季报增长",
               "sortOrder": 4
             },
             {
@@ -581,132 +395,13 @@
               "changePercent": 10.2,
               "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885800.TI",
-      "name": "消费电子概念",
-      "stockCount": 6,
-      "highestBoardCount": 2,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "603228",
-              "name": "景旺电子",
-              "changePercent": 10.01,
-              "badge": null,
-              "sortOrder": 1
             },
             {
-              "id": "603330",
-              "name": "天洋新材",
-              "changePercent": 9.97,
-              "badge": "光模块胶+电子胶+卫材压敏胶+“羊”字辈",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002156",
-              "name": "通富微电",
+              "id": "603353",
+              "name": "和顺石油",
               "changePercent": 10.0,
-              "badge": "AMD封测+先进封装+三季报增长",
-              "sortOrder": 1
-            },
-            {
-              "id": "002843",
-              "name": "泰嘉股份",
-              "changePercent": 10.04,
-              "badge": "服务器电源+商业航天+锯切龙头",
-              "sortOrder": 2
-            },
-            {
-              "id": "603175",
-              "name": "超颖电子",
-              "changePercent": 10.0,
-              "badge": "AI算力PCB+存储PCB+高阶PCB认证",
-              "sortOrder": 3
-            },
-            {
-              "id": "603936",
-              "name": "博敏电子",
-              "changePercent": 10.03,
-              "badge": null,
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885556.TI",
-      "name": "5G",
-      "stockCount": 6,
-      "highestBoardCount": 2,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "600103",
-              "name": "青山纸业",
-              "changePercent": 10.06,
-              "badge": "光模块+竹浆纸+福建国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "603083",
-              "name": "剑桥科技",
-              "changePercent": 10.0,
-              "badge": "高速光模块+北美业务正常推进+产能扩张",
-              "sortOrder": 2
-            },
-            {
-              "id": "603228",
-              "name": "景旺电子",
-              "changePercent": 10.01,
-              "badge": null,
-              "sortOrder": 3
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "002396",
-              "name": "星网锐捷",
-              "changePercent": 10.02,
-              "badge": "数据中心交换机+光通信+CPO+福建国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.2,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 2
-            },
-            {
-              "id": "603936",
-              "name": "博敏电子",
-              "changePercent": 10.03,
-              "badge": null,
-              "sortOrder": 3
+              "badge": "半导体IP+存储芯片+Chiplet",
+              "sortOrder": 6
             }
           ]
         }
@@ -837,6 +532,68 @@
       ]
     },
     {
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 5,
+      "highestBoardCount": 4,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 9.87,
+              "badge": "AI漫剧+剧集发行+北京国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 9.92,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000710",
+              "name": "贝瑞基因",
+              "changePercent": 9.97,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002396",
+              "name": "星网锐捷",
+              "changePercent": 10.02,
+              "badge": "数据中心交换机+光通信+CPO+福建国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.2,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885939.TI",
       "name": "海峡两岸",
       "stockCount": 5,
@@ -861,10 +618,10 @@
           "totalCount": 4,
           "stocks": [
             {
-              "id": "002156",
-              "name": "通富微电",
-              "changePercent": 10.0,
-              "badge": "AMD封测+先进封装+三季报增长",
+              "id": "000710",
+              "name": "贝瑞基因",
+              "changePercent": 9.97,
+              "badge": null,
               "sortOrder": 1
             },
             {
@@ -893,8 +650,8 @@
       ]
     },
     {
-      "id": "885312.TI",
-      "name": "物联网",
+      "id": "885705.TI",
+      "name": "乡村振兴",
       "stockCount": 5,
       "highestBoardCount": 2,
       "limitUpCount": 5,
@@ -904,10 +661,10 @@
           "totalCount": 1,
           "stocks": [
             {
-              "id": "603083",
-              "name": "剑桥科技",
-              "changePercent": 10.0,
-              "badge": "高速光模块+北美业务正常推进+产能扩张",
+              "id": "600103",
+              "name": "青山纸业",
+              "changePercent": 10.06,
+              "badge": "光模块+竹浆纸+福建国资",
               "sortOrder": 1
             }
           ]
@@ -917,31 +674,31 @@
           "totalCount": 4,
           "stocks": [
             {
-              "id": "002156",
-              "name": "通富微电",
-              "changePercent": 10.0,
-              "badge": "AMD封测+先进封装+三季报增长",
+              "id": "001318",
+              "name": "阳光乳业",
+              "changePercent": 10.01,
+              "badge": "低温乳制品+送奶上户+“羊”字辈",
               "sortOrder": 1
             },
             {
-              "id": "002396",
-              "name": "星网锐捷",
-              "changePercent": 10.02,
-              "badge": "数据中心交换机+光通信+CPO+福建国资",
+              "id": "300829",
+              "name": "金丹科技",
+              "changePercent": 19.99,
+              "badge": "乳酸+聚乳酸+可降解材料",
               "sortOrder": 2
+            },
+            {
+              "id": "600853",
+              "name": "龙建股份",
+              "changePercent": 9.92,
+              "badge": "冰雪经济+海外基建+寒区施工+黑龙江国资",
+              "sortOrder": 3
             },
             {
               "id": "601929",
               "name": "吉视传媒",
               "changePercent": 10.2,
               "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 3
-            },
-            {
-              "id": "603936",
-              "name": "博敏电子",
-              "changePercent": 10.03,
-              "badge": null,
               "sortOrder": 4
             }
           ]
@@ -949,8 +706,8 @@
       ]
     },
     {
-      "id": "885545.TI",
-      "name": "汽车电子",
+      "id": "885556.TI",
+      "name": "5G",
       "stockCount": 5,
       "highestBoardCount": 2,
       "limitUpCount": 5,
@@ -960,17 +717,17 @@
           "totalCount": 2,
           "stocks": [
             {
-              "id": "603228",
-              "name": "景旺电子",
-              "changePercent": 10.01,
-              "badge": null,
+              "id": "600103",
+              "name": "青山纸业",
+              "changePercent": 10.06,
+              "badge": "光模块+竹浆纸+福建国资",
               "sortOrder": 1
             },
             {
-              "id": "603330",
-              "name": "天洋新材",
-              "changePercent": 9.97,
-              "badge": "光模块胶+电子胶+卫材压敏胶+“羊”字辈",
+              "id": "603083",
+              "name": "剑桥科技",
+              "changePercent": 10.0,
+              "badge": "高速光模块+北美业务正常推进+产能扩张",
               "sortOrder": 2
             }
           ]
@@ -980,24 +737,24 @@
           "totalCount": 3,
           "stocks": [
             {
-              "id": "002156",
-              "name": "通富微电",
-              "changePercent": 10.0,
-              "badge": "AMD封测+先进封装+三季报增长",
+              "id": "002396",
+              "name": "星网锐捷",
+              "changePercent": 10.02,
+              "badge": "数据中心交换机+光通信+CPO+福建国资",
               "sortOrder": 1
             },
             {
-              "id": "603175",
-              "name": "超颖电子",
-              "changePercent": 10.0,
-              "badge": "AI算力PCB+存储PCB+高阶PCB认证",
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.2,
+              "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 2
             },
             {
               "id": "603936",
               "name": "博敏电子",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "AI服务器PCB+光模块PCB+陶瓷衬板",
               "sortOrder": 3
             }
           ]
@@ -1005,55 +762,220 @@
       ]
     },
     {
-      "id": "886100.TI",
-      "name": "DeepSeek概念",
+      "id": "886033.TI",
+      "name": "共封装光学(CPO)",
       "stockCount": 5,
-      "highestBoardCount": 1,
+      "highestBoardCount": 2,
       "limitUpCount": 5,
       "ladders": [
         {
-          "boardCount": 1,
-          "totalCount": 5,
+          "boardCount": 2,
+          "totalCount": 3,
           "stocks": [
             {
-              "id": "002229",
-              "name": "鸿博股份",
-              "changePercent": 10.02,
-              "badge": "算力租赁+AI算力+彩票印刷",
+              "id": "600103",
+              "name": "青山纸业",
+              "changePercent": 10.06,
+              "badge": "光模块+竹浆纸+福建国资",
               "sortOrder": 1
             },
+            {
+              "id": "603083",
+              "name": "剑桥科技",
+              "changePercent": 10.0,
+              "badge": "高速光模块+北美业务正常推进+产能扩张",
+              "sortOrder": 2
+            },
+            {
+              "id": "603330",
+              "name": "天洋新材",
+              "changePercent": 9.97,
+              "badge": "光模块胶+电子胶+卫材压敏胶+“羊”字辈",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
             {
               "id": "002396",
               "name": "星网锐捷",
               "changePercent": 10.02,
               "badge": "数据中心交换机+光通信+CPO+福建国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "603936",
+              "name": "博敏电子",
+              "changePercent": 10.03,
+              "badge": "AI服务器PCB+光模块PCB+陶瓷衬板",
               "sortOrder": 2
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885461.TI",
+      "name": "充电桩",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
             {
-              "id": "002685",
-              "name": "华东重机",
-              "changePercent": 9.98,
-              "badge": "GPU芯片+港口装卸设备+三季报增长",
-              "sortOrder": 3
-            },
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.03,
+              "badge": "“东方系”+光伏+储能+空气能热泵",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
             {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.2,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 4
+              "id": "002843",
+              "name": "泰嘉股份",
+              "changePercent": 10.04,
+              "badge": "服务器电源+商业航天+锯切龙头",
+              "sortOrder": 1
             },
             {
               "id": "603353",
               "name": "和顺石油",
               "changePercent": 10.0,
               "badge": "半导体IP+存储芯片+Chiplet",
-              "sortOrder": 5
+              "sortOrder": 2
+            },
+            {
+              "id": "603936",
+              "name": "博敏电子",
+              "changePercent": 10.03,
+              "badge": "AI服务器PCB+光模块PCB+陶瓷衬板",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885835.TI",
+      "name": "参股银行",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.03,
+              "badge": "“东方系”+光伏+储能+空气能热泵",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "300829",
+              "name": "金丹科技",
+              "changePercent": 19.99,
+              "badge": "乳酸+聚乳酸+可降解材料",
+              "sortOrder": 1
+            },
+            {
+              "id": "600857",
+              "name": "宁波中百",
+              "changePercent": 9.97,
+              "badge": "商业零售+黄金珠宝+杭州金帝入主",
+              "sortOrder": 2
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.2,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885467.TI",
+      "name": "特斯拉概念",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.03,
+              "badge": "“东方系”+光伏+储能+空气能热泵",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002623",
+              "name": "亚玛顿",
+              "changePercent": 9.99,
+              "badge": "复牌+控制权变更+光伏玻璃+玻璃基板",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001282",
+              "name": "三联锻造",
+              "changePercent": 10.0,
+              "badge": "人形机器人+关节模组+汽车锻件",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603175",
+              "name": "超颖电子",
+              "changePercent": 10.0,
+              "badge": "AI算力PCB+存储PCB+高阶PCB认证",
+              "sortOrder": 1
             }
           ]
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-12 10:24:13"
+  "updatedAt": "2026-11-12 10:34:51"
 }
