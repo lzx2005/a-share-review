@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 24,
-    "limitUpSuccessRate": 65,
+    "limitUpCount": 28,
+    "limitUpSuccessRate": 70,
     "limitDownCount": 7
   },
   "sentiment": {
@@ -43,24 +43,24 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 17
+        "stockCount": 21
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
-      "stockCount": 9
+      "stockCount": 10
     },
-    "poolFirstBoardCount": 17,
+    "poolFirstBoardCount": 21,
     "poolContinuousBoardCount": 7,
-    "poolBrokenBoardCount": 13
+    "poolBrokenBoardCount": 12
   },
   "themes": [
     {
       "id": "885756.TI",
       "name": "芯片概念",
-      "stockCount": 9,
+      "stockCount": 10,
       "highestBoardCount": 3,
-      "limitUpCount": 9,
+      "limitUpCount": 10,
       "ladders": [
         {
           "boardCount": 3,
@@ -84,7 +84,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 7,
+          "totalCount": 8,
           "stocks": [
             {
               "id": "002685",
@@ -115,25 +115,32 @@
               "sortOrder": 4
             },
             {
+              "id": "600651",
+              "name": "飞乐音响",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 5
+            },
+            {
               "id": "603353",
               "name": "和顺石油",
               "changePercent": 10.01,
               "badge": "半导体IP+存储芯片+Chiplet+成品油",
-              "sortOrder": 5
+              "sortOrder": 6
             },
             {
               "id": "603687",
               "name": "大胜达",
               "changePercent": 10.01,
               "badge": "GPU芯片+纸包装+钙钛矿设备",
-              "sortOrder": 6
+              "sortOrder": 7
             },
             {
               "id": "603928",
               "name": "兴业股份",
               "changePercent": 10.03,
               "badge": "光刻胶树脂+合成树脂+三季报增长",
-              "sortOrder": 7
+              "sortOrder": 8
             }
           ]
         }
@@ -382,6 +389,62 @@
       ]
     },
     {
+      "id": "886061.TI",
+      "name": "长安汽车概念",
+      "stockCount": 5,
+      "highestBoardCount": 4,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605255",
+              "name": "天普股份",
+              "changePercent": 10.0,
+              "badge": "中昊芯英+实控人变更+汽车管路",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002819",
+              "name": "东方中科",
+              "changePercent": 9.98,
+              "badge": "股份解除冻结+半导体测试+新能源汽车测试+中科院",
+              "sortOrder": 1
+            },
+            {
+              "id": "002931",
+              "name": "锋龙股份",
+              "changePercent": 10.0,
+              "badge": "机器人关节+优必选+机电组件",
+              "sortOrder": 2
+            },
+            {
+              "id": "300237",
+              "name": "美晨科技",
+              "changePercent": 19.85,
+              "badge": null,
+              "sortOrder": 3
+            },
+            {
+              "id": "603767",
+              "name": "中马传动",
+              "changePercent": 9.98,
+              "badge": "减速器+汽车变速器+车辆齿轮+三季报增长",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885413.TI",
       "name": "创投",
       "stockCount": 5,
@@ -438,6 +501,62 @@
               "changePercent": 10.0,
               "badge": "AI算力+算力服务+华为光模块",
               "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885705.TI",
+      "name": "乡村振兴",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600467",
+              "name": "好当家",
+              "changePercent": 10.08,
+              "badge": "海参+海洋经济+预制菜",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002042",
+              "name": "华孚时尚",
+              "changePercent": 10.03,
+              "badge": "算力租赁+色纺纱+回购注销",
+              "sortOrder": 1
+            },
+            {
+              "id": "002548",
+              "name": "金新农",
+              "changePercent": 10.06,
+              "badge": "生猪养殖+猪饲料+养殖机器人",
+              "sortOrder": 2
+            },
+            {
+              "id": "300237",
+              "name": "美晨科技",
+              "changePercent": 19.85,
+              "badge": null,
+              "sortOrder": 3
+            },
+            {
+              "id": "603767",
+              "name": "中马传动",
+              "changePercent": 9.98,
+              "badge": "减速器+汽车变速器+车辆齿轮+三季报增长",
+              "sortOrder": 4
             }
           ]
         }
@@ -585,55 +704,6 @@
               "name": "横店影视",
               "changePercent": 10.03,
               "badge": "AI短剧+影视全产业链+IP运营",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885705.TI",
-      "name": "乡村振兴",
-      "stockCount": 4,
-      "highestBoardCount": 2,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600467",
-              "name": "好当家",
-              "changePercent": 10.08,
-              "badge": "海参+海洋经济+预制菜",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "002042",
-              "name": "华孚时尚",
-              "changePercent": 10.03,
-              "badge": "算力租赁+色纺纱+回购注销",
-              "sortOrder": 1
-            },
-            {
-              "id": "002548",
-              "name": "金新农",
-              "changePercent": 10.06,
-              "badge": "生猪养殖+猪饲料+养殖机器人",
-              "sortOrder": 2
-            },
-            {
-              "id": "603767",
-              "name": "中马传动",
-              "changePercent": 9.98,
-              "badge": "减速器+汽车变速器+车辆齿轮+三季报增长",
               "sortOrder": 3
             }
           ]
@@ -811,50 +881,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "886019.TI",
-      "name": "AIGC概念",
-      "stockCount": 4,
-      "highestBoardCount": 1,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002042",
-              "name": "华孚时尚",
-              "changePercent": 10.03,
-              "badge": "算力租赁+色纺纱+回购注销",
-              "sortOrder": 1
-            },
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.0,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 2
-            },
-            {
-              "id": "600410",
-              "name": "华胜天成",
-              "changePercent": 10.0,
-              "badge": "AI算力+算力服务+华为光模块",
-              "sortOrder": 3
-            },
-            {
-              "id": "603687",
-              "name": "大胜达",
-              "changePercent": 10.01,
-              "badge": "GPU芯片+纸包装+钙钛矿设备",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-11-13 10:32:29"
+  "updatedAt": "2026-11-13 10:42:53"
 }
