@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 34,
-    "limitUpSuccessRate": 49,
+    "limitUpCount": 36,
+    "limitUpSuccessRate": 50,
     "limitDownCount": 5
   },
   "sentiment": {
@@ -25,13 +25,13 @@
     "previousLadderPerformance": null,
     "previousLimitUpPerformance": null,
     "highestBoard": {
-      "stockName": "日出东方",
+      "stockName": "大东方",
       "boardCount": 5
     },
     "poolLadderSummary": [
       {
         "boardCount": 5,
-        "stockCount": 1
+        "stockCount": 2
       },
       {
         "boardCount": 4,
@@ -47,15 +47,15 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 24
+        "stockCount": 25
       }
     ],
     "hotTheme": {
       "name": "乡村振兴",
       "stockCount": 7
     },
-    "poolFirstBoardCount": 24,
-    "poolContinuousBoardCount": 10,
+    "poolFirstBoardCount": 25,
+    "poolContinuousBoardCount": 11,
     "poolBrokenBoardCount": 36
   },
   "themes": [
@@ -124,6 +124,69 @@
               "changePercent": 10.2,
               "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885835.TI",
+      "name": "参股银行",
+      "stockCount": 6,
+      "highestBoardCount": 5,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "600327",
+              "name": "大东方",
+              "changePercent": 9.95,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "603366",
+              "name": "日出东方",
+              "changePercent": 10.03,
+              "badge": "“东方系”+光伏+储能+空气能热泵",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "600802",
+              "name": "福建水泥",
+              "changePercent": 9.99,
+              "badge": "福建国资+水泥熟料+重点工程",
+              "sortOrder": 1
+            },
+            {
+              "id": "600857",
+              "name": "宁波中百",
+              "changePercent": 9.97,
+              "badge": "商业零售+黄金珠宝+杭州金帝入主",
+              "sortOrder": 2
+            },
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.02,
+              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.2,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 4
             }
           ]
         }
@@ -199,8 +262,8 @@
       ]
     },
     {
-      "id": "885835.TI",
-      "name": "参股银行",
+      "id": "885951.TI",
+      "name": "预制菜",
       "stockCount": 5,
       "highestBoardCount": 5,
       "limitUpCount": 5,
@@ -210,57 +273,14 @@
           "totalCount": 1,
           "stocks": [
             {
-              "id": "603366",
-              "name": "日出东方",
-              "changePercent": 10.03,
-              "badge": "“东方系”+光伏+储能+空气能热泵",
+              "id": "600327",
+              "name": "大东方",
+              "changePercent": 9.95,
+              "badge": null,
               "sortOrder": 1
             }
           ]
         },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "600802",
-              "name": "福建水泥",
-              "changePercent": 9.99,
-              "badge": "福建国资+水泥熟料+重点工程",
-              "sortOrder": 1
-            },
-            {
-              "id": "600857",
-              "name": "宁波中百",
-              "changePercent": 9.97,
-              "badge": "商业零售+黄金珠宝+杭州金帝入主",
-              "sortOrder": 2
-            },
-            {
-              "id": "601188",
-              "name": "龙江交通",
-              "changePercent": 10.02,
-              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
-              "sortOrder": 3
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.2,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885951.TI",
-      "name": "预制菜",
-      "stockCount": 5,
-      "highestBoardCount": 3,
-      "limitUpCount": 5,
-      "ladders": [
         {
           "boardCount": 3,
           "totalCount": 1,
@@ -276,35 +296,28 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 4,
+          "totalCount": 3,
           "stocks": [
-            {
-              "id": "002086",
-              "name": "东方海洋",
-              "changePercent": 10.02,
-              "badge": "“羊”字辈+“东方系”+海洋养殖",
-              "sortOrder": 1
-            },
             {
               "id": "002187",
               "name": "广百股份",
               "changePercent": 10.07,
               "badge": "百货零售+免税退税+广州国资",
-              "sortOrder": 2
+              "sortOrder": 1
             },
             {
               "id": "002696",
               "name": "百洋股份",
               "changePercent": 9.98,
               "badge": "“羊”字辈+水产加工+鱼粉鱼油",
-              "sortOrder": 3
+              "sortOrder": 2
             },
             {
               "id": "600467",
               "name": "好当家",
               "changePercent": 10.22,
               "badge": "海参+预制菜+海洋经济",
-              "sortOrder": 4
+              "sortOrder": 3
             }
           ]
         }
@@ -361,6 +374,55 @@
               "changePercent": 9.99,
               "badge": "苹果产业链+机器人+资产重组",
               "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886095.TI",
+      "name": "IP经济(谷子经济)",
+      "stockCount": 4,
+      "highestBoardCount": 5,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 5,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600327",
+              "name": "大东方",
+              "changePercent": 9.95,
+              "badge": null,
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002187",
+              "name": "广百股份",
+              "changePercent": 10.07,
+              "badge": "百货零售+免税退税+广州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "601566",
+              "name": "九牧王",
+              "changePercent": 9.96,
+              "badge": "羊毛羊绒+男裤+太空裤+海峡两岸",
+              "sortOrder": 2
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.2,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 3
             }
           ]
         }
@@ -679,6 +741,49 @@
       ]
     },
     {
+      "id": "885571.TI",
+      "name": "核电",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "600558",
+              "name": "大西洋",
+              "changePercent": 9.96,
+              "badge": "机器人焊接材料+可控核聚变+航空航天+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "600802",
+              "name": "福建水泥",
+              "changePercent": 9.99,
+              "badge": "福建国资+水泥熟料+重点工程",
+              "sortOrder": 2
+            },
+            {
+              "id": "601091",
+              "name": "沈鼓集团",
+              "changePercent": 9.99,
+              "badge": "天然气压缩机+离心压缩机+煤化工装备+次新股",
+              "sortOrder": 3
+            },
+            {
+              "id": "605222",
+              "name": "起帆电缆",
+              "changePercent": 10.01,
+              "badge": "机器人电缆+商业航天+海缆",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885921.TI",
       "name": "储能",
       "stockCount": 3,
@@ -767,91 +872,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "885876.TI",
-      "name": "网红经济",
-      "stockCount": 3,
-      "highestBoardCount": 3,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603536",
-              "name": "惠发食品",
-              "changePercent": 10.04,
-              "badge": "预制菜+速冻调理肉制品+股份回购",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002187",
-              "name": "广百股份",
-              "changePercent": 10.07,
-              "badge": "百货零售+免税退税+广州国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "601566",
-              "name": "九牧王",
-              "changePercent": 9.96,
-              "badge": "羊毛羊绒+男裤+太空裤+海峡两岸",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885312.TI",
-      "name": "物联网",
-      "stockCount": 3,
-      "highestBoardCount": 2,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 10.05,
-              "badge": "四足机器人+手机游戏+物联网",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002021",
-              "name": "中捷资源",
-              "changePercent": 10.04,
-              "badge": "机器人+工业缝纫机+海外市场",
-              "sortOrder": 1
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.2,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-11-12 14:55:12"
+  "updatedAt": "2026-11-12 14:59:24"
 }
