@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 28,
-    "limitUpSuccessRate": 70,
-    "limitDownCount": 7
+    "limitUpCount": 31,
+    "limitUpSuccessRate": 72,
+    "limitDownCount": 8
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,14 +43,14 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 21
+        "stockCount": 24
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
       "stockCount": 10
     },
-    "poolFirstBoardCount": 21,
+    "poolFirstBoardCount": 24,
     "poolContinuousBoardCount": 7,
     "poolBrokenBoardCount": 12
   },
@@ -118,7 +118,7 @@
               "id": "600651",
               "name": "飞乐音响",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "芯片测试+存储器+上海国资",
               "sortOrder": 5
             },
             {
@@ -220,13 +220,13 @@
     {
       "id": "885418.TI",
       "name": "文化传媒概念",
-      "stockCount": 6,
+      "stockCount": 7,
       "highestBoardCount": 1,
-      "limitUpCount": 6,
+      "limitUpCount": 7,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 6,
+          "totalCount": 7,
           "stocks": [
             {
               "id": "000665",
@@ -250,10 +250,74 @@
               "sortOrder": 3
             },
             {
+              "id": "002739",
+              "name": "儒意电影",
+              "changePercent": 9.96,
+              "badge": "影视院线+院线龙头+IP衍生",
+              "sortOrder": 4
+            },
+            {
               "id": "002905",
               "name": "金逸影视",
               "changePercent": 10.0,
               "badge": "电影院线+影院+特色影厅",
+              "sortOrder": 5
+            },
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 10.03,
+              "badge": "AI漫剧+剧集发行+北京国资",
+              "sortOrder": 6
+            },
+            {
+              "id": "603103",
+              "name": "横店影视",
+              "changePercent": 10.03,
+              "badge": "AI短剧+影视全产业链+IP运营",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 7,
+      "highestBoardCount": 1,
+      "limitUpCount": 7,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.0,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            },
+            {
+              "id": "002819",
+              "name": "东方中科",
+              "changePercent": 9.98,
+              "badge": "股份解除冻结+半导体测试+新能源汽车测试+中科院",
+              "sortOrder": 2
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+商业航天+行业数据智能",
+              "sortOrder": 3
+            },
+            {
+              "id": "600410",
+              "name": "华胜天成",
+              "changePercent": 10.0,
+              "badge": "AI算力+算力服务+华为光模块",
               "sortOrder": 4
             },
             {
@@ -269,6 +333,82 @@
               "changePercent": 10.03,
               "badge": "AI短剧+影视全产业链+IP运营",
               "sortOrder": 6
+            },
+            {
+              "id": "603166",
+              "name": "福达股份",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 6,
+      "highestBoardCount": 3,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 9.96,
+              "badge": "四足机器人+手机游戏+物联网",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002187",
+              "name": "广百股份",
+              "changePercent": 9.94,
+              "badge": "百货零售+免税退税+广州国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002042",
+              "name": "华孚时尚",
+              "changePercent": 10.03,
+              "badge": "算力租赁+色纺纱+回购注销",
+              "sortOrder": 1
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.0,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 2
+            },
+            {
+              "id": "600410",
+              "name": "华胜天成",
+              "changePercent": 10.0,
+              "badge": "AI算力+算力服务+华为光模块",
+              "sortOrder": 3
+            },
+            {
+              "id": "605288",
+              "name": "凯迪股份",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 4
             }
           ]
         }
@@ -332,78 +472,21 @@
       ]
     },
     {
-      "id": "886108.TI",
-      "name": "AI应用",
-      "stockCount": 6,
-      "highestBoardCount": 1,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 6,
-          "stocks": [
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.0,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 1
-            },
-            {
-              "id": "002819",
-              "name": "东方中科",
-              "changePercent": 9.98,
-              "badge": "股份解除冻结+半导体测试+新能源汽车测试+中科院",
-              "sortOrder": 2
-            },
-            {
-              "id": "300324",
-              "name": "旋极信息",
-              "changePercent": 20.0,
-              "badge": "AI芯片+商业航天+行业数据智能",
-              "sortOrder": 3
-            },
-            {
-              "id": "600410",
-              "name": "华胜天成",
-              "changePercent": 10.0,
-              "badge": "AI算力+算力服务+华为光模块",
-              "sortOrder": 4
-            },
-            {
-              "id": "600715",
-              "name": "文投控股",
-              "changePercent": 10.03,
-              "badge": "AI漫剧+剧集发行+北京国资",
-              "sortOrder": 5
-            },
-            {
-              "id": "603103",
-              "name": "横店影视",
-              "changePercent": 10.03,
-              "badge": "AI短剧+影视全产业链+IP运营",
-              "sortOrder": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886061.TI",
-      "name": "长安汽车概念",
+      "id": "885531.TI",
+      "name": "光伏概念",
       "stockCount": 5,
-      "highestBoardCount": 4,
+      "highestBoardCount": 3,
       "limitUpCount": 5,
       "ladders": [
         {
-          "boardCount": 4,
+          "boardCount": 3,
           "totalCount": 1,
           "stocks": [
             {
-              "id": "605255",
-              "name": "天普股份",
+              "id": "603396",
+              "name": "金辰股份",
               "changePercent": 10.0,
-              "badge": "中昊芯英+实控人变更+汽车管路",
+              "badge": "光伏设备+半导体装备+玻璃基封装+股份回购",
               "sortOrder": 1
             }
           ]
@@ -420,24 +503,24 @@
               "sortOrder": 1
             },
             {
-              "id": "002931",
-              "name": "锋龙股份",
-              "changePercent": 10.0,
-              "badge": "机器人关节+优必选+机电组件",
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+商业航天+行业数据智能",
               "sortOrder": 2
             },
             {
-              "id": "300237",
-              "name": "美晨科技",
-              "changePercent": 19.85,
-              "badge": null,
+              "id": "603687",
+              "name": "大胜达",
+              "changePercent": 10.01,
+              "badge": "GPU芯片+纸包装+钙钛矿设备",
               "sortOrder": 3
             },
             {
-              "id": "603767",
-              "name": "中马传动",
-              "changePercent": 9.98,
-              "badge": "减速器+汽车变速器+车辆齿轮+三季报增长",
+              "id": "605288",
+              "name": "凯迪股份",
+              "changePercent": 10.0,
+              "badge": null,
               "sortOrder": 4
             }
           ]
@@ -445,25 +528,12 @@
       ]
     },
     {
-      "id": "885413.TI",
-      "name": "创投",
+      "id": "886095.TI",
+      "name": "IP经济(谷子经济)",
       "stockCount": 5,
-      "highestBoardCount": 3,
+      "highestBoardCount": 2,
       "limitUpCount": 5,
       "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 9.96,
-              "badge": "四足机器人+手机游戏+物联网",
-              "sortOrder": 1
-            }
-          ]
-        },
         {
           "boardCount": 2,
           "totalCount": 1,
@@ -479,13 +549,13 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 3,
+          "totalCount": 4,
           "stocks": [
             {
-              "id": "002042",
-              "name": "华孚时尚",
-              "changePercent": 10.03,
-              "badge": "算力租赁+色纺纱+回购注销",
+              "id": "000802",
+              "name": "北京文化",
+              "changePercent": 10.13,
+              "badge": "影视院线+《封神第三部》+短剧",
               "sortOrder": 1
             },
             {
@@ -496,11 +566,18 @@
               "sortOrder": 2
             },
             {
-              "id": "600410",
-              "name": "华胜天成",
-              "changePercent": 10.0,
-              "badge": "AI算力+算力服务+华为光模块",
+              "id": "002739",
+              "name": "儒意电影",
+              "changePercent": 9.96,
+              "badge": "影视院线+院线龙头+IP衍生",
               "sortOrder": 3
+            },
+            {
+              "id": "603103",
+              "name": "横店影视",
+              "changePercent": 10.03,
+              "badge": "AI短剧+影视全产业链+IP运营",
+              "sortOrder": 4
             }
           ]
         }
@@ -548,7 +625,7 @@
               "id": "300237",
               "name": "美晨科技",
               "changePercent": 19.85,
-              "badge": null,
+              "badge": "汽车零部件+资产剥离+摘帽+国企改革",
               "sortOrder": 3
             },
             {
@@ -557,6 +634,56 @@
               "changePercent": 9.98,
               "badge": "减速器+汽车变速器+车辆齿轮+三季报增长",
               "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885779.TI",
+      "name": "腾讯概念",
+      "stockCount": 5,
+      "highestBoardCount": 1,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000665",
+              "name": "湖北广电",
+              "changePercent": 10.1,
+              "badge": "短剧游戏+广电网络+算力租赁+湖北国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.0,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 2
+            },
+            {
+              "id": "002739",
+              "name": "儒意电影",
+              "changePercent": 9.96,
+              "badge": "影视院线+院线龙头+IP衍生",
+              "sortOrder": 3
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+商业航天+行业数据智能",
+              "sortOrder": 4
+            },
+            {
+              "id": "600410",
+              "name": "华胜天成",
+              "changePercent": 10.0,
+              "badge": "AI算力+算力服务+华为光模块",
+              "sortOrder": 5
             }
           ]
         }
@@ -613,8 +740,157 @@
       ]
     },
     {
-      "id": "885531.TI",
-      "name": "光伏概念",
+      "id": "886060.TI",
+      "name": "短剧游戏",
+      "stockCount": 5,
+      "highestBoardCount": 1,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000665",
+              "name": "湖北广电",
+              "changePercent": 10.1,
+              "badge": "短剧游戏+广电网络+算力租赁+湖北国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "000802",
+              "name": "北京文化",
+              "changePercent": 10.13,
+              "badge": "影视院线+《封神第三部》+短剧",
+              "sortOrder": 2
+            },
+            {
+              "id": "002739",
+              "name": "儒意电影",
+              "changePercent": 9.96,
+              "badge": "影视院线+院线龙头+IP衍生",
+              "sortOrder": 3
+            },
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 10.03,
+              "badge": "AI漫剧+剧集发行+北京国资",
+              "sortOrder": 4
+            },
+            {
+              "id": "603103",
+              "name": "横店影视",
+              "changePercent": 10.03,
+              "badge": "AI短剧+影视全产业链+IP运营",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 5,
+      "highestBoardCount": 1,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000700",
+              "name": "模塑科技",
+              "changePercent": 10.01,
+              "badge": "人形机器人+汽车外饰件+机器人外覆盖件+社保基金持仓",
+              "sortOrder": 1
+            },
+            {
+              "id": "002819",
+              "name": "东方中科",
+              "changePercent": 9.98,
+              "badge": "股份解除冻结+半导体测试+新能源汽车测试+中科院",
+              "sortOrder": 2
+            },
+            {
+              "id": "300237",
+              "name": "美晨科技",
+              "changePercent": 19.85,
+              "badge": "汽车零部件+资产剥离+摘帽+国企改革",
+              "sortOrder": 3
+            },
+            {
+              "id": "600651",
+              "name": "飞乐音响",
+              "changePercent": 9.98,
+              "badge": "芯片测试+存储器+上海国资",
+              "sortOrder": 4
+            },
+            {
+              "id": "603166",
+              "name": "福达股份",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886061.TI",
+      "name": "长安汽车概念",
+      "stockCount": 4,
+      "highestBoardCount": 4,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "605255",
+              "name": "天普股份",
+              "changePercent": 10.0,
+              "badge": "中昊芯英+实控人变更+汽车管路",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002819",
+              "name": "东方中科",
+              "changePercent": 9.98,
+              "badge": "股份解除冻结+半导体测试+新能源汽车测试+中科院",
+              "sortOrder": 1
+            },
+            {
+              "id": "300237",
+              "name": "美晨科技",
+              "changePercent": 19.85,
+              "badge": "汽车零部件+资产剥离+摘帽+国企改革",
+              "sortOrder": 2
+            },
+            {
+              "id": "603767",
+              "name": "中马传动",
+              "changePercent": 9.98,
+              "badge": "减速器+汽车变速器+车辆齿轮+三季报增长",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885603.TI",
+      "name": "网络游戏",
       "stockCount": 4,
       "highestBoardCount": 3,
       "limitUpCount": 4,
@@ -624,10 +900,10 @@
           "totalCount": 1,
           "stocks": [
             {
-              "id": "603396",
-              "name": "金辰股份",
-              "changePercent": 10.0,
-              "badge": "光伏设备+半导体装备+玻璃基封装+股份回购",
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 9.96,
+              "badge": "四足机器人+手机游戏+物联网",
               "sortOrder": 1
             }
           ]
@@ -637,231 +913,17 @@
           "totalCount": 3,
           "stocks": [
             {
-              "id": "002819",
-              "name": "东方中科",
-              "changePercent": 9.98,
-              "badge": "股份解除冻结+半导体测试+新能源汽车测试+中科院",
-              "sortOrder": 1
-            },
-            {
-              "id": "300324",
-              "name": "旋极信息",
-              "changePercent": 20.0,
-              "badge": "AI芯片+商业航天+行业数据智能",
-              "sortOrder": 2
-            },
-            {
-              "id": "603687",
-              "name": "大胜达",
-              "changePercent": 10.01,
-              "badge": "GPU芯片+纸包装+钙钛矿设备",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886095.TI",
-      "name": "IP经济(谷子经济)",
-      "stockCount": 4,
-      "highestBoardCount": 2,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002187",
-              "name": "广百股份",
-              "changePercent": 9.94,
-              "badge": "百货零售+免税退税+广州国资",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000802",
-              "name": "北京文化",
-              "changePercent": 10.13,
-              "badge": "影视院线+《封神第三部》+短剧",
-              "sortOrder": 1
-            },
-            {
               "id": "002425",
               "name": "凯撒文化",
               "changePercent": 10.0,
               "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 2
-            },
-            {
-              "id": "603103",
-              "name": "横店影视",
-              "changePercent": 10.03,
-              "badge": "AI短剧+影视全产业链+IP运营",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885779.TI",
-      "name": "腾讯概念",
-      "stockCount": 4,
-      "highestBoardCount": 1,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000665",
-              "name": "湖北广电",
-              "changePercent": 10.1,
-              "badge": "短剧游戏+广电网络+算力租赁+湖北国资",
               "sortOrder": 1
             },
             {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.0,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 2
-            },
-            {
-              "id": "300324",
-              "name": "旋极信息",
-              "changePercent": 20.0,
-              "badge": "AI芯片+商业航天+行业数据智能",
-              "sortOrder": 3
-            },
-            {
-              "id": "600410",
-              "name": "华胜天成",
-              "changePercent": 10.0,
-              "badge": "AI算力+算力服务+华为光模块",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885956.TI",
-      "name": "智慧政务",
-      "stockCount": 4,
-      "highestBoardCount": 1,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000665",
-              "name": "湖北广电",
-              "changePercent": 10.1,
-              "badge": "短剧游戏+广电网络+算力租赁+湖北国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002819",
-              "name": "东方中科",
-              "changePercent": 9.98,
-              "badge": "股份解除冻结+半导体测试+新能源汽车测试+中科院",
-              "sortOrder": 2
-            },
-            {
-              "id": "300324",
-              "name": "旋极信息",
-              "changePercent": 20.0,
-              "badge": "AI芯片+商业航天+行业数据智能",
-              "sortOrder": 3
-            },
-            {
-              "id": "600410",
-              "name": "华胜天成",
-              "changePercent": 10.0,
-              "badge": "AI算力+算力服务+华为光模块",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886041.TI",
-      "name": "数据要素",
-      "stockCount": 4,
-      "highestBoardCount": 1,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000665",
-              "name": "湖北广电",
-              "changePercent": 10.1,
-              "badge": "短剧游戏+广电网络+算力租赁+湖北国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002819",
-              "name": "东方中科",
-              "changePercent": 9.98,
-              "badge": "股份解除冻结+半导体测试+新能源汽车测试+中科院",
-              "sortOrder": 2
-            },
-            {
-              "id": "300324",
-              "name": "旋极信息",
-              "changePercent": 20.0,
-              "badge": "AI芯片+商业航天+行业数据智能",
-              "sortOrder": 3
-            },
-            {
-              "id": "600410",
-              "name": "华胜天成",
-              "changePercent": 10.0,
-              "badge": "AI算力+算力服务+华为光模块",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886060.TI",
-      "name": "短剧游戏",
-      "stockCount": 4,
-      "highestBoardCount": 1,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000665",
-              "name": "湖北广电",
-              "changePercent": 10.1,
-              "badge": "短剧游戏+广电网络+算力租赁+湖北国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "000802",
-              "name": "北京文化",
-              "changePercent": 10.13,
-              "badge": "影视院线+《封神第三部》+短剧",
+              "id": "002739",
+              "name": "儒意电影",
+              "changePercent": 9.96,
+              "badge": "影视院线+院线龙头+IP衍生",
               "sortOrder": 2
             },
             {
@@ -870,18 +932,11 @@
               "changePercent": 10.03,
               "badge": "AI漫剧+剧集发行+北京国资",
               "sortOrder": 3
-            },
-            {
-              "id": "603103",
-              "name": "横店影视",
-              "changePercent": 10.03,
-              "badge": "AI短剧+影视全产业链+IP运营",
-              "sortOrder": 4
             }
           ]
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-13 10:42:53"
+  "updatedAt": "2026-11-13 10:53:21"
 }
