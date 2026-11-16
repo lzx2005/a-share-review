@@ -8,8 +8,8 @@
   "marketSummary": {
     "indexChangePercent": null,
     "limitUpCount": 31,
-    "limitUpSuccessRate": 63,
-    "limitDownCount": 34
+    "limitUpSuccessRate": 62,
+    "limitDownCount": 40
   },
   "sentiment": {
     "promotion1To2": {
@@ -52,7 +52,7 @@
     },
     "poolFirstBoardCount": 24,
     "poolContinuousBoardCount": 7,
-    "poolBrokenBoardCount": 18
+    "poolBrokenBoardCount": 19
   },
   "themes": [
     {
@@ -341,62 +341,6 @@
               "name": "吉视传媒",
               "changePercent": 10.04,
               "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886067.TI",
-      "name": "低空经济",
-      "stockCount": 5,
-      "highestBoardCount": 4,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 10.06,
-              "badge": "四足机器人+物联网+手机游戏",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000156",
-              "name": "华数传媒",
-              "changePercent": 10.05,
-              "badge": "AI短剧+AI应用+杭州国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002419",
-              "name": "天虹股份",
-              "changePercent": 9.98,
-              "badge": "“AI+零售”+超市调改+央企",
-              "sortOrder": 2
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.04,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 3
-            },
-            {
-              "id": "603358",
-              "name": "华达科技",
-              "changePercent": 9.99,
-              "badge": "人形机器人+新能源汽车零部件+电池盒箱体",
               "sortOrder": 4
             }
           ]
@@ -826,6 +770,55 @@
       ]
     },
     {
+      "id": "886067.TI",
+      "name": "低空经济",
+      "stockCount": 4,
+      "highestBoardCount": 4,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000156",
+              "name": "华数传媒",
+              "changePercent": 10.05,
+              "badge": "AI短剧+AI应用+杭州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 2
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.04,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "886095.TI",
       "name": "IP经济(谷子经济)",
       "stockCount": 4,
@@ -930,5 +923,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-16 14:02:21"
+  "updatedAt": "2026-11-16 14:12:50"
 }
