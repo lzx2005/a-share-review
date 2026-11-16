@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 30,
-    "limitUpSuccessRate": 77,
-    "limitDownCount": 13
+    "limitUpCount": 32,
+    "limitUpSuccessRate": 78,
+    "limitDownCount": 14
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,19 +39,19 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 7
+        "stockCount": 8
       },
       {
         "boardCount": 1,
-        "stockCount": 21
+        "stockCount": 22
       }
     ],
     "hotTheme": {
       "name": "DeepSeek概念",
       "stockCount": 8
     },
-    "poolFirstBoardCount": 21,
-    "poolContinuousBoardCount": 9,
+    "poolFirstBoardCount": 22,
+    "poolContinuousBoardCount": 10,
     "poolBrokenBoardCount": 9
   },
   "themes": [
@@ -411,6 +411,63 @@
       ]
     },
     {
+      "id": "885976.TI",
+      "name": "数字经济",
+      "stockCount": 6,
+      "highestBoardCount": 1,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "000156",
+              "name": "华数传媒",
+              "changePercent": 10.05,
+              "badge": "AI短剧+AI应用+杭州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "000533",
+              "name": "顺钠股份",
+              "changePercent": 9.97,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "002035",
+              "name": "华帝股份",
+              "changePercent": 10.12,
+              "badge": "厨电+高股息",
+              "sortOrder": 3
+            },
+            {
+              "id": "002356",
+              "name": "鹏飞绿能",
+              "changePercent": 10.04,
+              "badge": "综合能源站+风光制氢+商贸零售",
+              "sortOrder": 4
+            },
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 5
+            },
+            {
+              "id": "603813",
+              "name": "原尚股份",
+              "changePercent": 10.0,
+              "badge": "汽车物流+新能源车物流+冷链物流",
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "886067.TI",
       "name": "低空经济",
       "stockCount": 5,
@@ -461,6 +518,174 @@
               "changePercent": 9.99,
               "badge": "人形机器人+新能源汽车零部件+电池盒箱体",
               "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885921.TI",
+      "name": "储能",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000595",
+              "name": "新能股份",
+              "changePercent": 9.95,
+              "badge": null,
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000533",
+              "name": "顺钠股份",
+              "changePercent": 9.97,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "000820",
+              "name": "神雾节能",
+              "changePercent": 9.87,
+              "badge": "储能采购合同+再生铜",
+              "sortOrder": 2
+            },
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 3
+            },
+            {
+              "id": "300530",
+              "name": "领湃科技",
+              "changePercent": 20.01,
+              "badge": "储能电池+钠离子电池+国企",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885936.TI",
+      "name": "绿色电力",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000595",
+              "name": "新能股份",
+              "changePercent": 9.95,
+              "badge": null,
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002242",
+              "name": "九阳股份",
+              "changePercent": 10.02,
+              "badge": "“羊”字辈+机器人投资+厨房小家电",
+              "sortOrder": 1
+            },
+            {
+              "id": "002356",
+              "name": "鹏飞绿能",
+              "changePercent": 10.04,
+              "badge": "综合能源站+风光制氢+商贸零售",
+              "sortOrder": 2
+            },
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 3
+            },
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.0,
+              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885742.TI",
+      "name": "摘帽",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000595",
+              "name": "新能股份",
+              "changePercent": 9.95,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.1,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000820",
+              "name": "神雾节能",
+              "changePercent": 9.87,
+              "badge": "储能采购合同+再生铜",
+              "sortOrder": 1
+            },
+            {
+              "id": "002058",
+              "name": "紫竹高科",
+              "changePercent": 10.02,
+              "badge": "固态电池+铝塑膜+汽车检具",
+              "sortOrder": 2
+            },
+            {
+              "id": "603813",
+              "name": "原尚股份",
+              "changePercent": 10.0,
+              "badge": "汽车物流+新能源车物流+冷链物流",
+              "sortOrder": 3
             }
           ]
         }
@@ -573,56 +798,6 @@
               "changePercent": 10.04,
               "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885976.TI",
-      "name": "数字经济",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000156",
-              "name": "华数传媒",
-              "changePercent": 10.05,
-              "badge": "AI短剧+AI应用+杭州国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002035",
-              "name": "华帝股份",
-              "changePercent": 10.12,
-              "badge": "厨电+高股息",
-              "sortOrder": 2
-            },
-            {
-              "id": "002356",
-              "name": "鹏飞绿能",
-              "changePercent": 10.04,
-              "badge": "综合能源站+风光制氢+商贸零售",
-              "sortOrder": 3
-            },
-            {
-              "id": "002419",
-              "name": "天虹股份",
-              "changePercent": 9.98,
-              "badge": "“AI+零售”+超市调改+央企",
-              "sortOrder": 4
-            },
-            {
-              "id": "603813",
-              "name": "原尚股份",
-              "changePercent": 10.0,
-              "badge": null,
-              "sortOrder": 5
             }
           ]
         }
@@ -781,160 +956,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "886095.TI",
-      "name": "IP经济(谷子经济)",
-      "stockCount": 4,
-      "highestBoardCount": 3,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002187",
-              "name": "广百股份",
-              "changePercent": 10.04,
-              "badge": "百货零售+免税退税+广州国资",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.1,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "000156",
-              "name": "华数传媒",
-              "changePercent": 10.05,
-              "badge": "AI短剧+AI应用+杭州国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.04,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885742.TI",
-      "name": "摘帽",
-      "stockCount": 4,
-      "highestBoardCount": 2,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.1,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000820",
-              "name": "神雾节能",
-              "changePercent": 9.87,
-              "badge": "储能采购合同+再生铜",
-              "sortOrder": 1
-            },
-            {
-              "id": "002058",
-              "name": "紫竹高科",
-              "changePercent": 10.02,
-              "badge": "固态电池+铝塑膜+汽车检具",
-              "sortOrder": 2
-            },
-            {
-              "id": "603813",
-              "name": "原尚股份",
-              "changePercent": 10.0,
-              "badge": null,
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886019.TI",
-      "name": "AIGC概念",
-      "stockCount": 4,
-      "highestBoardCount": 2,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.1,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000156",
-              "name": "华数传媒",
-              "changePercent": 10.05,
-              "badge": "AI短剧+AI应用+杭州国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002419",
-              "name": "天虹股份",
-              "changePercent": 9.98,
-              "badge": "“AI+零售”+超市调改+央企",
-              "sortOrder": 2
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.04,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-11-16 11:05:58"
+  "updatedAt": "2026-11-16 11:16:26"
 }
