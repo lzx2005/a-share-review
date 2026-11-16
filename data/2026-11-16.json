@@ -1,0 +1,701 @@
+{
+  "tradeDate": "2026-11-16",
+  "weekday": "周一",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": false
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 20,
+    "limitUpSuccessRate": 77,
+    "limitDownCount": 14
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "promotion2To3": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "previousLadderPerformance": null,
+    "previousLimitUpPerformance": null,
+    "highestBoard": {
+      "stockName": "北纬科技",
+      "boardCount": 4
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 4,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 3,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 5
+      },
+      {
+        "boardCount": 1,
+        "stockCount": 13
+      }
+    ],
+    "hotTheme": {
+      "name": "乡村振兴",
+      "stockCount": 5
+    },
+    "poolFirstBoardCount": 13,
+    "poolContinuousBoardCount": 7,
+    "poolBrokenBoardCount": 6
+  },
+  "themes": [
+    {
+      "id": "885705.TI",
+      "name": "乡村振兴",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002548",
+              "name": "金新农",
+              "changePercent": 9.92,
+              "badge": "生猪养殖+猪饲料+养殖机器人",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "001318",
+              "name": "阳光乳业",
+              "changePercent": 10.01,
+              "badge": "“羊”字辈+低温乳制品+送奶上户",
+              "sortOrder": 1
+            },
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 2
+            },
+            {
+              "id": "600936",
+              "name": "北投科技",
+              "changePercent": 10.14,
+              "badge": "AI应用+平陆运河+广西国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.0,
+              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886100.TI",
+      "name": "DeepSeek概念",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002685",
+              "name": "华东重机",
+              "changePercent": 9.93,
+              "badge": "GPU芯片+港口装卸设备+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000521",
+              "name": "长虹美菱",
+              "changePercent": 9.95,
+              "badge": "B股估值提升+家电+国企",
+              "sortOrder": 1
+            },
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 2
+            },
+            {
+              "id": "600936",
+              "name": "北投科技",
+              "changePercent": 10.14,
+              "badge": "AI应用+平陆运河+广西国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.0,
+              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 4,
+      "highestBoardCount": 4,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002187",
+              "name": "广百股份",
+              "changePercent": 10.04,
+              "badge": "百货零售+免税退税+广州国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.1,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002035",
+              "name": "华帝股份",
+              "changePercent": 10.12,
+              "badge": "厨电+高股息",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885418.TI",
+      "name": "文化传媒概念",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.1,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            },
+            {
+              "id": "002905",
+              "name": "金逸影视",
+              "changePercent": 10.0,
+              "badge": "电影院线+特色影厅",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "600386",
+              "name": "北巴传媒",
+              "changePercent": 10.12,
+              "badge": "广告传媒+汽车服务+北京国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "600936",
+              "name": "北投科技",
+              "changePercent": 10.14,
+              "badge": "AI应用+平陆运河+广西国资",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885936.TI",
+      "name": "绿色电力",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002242",
+              "name": "九阳股份",
+              "changePercent": 10.02,
+              "badge": "“羊”字辈+机器人投资+厨房小家电",
+              "sortOrder": 1
+            },
+            {
+              "id": "002356",
+              "name": "鹏飞绿能",
+              "changePercent": 10.04,
+              "badge": "综合能源站+风光制氢+商贸零售",
+              "sortOrder": 2
+            },
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 3
+            },
+            {
+              "id": "601188",
+              "name": "龙江交通",
+              "changePercent": 10.0,
+              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885564.TI",
+      "name": "无人机",
+      "stockCount": 3,
+      "highestBoardCount": 4,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002035",
+              "name": "华帝股份",
+              "changePercent": 10.12,
+              "badge": "厨电+高股息",
+              "sortOrder": 1
+            },
+            {
+              "id": "600936",
+              "name": "北投科技",
+              "changePercent": 10.14,
+              "badge": "AI应用+平陆运河+广西国资",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886067.TI",
+      "name": "低空经济",
+      "stockCount": 3,
+      "highestBoardCount": 4,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 1
+            },
+            {
+              "id": "603358",
+              "name": "华达科技",
+              "changePercent": 9.99,
+              "badge": "人形机器人+新能源汽车零部件+电池盒箱体",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 3,
+      "highestBoardCount": 2,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.1,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 1
+            },
+            {
+              "id": "600936",
+              "name": "北投科技",
+              "changePercent": 10.14,
+              "badge": "AI应用+平陆运河+广西国资",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885543.TI",
+      "name": "家用电器",
+      "stockCount": 3,
+      "highestBoardCount": 1,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000521",
+              "name": "长虹美菱",
+              "changePercent": 9.95,
+              "badge": "B股估值提升+家电+国企",
+              "sortOrder": 1
+            },
+            {
+              "id": "002035",
+              "name": "华帝股份",
+              "changePercent": 10.12,
+              "badge": "厨电+高股息",
+              "sortOrder": 2
+            },
+            {
+              "id": "002242",
+              "name": "九阳股份",
+              "changePercent": 10.02,
+              "badge": "“羊”字辈+机器人投资+厨房小家电",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885478.TI",
+      "name": "智能家居",
+      "stockCount": 3,
+      "highestBoardCount": 1,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000521",
+              "name": "长虹美菱",
+              "changePercent": 9.95,
+              "badge": "B股估值提升+家电+国企",
+              "sortOrder": 1
+            },
+            {
+              "id": "002035",
+              "name": "华帝股份",
+              "changePercent": 10.12,
+              "badge": "厨电+高股息",
+              "sortOrder": 2
+            },
+            {
+              "id": "002242",
+              "name": "九阳股份",
+              "changePercent": 10.02,
+              "badge": "“羊”字辈+机器人投资+厨房小家电",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885961.TI",
+      "name": "净水概念",
+      "stockCount": 3,
+      "highestBoardCount": 1,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000521",
+              "name": "长虹美菱",
+              "changePercent": 9.95,
+              "badge": "B股估值提升+家电+国企",
+              "sortOrder": 1
+            },
+            {
+              "id": "002035",
+              "name": "华帝股份",
+              "changePercent": 10.12,
+              "badge": "厨电+高股息",
+              "sortOrder": 2
+            },
+            {
+              "id": "002242",
+              "name": "九阳股份",
+              "changePercent": 10.02,
+              "badge": "“羊”字辈+机器人投资+厨房小家电",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885923.TI",
+      "name": "鸿蒙概念",
+      "stockCount": 3,
+      "highestBoardCount": 1,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000521",
+              "name": "长虹美菱",
+              "changePercent": 9.95,
+              "badge": "B股估值提升+家电+国企",
+              "sortOrder": 1
+            },
+            {
+              "id": "002035",
+              "name": "华帝股份",
+              "changePercent": 10.12,
+              "badge": "厨电+高股息",
+              "sortOrder": 2
+            },
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885976.TI",
+      "name": "数字经济",
+      "stockCount": 3,
+      "highestBoardCount": 1,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002035",
+              "name": "华帝股份",
+              "changePercent": 10.12,
+              "badge": "厨电+高股息",
+              "sortOrder": 1
+            },
+            {
+              "id": "002356",
+              "name": "鹏飞绿能",
+              "changePercent": 10.04,
+              "badge": "综合能源站+风光制氢+商贸零售",
+              "sortOrder": 2
+            },
+            {
+              "id": "002419",
+              "name": "天虹股份",
+              "changePercent": 9.98,
+              "badge": "“AI+零售”+超市调改+央企",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885556.TI",
+      "name": "5G",
+      "stockCount": 2,
+      "highestBoardCount": 4,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600936",
+              "name": "北投科技",
+              "changePercent": 10.14,
+              "badge": "AI应用+平陆运河+广西国资",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885603.TI",
+      "name": "网络游戏",
+      "stockCount": 2,
+      "highestBoardCount": 4,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.1,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-16 10:13:35"
+}
