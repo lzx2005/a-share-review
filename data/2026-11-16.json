@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 32,
-    "limitUpSuccessRate": 71,
-    "limitDownCount": 16
+    "limitUpCount": 31,
+    "limitUpSuccessRate": 69,
+    "limitDownCount": 17
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,24 +43,24 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 24
+        "stockCount": 23
       }
     ],
     "hotTheme": {
       "name": "DeepSeek概念",
-      "stockCount": 9
+      "stockCount": 8
     },
-    "poolFirstBoardCount": 24,
+    "poolFirstBoardCount": 23,
     "poolContinuousBoardCount": 8,
-    "poolBrokenBoardCount": 13
+    "poolBrokenBoardCount": 14
   },
   "themes": [
     {
       "id": "886100.TI",
       "name": "DeepSeek概念",
-      "stockCount": 9,
+      "stockCount": 8,
       "highestBoardCount": 2,
-      "limitUpCount": 9,
+      "limitUpCount": 8,
       "ladders": [
         {
           "boardCount": 2,
@@ -77,7 +77,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 8,
+          "totalCount": 7,
           "stocks": [
             {
               "id": "000156",
@@ -122,18 +122,11 @@
               "sortOrder": 6
             },
             {
-              "id": "603687",
-              "name": "大胜达",
-              "changePercent": 10.04,
-              "badge": null,
-              "sortOrder": 7
-            },
-            {
               "id": "603983",
               "name": "丸美生物",
               "changePercent": 10.0,
               "badge": "重组胶原蛋白+眼部护理+大消费",
-              "sortOrder": 8
+              "sortOrder": 7
             }
           ]
         }
@@ -292,75 +285,6 @@
       ]
     },
     {
-      "id": "885756.TI",
-      "name": "芯片概念",
-      "stockCount": 6,
-      "highestBoardCount": 4,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 10.06,
-              "badge": "四足机器人+物联网+手机游戏",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002685",
-              "name": "华东重机",
-              "changePercent": 9.93,
-              "badge": "GPU芯片+港口装卸设备+三季报增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000628",
-              "name": "高新发展",
-              "changePercent": 10.0,
-              "badge": "成都国资+功率半导体+虚拟电厂",
-              "sortOrder": 1
-            },
-            {
-              "id": "300824",
-              "name": "北鼎股份",
-              "changePercent": 19.94,
-              "badge": "高端厨小家电+自主品牌+内销增长",
-              "sortOrder": 2
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.04,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 3
-            },
-            {
-              "id": "603687",
-              "name": "大胜达",
-              "changePercent": 10.04,
-              "badge": null,
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885921.TI",
       "name": "储能",
       "stockCount": 6,
@@ -487,62 +411,6 @@
       ]
     },
     {
-      "id": "885312.TI",
-      "name": "物联网",
-      "stockCount": 5,
-      "highestBoardCount": 4,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 10.06,
-              "badge": "四足机器人+物联网+手机游戏",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000156",
-              "name": "华数传媒",
-              "changePercent": 10.05,
-              "badge": "AI短剧+AI应用+杭州国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "000628",
-              "name": "高新发展",
-              "changePercent": 10.0,
-              "badge": "成都国资+功率半导体+虚拟电厂",
-              "sortOrder": 2
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.04,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 3
-            },
-            {
-              "id": "603687",
-              "name": "大胜达",
-              "changePercent": 10.04,
-              "badge": null,
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "886067.TI",
       "name": "低空经济",
       "stockCount": 5,
@@ -593,6 +461,68 @@
               "changePercent": 9.99,
               "badge": "人形机器人+新能源汽车零部件+电池盒箱体",
               "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885756.TI",
+      "name": "芯片概念",
+      "stockCount": 5,
+      "highestBoardCount": 4,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002685",
+              "name": "华东重机",
+              "changePercent": 9.93,
+              "badge": "GPU芯片+港口装卸设备+三季报增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000628",
+              "name": "高新发展",
+              "changePercent": 10.0,
+              "badge": "成都国资+功率半导体+虚拟电厂",
+              "sortOrder": 1
+            },
+            {
+              "id": "300824",
+              "name": "北鼎股份",
+              "changePercent": 19.94,
+              "badge": "高端厨小家电+自主品牌+内销增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.04,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 3
             }
           ]
         }
@@ -655,62 +585,6 @@
       ]
     },
     {
-      "id": "886019.TI",
-      "name": "AIGC概念",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.1,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000156",
-              "name": "华数传媒",
-              "changePercent": 10.05,
-              "badge": "AI短剧+AI应用+杭州国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002419",
-              "name": "天虹股份",
-              "changePercent": 9.98,
-              "badge": "“AI+零售”+超市调改+央企",
-              "sortOrder": 2
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.04,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 3
-            },
-            {
-              "id": "603687",
-              "name": "大胜达",
-              "changePercent": 10.04,
-              "badge": null,
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "886108.TI",
       "name": "AI应用",
       "stockCount": 5,
@@ -760,62 +634,6 @@
               "name": "吉视传媒",
               "changePercent": 10.04,
               "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885710.TI",
-      "name": "锂电池概念",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002748",
-              "name": "世龙实业",
-              "changePercent": 10.01,
-              "badge": "氯化亚砜+扩产+业绩增长",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002058",
-              "name": "紫竹高科",
-              "changePercent": 10.02,
-              "badge": "固态电池+铝塑膜+汽车检具",
-              "sortOrder": 1
-            },
-            {
-              "id": "300530",
-              "name": "领湃科技",
-              "changePercent": 20.01,
-              "badge": "储能电池+钠离子电池+国企",
-              "sortOrder": 2
-            },
-            {
-              "id": "603687",
-              "name": "大胜达",
-              "changePercent": 10.04,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
-              "id": "605378",
-              "name": "野马电池",
-              "changePercent": 9.99,
-              "badge": "董事会换届+锌锰电池+海外基地",
               "sortOrder": 4
             }
           ]
@@ -977,7 +795,160 @@
           ]
         }
       ]
+    },
+    {
+      "id": "885312.TI",
+      "name": "物联网",
+      "stockCount": 4,
+      "highestBoardCount": 4,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000156",
+              "name": "华数传媒",
+              "changePercent": 10.05,
+              "badge": "AI短剧+AI应用+杭州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "000628",
+              "name": "高新发展",
+              "changePercent": 10.0,
+              "badge": "成都国资+功率半导体+虚拟电厂",
+              "sortOrder": 2
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.04,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885556.TI",
+      "name": "5G",
+      "stockCount": 4,
+      "highestBoardCount": 4,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000156",
+              "name": "华数传媒",
+              "changePercent": 10.05,
+              "badge": "AI短剧+AI应用+杭州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "600936",
+              "name": "北投科技",
+              "changePercent": 10.14,
+              "badge": "AI应用+平陆运河+广西国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.04,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886095.TI",
+      "name": "IP经济(谷子经济)",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002187",
+              "name": "广百股份",
+              "changePercent": 10.04,
+              "badge": "百货零售+免税退税+广州国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.1,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000156",
+              "name": "华数传媒",
+              "changePercent": 10.05,
+              "badge": "AI短剧+AI应用+杭州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.04,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-11-16 13:10:17"
+  "updatedAt": "2026-11-16 13:20:38"
 }
