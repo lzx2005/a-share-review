@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 24,
-    "limitUpSuccessRate": 75,
-    "limitDownCount": 15
+    "limitUpCount": 25,
+    "limitUpSuccessRate": 71,
+    "limitDownCount": 14
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,92 +39,22 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 8
+        "stockCount": 7
       },
       {
         "boardCount": 1,
-        "stockCount": 14
+        "stockCount": 16
       }
     ],
     "hotTheme": {
-      "name": "文化传媒概念",
-      "stockCount": 7
+      "name": "乡村振兴",
+      "stockCount": 6
     },
-    "poolFirstBoardCount": 14,
-    "poolContinuousBoardCount": 10,
-    "poolBrokenBoardCount": 8
+    "poolFirstBoardCount": 16,
+    "poolContinuousBoardCount": 9,
+    "poolBrokenBoardCount": 10
   },
   "themes": [
-    {
-      "id": "885418.TI",
-      "name": "文化传媒概念",
-      "stockCount": 7,
-      "highestBoardCount": 2,
-      "limitUpCount": 7,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.1,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 1
-            },
-            {
-              "id": "002905",
-              "name": "金逸影视",
-              "changePercent": 10.0,
-              "badge": "电影院线+特色影厅",
-              "sortOrder": 2
-            },
-            {
-              "id": "600715",
-              "name": "文投控股",
-              "changePercent": 10.0,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
-              "id": "603103",
-              "name": "横店影视",
-              "changePercent": 9.99,
-              "badge": null,
-              "sortOrder": 4
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "600386",
-              "name": "北巴传媒",
-              "changePercent": 10.12,
-              "badge": "广告传媒+汽车服务+北京国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "600936",
-              "name": "北投科技",
-              "changePercent": 10.14,
-              "badge": "AI应用+平陆运河+广西国资",
-              "sortOrder": 2
-            },
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.04,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "885705.TI",
       "name": "乡村振兴",
@@ -252,8 +182,8 @@
       ]
     },
     {
-      "id": "886108.TI",
-      "name": "AI应用",
+      "id": "885418.TI",
+      "name": "文化传媒概念",
       "stockCount": 6,
       "highestBoardCount": 2,
       "limitUpCount": 6,
@@ -270,18 +200,198 @@
               "sortOrder": 1
             },
             {
+              "id": "002905",
+              "name": "金逸影视",
+              "changePercent": 10.0,
+              "badge": "电影院线+特色影厅",
+              "sortOrder": 2
+            },
+            {
               "id": "600715",
               "name": "文投控股",
               "changePercent": 10.0,
+              "badge": "AI漫剧+剧集发行+北京国资",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "600386",
+              "name": "北巴传媒",
+              "changePercent": 10.12,
+              "badge": "广告传媒+汽车服务+北京国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "600936",
+              "name": "北投科技",
+              "changePercent": 10.14,
+              "badge": "AI应用+平陆运河+广西国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.04,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 5,
+      "highestBoardCount": 4,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.06,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002187",
+              "name": "广百股份",
+              "changePercent": 10.04,
+              "badge": "百货零售+免税退税+广州国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.1,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002058",
+              "name": "紫竹高科",
+              "changePercent": 10.02,
+              "badge": "固态电池+铝塑膜+汽车检具",
+              "sortOrder": 1
+            },
+            {
+              "id": "002959",
+              "name": "小熊电器",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885710.TI",
+      "name": "锂电池概念",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000819",
+              "name": "岳阳兴长",
+              "changePercent": 9.98,
+              "badge": "MOFs材料+茂金属聚烯烃+三季报扭亏",
+              "sortOrder": 1
+            },
+            {
+              "id": "002748",
+              "name": "世龙实业",
+              "changePercent": 10.01,
+              "badge": "氯化亚砜+扩产+业绩增长",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002058",
+              "name": "紫竹高科",
+              "changePercent": 10.02,
+              "badge": "固态电池+铝塑膜+汽车检具",
+              "sortOrder": 1
+            },
+            {
+              "id": "300530",
+              "name": "领湃科技",
+              "changePercent": 20.01,
               "badge": null,
               "sortOrder": 2
             },
             {
-              "id": "603103",
-              "name": "横店影视",
+              "id": "605378",
+              "name": "野马电池",
               "changePercent": 9.99,
-              "badge": null,
+              "badge": "董事会换届+锌锰电池+海外基地",
               "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.1,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            },
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 10.0,
+              "badge": "AI漫剧+剧集发行+北京国资",
+              "sortOrder": 2
             }
           ]
         },
@@ -309,62 +419,6 @@
               "changePercent": 10.04,
               "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885709.TI",
-      "name": "虚拟现实",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.1,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 1
-            },
-            {
-              "id": "002905",
-              "name": "金逸影视",
-              "changePercent": 10.0,
-              "badge": "电影院线+特色影厅",
-              "sortOrder": 2
-            },
-            {
-              "id": "600715",
-              "name": "文投控股",
-              "changePercent": 10.0,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
-              "id": "603103",
-              "name": "横店影视",
-              "changePercent": 9.99,
-              "badge": null,
-              "sortOrder": 4
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "601929",
-              "name": "吉视传媒",
-              "changePercent": 10.04,
-              "badge": "AI微短剧+AI应用+智慧广电",
-              "sortOrder": 1
             }
           ]
         }
@@ -420,89 +474,15 @@
       ]
     },
     {
-      "id": "885413.TI",
-      "name": "创投",
+      "id": "885709.TI",
+      "name": "虚拟现实",
       "stockCount": 4,
-      "highestBoardCount": 4,
+      "highestBoardCount": 2,
       "limitUpCount": 4,
       "ladders": [
         {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 10.06,
-              "badge": "四足机器人+物联网+手机游戏",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002187",
-              "name": "广百股份",
-              "changePercent": 10.04,
-              "badge": "百货零售+免税退税+广州国资",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
           "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002425",
-              "name": "凯撒文化",
-              "changePercent": 10.1,
-              "badge": "AI游戏+手游IP储备+腾讯代理",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002058",
-              "name": "紫竹高科",
-              "changePercent": 10.02,
-              "badge": "固态电池+铝塑膜+汽车检具",
-              "sortOrder": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886095.TI",
-      "name": "IP经济(谷子经济)",
-      "stockCount": 4,
-      "highestBoardCount": 3,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002187",
-              "name": "广百股份",
-              "changePercent": 10.04,
-              "badge": "百货零售+免税退税+广州国资",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 2,
+          "totalCount": 3,
           "stocks": [
             {
               "id": "002425",
@@ -512,11 +492,18 @@
               "sortOrder": 1
             },
             {
-              "id": "603103",
-              "name": "横店影视",
-              "changePercent": 9.99,
-              "badge": null,
+              "id": "002905",
+              "name": "金逸影视",
+              "changePercent": 10.0,
+              "badge": "电影院线+特色影厅",
               "sortOrder": 2
+            },
+            {
+              "id": "600715",
+              "name": "文投控股",
+              "changePercent": 10.0,
+              "badge": "AI漫剧+剧集发行+北京国资",
+              "sortOrder": 3
             }
           ]
         },
@@ -530,55 +517,6 @@
               "changePercent": 10.04,
               "badge": "AI微短剧+AI应用+智慧广电",
               "sortOrder": 1
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885710.TI",
-      "name": "锂电池概念",
-      "stockCount": 4,
-      "highestBoardCount": 2,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "000819",
-              "name": "岳阳兴长",
-              "changePercent": 9.98,
-              "badge": "MOFs材料+茂金属聚烯烃+三季报扭亏",
-              "sortOrder": 1
-            },
-            {
-              "id": "002748",
-              "name": "世龙实业",
-              "changePercent": 10.01,
-              "badge": "氯化亚砜+扩产+业绩增长",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002058",
-              "name": "紫竹高科",
-              "changePercent": 10.02,
-              "badge": "固态电池+铝塑膜+汽车检具",
-              "sortOrder": 1
-            },
-            {
-              "id": "605378",
-              "name": "野马电池",
-              "changePercent": 9.99,
-              "badge": "董事会换届+锌锰电池+海外基地",
-              "sortOrder": 2
             }
           ]
         }
@@ -752,7 +690,7 @@
               "id": "600715",
               "name": "文投控股",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "AI漫剧+剧集发行+北京国资",
               "sortOrder": 2
             }
           ]
@@ -794,8 +732,56 @@
               "id": "600715",
               "name": "文投控股",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "AI漫剧+剧集发行+北京国资",
               "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886095.TI",
+      "name": "IP经济(谷子经济)",
+      "stockCount": 3,
+      "highestBoardCount": 3,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002187",
+              "name": "广百股份",
+              "changePercent": 10.04,
+              "badge": "百货零售+免税退税+广州国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002425",
+              "name": "凯撒文化",
+              "changePercent": 10.1,
+              "badge": "AI游戏+手游IP储备+腾讯代理",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.04,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 1
             }
           ]
         }
@@ -844,5 +830,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-16 10:34:29"
+  "updatedAt": "2026-11-16 10:44:54"
 }
