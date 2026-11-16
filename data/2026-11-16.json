@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 31,
-    "limitUpSuccessRate": 62,
-    "limitDownCount": 40
+    "limitUpCount": 29,
+    "limitUpSuccessRate": 59,
+    "limitDownCount": 45
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 24
+        "stockCount": 22
       }
     ],
     "hotTheme": {
       "name": "DeepSeek概念",
       "stockCount": 8
     },
-    "poolFirstBoardCount": 24,
+    "poolFirstBoardCount": 22,
     "poolContinuousBoardCount": 7,
-    "poolBrokenBoardCount": 19
+    "poolBrokenBoardCount": 20
   },
   "themes": [
     {
@@ -522,56 +522,6 @@
       ]
     },
     {
-      "id": "885976.TI",
-      "name": "数字经济",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000156",
-              "name": "华数传媒",
-              "changePercent": 10.05,
-              "badge": "AI短剧+AI应用+杭州国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "000533",
-              "name": "顺钠股份",
-              "changePercent": 9.97,
-              "badge": "数据中心配电+干式变压器+核电",
-              "sortOrder": 2
-            },
-            {
-              "id": "002035",
-              "name": "华帝股份",
-              "changePercent": 10.12,
-              "badge": "厨电+高股息",
-              "sortOrder": 3
-            },
-            {
-              "id": "002356",
-              "name": "鹏飞绿能",
-              "changePercent": 10.04,
-              "badge": "综合能源站+风光制氢+商贸零售",
-              "sortOrder": 4
-            },
-            {
-              "id": "002419",
-              "name": "天虹股份",
-              "changePercent": 9.98,
-              "badge": "“AI+零售”+超市调改+央企",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885543.TI",
       "name": "家用电器",
       "stockCount": 5,
@@ -921,7 +871,56 @@
           ]
         }
       ]
+    },
+    {
+      "id": "885710.TI",
+      "name": "锂电池概念",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002748",
+              "name": "世龙实业",
+              "changePercent": 10.01,
+              "badge": "氯化亚砜+扩产+业绩增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002058",
+              "name": "紫竹高科",
+              "changePercent": 10.02,
+              "badge": "固态电池+铝塑膜+汽车检具",
+              "sortOrder": 1
+            },
+            {
+              "id": "300530",
+              "name": "领湃科技",
+              "changePercent": 20.01,
+              "badge": "储能电池+钠离子电池+国企",
+              "sortOrder": 2
+            },
+            {
+              "id": "605378",
+              "name": "野马电池",
+              "changePercent": 9.99,
+              "badge": "董事会换届+锌锰电池+海外基地",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-11-16 14:12:50"
+  "updatedAt": "2026-11-16 14:23:25"
 }
