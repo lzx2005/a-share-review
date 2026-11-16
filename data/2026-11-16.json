@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 31,
-    "limitUpSuccessRate": 63,
-    "limitDownCount": 47
+    "limitUpCount": 29,
+    "limitUpSuccessRate": 59,
+    "limitDownCount": 70
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 23
+        "stockCount": 21
       }
     ],
     "hotTheme": {
       "name": "DeepSeek概念",
       "stockCount": 8
     },
-    "poolFirstBoardCount": 23,
+    "poolFirstBoardCount": 21,
     "poolContinuousBoardCount": 8,
-    "poolBrokenBoardCount": 18
+    "poolBrokenBoardCount": 20
   },
   "themes": [
     {
@@ -593,106 +593,6 @@
       ]
     },
     {
-      "id": "885543.TI",
-      "name": "家用电器",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000521",
-              "name": "长虹美菱",
-              "changePercent": 9.95,
-              "badge": "B股估值提升+家电+国企",
-              "sortOrder": 1
-            },
-            {
-              "id": "002035",
-              "name": "华帝股份",
-              "changePercent": 10.12,
-              "badge": "厨电+高股息",
-              "sortOrder": 2
-            },
-            {
-              "id": "002242",
-              "name": "九阳股份",
-              "changePercent": 10.02,
-              "badge": "“羊”字辈+机器人投资+厨房小家电",
-              "sortOrder": 3
-            },
-            {
-              "id": "002959",
-              "name": "小熊电器",
-              "changePercent": 10.01,
-              "badge": "小家电+跨境电商+母婴产品",
-              "sortOrder": 4
-            },
-            {
-              "id": "300824",
-              "name": "北鼎股份",
-              "changePercent": 19.94,
-              "badge": "高端厨小家电+自主品牌+内销增长",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885921.TI",
-      "name": "储能",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000533",
-              "name": "顺钠股份",
-              "changePercent": 9.97,
-              "badge": "数据中心配电+干式变压器+核电",
-              "sortOrder": 1
-            },
-            {
-              "id": "000628",
-              "name": "高新发展",
-              "changePercent": 10.0,
-              "badge": "成都国资+功率半导体+虚拟电厂",
-              "sortOrder": 2
-            },
-            {
-              "id": "000820",
-              "name": "神雾节能",
-              "changePercent": 9.87,
-              "badge": "储能采购合同+再生铜",
-              "sortOrder": 3
-            },
-            {
-              "id": "002419",
-              "name": "天虹股份",
-              "changePercent": 9.98,
-              "badge": "“AI+零售”+超市调改+央企",
-              "sortOrder": 4
-            },
-            {
-              "id": "300530",
-              "name": "领湃科技",
-              "changePercent": 20.01,
-              "badge": "储能电池+钠离子电池+国企",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885312.TI",
       "name": "物联网",
       "stockCount": 4,
@@ -942,7 +842,99 @@
           ]
         }
       ]
+    },
+    {
+      "id": "885710.TI",
+      "name": "锂电池概念",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002748",
+              "name": "世龙实业",
+              "changePercent": 10.01,
+              "badge": "氯化亚砜+扩产+业绩增长",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002058",
+              "name": "紫竹高科",
+              "changePercent": 10.02,
+              "badge": "固态电池+铝塑膜+汽车检具",
+              "sortOrder": 1
+            },
+            {
+              "id": "300530",
+              "name": "领湃科技",
+              "changePercent": 20.01,
+              "badge": "储能电池+钠离子电池+国企",
+              "sortOrder": 2
+            },
+            {
+              "id": "605378",
+              "name": "野马电池",
+              "changePercent": 9.99,
+              "badge": "董事会换届+锌锰电池+海外基地",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885956.TI",
+      "name": "智慧政务",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000156",
+              "name": "华数传媒",
+              "changePercent": 10.05,
+              "badge": "AI短剧+AI应用+杭州国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "000628",
+              "name": "高新发展",
+              "changePercent": 10.0,
+              "badge": "成都国资+功率半导体+虚拟电厂",
+              "sortOrder": 2
+            },
+            {
+              "id": "600936",
+              "name": "北投科技",
+              "changePercent": 10.14,
+              "badge": "AI应用+平陆运河+广西国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "601929",
+              "name": "吉视传媒",
+              "changePercent": 10.04,
+              "badge": "AI微短剧+AI应用+智慧广电",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-11-16 14:33:50"
+  "updatedAt": "2026-11-16 14:44:18"
 }
