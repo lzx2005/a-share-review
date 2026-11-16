@@ -186,7 +186,7 @@
               "id": "000628",
               "name": "高新发展",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "成都国资+功率半导体+虚拟电厂",
               "sortOrder": 1
             },
             {
@@ -325,7 +325,7 @@
               "id": "000628",
               "name": "高新发展",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "成都国资+功率半导体+虚拟电厂",
               "sortOrder": 1
             },
             {
@@ -346,7 +346,7 @@
               "id": "603118",
               "name": "共进股份",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "数据中心交换机+具身机器人代工+国企",
               "sortOrder": 4
             }
           ]
@@ -368,7 +368,7 @@
               "id": "000595",
               "name": "新能股份",
               "changePercent": 9.95,
-              "badge": "其它",
+              "badge": "储能并网+风光储一体化+宁夏国资",
               "sortOrder": 1
             }
           ]
@@ -388,7 +388,7 @@
               "id": "000628",
               "name": "高新发展",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "成都国资+功率半导体+虚拟电厂",
               "sortOrder": 2
             },
             {
@@ -571,7 +571,7 @@
               "id": "000628",
               "name": "高新发展",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "成都国资+功率半导体+虚拟电厂",
               "sortOrder": 2
             },
             {
@@ -585,7 +585,7 @@
               "id": "603118",
               "name": "共进股份",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "数据中心交换机+具身机器人代工+国企",
               "sortOrder": 4
             }
           ]
@@ -641,7 +641,7 @@
               "id": "603118",
               "name": "共进股份",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "数据中心交换机+具身机器人代工+国企",
               "sortOrder": 4
             }
           ]
@@ -719,7 +719,7 @@
               "id": "000595",
               "name": "新能股份",
               "changePercent": 9.95,
-              "badge": "其它",
+              "badge": "储能并网+风光储一体化+宁夏国资",
               "sortOrder": 1
             }
           ]
@@ -831,7 +831,7 @@
               "id": "000595",
               "name": "新能股份",
               "changePercent": 9.95,
-              "badge": "其它",
+              "badge": "储能并网+风光储一体化+宁夏国资",
               "sortOrder": 1
             },
             {
@@ -977,7 +977,7 @@
               "id": "603118",
               "name": "共进股份",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "数据中心交换机+具身机器人代工+国企",
               "sortOrder": 3
             }
           ]
@@ -985,5 +985,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-16 11:26:54"
+  "updatedAt": "2026-11-16 11:37:19"
 }
