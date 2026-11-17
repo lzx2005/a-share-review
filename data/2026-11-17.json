@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 21,
-    "limitUpSuccessRate": 72,
-    "limitDownCount": 33
+    "limitUpCount": 22,
+    "limitUpSuccessRate": 73,
+    "limitDownCount": 31
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,14 +39,14 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 18
+        "stockCount": 19
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
       "stockCount": 8
     },
-    "poolFirstBoardCount": 18,
+    "poolFirstBoardCount": 19,
     "poolContinuousBoardCount": 3,
     "poolBrokenBoardCount": 8
   },
@@ -114,7 +114,7 @@
               "id": "601133",
               "name": "柏诚股份",
               "changePercent": 9.99,
-              "badge": "半导体洁净室+在手订单新高+二次配",
+              "badge": "半导体洁净室+在手订单新高+存储芯片",
               "sortOrder": 6
             },
             {
@@ -786,7 +786,7 @@
               "id": "601133",
               "name": "柏诚股份",
               "changePercent": 9.99,
-              "badge": "半导体洁净室+在手订单新高+二次配",
+              "badge": "半导体洁净室+在手订单新高+存储芯片",
               "sortOrder": 2
             },
             {
@@ -878,7 +878,7 @@
               "id": "301209",
               "name": "联合化学",
               "changePercent": 20.01,
-              "badge": null,
+              "badge": "光刻胶+光刻机+有机颜料",
               "sortOrder": 3
             },
             {
@@ -893,5 +893,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-17 10:10:42"
+  "updatedAt": "2026-11-17 10:21:06"
 }
