@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 36,
-    "limitUpSuccessRate": 64,
-    "limitDownCount": 54
+    "limitUpCount": 35,
+    "limitUpSuccessRate": 62,
+    "limitDownCount": 70
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 30
+        "stockCount": 29
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
       "stockCount": 11
     },
-    "poolFirstBoardCount": 30,
+    "poolFirstBoardCount": 29,
     "poolContinuousBoardCount": 6,
-    "poolBrokenBoardCount": 20
+    "poolBrokenBoardCount": 21
   },
   "themes": [
     {
@@ -1019,5 +1019,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-17 14:29:31"
+  "updatedAt": "2026-11-17 14:39:55"
 }
