@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 37,
-    "limitUpSuccessRate": 66,
-    "limitDownCount": 50
+    "limitUpCount": 36,
+    "limitUpSuccessRate": 64,
+    "limitDownCount": 54
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 31
+        "stockCount": 30
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
       "stockCount": 11
     },
-    "poolFirstBoardCount": 31,
+    "poolFirstBoardCount": 30,
     "poolContinuousBoardCount": 6,
-    "poolBrokenBoardCount": 19
+    "poolBrokenBoardCount": 20
   },
   "themes": [
     {
@@ -763,62 +763,6 @@
       ]
     },
     {
-      "id": "885997.TI",
-      "name": "比亚迪概念",
-      "stockCount": 5,
-      "highestBoardCount": 2,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002861",
-              "name": "瀛通通讯",
-              "changePercent": 10.0,
-              "badge": "AI眼镜+智能声学+消费电子",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000707",
-              "name": "双环科技",
-              "changePercent": 10.07,
-              "badge": "氯化铵涨价+钠电池正极材料+湖北国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002226",
-              "name": "江南化工",
-              "changePercent": 10.1,
-              "badge": "民爆+资产注入+央企",
-              "sortOrder": 2
-            },
-            {
-              "id": "301395",
-              "name": "仁信新材",
-              "changePercent": 19.97,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
-              "id": "600619",
-              "name": "海立股份",
-              "changePercent": 9.99,
-              "badge": "空调压缩机+光刻机冷却+上海国资",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885543.TI",
       "name": "家用电器",
       "stockCount": 5,
@@ -1023,7 +967,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "886078.TI",
+      "name": "商业航天",
+      "stockCount": 5,
+      "highestBoardCount": 1,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "002843",
+              "name": "泰嘉股份",
+              "changePercent": 9.98,
+              "badge": "服务器电源+锯切龙头+商业航天",
+              "sortOrder": 1
+            },
+            {
+              "id": "300786",
+              "name": "国林科技",
+              "changePercent": 19.96,
+              "badge": "半导体设备+臭氧设备+存储芯片",
+              "sortOrder": 2
+            },
+            {
+              "id": "600261",
+              "name": "阳光照明",
+              "changePercent": 10.04,
+              "badge": "商业航天+激光通信+LED照明+“羊”字辈",
+              "sortOrder": 3
+            },
+            {
+              "id": "603206",
+              "name": "嘉环科技",
+              "changePercent": 9.98,
+              "badge": "AI算力+智能矿山+嘉链AI",
+              "sortOrder": 4
+            },
+            {
+              "id": "603297",
+              "name": "永新光学",
+              "changePercent": 10.0,
+              "badge": "光刻机+半导体光学+精密光学",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-11-17 14:19:06"
+  "updatedAt": "2026-11-17 14:29:31"
 }
