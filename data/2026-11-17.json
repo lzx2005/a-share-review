@@ -111,7 +111,7 @@
               "id": "301421",
               "name": "波长光电",
               "changePercent": 19.99,
-              "badge": null,
+              "badge": "光刻机+光学元器件+PCB微加工",
               "sortOrder": 5
             },
             {
@@ -628,7 +628,7 @@
               "id": "301421",
               "name": "波长光电",
               "changePercent": 19.99,
-              "badge": null,
+              "badge": "光刻机+光学元器件+PCB微加工",
               "sortOrder": 4
             },
             {
@@ -817,7 +817,7 @@
               "id": "301421",
               "name": "波长光电",
               "changePercent": 19.99,
-              "badge": null,
+              "badge": "光刻机+光学元器件+PCB微加工",
               "sortOrder": 2
             },
             {
@@ -874,7 +874,7 @@
               "id": "301421",
               "name": "波长光电",
               "changePercent": 19.99,
-              "badge": null,
+              "badge": "光刻机+光学元器件+PCB微加工",
               "sortOrder": 4
             },
             {
@@ -930,7 +930,7 @@
               "id": "301421",
               "name": "波长光电",
               "changePercent": 19.99,
-              "badge": null,
+              "badge": "光刻机+光学元器件+PCB微加工",
               "sortOrder": 2
             },
             {
@@ -1120,5 +1120,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-17 11:33:33"
+  "updatedAt": "2026-11-17 11:43:53"
 }
