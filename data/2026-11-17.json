@@ -9,7 +9,7 @@
     "indexChangePercent": null,
     "limitUpCount": 45,
     "limitUpSuccessRate": 82,
-    "limitDownCount": 33
+    "limitDownCount": 38
   },
   "sentiment": {
     "promotion1To2": {
@@ -515,7 +515,7 @@
               "id": "603030",
               "name": "全筑股份",
               "changePercent": 10.23,
-              "badge": null,
+              "badge": "边缘AI算力+智慧建筑+建筑装饰",
               "sortOrder": 6
             },
             {
@@ -818,6 +818,133 @@
       ]
     },
     {
+      "id": "885700.TI",
+      "name": "军工",
+      "stockCount": 7,
+      "highestBoardCount": 1,
+      "limitUpCount": 7,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "002226",
+              "name": "江南化工",
+              "changePercent": 10.1,
+              "badge": "民爆+资产注入+央企",
+              "sortOrder": 1
+            },
+            {
+              "id": "002246",
+              "name": "北化股份",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "002535",
+              "name": "林州重机",
+              "changePercent": 10.0,
+              "badge": "机器人+煤矿机械+储能",
+              "sortOrder": 3
+            },
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.0,
+              "badge": "液冷算力+AI应用+多媒体视讯",
+              "sortOrder": 4
+            },
+            {
+              "id": "002843",
+              "name": "泰嘉股份",
+              "changePercent": 9.98,
+              "badge": "服务器电源+锯切龙头+商业航天",
+              "sortOrder": 5
+            },
+            {
+              "id": "600206",
+              "name": "有研新材",
+              "changePercent": 10.01,
+              "badge": "半导体靶材+先进存储+靶材扩产+三季报增长",
+              "sortOrder": 6
+            },
+            {
+              "id": "600410",
+              "name": "华胜天成",
+              "changePercent": 10.0,
+              "badge": "AI算力+算力服务+华为鲲鹏",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886110.TI",
+      "name": "2026中报预增",
+      "stockCount": 6,
+      "highestBoardCount": 3,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002685",
+              "name": "华东重机",
+              "changePercent": 10.02,
+              "badge": "GPU芯片+港口装卸设备+定增注册",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "002246",
+              "name": "北化股份",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 1
+            },
+            {
+              "id": "002889",
+              "name": "东方嘉盛",
+              "changePercent": 9.98,
+              "badge": "光刻机保税维修+半导体供应链+智慧仓",
+              "sortOrder": 2
+            },
+            {
+              "id": "301421",
+              "name": "波长光电",
+              "changePercent": 19.99,
+              "badge": "光刻机+光学元器件+PCB微加工",
+              "sortOrder": 3
+            },
+            {
+              "id": "600619",
+              "name": "海立股份",
+              "changePercent": 9.99,
+              "badge": "空调压缩机+光刻机冷却+上海国资",
+              "sortOrder": 4
+            },
+            {
+              "id": "600770",
+              "name": "综艺股份",
+              "changePercent": 9.94,
+              "badge": "功率半导体+参股神州龙芯（CPU）+芯片设计",
+              "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885783.TI",
       "name": "工业互联网",
       "stockCount": 6,
@@ -1068,133 +1195,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "885539.TI",
-      "name": "医疗器械概念",
-      "stockCount": 6,
-      "highestBoardCount": 2,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "000521",
-              "name": "长虹美菱",
-              "changePercent": 9.98,
-              "badge": "家电+B股增持+四川国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002861",
-              "name": "瀛通通讯",
-              "changePercent": 10.0,
-              "badge": "AI眼镜+智能声学+消费电子",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "300786",
-              "name": "国林科技",
-              "changePercent": 19.96,
-              "badge": "半导体设备+臭氧设备+存储芯片",
-              "sortOrder": 1
-            },
-            {
-              "id": "301421",
-              "name": "波长光电",
-              "changePercent": 19.99,
-              "badge": "光刻机+光学元器件+PCB微加工",
-              "sortOrder": 2
-            },
-            {
-              "id": "600206",
-              "name": "有研新材",
-              "changePercent": 10.01,
-              "badge": "半导体靶材+先进存储+靶材扩产+三季报增长",
-              "sortOrder": 3
-            },
-            {
-              "id": "600881",
-              "name": "亚泰集团",
-              "changePercent": 10.19,
-              "badge": "重整投资协议+长发集团控股+预重整+建材医药",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885997.TI",
-      "name": "比亚迪概念",
-      "stockCount": 6,
-      "highestBoardCount": 2,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "000533",
-              "name": "顺钠股份",
-              "changePercent": 9.98,
-              "badge": "回购+员工持股计划+干式变压器",
-              "sortOrder": 1
-            },
-            {
-              "id": "002861",
-              "name": "瀛通通讯",
-              "changePercent": 10.0,
-              "badge": "AI眼镜+智能声学+消费电子",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000707",
-              "name": "双环科技",
-              "changePercent": 10.07,
-              "badge": "氯化铵涨价+钠电池正极材料+湖北国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002226",
-              "name": "江南化工",
-              "changePercent": 10.1,
-              "badge": "民爆+资产注入+央企",
-              "sortOrder": 2
-            },
-            {
-              "id": "002897",
-              "name": "意华股份",
-              "changePercent": 10.01,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
-              "id": "600619",
-              "name": "海立股份",
-              "changePercent": 9.99,
-              "badge": "空调压缩机+光刻机冷却+上海国资",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-11-17 13:37:32"
+  "updatedAt": "2026-11-17 13:47:58"
 }
