@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 42,
-    "limitUpSuccessRate": 82,
+    "limitUpCount": 43,
+    "limitUpSuccessRate": 83,
     "limitDownCount": 35
   },
   "sentiment": {
@@ -39,7 +39,7 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 5
+        "stockCount": 6
       },
       {
         "boardCount": 1,
@@ -48,19 +48,19 @@
     ],
     "hotTheme": {
       "name": "芯片概念",
-      "stockCount": 17
+      "stockCount": 18
     },
     "poolFirstBoardCount": 35,
-    "poolContinuousBoardCount": 7,
+    "poolContinuousBoardCount": 8,
     "poolBrokenBoardCount": 9
   },
   "themes": [
     {
       "id": "885756.TI",
       "name": "芯片概念",
-      "stockCount": 17,
+      "stockCount": 18,
       "highestBoardCount": 3,
-      "limitUpCount": 17,
+      "limitUpCount": 18,
       "ladders": [
         {
           "boardCount": 3,
@@ -71,6 +71,19 @@
               "name": "华东重机",
               "changePercent": 10.02,
               "badge": "GPU芯片+港口装卸设备+定增注册",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000628",
+              "name": "高新发展",
+              "changePercent": 10.01,
+              "badge": null,
               "sortOrder": 1
             }
           ]
@@ -111,7 +124,7 @@
               "id": "301391",
               "name": "卡莱特",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "华为昇腾+AI算力调度+股份回购",
               "sortOrder": 5
             },
             {
@@ -198,13 +211,13 @@
     {
       "id": "885921.TI",
       "name": "储能",
-      "stockCount": 10,
+      "stockCount": 11,
       "highestBoardCount": 2,
-      "limitUpCount": 10,
+      "limitUpCount": 11,
       "ladders": [
         {
           "boardCount": 2,
-          "totalCount": 1,
+          "totalCount": 2,
           "stocks": [
             {
               "id": "000533",
@@ -212,6 +225,13 @@
               "changePercent": 9.98,
               "badge": "回购+员工持股计划+干式变压器",
               "sortOrder": 1
+            },
+            {
+              "id": "000628",
+              "name": "高新发展",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 2
             }
           ]
         },
@@ -289,9 +309,9 @@
     {
       "id": "885413.TI",
       "name": "创投",
-      "stockCount": 8,
+      "stockCount": 9,
       "highestBoardCount": 4,
-      "limitUpCount": 8,
+      "limitUpCount": 9,
       "ladders": [
         {
           "boardCount": 4,
@@ -308,14 +328,21 @@
         },
         {
           "boardCount": 2,
-          "totalCount": 1,
+          "totalCount": 2,
           "stocks": [
+            {
+              "id": "000628",
+              "name": "高新发展",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1
+            },
             {
               "id": "002959",
               "name": "小熊电器",
               "changePercent": 10.01,
               "badge": "小家电+跨境电商+母婴产品",
-              "sortOrder": 1
+              "sortOrder": 2
             }
           ]
         },
@@ -327,7 +354,7 @@
               "id": "002226",
               "name": "江南化工",
               "changePercent": 10.1,
-              "badge": null,
+              "badge": "民爆+资产注入+央企",
               "sortOrder": 1
             },
             {
@@ -754,7 +781,7 @@
               "id": "002226",
               "name": "江南化工",
               "changePercent": 10.1,
-              "badge": null,
+              "badge": "民爆+资产注入+央企",
               "sortOrder": 1
             },
             {
@@ -894,7 +921,7 @@
               "id": "301391",
               "name": "卡莱特",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "华为昇腾+AI算力调度+股份回购",
               "sortOrder": 3
             },
             {
@@ -957,7 +984,7 @@
               "id": "301391",
               "name": "卡莱特",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "华为昇腾+AI算力调度+股份回购",
               "sortOrder": 3
             },
             {
@@ -1056,7 +1083,7 @@
               "id": "002226",
               "name": "江南化工",
               "changePercent": 10.1,
-              "badge": null,
+              "badge": "民爆+资产注入+央企",
               "sortOrder": 1
             },
             {
@@ -1156,5 +1183,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-17 13:16:49"
+  "updatedAt": "2026-11-17 13:27:10"
 }
