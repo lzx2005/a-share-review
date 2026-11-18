@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 33,
-    "limitUpSuccessRate": 77,
+    "limitUpCount": 32,
+    "limitUpSuccessRate": 74,
     "limitDownCount": 24
   },
   "sentiment": {
@@ -39,7 +39,7 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 9
+        "stockCount": 8
       },
       {
         "boardCount": 1,
@@ -51,8 +51,8 @@
       "stockCount": 11
     },
     "poolFirstBoardCount": 22,
-    "poolContinuousBoardCount": 11,
-    "poolBrokenBoardCount": 10
+    "poolContinuousBoardCount": 10,
+    "poolBrokenBoardCount": 11
   },
   "themes": [
     {
@@ -103,7 +103,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 2
             }
           ]
@@ -130,7 +130,7 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 3
             },
             {
@@ -187,7 +187,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 2
             }
           ]
@@ -207,14 +207,14 @@
               "id": "000815",
               "name": "美利云",
               "changePercent": 9.99,
-              "badge": null,
+              "badge": "数据中心+东数西算+央企",
               "sortOrder": 2
             },
             {
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 3
             },
             {
@@ -249,7 +249,7 @@
               "id": "603887",
               "name": "城地香江",
               "changePercent": 9.95,
-              "badge": null,
+              "badge": "算力+东数西算+三季报增长",
               "sortOrder": 8
             }
           ]
@@ -285,7 +285,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 3
             }
           ]
@@ -312,14 +312,14 @@
               "id": "000815",
               "name": "美利云",
               "changePercent": 9.99,
-              "badge": null,
+              "badge": "数据中心+东数西算+央企",
               "sortOrder": 3
             },
             {
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 4
             },
             {
@@ -340,7 +340,7 @@
               "id": "603887",
               "name": "城地香江",
               "changePercent": 9.95,
-              "badge": null,
+              "badge": "算力+东数西算+三季报增长",
               "sortOrder": 7
             }
           ]
@@ -382,7 +382,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 2
             },
             {
@@ -416,7 +416,7 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 3
             },
             {
@@ -466,7 +466,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 3
             }
           ]
@@ -493,7 +493,7 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 3
             },
             {
@@ -549,7 +549,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 2
             }
           ]
@@ -569,7 +569,7 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 2
             },
             {
@@ -701,7 +701,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 2
             }
           ]
@@ -757,7 +757,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 1
             }
           ]
@@ -791,7 +791,7 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 4
             },
             {
@@ -827,7 +827,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 1
             }
           ]
@@ -854,7 +854,7 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 3
             },
             {
@@ -875,7 +875,7 @@
               "id": "603887",
               "name": "城地香江",
               "changePercent": 9.95,
-              "badge": null,
+              "badge": "算力+东数西算+三季报增长",
               "sortOrder": 6
             }
           ]
@@ -974,7 +974,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 2
             }
           ]
@@ -1001,7 +1001,7 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 3
             },
             {
@@ -1015,7 +1015,7 @@
               "id": "603887",
               "name": "城地香江",
               "changePercent": 9.95,
-              "badge": null,
+              "badge": "算力+东数西算+三季报增长",
               "sortOrder": 5
             }
           ]
@@ -1057,7 +1057,7 @@
               "id": "000815",
               "name": "美利云",
               "changePercent": 9.99,
-              "badge": null,
+              "badge": "数据中心+东数西算+央企",
               "sortOrder": 2
             },
             {
@@ -1071,7 +1071,7 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 4
             },
             {
@@ -1100,7 +1100,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 1
             }
           ]
@@ -1127,7 +1127,7 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 3
             },
             {
@@ -1163,7 +1163,7 @@
               "id": "600410",
               "name": "华胜天成",
               "changePercent": 10.01,
-              "badge": "AI算力+华为昇腾+算力服务",
+              "badge": "华为昇腾+AI算力+算力服务",
               "sortOrder": 1
             }
           ]
@@ -1197,14 +1197,14 @@
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
-              "badge": null,
+              "badge": "算力+数据中心+金融科技",
               "sortOrder": 4
             },
             {
               "id": "603887",
               "name": "城地香江",
               "changePercent": 9.95,
-              "badge": null,
+              "badge": "算力+东数西算+三季报增长",
               "sortOrder": 5
             }
           ]
@@ -1212,5 +1212,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-18 10:19:41"
+  "updatedAt": "2026-11-18 10:30:27"
 }
