@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 29,
-    "limitUpSuccessRate": 64,
-    "limitDownCount": 24
+    "limitUpCount": 28,
+    "limitUpSuccessRate": 61,
+    "limitDownCount": 25
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 21
+        "stockCount": 20
       }
     ],
     "hotTheme": {
       "name": "DeepSeek概念",
       "stockCount": 10
     },
-    "poolFirstBoardCount": 21,
+    "poolFirstBoardCount": 20,
     "poolContinuousBoardCount": 8,
-    "poolBrokenBoardCount": 16
+    "poolBrokenBoardCount": 18
   },
   "themes": [
     {
@@ -134,24 +134,24 @@
               "sortOrder": 3
             },
             {
+              "id": "600228",
+              "name": "返利科技",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 4
+            },
+            {
               "id": "600336",
               "name": "澳柯玛",
               "changePercent": 10.04,
               "badge": "冰雪经济+家用电器+青岛国资",
-              "sortOrder": 4
+              "sortOrder": 5
             },
             {
               "id": "600839",
               "name": "四川长虹",
               "changePercent": 10.08,
               "badge": "家电+出口+四川国资",
-              "sortOrder": 5
-            },
-            {
-              "id": "601188",
-              "name": "龙江交通",
-              "changePercent": 9.92,
-              "badge": "冰雪旅游保障+高速公路运营+黑龙江国资",
               "sortOrder": 6
             }
           ]
@@ -343,9 +343,9 @@
     {
       "id": "885756.TI",
       "name": "芯片概念",
-      "stockCount": 9,
+      "stockCount": 8,
       "highestBoardCount": 4,
-      "limitUpCount": 9,
+      "limitUpCount": 8,
       "ladders": [
         {
           "boardCount": 4,
@@ -389,34 +389,181 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 5,
+          "totalCount": 4,
           "stocks": [
-            {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 9.99,
-              "badge": "四足机器人+物联网+手机游戏",
-              "sortOrder": 1
-            },
             {
               "id": "002194",
               "name": "武汉凡谷",
               "changePercent": 10.05,
               "badge": "6G预研+滤波器+卫星通信",
-              "sortOrder": 2
+              "sortOrder": 1
             },
             {
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
               "badge": "算力+数据中心+金融科技",
-              "sortOrder": 3
+              "sortOrder": 2
             },
             {
               "id": "300324",
               "name": "旋极信息",
               "changePercent": 20.0,
               "badge": "AI芯片+算力+商业航天",
+              "sortOrder": 3
+            },
+            {
+              "id": "600839",
+              "name": "四川长虹",
+              "changePercent": 10.08,
+              "badge": "家电+出口+四川国资",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885797.TI",
+      "name": "百度概念",
+      "stockCount": 8,
+      "highestBoardCount": 2,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600410",
+              "name": "华胜天成",
+              "changePercent": 10.01,
+              "badge": "华为昇腾+AI算力+算力服务",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.0,
+              "badge": "华为昇腾+算力+AI应用",
+              "sortOrder": 1
+            },
+            {
+              "id": "000889",
+              "name": "中嘉博创",
+              "changePercent": 10.1,
+              "badge": "算力销售+通信网络维护+业绩扭亏",
+              "sortOrder": 2
+            },
+            {
+              "id": "000980",
+              "name": "众泰汽车",
+              "changePercent": 9.87,
+              "badge": "聘任会计师事务所+汽车整车+高管增持+A0车型海外",
+              "sortOrder": 3
+            },
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.09,
+              "badge": "算力+数据中心+金融科技",
+              "sortOrder": 4
+            },
+            {
+              "id": "600228",
+              "name": "返利科技",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 5
+            },
+            {
+              "id": "600405",
+              "name": "动力源",
+              "changePercent": 10.0,
+              "badge": "AI智算中心电源+数据中心+液冷超充",
+              "sortOrder": 6
+            },
+            {
+              "id": "600839",
+              "name": "四川长虹",
+              "changePercent": 10.08,
+              "badge": "家电+出口+四川国资",
+              "sortOrder": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 8,
+      "highestBoardCount": 2,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.02,
+              "badge": "液冷算力+华为+AI应用",
+              "sortOrder": 1
+            },
+            {
+              "id": "301391",
+              "name": "卡莱特",
+              "changePercent": 20.01,
+              "badge": "华为昇腾+AI算力调度+LED显示控制",
+              "sortOrder": 2
+            },
+            {
+              "id": "600410",
+              "name": "华胜天成",
+              "changePercent": 10.01,
+              "badge": "华为昇腾+AI算力+算力服务",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.0,
+              "badge": "华为昇腾+算力+AI应用",
+              "sortOrder": 1
+            },
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.09,
+              "badge": "算力+数据中心+金融科技",
+              "sortOrder": 2
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+算力+商业航天",
+              "sortOrder": 3
+            },
+            {
+              "id": "600228",
+              "name": "返利科技",
+              "changePercent": 10.02,
+              "badge": null,
               "sortOrder": 4
             },
             {
@@ -583,76 +730,6 @@
       ]
     },
     {
-      "id": "885797.TI",
-      "name": "百度概念",
-      "stockCount": 7,
-      "highestBoardCount": 2,
-      "limitUpCount": 7,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600410",
-              "name": "华胜天成",
-              "changePercent": 10.01,
-              "badge": "华为昇腾+AI算力+算力服务",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 6,
-          "stocks": [
-            {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.0,
-              "badge": "华为昇腾+算力+AI应用",
-              "sortOrder": 1
-            },
-            {
-              "id": "000889",
-              "name": "中嘉博创",
-              "changePercent": 10.1,
-              "badge": "算力销售+通信网络维护+业绩扭亏",
-              "sortOrder": 2
-            },
-            {
-              "id": "000980",
-              "name": "众泰汽车",
-              "changePercent": 9.87,
-              "badge": "聘任会计师事务所+汽车整车+高管增持+A0车型海外",
-              "sortOrder": 3
-            },
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.09,
-              "badge": "算力+数据中心+金融科技",
-              "sortOrder": 4
-            },
-            {
-              "id": "600405",
-              "name": "动力源",
-              "changePercent": 10.0,
-              "badge": "AI智算中心电源+数据中心+液冷超充",
-              "sortOrder": 5
-            },
-            {
-              "id": "600839",
-              "name": "四川长虹",
-              "changePercent": 10.08,
-              "badge": "家电+出口+四川国资",
-              "sortOrder": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885779.TI",
       "name": "腾讯概念",
       "stockCount": 7,
@@ -723,76 +800,6 @@
       ]
     },
     {
-      "id": "885312.TI",
-      "name": "物联网",
-      "stockCount": 7,
-      "highestBoardCount": 2,
-      "limitUpCount": 7,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.02,
-              "badge": "液冷算力+华为+AI应用",
-              "sortOrder": 1
-            },
-            {
-              "id": "603030",
-              "name": "全筑股份",
-              "changePercent": 9.79,
-              "badge": "边缘AI算力+智慧建筑+建筑装饰",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000711",
-              "name": "京蓝科技",
-              "changePercent": 10.13,
-              "badge": "7N高纯铟+铟资源循环+资产出售",
-              "sortOrder": 1
-            },
-            {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 9.99,
-              "badge": "四足机器人+物联网+手机游戏",
-              "sortOrder": 2
-            },
-            {
-              "id": "300324",
-              "name": "旋极信息",
-              "changePercent": 20.0,
-              "badge": "AI芯片+算力+商业航天",
-              "sortOrder": 3
-            },
-            {
-              "id": "600336",
-              "name": "澳柯玛",
-              "changePercent": 10.04,
-              "badge": "冰雪经济+家用电器+青岛国资",
-              "sortOrder": 4
-            },
-            {
-              "id": "600839",
-              "name": "四川长虹",
-              "changePercent": 10.08,
-              "badge": "家电+出口+四川国资",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885611.TI",
       "name": "阿里巴巴概念",
       "stockCount": 7,
@@ -857,76 +864,6 @@
               "changePercent": 9.95,
               "badge": "算力+东数西算+三季报增长",
               "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886108.TI",
-      "name": "AI应用",
-      "stockCount": 7,
-      "highestBoardCount": 2,
-      "limitUpCount": 7,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.02,
-              "badge": "液冷算力+华为+AI应用",
-              "sortOrder": 1
-            },
-            {
-              "id": "301391",
-              "name": "卡莱特",
-              "changePercent": 20.01,
-              "badge": "华为昇腾+AI算力调度+LED显示控制",
-              "sortOrder": 2
-            },
-            {
-              "id": "600410",
-              "name": "华胜天成",
-              "changePercent": 10.01,
-              "badge": "华为昇腾+AI算力+算力服务",
-              "sortOrder": 3
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.0,
-              "badge": "华为昇腾+算力+AI应用",
-              "sortOrder": 1
-            },
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.09,
-              "badge": "算力+数据中心+金融科技",
-              "sortOrder": 2
-            },
-            {
-              "id": "300324",
-              "name": "旋极信息",
-              "changePercent": 20.0,
-              "badge": "AI芯片+算力+商业航天",
-              "sortOrder": 3
-            },
-            {
-              "id": "600839",
-              "name": "四川长虹",
-              "changePercent": 10.08,
-              "badge": "家电+出口+四川国资",
-              "sortOrder": 4
             }
           ]
         }
@@ -1034,17 +971,17 @@
               "sortOrder": 2
             },
             {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 9.99,
-              "badge": "四足机器人+物联网+手机游戏",
-              "sortOrder": 3
-            },
-            {
               "id": "002197",
               "name": "证通电子",
               "changePercent": 10.09,
               "badge": "算力+数据中心+金融科技",
+              "sortOrder": 3
+            },
+            {
+              "id": "600228",
+              "name": "返利科技",
+              "changePercent": 10.02,
+              "badge": null,
               "sortOrder": 4
             },
             {
@@ -1053,6 +990,69 @@
               "changePercent": 9.95,
               "badge": "算力+东数西算+三季报增长",
               "sortOrder": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885312.TI",
+      "name": "物联网",
+      "stockCount": 6,
+      "highestBoardCount": 2,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.02,
+              "badge": "液冷算力+华为+AI应用",
+              "sortOrder": 1
+            },
+            {
+              "id": "603030",
+              "name": "全筑股份",
+              "changePercent": 9.79,
+              "badge": "边缘AI算力+智慧建筑+建筑装饰",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000711",
+              "name": "京蓝科技",
+              "changePercent": 10.13,
+              "badge": "7N高纯铟+铟资源循环+资产出售",
+              "sortOrder": 1
+            },
+            {
+              "id": "300324",
+              "name": "旋极信息",
+              "changePercent": 20.0,
+              "badge": "AI芯片+算力+商业航天",
+              "sortOrder": 2
+            },
+            {
+              "id": "600336",
+              "name": "澳柯玛",
+              "changePercent": 10.04,
+              "badge": "冰雪经济+家用电器+青岛国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "600839",
+              "name": "四川长虹",
+              "changePercent": 10.08,
+              "badge": "家电+出口+四川国资",
+              "sortOrder": 4
             }
           ]
         }
@@ -1115,21 +1115,21 @@
       ]
     },
     {
-      "id": "885976.TI",
-      "name": "数字经济",
+      "id": "885785.TI",
+      "name": "小米概念",
       "stockCount": 5,
-      "highestBoardCount": 2,
+      "highestBoardCount": 3,
       "limitUpCount": 5,
       "ladders": [
         {
-          "boardCount": 2,
+          "boardCount": 3,
           "totalCount": 1,
           "stocks": [
             {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.02,
-              "badge": "液冷算力+华为+AI应用",
+              "id": "000521",
+              "name": "长虹美菱",
+              "changePercent": 9.92,
+              "badge": "家电+B股增持+四川国资",
               "sortOrder": 1
             }
           ]
@@ -1139,31 +1139,31 @@
           "totalCount": 4,
           "stocks": [
             {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.0,
-              "badge": "华为昇腾+算力+AI应用",
+              "id": "000889",
+              "name": "中嘉博创",
+              "changePercent": 10.1,
+              "badge": "算力销售+通信网络维护+业绩扭亏",
               "sortOrder": 1
             },
             {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.09,
-              "badge": "算力+数据中心+金融科技",
+              "id": "600228",
+              "name": "返利科技",
+              "changePercent": 10.02,
+              "badge": null,
               "sortOrder": 2
-            },
-            {
-              "id": "300324",
-              "name": "旋极信息",
-              "changePercent": 20.0,
-              "badge": "AI芯片+算力+商业航天",
-              "sortOrder": 3
             },
             {
               "id": "600839",
               "name": "四川长虹",
               "changePercent": 10.08,
               "badge": "家电+出口+四川国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "603657",
+              "name": "春光科技",
+              "changePercent": 10.02,
+              "badge": "清洁电器代工+扫地机器人+家电出口",
               "sortOrder": 4
             }
           ]
@@ -1171,5 +1171,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-18 11:02:23"
+  "updatedAt": "2026-11-18 11:12:44"
 }
