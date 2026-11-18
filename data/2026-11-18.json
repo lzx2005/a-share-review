@@ -160,7 +160,7 @@
               "id": "603629",
               "name": "利通电子",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "算力租赁+英伟达概念+股份注销",
               "sortOrder": 10
             },
             {
@@ -256,7 +256,7 @@
               "id": "002955",
               "name": "鸿合科技",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "AI教育+智芯布局+智能交互显示",
               "sortOrder": 4
             },
             {
@@ -473,7 +473,7 @@
               "id": "002955",
               "name": "鸿合科技",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "AI教育+智芯布局+智能交互显示",
               "sortOrder": 4
             },
             {
@@ -592,7 +592,7 @@
               "id": "603629",
               "name": "利通电子",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "算力租赁+英伟达概念+股份注销",
               "sortOrder": 9
             }
           ]
@@ -682,7 +682,7 @@
               "id": "603629",
               "name": "利通电子",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "算力租赁+英伟达概念+股份注销",
               "sortOrder": 5
             }
           ]
@@ -912,7 +912,7 @@
               "id": "002955",
               "name": "鸿合科技",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "AI教育+智芯布局+智能交互显示",
               "sortOrder": 4
             },
             {
@@ -933,7 +933,7 @@
               "id": "603629",
               "name": "利通电子",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "算力租赁+英伟达概念+股份注销",
               "sortOrder": 7
             },
             {
@@ -1290,7 +1290,7 @@
               "id": "603629",
               "name": "利通电子",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "算力租赁+英伟达概念+股份注销",
               "sortOrder": 4
             },
             {
@@ -1368,5 +1368,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-18 11:33:29"
+  "updatedAt": "2026-11-18 11:43:48"
 }
