@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 32,
-    "limitUpSuccessRate": 74,
+    "limitUpCount": 33,
+    "limitUpSuccessRate": 73,
     "limitDownCount": 24
   },
   "sentiment": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 22
+        "stockCount": 23
       }
     ],
     "hotTheme": {
       "name": "DeepSeek概念",
       "stockCount": 11
     },
-    "poolFirstBoardCount": 22,
+    "poolFirstBoardCount": 23,
     "poolContinuousBoardCount": 10,
-    "poolBrokenBoardCount": 11
+    "poolBrokenBoardCount": 12
   },
   "themes": [
     {
@@ -278,7 +278,7 @@
               "id": "301391",
               "name": "卡莱特",
               "changePercent": 20.01,
-              "badge": null,
+              "badge": "华为昇腾+AI算力调度+LED显示控制",
               "sortOrder": 2
             },
             {
@@ -375,7 +375,7 @@
               "id": "301391",
               "name": "卡莱特",
               "changePercent": 20.01,
-              "badge": null,
+              "badge": "华为昇腾+AI算力调度+LED显示控制",
               "sortOrder": 1
             },
             {
@@ -459,7 +459,7 @@
               "id": "301391",
               "name": "卡莱特",
               "changePercent": 20.01,
-              "badge": null,
+              "badge": "华为昇腾+AI算力调度+LED显示控制",
               "sortOrder": 2
             },
             {
@@ -784,7 +784,7 @@
               "id": "000980",
               "name": "众泰汽车",
               "changePercent": 9.87,
-              "badge": "汽车整车+高管增持+A0车型海外",
+              "badge": "聘任会计师事务所+汽车整车+高管增持+A0车型海外",
               "sortOrder": 3
             },
             {
@@ -1212,5 +1212,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-18 10:30:27"
+  "updatedAt": "2026-11-18 10:41:15"
 }
