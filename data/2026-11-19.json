@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 30,
-    "limitUpSuccessRate": 61,
-    "limitDownCount": 37
+    "limitUpCount": 31,
+    "limitUpSuccessRate": 62,
+    "limitDownCount": 43
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,14 +39,14 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 24
+        "stockCount": 25
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
-      "stockCount": 12
+      "stockCount": 13
     },
-    "poolFirstBoardCount": 24,
+    "poolFirstBoardCount": 25,
     "poolContinuousBoardCount": 6,
     "poolBrokenBoardCount": 19
   },
@@ -54,9 +54,9 @@
     {
       "id": "885756.TI",
       "name": "芯片概念",
-      "stockCount": 12,
+      "stockCount": 13,
       "highestBoardCount": 3,
-      "limitUpCount": 12,
+      "limitUpCount": 13,
       "ladders": [
         {
           "boardCount": 3,
@@ -80,7 +80,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 10,
+          "totalCount": 11,
           "stocks": [
             {
               "id": "002077",
@@ -132,25 +132,32 @@
               "sortOrder": 7
             },
             {
+              "id": "603928",
+              "name": "兴业股份",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 8
+            },
+            {
               "id": "603931",
               "name": "格林达",
               "changePercent": 10.0,
               "badge": "湿电子化学品+先进封装+光刻胶",
-              "sortOrder": 8
+              "sortOrder": 9
             },
             {
               "id": "605178",
               "name": "时空科技",
               "changePercent": 10.0,
               "badge": "存储芯片+拟收购嘉合劲威+智慧城市",
-              "sortOrder": 9
+              "sortOrder": 10
             },
             {
               "id": "688691",
               "name": "灿芯股份",
               "changePercent": 20.0,
               "badge": "芯片定制+存算一体+半导体",
-              "sortOrder": 10
+              "sortOrder": 11
             }
           ]
         }
@@ -159,9 +166,9 @@
     {
       "id": "886009.TI",
       "name": "先进封装",
-      "stockCount": 8,
+      "stockCount": 9,
       "highestBoardCount": 3,
-      "limitUpCount": 8,
+      "limitUpCount": 9,
       "ladders": [
         {
           "boardCount": 3,
@@ -178,7 +185,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 7,
+          "totalCount": 8,
           "stocks": [
             {
               "id": "002077",
@@ -216,18 +223,25 @@
               "sortOrder": 5
             },
             {
+              "id": "603928",
+              "name": "兴业股份",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 6
+            },
+            {
               "id": "603931",
               "name": "格林达",
               "changePercent": 10.0,
               "badge": "湿电子化学品+先进封装+光刻胶",
-              "sortOrder": 6
+              "sortOrder": 7
             },
             {
               "id": "688691",
               "name": "灿芯股份",
               "changePercent": 20.0,
               "badge": "芯片定制+存算一体+半导体",
-              "sortOrder": 7
+              "sortOrder": 8
             }
           ]
         }
@@ -236,9 +250,9 @@
     {
       "id": "885887.TI",
       "name": "数据中心(AIDC)",
-      "stockCount": 8,
+      "stockCount": 7,
       "highestBoardCount": 3,
-      "limitUpCount": 8,
+      "limitUpCount": 7,
       "ladders": [
         {
           "boardCount": 3,
@@ -268,7 +282,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 6,
+          "totalCount": 5,
           "stocks": [
             {
               "id": "002418",
@@ -304,13 +318,6 @@
               "changePercent": 10.0,
               "badge": "数据中心配电+变压器+股份回购",
               "sortOrder": 5
-            },
-            {
-              "id": "603486",
-              "name": "科沃斯",
-              "changePercent": 10.01,
-              "badge": "回购+机器人+海外业务",
-              "sortOrder": 6
             }
           ]
         }
@@ -450,6 +457,63 @@
       ]
     },
     {
+      "id": "885710.TI",
+      "name": "锂电池概念",
+      "stockCount": 6,
+      "highestBoardCount": 1,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "002077",
+              "name": "大港股份",
+              "changePercent": 9.99,
+              "badge": "集成电路测试+封测+镇江国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002418",
+              "name": "康盛股份",
+              "changePercent": 10.14,
+              "badge": "液冷+算力+家电制冷",
+              "sortOrder": 2
+            },
+            {
+              "id": "002420",
+              "name": "毅昌科技",
+              "changePercent": 9.93,
+              "badge": "机器人结构件+储能液冷+三季报增长",
+              "sortOrder": 3
+            },
+            {
+              "id": "301348",
+              "name": "蓝箭电子",
+              "changePercent": 20.0,
+              "badge": "半导体封测+存储芯片封装+芯片设计",
+              "sortOrder": 4
+            },
+            {
+              "id": "603078",
+              "name": "江化微",
+              "changePercent": 9.99,
+              "badge": "湿电子化学品+存储芯片+上海国资",
+              "sortOrder": 5
+            },
+            {
+              "id": "603928",
+              "name": "兴业股份",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885921.TI",
       "name": "储能",
       "stockCount": 5,
@@ -499,6 +563,62 @@
               "name": "海立股份",
               "changePercent": 10.0,
               "badge": "光刻机冷却+空调压缩机+上海国资",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885864.TI",
+      "name": "光刻胶",
+      "stockCount": 5,
+      "highestBoardCount": 3,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603324",
+              "name": "盛剑科技",
+              "changePercent": 10.0,
+              "badge": "光刻胶+半导体附属装备+电子化学品",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "001358",
+              "name": "兴欣新材",
+              "changePercent": 10.02,
+              "badge": "光刻胶剥离液+电子化学品项目+股份回购",
+              "sortOrder": 1
+            },
+            {
+              "id": "603078",
+              "name": "江化微",
+              "changePercent": 9.99,
+              "badge": "湿电子化学品+存储芯片+上海国资",
+              "sortOrder": 2
+            },
+            {
+              "id": "603928",
+              "name": "兴业股份",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 3
+            },
+            {
+              "id": "603931",
+              "name": "格林达",
+              "changePercent": 10.0,
+              "badge": "湿电子化学品+先进封装+光刻胶",
               "sortOrder": 4
             }
           ]
@@ -618,56 +738,6 @@
       ]
     },
     {
-      "id": "885710.TI",
-      "name": "锂电池概念",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "002077",
-              "name": "大港股份",
-              "changePercent": 9.99,
-              "badge": "集成电路测试+封测+镇江国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002418",
-              "name": "康盛股份",
-              "changePercent": 10.14,
-              "badge": "液冷+算力+家电制冷",
-              "sortOrder": 2
-            },
-            {
-              "id": "002420",
-              "name": "毅昌科技",
-              "changePercent": 9.93,
-              "badge": "机器人结构件+储能液冷+三季报增长",
-              "sortOrder": 3
-            },
-            {
-              "id": "301348",
-              "name": "蓝箭电子",
-              "changePercent": 20.0,
-              "badge": "半导体封测+存储芯片封装+芯片设计",
-              "sortOrder": 4
-            },
-            {
-              "id": "603078",
-              "name": "江化微",
-              "changePercent": 9.99,
-              "badge": "湿电子化学品+存储芯片+上海国资",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885461.TI",
       "name": "充电桩",
       "stockCount": 4,
@@ -710,55 +780,6 @@
               "name": "广电电气",
               "changePercent": 10.0,
               "badge": "数据中心配电+变压器+股份回购",
-              "sortOrder": 3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885864.TI",
-      "name": "光刻胶",
-      "stockCount": 4,
-      "highestBoardCount": 3,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603324",
-              "name": "盛剑科技",
-              "changePercent": 10.0,
-              "badge": "光刻胶+半导体附属装备+电子化学品",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "001358",
-              "name": "兴欣新材",
-              "changePercent": 10.02,
-              "badge": "光刻胶剥离液+电子化学品项目+股份回购",
-              "sortOrder": 1
-            },
-            {
-              "id": "603078",
-              "name": "江化微",
-              "changePercent": 9.99,
-              "badge": "湿电子化学品+存储芯片+上海国资",
-              "sortOrder": 2
-            },
-            {
-              "id": "603931",
-              "name": "格林达",
-              "changePercent": 10.0,
-              "badge": "湿电子化学品+先进封装+光刻胶",
               "sortOrder": 3
             }
           ]
@@ -962,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19 13:34:33"
+  "updatedAt": "2026-11-19 13:38:58"
 }
