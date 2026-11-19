@@ -44,7 +44,8 @@ export function stockCard(s) {
   if (s.changePercent === null || s.changePercent === undefined) cls += ' neutral'
   else if (s.changePercent < 0) cls += ' down'
   const conceptHtml = s.badge ? `<div class="s-concept">${s.badge}</div>` : ''
-  return `<div class="stock-card"><div class="s-name">${s.name || '未知股票'}</div>${conceptHtml}<div class="${cls}">${fmtPct(s.changePercent)}</div></div>`
+  const dragonHtml = s.isDragon ? '<div class="s-dragon">🐉 龙头</div>' : ''
+  return `<div class="stock-card${s.isDragon ? ' dragon' : ''}">${dragonHtml}<div class="s-name">${s.name || '未知股票'}</div>${conceptHtml}<div class="${cls}">${fmtPct(s.changePercent)}</div></div>`
 }
 
 // ===== 以下为浏览器渲染相关,node 单测不导入 =====
@@ -141,7 +142,31 @@ if (typeof window !== 'undefined') {
     renderSummary(r.marketSummary)
     renderSentiment(r.sentiment)
     renderThemes(r.themes)
+    renderLaggards(r.laggardCandidates)
     setHidden('#summaryGrid,#sentimentPanel,#themeList', false)
+  }
+
+  // 潜在补涨·低位股(buy_signals 14:30/15:20 扫描写入,涨停梯队之下独立区块;无数据整区隐藏)
+  function renderLaggards(list) {
+    const panel = document.getElementById('laggardPanel')
+    if (!panel) return
+    if (!list || !list.length) { panel.hidden = true; panel.innerHTML = ''; return }
+    const cards = list.map(x => {
+      const pctCls = (x.changePercent === null || x.changePercent === undefined) ? 'neutral'
+        : (x.changePercent < 0 ? 'down' : '')
+      return `<div class="lag-card">
+        <div class="lag-head"><span class="lag-name">${x.name || x.id}</span><span class="lag-board">${x.boardName || ''}</span></div>
+        <div class="lag-metrics">
+          <span>今日 <em class="s-pct ${pctCls}">${fmtPct(x.changePercent)}</em></span>
+          <span>5日 <em>${x.pct5d === null || x.pct5d === undefined ? '--' : fmtPct(x.pct5d)}</em></span>
+          <span>位置 <em>${x.position === null || x.position === undefined ? '--' : x.position + '%'}</em></span>
+          <span>评分 <em>${x.score === null || x.score === undefined ? '--' : x.score}</em></span>
+        </div>
+      </div>`
+    }).join('')
+    panel.innerHTML = `<header class="lag-title">🌱 潜在补涨 · 低位股 <span class="lag-sub">持续发酵板块内尚未启动 · 每日 14:30 / 15:20 扫描 · 小仓试错去弱留强</span></header>
+      <div class="lag-grid">${cards}</div>`
+    panel.hidden = false
   }
 
   function renderSummary(ms) {
