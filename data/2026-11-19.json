@@ -8,8 +8,8 @@
   "marketSummary": {
     "indexChangePercent": null,
     "limitUpCount": 23,
-    "limitUpSuccessRate": 57,
-    "limitDownCount": 25
+    "limitUpSuccessRate": 59,
+    "limitDownCount": 22
   },
   "sentiment": {
     "promotion1To2": {
@@ -48,7 +48,7 @@
     },
     "poolFirstBoardCount": 18,
     "poolContinuousBoardCount": 5,
-    "poolBrokenBoardCount": 17
+    "poolBrokenBoardCount": 16
   },
   "themes": [
     {
@@ -114,7 +114,7 @@
               "id": "601133",
               "name": "柏诚股份",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "半导体洁净室+在手订单新高+存储芯片",
               "sortOrder": 6
             },
             {
@@ -135,7 +135,7 @@
               "id": "688691",
               "name": "灿芯股份",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "芯片定制+存算一体+半导体",
               "sortOrder": 9
             }
           ]
@@ -205,7 +205,7 @@
               "id": "688691",
               "name": "灿芯股份",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "芯片定制+存算一体+半导体",
               "sortOrder": 6
             }
           ]
@@ -317,7 +317,7 @@
               "id": "601133",
               "name": "柏诚股份",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "半导体洁净室+在手订单新高+存储芯片",
               "sortOrder": 4
             },
             {
@@ -331,7 +331,7 @@
               "id": "688691",
               "name": "灿芯股份",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "芯片定制+存算一体+半导体",
               "sortOrder": 6
             }
           ]
@@ -505,7 +505,7 @@
               "id": "688691",
               "name": "灿芯股份",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "芯片定制+存算一体+半导体",
               "sortOrder": 4
             }
           ]
@@ -756,7 +756,7 @@
               "id": "688691",
               "name": "灿芯股份",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "芯片定制+存算一体+半导体",
               "sortOrder": 2
             }
           ]
@@ -892,5 +892,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19 11:24:42"
+  "updatedAt": "2026-11-19 11:34:53"
 }
