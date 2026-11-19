@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 31,
-    "limitUpSuccessRate": 62,
-    "limitDownCount": 43
+    "limitUpCount": 30,
+    "limitUpSuccessRate": 61,
+    "limitDownCount": 45
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,14 +39,14 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 25
+        "stockCount": 24
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
       "stockCount": 13
     },
-    "poolFirstBoardCount": 25,
+    "poolFirstBoardCount": 24,
     "poolContinuousBoardCount": 6,
     "poolBrokenBoardCount": 19
   },
@@ -309,7 +309,7 @@
               "id": "600103",
               "name": "青山纸业",
               "changePercent": 9.87,
-              "badge": null,
+              "badge": "光模块+竹浆纸+福建国资",
               "sortOrder": 4
             },
             {
@@ -660,7 +660,7 @@
               "id": "000711",
               "name": "京蓝科技",
               "changePercent": 10.06,
-              "badge": null,
+              "badge": "7N高纯铟+铟资源循环+资产出售",
               "sortOrder": 1
             }
           ]
@@ -850,7 +850,7 @@
               "id": "000711",
               "name": "京蓝科技",
               "changePercent": 10.06,
-              "badge": null,
+              "badge": "7N高纯铟+铟资源循环+资产出售",
               "sortOrder": 1
             }
           ]
@@ -919,7 +919,7 @@
               "id": "600103",
               "name": "青山纸业",
               "changePercent": 9.87,
-              "badge": null,
+              "badge": "光模块+竹浆纸+福建国资",
               "sortOrder": 2
             },
             {
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19 13:38:58"
+  "updatedAt": "2026-11-19 13:49:11"
 }
