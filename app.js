@@ -142,31 +142,37 @@ if (typeof window !== 'undefined') {
     renderSummary(r.marketSummary)
     renderSentiment(r.sentiment)
     renderThemes(r.themes)
-    renderLaggards(r.laggardCandidates)
     setHidden('#summaryGrid,#sentimentPanel,#themeList', false)
   }
 
-  // 潜在补涨·低位股(buy_signals 14:30/15:20 扫描写入,涨停梯队之下独立区块;无数据整区隐藏)
+  // 潜在补涨·低位股(buy_signals 14:30/15:20 扫描写入):按板块名挂到对应题材卡梯队末尾(一板之后),
+  // 对不上板块的剩余候选落到底部「其他板块」专区;全区无数据自动隐藏。
   function renderLaggards(list) {
     const panel = document.getElementById('laggardPanel')
     if (!panel) return
     if (!list || !list.length) { panel.hidden = true; panel.innerHTML = ''; return }
-    const cards = list.map(x => {
-      const pctCls = (x.changePercent === null || x.changePercent === undefined) ? 'neutral'
-        : (x.changePercent < 0 ? 'down' : '')
-      return `<div class="lag-card">
-        <div class="lag-head"><span class="lag-name">${x.name || x.id}</span><span class="lag-board">${x.boardName || ''}</span></div>
-        <div class="lag-metrics">
-          <span>今日 <em class="s-pct ${pctCls}">${fmtPct(x.changePercent)}</em></span>
-          <span>5日 <em>${x.pct5d === null || x.pct5d === undefined ? '--' : fmtPct(x.pct5d)}</em></span>
-          <span>位置 <em>${x.position === null || x.position === undefined ? '--' : x.position + '%'}</em></span>
-          <span>评分 <em>${x.score === null || x.score === undefined ? '--' : x.score}</em></span>
-        </div>
-      </div>`
-    }).join('')
-    panel.innerHTML = `<header class="lag-title">🌱 潜在补涨 · 低位股 <span class="lag-sub">持续发酵板块内尚未启动 · 每日 14:30 / 15:20 扫描 · 小仓试错去弱留强</span></header>
-      <div class="lag-grid">${cards}</div>`
+    panel.innerHTML = `<header class="lag-title">🌱 潜在补涨 · 其他板块 <span class="lag-sub">持续发酵板块内尚未启动 · 每日 14:30 / 15:20 扫描 · 小仓试错去弱留强</span></header>
+      <div class="lag-grid">${list.map(laggardCard).join('')}</div>`
     panel.hidden = false
+  }
+
+  function laggardCard(x) {
+    const pctCls = (x.changePercent === null || x.changePercent === undefined) ? 'neutral'
+      : (x.changePercent < 0 ? 'down' : '')
+    const pct5 = x.pct5d === null || x.pct5d === undefined ? '--' : fmtPct(x.pct5d)
+    const pos = x.position === null || x.position === undefined ? '--' : x.position + '%'
+    const score = x.score === null || x.score === undefined ? '--' : x.score
+    return `<div class="stock-card lag-card">
+      <div class="s-name">${x.name || x.id}<span class="lag-code">${x.id}</span></div>
+      <div class="lag-metrics">今日 <em class="s-pct ${pctCls}">${fmtPct(x.changePercent)}</em> · 5日 <em>${pct5}</em> · 位置 <em>${pos}</em> · 评分 <em>${score}</em></div>
+    </div>`
+  }
+
+  function laggardRow(list) {
+    return `<div class="ladder-row lag-row">
+      <span class="ladder-badge lag-badge">补涨(${list.length})</span>
+      <div class="ladder-slot"><div class="stock-grid">${list.map(laggardCard).join('')}</div></div>
+    </div>`
   }
 
   function renderSummary(ms) {
@@ -223,13 +229,25 @@ if (typeof window !== 'undefined') {
 
   function renderThemes(themes) {
     const list = (themes || []).filter(validTheme)
-    if (!list.length) { document.getElementById('themeList').innerHTML = '<section class="empty-banner"><p>暂无题材数据</p></section>'; return }
-    document.getElementById('themeList').innerHTML = list.map(themeCard).join('')
+    const allLag = (state.report && state.report.laggardCandidates) || []
+    if (!list.length) {
+      document.getElementById('themeList').innerHTML = '<section class="empty-banner"><p>暂无题材数据</p></section>'
+      renderLaggards(allLag)
+      return
+    }
+    const used = new Set()
+    document.getElementById('themeList').innerHTML = list.map(t => {
+      const mine = allLag.filter(x => x.boardName === t.name)
+      mine.forEach(x => used.add(x.id))
+      return themeCard(t, mine)
+    }).join('')
     list.forEach(t => t.ladders.forEach((l, li) => bindExpand(t.id, l.boardCount, li)))
+    renderLaggards(allLag.filter(x => !used.has(x.id)))
   }
 
-  function themeCard(t) {
+  function themeCard(t, laggards) {
     const ladders = t.ladders.map((l, i) => ladderRow(t.id, l, i)).join('')
+    const lagRow = laggards && laggards.length ? laggardRow(laggards) : ''
     return `<section class="theme-card">
       <aside class="theme-summary">
         <div class="t-name">${t.name}</div>
@@ -237,7 +255,7 @@ if (typeof window !== 'undefined') {
         <span class="badge-hi">最高 ${t.highestBoardCount} 板</span>
         <span class="badge-today">今涨停 ${t.limitUpCount}</span>
       </aside>
-      <div class="theme-ladders">${ladders}</div>
+      <div class="theme-ladders">${ladders}${lagRow}</div>
     </section>`
   }
 

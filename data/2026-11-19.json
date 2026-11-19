@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 25,
+    "limitUpCount": 26,
     "limitUpSuccessRate": 50,
-    "limitDownCount": 68
+    "limitDownCount": 74
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,16 +39,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 19
+        "stockCount": 20
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
       "stockCount": 10
     },
-    "poolFirstBoardCount": 19,
+    "poolFirstBoardCount": 20,
     "poolContinuousBoardCount": 6,
-    "poolBrokenBoardCount": 25
+    "poolBrokenBoardCount": 26
   },
   "themes": [
     {
@@ -901,6 +901,53 @@
       ]
     },
     {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000610",
+              "name": "*ST西旅",
+              "changePercent": 10.06,
+              "badge": "预重整+旅游酒店+西安国资",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002077",
+              "name": "大港股份",
+              "changePercent": 9.99,
+              "badge": "集成电路测试+封测+镇江国资",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002146",
+              "name": "荣盛发展",
+              "changePercent": 8.6,
+              "badge": null,
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885785.TI",
       "name": "小米概念",
       "stockCount": 4,
@@ -941,51 +988,6 @@
               "changePercent": 20.0,
               "badge": "芯片定制+存算一体+半导体",
               "sortOrder": 4,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885743.TI",
-      "name": "军民融合",
-      "stockCount": 3,
-      "highestBoardCount": 3,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.02,
-              "badge": "液冷算力+华为+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "000678",
-              "name": "襄阳轴承",
-              "changePercent": 9.99,
-              "badge": "机器人轴承+汽车轴承+湖北国资+“羊”字辈",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 2,
               "isDragon": false
             }
           ]
@@ -1130,5 +1132,5 @@
       "score": 9.1
     }
   ],
-  "updatedAt": "2026-11-19 14:33:29"
+  "updatedAt": "2026-11-19 14:39:33"
 }
