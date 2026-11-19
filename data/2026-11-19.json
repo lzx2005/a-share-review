@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 22,
-    "limitUpSuccessRate": 61,
-    "limitDownCount": 14
+    "limitUpCount": 19,
+    "limitUpSuccessRate": 54,
+    "limitDownCount": 19
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,153 +39,21 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 17
+        "stockCount": 14
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
-      "stockCount": 6
+      "stockCount": 5
     },
-    "poolFirstBoardCount": 17,
+    "poolFirstBoardCount": 14,
     "poolContinuousBoardCount": 5,
-    "poolBrokenBoardCount": 14
+    "poolBrokenBoardCount": 16
   },
   "themes": [
     {
       "id": "885756.TI",
       "name": "芯片概念",
-      "stockCount": 6,
-      "highestBoardCount": 3,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603324",
-              "name": "盛剑科技",
-              "changePercent": 10.0,
-              "badge": "光刻胶+半导体附属装备+电子化学品",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "002077",
-              "name": "大港股份",
-              "changePercent": 9.99,
-              "badge": "集成电路测试+封测+镇江国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": null,
-              "sortOrder": 2
-            },
-            {
-              "id": "301348",
-              "name": "蓝箭电子",
-              "changePercent": 20.0,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
-              "id": "600520",
-              "name": "三佳科技",
-              "changePercent": 10.02,
-              "badge": "先进封装+半导体封装装备+合肥国资",
-              "sortOrder": 4
-            },
-            {
-              "id": "603931",
-              "name": "格林达",
-              "changePercent": 10.0,
-              "badge": "湿电子化学品+先进封装+光刻胶",
-              "sortOrder": 5
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885887.TI",
-      "name": "数据中心(AIDC)",
-      "stockCount": 6,
-      "highestBoardCount": 3,
-      "limitUpCount": 6,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.02,
-              "badge": "液冷算力+华为+多媒体视讯",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600156",
-              "name": "华升股份",
-              "changePercent": 10.01,
-              "badge": "算力租赁+重组推进+湖南国资",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002418",
-              "name": "康盛股份",
-              "changePercent": 10.14,
-              "badge": "液冷+算力+家电制冷",
-              "sortOrder": 1
-            },
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": null,
-              "sortOrder": 2
-            },
-            {
-              "id": "301348",
-              "name": "蓝箭电子",
-              "changePercent": 20.0,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
-              "id": "601616",
-              "name": "广电电气",
-              "changePercent": 10.0,
-              "badge": "数据中心配电+变压器+股份回购",
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886009.TI",
-      "name": "先进封装",
       "stockCount": 5,
       "highestBoardCount": 3,
       "limitUpCount": 5,
@@ -222,17 +90,17 @@
               "sortOrder": 2
             },
             {
-              "id": "301348",
-              "name": "蓝箭电子",
-              "changePercent": 20.0,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
               "id": "600520",
               "name": "三佳科技",
               "changePercent": 10.02,
               "badge": "先进封装+半导体封装装备+合肥国资",
+              "sortOrder": 3
+            },
+            {
+              "id": "603931",
+              "name": "格林达",
+              "changePercent": 10.0,
+              "badge": "湿电子化学品+先进封装+光刻胶",
               "sortOrder": 4
             }
           ]
@@ -240,8 +108,8 @@
       ]
     },
     {
-      "id": "885957.TI",
-      "name": "东数西算(算力)",
+      "id": "885887.TI",
+      "name": "数据中心(AIDC)",
       "stockCount": 5,
       "highestBoardCount": 3,
       "limitUpCount": 5,
@@ -291,10 +159,10 @@
               "sortOrder": 2
             },
             {
-              "id": "301348",
-              "name": "蓝箭电子",
-              "changePercent": 20.0,
-              "badge": null,
+              "id": "601616",
+              "name": "广电电气",
+              "changePercent": 10.0,
+              "badge": "数据中心配电+变压器+股份回购",
               "sortOrder": 3
             }
           ]
@@ -394,6 +262,110 @@
               "changePercent": 10.04,
               "badge": null,
               "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886009.TI",
+      "name": "先进封装",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603324",
+              "name": "盛剑科技",
+              "changePercent": 10.0,
+              "badge": "光刻胶+半导体附属装备+电子化学品",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002077",
+              "name": "大港股份",
+              "changePercent": 9.99,
+              "badge": "集成电路测试+封测+镇江国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 2
+            },
+            {
+              "id": "600520",
+              "name": "三佳科技",
+              "changePercent": 10.02,
+              "badge": "先进封装+半导体封装装备+合肥国资",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885957.TI",
+      "name": "东数西算(算力)",
+      "stockCount": 4,
+      "highestBoardCount": 3,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.02,
+              "badge": "液冷算力+华为+多媒体视讯",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600156",
+              "name": "华升股份",
+              "changePercent": 10.01,
+              "badge": "算力租赁+重组推进+湖南国资",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002418",
+              "name": "康盛股份",
+              "changePercent": 10.14,
+              "badge": "液冷+算力+家电制冷",
+              "sortOrder": 1
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 2
             }
           ]
         }
@@ -504,134 +476,6 @@
       ]
     },
     {
-      "id": "885997.TI",
-      "name": "比亚迪概念",
-      "stockCount": 4,
-      "highestBoardCount": 1,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000678",
-              "name": "襄阳轴承",
-              "changePercent": 9.99,
-              "badge": "机器人轴承+汽车轴承+湖北国资+“羊”字辈",
-              "sortOrder": 1
-            },
-            {
-              "id": "002420",
-              "name": "毅昌科技",
-              "changePercent": 9.93,
-              "badge": "机器人结构件+储能液冷+三季报增长",
-              "sortOrder": 2
-            },
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": null,
-              "sortOrder": 3
-            },
-            {
-              "id": "301348",
-              "name": "蓝箭电子",
-              "changePercent": 20.0,
-              "badge": null,
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885710.TI",
-      "name": "锂电池概念",
-      "stockCount": 4,
-      "highestBoardCount": 1,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "002077",
-              "name": "大港股份",
-              "changePercent": 9.99,
-              "badge": "集成电路测试+封测+镇江国资",
-              "sortOrder": 1
-            },
-            {
-              "id": "002418",
-              "name": "康盛股份",
-              "changePercent": 10.14,
-              "badge": "液冷+算力+家电制冷",
-              "sortOrder": 2
-            },
-            {
-              "id": "002420",
-              "name": "毅昌科技",
-              "changePercent": 9.93,
-              "badge": "机器人结构件+储能液冷+三季报增长",
-              "sortOrder": 3
-            },
-            {
-              "id": "301348",
-              "name": "蓝箭电子",
-              "changePercent": 20.0,
-              "badge": null,
-              "sortOrder": 4
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885641.TI",
-      "name": "风电",
-      "stockCount": 3,
-      "highestBoardCount": 3,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.02,
-              "badge": "液冷算力+华为+多媒体视讯",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002656",
-              "name": "摩登大道",
-              "changePercent": 10.04,
-              "badge": "电缆附件+电力+资产出售",
-              "sortOrder": 1
-            },
-            {
-              "id": "601616",
-              "name": "广电电气",
-              "changePercent": 10.0,
-              "badge": "数据中心配电+变压器+股份回购",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885743.TI",
       "name": "军民融合",
       "stockCount": 3,
@@ -708,7 +552,7 @@
               "id": "603813",
               "name": "原尚股份",
               "changePercent": 9.99,
-              "badge": null,
+              "badge": "氢能物流+空港物流+跨境电商",
               "sortOrder": 2
             }
           ]
@@ -804,7 +648,127 @@
           ]
         }
       ]
+    },
+    {
+      "id": "885785.TI",
+      "name": "小米概念",
+      "stockCount": 3,
+      "highestBoardCount": 2,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000889",
+              "name": "中嘉博创",
+              "changePercent": 10.06,
+              "badge": "算力销售+通信网络维护+业绩扭亏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002420",
+              "name": "毅昌科技",
+              "changePercent": 9.93,
+              "badge": "机器人结构件+储能液冷+三季报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885556.TI",
+      "name": "5G",
+      "stockCount": 3,
+      "highestBoardCount": 2,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000889",
+              "name": "中嘉博创",
+              "changePercent": 10.06,
+              "badge": "算力销售+通信网络维护+业绩扭亏",
+              "sortOrder": 1
+            },
+            {
+              "id": "600156",
+              "name": "华升股份",
+              "changePercent": 10.01,
+              "badge": "算力租赁+重组推进+湖南国资",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 3,
+      "highestBoardCount": 1,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000678",
+              "name": "襄阳轴承",
+              "changePercent": 9.99,
+              "badge": "机器人轴承+汽车轴承+湖北国资+“羊”字辈",
+              "sortOrder": 1
+            },
+            {
+              "id": "002420",
+              "name": "毅昌科技",
+              "changePercent": 9.93,
+              "badge": "机器人结构件+储能液冷+三季报增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": null,
+              "sortOrder": 3
+            }
+          ]
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-11-19 10:29:13"
+  "updatedAt": "2026-11-19 10:39:34"
 }
