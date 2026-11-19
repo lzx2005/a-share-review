@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 24,
-    "limitUpSuccessRate": 47,
-    "limitDownCount": 77
+    "limitUpCount": 28,
+    "limitUpSuccessRate": 54,
+    "limitDownCount": 71
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,24 +39,24 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 18
+        "stockCount": 22
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
-      "stockCount": 9
+      "stockCount": 10
     },
-    "poolFirstBoardCount": 18,
+    "poolFirstBoardCount": 22,
     "poolContinuousBoardCount": 6,
-    "poolBrokenBoardCount": 27
+    "poolBrokenBoardCount": 24
   },
   "themes": [
     {
       "id": "885756.TI",
       "name": "芯片概念",
-      "stockCount": 9,
+      "stockCount": 10,
       "highestBoardCount": 3,
-      "limitUpCount": 9,
+      "limitUpCount": 10,
       "ladders": [
         {
           "boardCount": 3,
@@ -74,7 +74,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 8,
+          "totalCount": 9,
           "stocks": [
             {
               "id": "002077",
@@ -125,11 +125,19 @@
               "isDragon": false
             },
             {
+              "id": "603928",
+              "name": "兴业股份",
+              "changePercent": 10.04,
+              "badge": "光刻胶树脂+合成树脂+三季报增长",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
               "id": "603931",
               "name": "格林达",
               "changePercent": 10.0,
               "badge": "湿电子化学品+先进封装+光刻胶",
-              "sortOrder": 7,
+              "sortOrder": 8,
               "isDragon": false
             },
             {
@@ -137,7 +145,7 @@
               "name": "时空科技",
               "changePercent": 10.0,
               "badge": "存储芯片+拟收购嘉合劲威+智慧城市",
-              "sortOrder": 8,
+              "sortOrder": 9,
               "isDragon": false
             }
           ]
@@ -147,9 +155,9 @@
     {
       "id": "886009.TI",
       "name": "先进封装",
-      "stockCount": 7,
+      "stockCount": 8,
       "highestBoardCount": 3,
-      "limitUpCount": 7,
+      "limitUpCount": 8,
       "ladders": [
         {
           "boardCount": 3,
@@ -167,7 +175,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 6,
+          "totalCount": 7,
           "stocks": [
             {
               "id": "002077",
@@ -210,11 +218,19 @@
               "isDragon": false
             },
             {
+              "id": "603928",
+              "name": "兴业股份",
+              "changePercent": 10.04,
+              "badge": "光刻胶树脂+合成树脂+三季报增长",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
               "id": "603931",
               "name": "格林达",
               "changePercent": 10.0,
               "badge": "湿电子化学品+先进封装+光刻胶",
-              "sortOrder": 6,
+              "sortOrder": 7,
               "isDragon": false
             }
           ]
@@ -372,6 +388,69 @@
       ]
     },
     {
+      "id": "885710.TI",
+      "name": "锂电池概念",
+      "stockCount": 6,
+      "highestBoardCount": 1,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "002077",
+              "name": "大港股份",
+              "changePercent": 9.99,
+              "badge": "集成电路测试+封测+镇江国资",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002418",
+              "name": "康盛股份",
+              "changePercent": 10.14,
+              "badge": "液冷+算力+家电制冷",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002420",
+              "name": "毅昌科技",
+              "changePercent": 9.93,
+              "badge": "机器人结构件+储能液冷+三季报增长",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "301348",
+              "name": "蓝箭电子",
+              "changePercent": 20.0,
+              "badge": "半导体封测+存储芯片封装+芯片设计",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "603078",
+              "name": "江化微",
+              "changePercent": 9.99,
+              "badge": "湿电子化学品+存储芯片+上海国资",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "603928",
+              "name": "兴业股份",
+              "changePercent": 10.04,
+              "badge": "光刻胶树脂+合成树脂+三季报增长",
+              "sortOrder": 6,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885921.TI",
       "name": "储能",
       "stockCount": 5,
@@ -425,6 +504,67 @@
               "name": "海立股份",
               "changePercent": 10.0,
               "badge": "光刻机冷却+空调压缩机+上海国资",
+              "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885864.TI",
+      "name": "光刻胶",
+      "stockCount": 5,
+      "highestBoardCount": 3,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603324",
+              "name": "盛剑科技",
+              "changePercent": 10.0,
+              "badge": "光刻胶+半导体附属装备+电子化学品",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "001358",
+              "name": "兴欣新材",
+              "changePercent": 10.02,
+              "badge": "光刻胶剥离液+电子化学品项目+股份回购",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "603078",
+              "name": "江化微",
+              "changePercent": 9.99,
+              "badge": "湿电子化学品+存储芯片+上海国资",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "603928",
+              "name": "兴业股份",
+              "changePercent": 10.04,
+              "badge": "光刻胶树脂+合成树脂+三季报增长",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "603931",
+              "name": "格林达",
+              "changePercent": 10.0,
+              "badge": "湿电子化学品+先进封装+光刻胶",
               "sortOrder": 4,
               "isDragon": false
             }
@@ -500,6 +640,67 @@
       ]
     },
     {
+      "id": "885699.TI",
+      "name": "ST板块",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000010",
+              "name": "*ST美丽",
+              "changePercent": 10.53,
+              "badge": "增持计划+面值退市保壳+工程施工",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000610",
+              "name": "*ST西旅",
+              "changePercent": 10.06,
+              "badge": "预重整+旅游酒店+西安国资",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000838",
+              "name": "*ST发展",
+              "changePercent": 10.09,
+              "badge": "预重整+重整保壳+危废处理",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "301030",
+              "name": "*ST仕净",
+              "changePercent": 20.0,
+              "badge": "预重整+光伏环保+氨回收",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "600530",
+              "name": "ST交昂",
+              "changePercent": 9.98,
+              "badge": null,
+              "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885997.TI",
       "name": "比亚迪概念",
       "stockCount": 5,
@@ -547,61 +748,6 @@
               "name": "海立股份",
               "changePercent": 10.0,
               "badge": "光刻机冷却+空调压缩机+上海国资",
-              "sortOrder": 5,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885710.TI",
-      "name": "锂电池概念",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "002077",
-              "name": "大港股份",
-              "changePercent": 9.99,
-              "badge": "集成电路测试+封测+镇江国资",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002418",
-              "name": "康盛股份",
-              "changePercent": 10.14,
-              "badge": "液冷+算力+家电制冷",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002420",
-              "name": "毅昌科技",
-              "changePercent": 9.93,
-              "badge": "机器人结构件+储能液冷+三季报增长",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "301348",
-              "name": "蓝箭电子",
-              "changePercent": 20.0,
-              "badge": "半导体封测+存储芯片封装+芯片设计",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "603078",
-              "name": "江化微",
-              "changePercent": 9.99,
-              "badge": "湿电子化学品+存储芯片+上海国资",
               "sortOrder": 5,
               "isDragon": false
             }
@@ -718,59 +864,6 @@
       ]
     },
     {
-      "id": "885699.TI",
-      "name": "ST板块",
-      "stockCount": 4,
-      "highestBoardCount": 2,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "000010",
-              "name": "*ST美丽",
-              "changePercent": 10.53,
-              "badge": "增持计划+面值退市保壳+工程施工",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000610",
-              "name": "*ST西旅",
-              "changePercent": 10.06,
-              "badge": "预重整+旅游酒店+西安国资",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "000838",
-              "name": "*ST发展",
-              "changePercent": 10.09,
-              "badge": "预重整+重整保壳+危废处理",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "301030",
-              "name": "*ST仕净",
-              "changePercent": 20.0,
-              "badge": "预重整+光伏环保+氨回收",
-              "sortOrder": 3,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "885410.TI",
       "name": "固废处理",
       "stockCount": 4,
@@ -877,89 +970,46 @@
       ]
     },
     {
-      "id": "885743.TI",
-      "name": "军民融合",
-      "stockCount": 3,
-      "highestBoardCount": 3,
-      "limitUpCount": 3,
+      "id": "885543.TI",
+      "name": "家用电器",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
       "ladders": [
         {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.02,
-              "badge": "液冷算力+华为+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
           "boardCount": 1,
-          "totalCount": 2,
+          "totalCount": 4,
           "stocks": [
             {
-              "id": "000678",
-              "name": "襄阳轴承",
-              "changePercent": 9.99,
-              "badge": "机器人轴承+汽车轴承+湖北国资+“羊”字辈",
+              "id": "002242",
+              "name": "九阳股份",
+              "changePercent": 10.01,
+              "badge": "厨房小家电+机器人投资+“羊”字辈",
               "sortOrder": 1,
               "isDragon": false
             },
             {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": "高阶HDI+算力+存储",
+              "id": "002418",
+              "name": "康盛股份",
+              "changePercent": 10.14,
+              "badge": "液冷+算力+家电制冷",
               "sortOrder": 2,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885976.TI",
-      "name": "数字经济",
-      "stockCount": 3,
-      "highestBoardCount": 3,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.02,
-              "badge": "液冷算力+华为+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 1,
               "isDragon": false
             },
             {
-              "id": "603813",
-              "name": "原尚股份",
-              "changePercent": 9.99,
-              "badge": "氢能物流+空港物流+跨境电商",
-              "sortOrder": 2,
+              "id": "002420",
+              "name": "毅昌科技",
+              "changePercent": 9.93,
+              "badge": "机器人结构件+储能液冷+三季报增长",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "600619",
+              "name": "海立股份",
+              "changePercent": 10.0,
+              "badge": "光刻机冷却+空调压缩机+上海国资",
+              "sortOrder": 4,
               "isDragon": false
             }
           ]
@@ -1104,5 +1154,5 @@
       "score": 9.1
     }
   ],
-  "updatedAt": "2026-11-19 14:42:41"
+  "updatedAt": "2026-11-19 14:52:55"
 }
