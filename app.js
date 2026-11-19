@@ -141,8 +141,31 @@ if (typeof window !== 'undefined') {
     const r = state.report
     renderSummary(r.marketSummary)
     renderSentiment(r.sentiment)
+    renderYinPool(r.dragonYinPool)
     renderThemes(r.themes)
     setHidden('#summaryGrid,#sentimentPanel,#themeList', false)
+  }
+
+  // 龙头首阴观察池(buy_signals 15:20 更新):只看板块龙头(最高连板,并列取先封)断板后的 T+1/T+2,
+  // 跟风/补涨首阴不进池;9:27 竞价弱转强(涨幅≥1% 且量比≥1.2)Bark 提醒介入,收盘破首阴收×0.93 作废。
+  function renderYinPool(list) {
+    const panel = document.getElementById('yinPoolPanel')
+    if (!panel) return
+    if (!list || !list.length) { panel.hidden = true; panel.innerHTML = ''; return }
+    const cards = list.map(x => {
+      const margin = (x.breakMarginPct === null || x.breakMarginPct === undefined) ? '--'
+        : (x.breakMarginPct > 0 ? '+' : '') + x.breakMarginPct + '%'
+      const yc = (x.yinClose === null || x.yinClose === undefined) ? '--' : x.yinClose
+      const lc = (x.lastClose === null || x.lastClose === undefined) ? '--' : x.lastClose
+      return `<div class="stock-card yin-card">
+        <div class="s-name">${x.name || x.id}<span class="lag-code">${x.id}</span></div>
+        <div class="s-concept">${x.boardName || ''} · 前${x.streak}板龙头 · 阴${x.yinDays}天</div>
+        <div class="lag-metrics">首阴收 <em>${yc}</em> · 最近收 <em>${lc}</em> · 距作废线 <em>${margin}</em></div>
+      </div>`
+    }).join('')
+    panel.innerHTML = `<header class="lag-title">🐉 龙头首阴观察池 <span class="lag-sub">只看板块龙头断板(最高连板·并列取先封)· T+1/T+2 竞价弱转强介入(9:27 Bark)· 破首阴收×0.93 作废</span></header>
+      <div class="lag-grid">${cards}</div>`
+    panel.hidden = false
   }
 
   // 潜在补涨·低位股(buy_signals 14:30/15:20 扫描写入):按板块名挂到对应题材卡梯队末尾(一板之后),

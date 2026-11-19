@@ -88,6 +88,9 @@ body{overflow-x:hidden;font-feature-settings:"tnum" on}
 .lag-metrics .s-pct.neutral{color:var(--text-aux)}
 
 .laggard-panel{margin-top:16px;background:#fff;border:1px solid var(--down-border);border-radius:12px;padding:16px}
+.yin-panel{border-color:#D9D0F5}
+.yin-card{border-color:#D9D0F5;background:var(--high-bg)}
+.yin-card .s-name{color:var(--high)}
 .lag-title{font-size:16px;font-weight:700;color:var(--text-main);display:flex;flex-wrap:wrap;align-items:baseline;gap:8px;margin-bottom:12px}
 .lag-sub{font-size:12px;font-weight:400;color:var(--text-aux)}
 .lag-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(260px,100%),1fr));gap:8px}
