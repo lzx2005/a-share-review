@@ -8,8 +8,8 @@
   "marketSummary": {
     "indexChangePercent": null,
     "limitUpCount": 23,
-    "limitUpSuccessRate": 59,
-    "limitDownCount": 22
+    "limitUpSuccessRate": 56,
+    "limitDownCount": 27
   },
   "sentiment": {
     "promotion1To2": {
@@ -48,7 +48,7 @@
     },
     "poolFirstBoardCount": 18,
     "poolContinuousBoardCount": 5,
-    "poolBrokenBoardCount": 16
+    "poolBrokenBoardCount": 18
   },
   "themes": [
     {
@@ -892,5 +892,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19 12:54:34"
+  "updatedAt": "2026-11-19 13:04:46"
 }
