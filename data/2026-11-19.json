@@ -8,8 +8,8 @@
   "marketSummary": {
     "indexChangePercent": null,
     "limitUpCount": 26,
-    "limitUpSuccessRate": 53,
-    "limitDownCount": 76
+    "limitUpSuccessRate": 52,
+    "limitDownCount": 72
   },
   "sentiment": {
     "promotion1To2": {
@@ -48,7 +48,7 @@
     },
     "poolFirstBoardCount": 21,
     "poolContinuousBoardCount": 5,
-    "poolBrokenBoardCount": 23
+    "poolBrokenBoardCount": 24
   },
   "themes": [
     {
@@ -995,46 +995,73 @@
   ],
   "laggardCandidates": [
     {
-      "id": "002079.SZ",
-      "name": "苏州固锝",
-      "boardName": "先进封装",
-      "changePercent": -1.97,
-      "pct5d": -7.78,
-      "position": 1.1,
-      "score": 11.4
-    },
-    {
-      "id": "688571.SH",
-      "name": "杭华股份",
-      "boardName": "光刻胶",
-      "changePercent": -1.74,
-      "pct5d": -7.57,
-      "position": 1.7,
-      "score": 11.0
-    },
-    {
-      "id": "000736.SZ",
-      "name": "中交发展",
-      "boardName": "摘帽",
-      "changePercent": -2.35,
-      "pct5d": -7.64,
-      "position": 3.3,
-      "score": 10.6
-    },
-    {
       "id": "002455.SZ",
       "name": "百川股份",
       "boardName": "光刻胶",
       "changePercent": -3.0,
       "pct5d": -7.25,
-      "position": 2.6,
-      "score": 10.5
+      "position": 3.8,
+      "score": 12.7
+    },
+    {
+      "id": "002559.SZ",
+      "name": "亚威股份",
+      "boardName": "光刻胶",
+      "changePercent": -2.4,
+      "pct5d": -6.75,
+      "position": 1.6,
+      "score": 12.7
+    },
+    {
+      "id": "603125.SH",
+      "name": "常青科技",
+      "boardName": "光刻胶",
+      "changePercent": -1.16,
+      "pct5d": -7.2,
+      "position": 5.9,
+      "score": 12.3
+    },
+    {
+      "id": "688093.SH",
+      "name": "世华科技",
+      "boardName": "光刻胶",
+      "changePercent": -1.43,
+      "pct5d": -7.12,
+      "position": 6.4,
+      "score": 12.1
+    },
+    {
+      "id": "688181.SH",
+      "name": "八亿时空",
+      "boardName": "光刻胶",
+      "changePercent": -0.65,
+      "pct5d": -7.62,
+      "position": 10.2,
+      "score": 11.8
+    },
+    {
+      "id": "300797.SZ",
+      "name": "钢研纳克",
+      "boardName": "光刻胶",
+      "changePercent": -1.68,
+      "pct5d": -6.1,
+      "position": 2.9,
+      "score": 11.8
+    },
+    {
+      "id": "000881.SZ",
+      "name": "中广核技",
+      "boardName": "先进封装",
+      "changePercent": -2.91,
+      "pct5d": -7.04,
+      "position": 2.4,
+      "score": 10.4
     },
     {
       "id": "002496.SZ",
       "name": "辉丰股份",
       "boardName": "摘帽",
-      "changePercent": -2.35,
+      "changePercent": -1.76,
       "pct5d": -7.22,
       "position": 2.5,
       "score": 10.3
@@ -1049,85 +1076,58 @@
       "score": 10.3
     },
     {
-      "id": "002559.SZ",
-      "name": "亚威股份",
-      "boardName": "光刻胶",
-      "changePercent": -2.27,
-      "pct5d": -6.5,
-      "position": 0.8,
-      "score": 10.1
-    },
-    {
-      "id": "000881.SZ",
-      "name": "中广核技",
-      "boardName": "先进封装",
-      "changePercent": -2.74,
-      "pct5d": -6.87,
-      "position": 3.3,
-      "score": 10.1
-    },
-    {
       "id": "002137.SZ",
       "name": "实益达",
       "boardName": "先进封装",
-      "changePercent": -1.04,
-      "pct5d": -7.4,
-      "position": 6.4,
+      "changePercent": -1.19,
+      "pct5d": -7.54,
+      "position": 5.6,
+      "score": 10.3
+    },
+    {
+      "id": "000736.SZ",
+      "name": "中交发展",
+      "boardName": "摘帽",
+      "changePercent": -1.83,
+      "pct5d": -7.39,
+      "position": 5.0,
       "score": 10.0
     },
     {
-      "id": "603125.SH",
-      "name": "常青科技",
+      "id": "600587.SH",
+      "name": "新华医疗",
       "boardName": "光刻胶",
-      "changePercent": -1.16,
-      "pct5d": -7.2,
-      "position": 5.9,
-      "score": 9.8
+      "changePercent": -1.57,
+      "pct5d": -4.42,
+      "position": 3.4,
+      "score": 10.0
+    },
+    {
+      "id": "300187.SZ",
+      "name": "永清环保",
+      "boardName": "固废处理",
+      "changePercent": -2.2,
+      "pct5d": -7.39,
+      "position": 0.0,
+      "score": 10.0
     },
     {
       "id": "002106.SZ",
       "name": "莱宝高科",
       "boardName": "先进封装",
-      "changePercent": -1.81,
-      "pct5d": -6.06,
-      "position": 2.3,
-      "score": 9.5
+      "changePercent": -2.04,
+      "pct5d": -6.39,
+      "position": 1.7,
+      "score": 9.9
     },
     {
-      "id": "301500.SZ",
-      "name": "飞南资源",
-      "boardName": "固废处理",
-      "changePercent": -1.45,
-      "pct5d": -7.89,
-      "position": 5.3,
-      "score": 9.4
-    },
-    {
-      "id": "688181.SH",
-      "name": "八亿时空",
-      "boardName": "先进封装",
-      "changePercent": -0.55,
-      "pct5d": -7.53,
-      "position": 10.6,
-      "score": 9.3
-    },
-    {
-      "id": "688439.SH",
-      "name": "振华风光",
-      "boardName": "先进封装",
-      "changePercent": -1.67,
-      "pct5d": -6.13,
-      "position": 3.7,
-      "score": 9.2
-    },
-    {
-      "id": "300797.SZ",
-      "name": "钢研纳克",
-      "boardName": "光刻胶",
-      "changePercent": -1.86,
-      "pct5d": -6.01,
-      "position": 3.5,
-      "score": 9.1
+      "id": "300376.SZ",
+      "name": "易事特",
+      "boardName": "摘帽",
+      "changePercent": -2.13,
+      "pct5d": -6.62,
+      "position": 2.1,
+      "score": 9.8
     }
   ],
   "dragonYinPool": [
@@ -1138,8 +1138,8 @@
       "streak": 4,
       "yinDays": 1,
       "yinClose": 7.38,
-      "lastClose": 7.39,
-      "breakMarginPct": 7.7
+      "lastClose": 7.67,
+      "breakMarginPct": 11.8
     },
     {
       "id": "000707.SZ",
@@ -1162,15 +1162,25 @@
       "breakMarginPct": 7.5
     },
     {
+      "id": "301391.SZ",
+      "name": "卡莱特",
+      "boardName": "华为昇腾",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 55.98,
+      "lastClose": 55.98,
+      "breakMarginPct": 7.5
+    },
+    {
       "id": "600410.SH",
       "name": "华胜天成",
       "boardName": "腾讯概念",
       "streak": 2,
       "yinDays": 1,
       "yinClose": 17.0,
-      "lastClose": 16.95,
-      "breakMarginPct": 7.2
+      "lastClose": 16.7,
+      "breakMarginPct": 5.6
     }
   ],
-  "updatedAt": "2026-11-19 15:18:08"
+  "updatedAt": "2026-11-19 15:33:06"
 }

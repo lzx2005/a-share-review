@@ -141,31 +141,39 @@ if (typeof window !== 'undefined') {
     const r = state.report
     renderSummary(r.marketSummary)
     renderSentiment(r.sentiment)
-    renderYinPool(r.dragonYinPool)
     renderThemes(r.themes)
     setHidden('#summaryGrid,#sentimentPanel,#themeList', false)
   }
 
-  // 龙头首阴观察池(buy_signals 15:20 更新):只看板块龙头(最高连板,并列取先封)断板后的 T+1/T+2,
-  // 跟风/补涨首阴不进池;9:27 竞价弱转强(涨幅≥1% 且量比≥1.2)Bark 提醒介入,收盘破首阴收×0.93 作废。
+  // 龙头首阴(buy_signals 15:20 更新):只看板块龙头(最高连板,并列取先封)断板后的 T+1/T+2。
+  // 按板块名挂到对应题材卡梯队最上方(龙头位);对不上板块的落到此独立面板(其他板块)。
+  // 9:27 竞价弱转强(涨幅≥1% 且量比≥1.2)Bark 提醒介入,收盘破首阴收×0.93 作废。
   function renderYinPool(list) {
     const panel = document.getElementById('yinPoolPanel')
     if (!panel) return
     if (!list || !list.length) { panel.hidden = true; panel.innerHTML = ''; return }
-    const cards = list.map(x => {
-      const margin = (x.breakMarginPct === null || x.breakMarginPct === undefined) ? '--'
-        : (x.breakMarginPct > 0 ? '+' : '') + x.breakMarginPct + '%'
-      const yc = (x.yinClose === null || x.yinClose === undefined) ? '--' : x.yinClose
-      const lc = (x.lastClose === null || x.lastClose === undefined) ? '--' : x.lastClose
-      return `<div class="stock-card yin-card">
-        <div class="s-name">${x.name || x.id}<span class="lag-code">${x.id}</span></div>
-        <div class="s-concept">${x.boardName || ''} · 前${x.streak}板龙头 · 阴${x.yinDays}天</div>
-        <div class="lag-metrics">首阴收 <em>${yc}</em> · 最近收 <em>${lc}</em> · 距作废线 <em>${margin}</em></div>
-      </div>`
-    }).join('')
-    panel.innerHTML = `<header class="lag-title">🐉 龙头首阴观察池 <span class="lag-sub">只看板块龙头断板(最高连板·并列取先封)· T+1/T+2 竞价弱转强介入(9:27 Bark)· 破首阴收×0.93 作废</span></header>
-      <div class="lag-grid">${cards}</div>`
+    panel.innerHTML = `<header class="lag-title">🐉 龙头首阴观察池 · 其他板块 <span class="lag-sub">只看板块龙头断板(最高连板·并列取先封)· T+1/T+2 竞价弱转强介入(9:27 Bark)· 破首阴收×0.93 作废</span></header>
+      <div class="lag-grid">${list.map(yinCard).join('')}</div>`
     panel.hidden = false
+  }
+
+  function yinCard(x) {
+    const margin = (x.breakMarginPct === null || x.breakMarginPct === undefined) ? '--'
+      : (x.breakMarginPct > 0 ? '+' : '') + x.breakMarginPct + '%'
+    const yc = (x.yinClose === null || x.yinClose === undefined) ? '--' : x.yinClose
+    const lc = (x.lastClose === null || x.lastClose === undefined) ? '--' : x.lastClose
+    return `<div class="stock-card yin-card">
+      <div class="s-name">${x.name || x.id}<span class="lag-code">${x.id}</span></div>
+      <div class="s-concept">前${x.streak}板龙头 · 阴${x.yinDays}天</div>
+      <div class="lag-metrics">首阴收 <em>${yc}</em> · 最近收 <em>${lc}</em> · 距作废线 <em>${margin}</em></div>
+    </div>`
+  }
+
+  function yinRow(list) {
+    return `<div class="ladder-row yin-row">
+      <span class="ladder-badge yin-badge">首阴(${list.length})</span>
+      <div class="ladder-slot"><div class="stock-grid">${list.map(yinCard).join('')}</div></div>
+    </div>`
   }
 
   // 潜在补涨·低位股(buy_signals 14:30/15:20 扫描写入):按板块名挂到对应题材卡梯队末尾(一板之后),
@@ -253,22 +261,29 @@ if (typeof window !== 'undefined') {
   function renderThemes(themes) {
     const list = (themes || []).filter(validTheme)
     const allLag = (state.report && state.report.laggardCandidates) || []
+    const allYin = (state.report && state.report.dragonYinPool) || []
     if (!list.length) {
       document.getElementById('themeList').innerHTML = '<section class="empty-banner"><p>暂无题材数据</p></section>'
+      renderYinPool(allYin)
       renderLaggards(allLag)
       return
     }
     const used = new Set()
+    const usedYin = new Set()
     document.getElementById('themeList').innerHTML = list.map(t => {
       const mine = allLag.filter(x => x.boardName === t.name)
       mine.forEach(x => used.add(x.id))
-      return themeCard(t, mine)
+      const myYin = allYin.filter(x => x.boardName === t.name)
+      myYin.forEach(x => usedYin.add(x.id))
+      return themeCard(t, mine, myYin)
     }).join('')
     list.forEach(t => t.ladders.forEach((l, li) => bindExpand(t.id, l.boardCount, li)))
+    renderYinPool(allYin.filter(x => !usedYin.has(x.id)))
     renderLaggards(allLag.filter(x => !used.has(x.id)))
   }
 
-  function themeCard(t, laggards) {
+  function themeCard(t, laggards, yins) {
+    const yRow = yins && yins.length ? yinRow(yins) : ''
     const ladders = t.ladders.map((l, i) => ladderRow(t.id, l, i)).join('')
     const lagRow = laggards && laggards.length ? laggardRow(laggards) : ''
     return `<section class="theme-card">
@@ -278,7 +293,7 @@ if (typeof window !== 'undefined') {
         <span class="badge-hi">最高 ${t.highestBoardCount} 板</span>
         <span class="badge-today">今涨停 ${t.limitUpCount}</span>
       </aside>
-      <div class="theme-ladders">${ladders}${lagRow}</div>
+      <div class="theme-ladders">${yRow}${ladders}${lagRow}</div>
     </section>`
   }
 

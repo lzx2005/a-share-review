@@ -78,6 +78,7 @@ body{overflow-x:hidden;font-feature-settings:"tnum" on}
 .stock-card.dragon{border-color:var(--high);background:linear-gradient(180deg,#F6F3FF 0%,#fff 60%)}
 .stock-card .s-dragon{display:inline-flex;align-self:flex-start;align-items:center;gap:2px;background:var(--high-bg);color:var(--high);border:1px solid #D9D0F5;border-radius:6px;padding:1px 6px;font-size:11px;font-weight:700}
 
+.ladder-badge.yin-badge{background:var(--high-bg);color:var(--high);border:1px solid #D9D0F5}
 .ladder-badge.lag-badge{background:var(--down-bg);color:var(--down);border:1px solid var(--down-border)}
 .lag-card{border-color:var(--down-border);background:var(--down-bg)}
 .lag-card .s-name{color:var(--text-main)}
