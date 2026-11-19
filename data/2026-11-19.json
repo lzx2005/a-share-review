@@ -9,7 +9,7 @@
     "indexChangePercent": null,
     "limitUpCount": 30,
     "limitUpSuccessRate": 61,
-    "limitDownCount": 45
+    "limitDownCount": 44
   },
   "sentiment": {
     "promotion1To2": {
@@ -135,7 +135,7 @@
               "id": "603928",
               "name": "兴业股份",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "光刻胶树脂+合成树脂+三季报增长",
               "sortOrder": 8
             },
             {
@@ -226,7 +226,7 @@
               "id": "603928",
               "name": "兴业股份",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "光刻胶树脂+合成树脂+三季报增长",
               "sortOrder": 6
             },
             {
@@ -506,7 +506,7 @@
               "id": "603928",
               "name": "兴业股份",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "光刻胶树脂+合成树脂+三季报增长",
               "sortOrder": 6
             }
           ]
@@ -611,7 +611,7 @@
               "id": "603928",
               "name": "兴业股份",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "光刻胶树脂+合成树脂+三季报增长",
               "sortOrder": 3
             },
             {
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19 13:49:11"
+  "updatedAt": "2026-11-19 13:53:45"
 }
