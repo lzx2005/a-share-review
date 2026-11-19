@@ -9,7 +9,7 @@
     "indexChangePercent": null,
     "limitUpCount": 24,
     "limitUpSuccessRate": 47,
-    "limitDownCount": 75
+    "limitDownCount": 77
   },
   "sentiment": {
     "promotion1To2": {
@@ -1104,5 +1104,5 @@
       "score": 9.1
     }
   ],
-  "updatedAt": "2026-11-19 14:41:41"
+  "updatedAt": "2026-11-19 14:42:41"
 }
