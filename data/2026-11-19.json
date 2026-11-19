@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 19,
-    "limitUpSuccessRate": 53,
-    "limitDownCount": 21
+    "limitUpCount": 21,
+    "limitUpSuccessRate": 57,
+    "limitDownCount": 22
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,24 +39,24 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 14
+        "stockCount": 16
       }
     ],
     "hotTheme": {
       "name": "芯片概念",
-      "stockCount": 6
+      "stockCount": 8
     },
-    "poolFirstBoardCount": 14,
+    "poolFirstBoardCount": 16,
     "poolContinuousBoardCount": 5,
-    "poolBrokenBoardCount": 17
+    "poolBrokenBoardCount": 16
   },
   "themes": [
     {
       "id": "885756.TI",
       "name": "芯片概念",
-      "stockCount": 6,
+      "stockCount": 8,
       "highestBoardCount": 3,
-      "limitUpCount": 6,
+      "limitUpCount": 8,
       "ladders": [
         {
           "boardCount": 3,
@@ -73,7 +73,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 5,
+          "totalCount": 7,
           "stocks": [
             {
               "id": "002077",
@@ -104,11 +104,25 @@
               "sortOrder": 4
             },
             {
+              "id": "600619",
+              "name": "海立股份",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 5
+            },
+            {
               "id": "603931",
               "name": "格林达",
               "changePercent": 10.0,
               "badge": "湿电子化学品+先进封装+光刻胶",
-              "sortOrder": 5
+              "sortOrder": 6
+            },
+            {
+              "id": "605178",
+              "name": "时空科技",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 7
             }
           ]
         }
@@ -177,6 +191,62 @@
               "name": "广电电气",
               "changePercent": 10.0,
               "badge": "数据中心配电+变压器+股份回购",
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885921.TI",
+      "name": "储能",
+      "stockCount": 5,
+      "highestBoardCount": 3,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.02,
+              "badge": "液冷算力+华为+多媒体视讯",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002418",
+              "name": "康盛股份",
+              "changePercent": 10.14,
+              "badge": "液冷+算力+家电制冷",
+              "sortOrder": 1
+            },
+            {
+              "id": "002420",
+              "name": "毅昌科技",
+              "changePercent": 9.93,
+              "badge": "机器人结构件+储能液冷+三季报增长",
+              "sortOrder": 2
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 3
+            },
+            {
+              "id": "600619",
+              "name": "海立股份",
+              "changePercent": 10.0,
+              "badge": null,
               "sortOrder": 4
             }
           ]
@@ -351,15 +421,15 @@
       ]
     },
     {
-      "id": "885921.TI",
-      "name": "储能",
+      "id": "885312.TI",
+      "name": "物联网",
       "stockCount": 4,
       "highestBoardCount": 3,
       "limitUpCount": 4,
       "ladders": [
         {
           "boardCount": 3,
-          "totalCount": 1,
+          "totalCount": 2,
           "stocks": [
             {
               "id": "002771",
@@ -367,33 +437,33 @@
               "changePercent": 10.02,
               "badge": "液冷算力+华为+多媒体视讯",
               "sortOrder": 1
+            },
+            {
+              "id": "603030",
+              "name": "全筑股份",
+              "changePercent": 9.86,
+              "badge": "边缘AI算力+先进光源+智慧建筑",
+              "sortOrder": 2
             }
           ]
         },
         {
           "boardCount": 1,
-          "totalCount": 3,
+          "totalCount": 2,
           "stocks": [
-            {
-              "id": "002418",
-              "name": "康盛股份",
-              "changePercent": 10.14,
-              "badge": "液冷+算力+家电制冷",
-              "sortOrder": 1
-            },
-            {
-              "id": "002420",
-              "name": "毅昌科技",
-              "changePercent": 9.93,
-              "badge": "机器人结构件+储能液冷+三季报增长",
-              "sortOrder": 2
-            },
             {
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.04,
               "badge": "高阶HDI+算力+存储",
-              "sortOrder": 3
+              "sortOrder": 1
+            },
+            {
+              "id": "605178",
+              "name": "时空科技",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 2
             }
           ]
         }
@@ -449,6 +519,55 @@
               "changePercent": 10.14,
               "badge": "液冷+算力+家电制冷",
               "sortOrder": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885785.TI",
+      "name": "小米概念",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000889",
+              "name": "中嘉博创",
+              "changePercent": 10.06,
+              "badge": "算力销售+通信网络维护+业绩扭亏",
+              "sortOrder": 1
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "002420",
+              "name": "毅昌科技",
+              "changePercent": 9.93,
+              "badge": "机器人结构件+储能液冷+三季报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 2
+            },
+            {
+              "id": "600619",
+              "name": "海立股份",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 3
             }
           ]
         }
@@ -547,6 +666,92 @@
       ]
     },
     {
+      "id": "886042.TI",
+      "name": "存储芯片",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002077",
+              "name": "大港股份",
+              "changePercent": 9.99,
+              "badge": "集成电路测试+封测+镇江国资",
+              "sortOrder": 1
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 2
+            },
+            {
+              "id": "301348",
+              "name": "蓝箭电子",
+              "changePercent": 20.0,
+              "badge": "半导体封测+存储芯片封装+芯片设计",
+              "sortOrder": 3
+            },
+            {
+              "id": "605178",
+              "name": "时空科技",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002420",
+              "name": "毅昌科技",
+              "changePercent": 9.93,
+              "badge": "机器人结构件+储能液冷+三季报增长",
+              "sortOrder": 1
+            },
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.04,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 2
+            },
+            {
+              "id": "301348",
+              "name": "蓝箭电子",
+              "changePercent": 20.0,
+              "badge": "半导体封测+存储芯片封装+芯片设计",
+              "sortOrder": 3
+            },
+            {
+              "id": "600619",
+              "name": "海立股份",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885976.TI",
       "name": "数字经济",
       "stockCount": 3,
@@ -583,48 +788,6 @@
               "changePercent": 9.99,
               "badge": "氢能物流+空港物流+跨境电商",
               "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885312.TI",
-      "name": "物联网",
-      "stockCount": 3,
-      "highestBoardCount": 3,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.02,
-              "badge": "液冷算力+华为+多媒体视讯",
-              "sortOrder": 1
-            },
-            {
-              "id": "603030",
-              "name": "全筑股份",
-              "changePercent": 9.86,
-              "badge": "边缘AI算力+先进光源+智慧建筑",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 1
             }
           ]
         }
@@ -677,133 +840,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": "885785.TI",
-      "name": "小米概念",
-      "stockCount": 3,
-      "highestBoardCount": 2,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "000889",
-              "name": "中嘉博创",
-              "changePercent": 10.06,
-              "badge": "算力销售+通信网络维护+业绩扭亏",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002420",
-              "name": "毅昌科技",
-              "changePercent": 9.93,
-              "badge": "机器人结构件+储能液冷+三季报增长",
-              "sortOrder": 1
-            },
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885800.TI",
-      "name": "消费电子概念",
-      "stockCount": 3,
-      "highestBoardCount": 2,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600156",
-              "name": "华升股份",
-              "changePercent": 10.01,
-              "badge": "算力租赁+重组推进+湖南国资",
-              "sortOrder": 1
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 1
-            },
-            {
-              "id": "301348",
-              "name": "蓝箭电子",
-              "changePercent": 20.0,
-              "badge": "半导体封测+存储芯片封装+芯片设计",
-              "sortOrder": 2
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885556.TI",
-      "name": "5G",
-      "stockCount": 3,
-      "highestBoardCount": 2,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "000889",
-              "name": "中嘉博创",
-              "changePercent": 10.06,
-              "badge": "算力销售+通信网络维护+业绩扭亏",
-              "sortOrder": 1
-            },
-            {
-              "id": "600156",
-              "name": "华升股份",
-              "changePercent": 10.01,
-              "badge": "算力租赁+重组推进+湖南国资",
-              "sortOrder": 2
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.04,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 1
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updatedAt": "2026-11-19 10:49:54"
+  "updatedAt": "2026-11-19 11:00:31"
 }
