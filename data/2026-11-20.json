@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 13,
-    "limitUpSuccessRate": 87,
-    "limitDownCount": 17
+    "limitUpCount": 15,
+    "limitUpSuccessRate": 75,
+    "limitDownCount": 16
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,24 +39,158 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 9
+        "stockCount": 11
       }
     ],
     "hotTheme": {
-      "name": "芯片概念",
-      "stockCount": 6
+      "name": "数据中心(AIDC)",
+      "stockCount": 5
     },
-    "poolFirstBoardCount": 9,
+    "poolFirstBoardCount": 11,
     "poolContinuousBoardCount": 4,
-    "poolBrokenBoardCount": 2
+    "poolBrokenBoardCount": 5
   },
   "themes": [
     {
+      "id": "885887.TI",
+      "name": "数据中心(AIDC)",
+      "stockCount": 5,
+      "highestBoardCount": 4,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.01,
+              "badge": "液冷算力+华为算力+多媒体视讯",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.02,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": "PCB+覆铜板+订单充足",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.0,
+              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "AI算力电源PCB+高端PCB扩产+HDI板",
+              "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885957.TI",
+      "name": "东数西算(算力)",
+      "stockCount": 5,
+      "highestBoardCount": 4,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.01,
+              "badge": "液冷算力+华为算力+多媒体视讯",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.02,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": "PCB+覆铜板+订单充足",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.0,
+              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "AI算力电源PCB+高端PCB扩产+HDI板",
+              "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885756.TI",
       "name": "芯片概念",
-      "stockCount": 6,
+      "stockCount": 5,
       "highestBoardCount": 4,
-      "limitUpCount": 6,
+      "limitUpCount": 5,
       "ladders": [
         {
           "boardCount": 4,
@@ -88,7 +222,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 4,
+          "totalCount": 3,
           "stocks": [
             {
               "id": "002741",
@@ -102,7 +236,7 @@
               "id": "300812",
               "name": "易天股份",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "硅基OLED+先进封装+光模块设备",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -112,14 +246,6 @@
               "changePercent": 10.01,
               "badge": "功率半导体+车规IGBT+SiC模块",
               "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "603948",
-              "name": "建业股份",
-              "changePercent": 10.01,
-              "badge": "电子化学品+半导体客户+超纯氨",
-              "sortOrder": 4,
               "isDragon": false
             }
           ]
@@ -177,7 +303,7 @@
               "id": "300812",
               "name": "易天股份",
               "changePercent": 20.0,
-              "badge": null,
+              "badge": "硅基OLED+先进封装+光模块设备",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -187,6 +313,436 @@
               "changePercent": 10.01,
               "badge": "功率半导体+车规IGBT+SiC模块",
               "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885556.TI",
+      "name": "5G",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.02,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": "PCB+覆铜板+订单充足",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.0,
+              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002741",
+              "name": "光华科技",
+              "changePercent": 10.03,
+              "badge": "光刻胶+PCB化学品+硫化锂",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "AI算力电源PCB+高端PCB扩产+HDI板",
+              "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886033.TI",
+      "name": "共封装光学(CPO)",
+      "stockCount": 5,
+      "highestBoardCount": 2,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.02,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": "PCB+覆铜板+订单充足",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002741",
+              "name": "光华科技",
+              "changePercent": 10.03,
+              "badge": "光刻胶+PCB化学品+硫化锂",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "300812",
+              "name": "易天股份",
+              "changePercent": 20.0,
+              "badge": "硅基OLED+先进封装+光模块设备",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "AI算力电源PCB+高端PCB扩产+HDI板",
+              "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885783.TI",
+      "name": "工业互联网",
+      "stockCount": 4,
+      "highestBoardCount": 4,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.01,
+              "badge": "液冷算力+华为算力+多媒体视讯",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.02,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.0,
+              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "AI算力电源PCB+高端PCB扩产+HDI板",
+              "sortOrder": 2,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885545.TI",
+      "name": "汽车电子",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.02,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": "PCB+覆铜板+订单充足",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "600360",
+              "name": "华微电子",
+              "changePercent": 10.01,
+              "badge": "功率半导体+车规IGBT+SiC模块",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "AI算力电源PCB+高端PCB扩产+HDI板",
+              "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885959.TI",
+      "name": "PCB概念",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.02,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": "PCB+覆铜板+订单充足",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002741",
+              "name": "光华科技",
+              "changePercent": 10.03,
+              "badge": "光刻胶+PCB化学品+硫化锂",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "AI算力电源PCB+高端PCB扩产+HDI板",
+              "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886078.TI",
+      "name": "商业航天",
+      "stockCount": 4,
+      "highestBoardCount": 2,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.02,
+              "badge": "高阶HDI+算力+存储",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": "PCB+覆铜板+订单充足",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "300812",
+              "name": "易天股份",
+              "changePercent": 20.0,
+              "badge": "硅基OLED+先进封装+光模块设备",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "AI算力电源PCB+高端PCB扩产+HDI板",
+              "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885709.TI",
+      "name": "虚拟现实",
+      "stockCount": 3,
+      "highestBoardCount": 4,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.01,
+              "badge": "液冷算力+华为算力+多媒体视讯",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000823",
+              "name": "超声电子",
+              "changePercent": 9.98,
+              "badge": "PCB+覆铜板+订单充足",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.0,
+              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
+              "sortOrder": 2,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886100.TI",
+      "name": "DeepSeek概念",
+      "stockCount": 3,
+      "highestBoardCount": 4,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002771",
+              "name": "真视通",
+              "changePercent": 10.01,
+              "badge": "液冷算力+华为算力+多媒体视讯",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.0,
+              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "600340",
+              "name": "*ST华幸",
+              "changePercent": 10.39,
+              "badge": null,
+              "sortOrder": 2,
               "isDragon": false
             }
           ]
@@ -245,8 +801,8 @@
       ]
     },
     {
-      "id": "885783.TI",
-      "name": "工业互联网",
+      "id": "885921.TI",
+      "name": "储能",
       "stockCount": 3,
       "highestBoardCount": 4,
       "limitUpCount": 3,
@@ -284,112 +840,10 @@
           "totalCount": 1,
           "stocks": [
             {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 10.0,
-              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885887.TI",
-      "name": "数据中心(AIDC)",
-      "stockCount": 3,
-      "highestBoardCount": 4,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.01,
-              "badge": "液冷算力+华为算力+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.02,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 10.0,
-              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885957.TI",
-      "name": "东数西算(算力)",
-      "stockCount": 3,
-      "highestBoardCount": 4,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.01,
-              "badge": "液冷算力+华为算力+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.02,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 10.0,
-              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
+              "id": "605058",
+              "name": "澳弘电子",
+              "changePercent": 9.99,
+              "badge": "AI算力电源PCB+高端PCB扩产+HDI板",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -441,326 +895,6 @@
               "name": "荣联科技",
               "changePercent": 10.0,
               "badge": "存储设备集采+8.49亿订单+算力服务+国企",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885556.TI",
-      "name": "5G",
-      "stockCount": 3,
-      "highestBoardCount": 2,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.02,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 10.0,
-              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002741",
-              "name": "光华科技",
-              "changePercent": 10.03,
-              "badge": "光刻胶+PCB化学品+硫化锂",
-              "sortOrder": 2,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885539.TI",
-      "name": "医疗器械概念",
-      "stockCount": 3,
-      "highestBoardCount": 2,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.02,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002086",
-              "name": "东方海洋",
-              "changePercent": 9.97,
-              "badge": "海洋养殖+大健康+董事会换届",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "300812",
-              "name": "易天股份",
-              "changePercent": 20.0,
-              "badge": null,
-              "sortOrder": 2,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886033.TI",
-      "name": "共封装光学(CPO)",
-      "stockCount": 3,
-      "highestBoardCount": 2,
-      "limitUpCount": 3,
-      "ladders": [
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.02,
-              "badge": "高阶HDI+算力+存储",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002741",
-              "name": "光华科技",
-              "changePercent": 10.03,
-              "badge": "光刻胶+PCB化学品+硫化锂",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "300812",
-              "name": "易天股份",
-              "changePercent": 20.0,
-              "badge": null,
-              "sortOrder": 2,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885700.TI",
-      "name": "军工",
-      "stockCount": 2,
-      "highestBoardCount": 4,
-      "limitUpCount": 2,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.01,
-              "badge": "液冷算力+华为算力+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600360",
-              "name": "华微电子",
-              "changePercent": 10.01,
-              "badge": "功率半导体+车规IGBT+SiC模块",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885641.TI",
-      "name": "风电",
-      "stockCount": 2,
-      "highestBoardCount": 4,
-      "limitUpCount": 2,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.01,
-              "badge": "液冷算力+华为算力+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600360",
-              "name": "华微电子",
-              "changePercent": 10.01,
-              "badge": "功率半导体+车规IGBT+SiC模块",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885402.TI",
-      "name": "智能医疗",
-      "stockCount": 2,
-      "highestBoardCount": 4,
-      "limitUpCount": 2,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.01,
-              "badge": "液冷算力+华为算力+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 10.0,
-              "badge": "存储设备集采+8.49亿订单+算力服务+国企",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885461.TI",
-      "name": "充电桩",
-      "stockCount": 2,
-      "highestBoardCount": 4,
-      "limitUpCount": 2,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.01,
-              "badge": "液冷算力+华为算力+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600360",
-              "name": "华微电子",
-              "changePercent": 10.01,
-              "badge": "功率半导体+车规IGBT+SiC模块",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885928.TI",
-      "name": "钠离子电池",
-      "stockCount": 2,
-      "highestBoardCount": 4,
-      "limitUpCount": 2,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002771",
-              "name": "真视通",
-              "changePercent": 10.01,
-              "badge": "液冷算力+华为算力+多媒体视讯",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002741",
-              "name": "光华科技",
-              "changePercent": 10.03,
-              "badge": "光刻胶+PCB化学品+硫化锂",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -822,5 +956,5 @@
       "breakMarginPct": 5.6
     }
   ],
-  "updatedAt": "2026-11-20 10:00:52"
+  "updatedAt": "2026-11-20 10:11:04"
 }
