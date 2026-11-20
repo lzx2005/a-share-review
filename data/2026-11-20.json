@@ -126,7 +126,7 @@
               "id": "603081",
               "name": "大丰实业",
               "changePercent": 9.97,
-              "badge": null,
+              "badge": "人形机器人+文体旅集成",
               "sortOrder": 5,
               "isDragon": false
             },
@@ -179,7 +179,7 @@
               "id": "002148",
               "name": "北纬科技",
               "changePercent": 10.0,
-              "badge": "物联网+四足机器人+此前涨幅较大",
+              "badge": "四足机器人+物联网+手机游戏",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -203,7 +203,7 @@
               "id": "301132",
               "name": "满坤科技",
               "changePercent": 20.0,
-              "badge": "AI服务器电源PCB+台达电子+PCB短缺+回购",
+              "badge": "AI服务器电源PCB+供货台达+回购",
               "sortOrder": 5,
               "isDragon": false
             },
@@ -211,7 +211,7 @@
               "id": "603386",
               "name": "骏亚科技",
               "changePercent": 10.03,
-              "badge": "PCB+AI算力+元件板块拉升",
+              "badge": "元件板块拉升+PCB+AI算力",
               "sortOrder": 6,
               "isDragon": false
             },
@@ -280,7 +280,7 @@
               "id": "301132",
               "name": "满坤科技",
               "changePercent": 20.0,
-              "badge": "AI服务器电源PCB+台达电子+PCB短缺+回购",
+              "badge": "AI服务器电源PCB+供货台达+回购",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -288,7 +288,7 @@
               "id": "603386",
               "name": "骏亚科技",
               "changePercent": 10.03,
-              "badge": "PCB+AI算力+元件板块拉升",
+              "badge": "元件板块拉升+PCB+AI算力",
               "sortOrder": 5,
               "isDragon": false
             },
@@ -341,7 +341,7 @@
               "id": "002148",
               "name": "北纬科技",
               "changePercent": 10.0,
-              "badge": "物联网+四足机器人+此前涨幅较大",
+              "badge": "四足机器人+物联网+手机游戏",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -426,7 +426,7 @@
               "id": "301132",
               "name": "满坤科技",
               "changePercent": 20.0,
-              "badge": "AI服务器电源PCB+台达电子+PCB短缺+回购",
+              "badge": "AI服务器电源PCB+供货台达+回购",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -442,7 +442,7 @@
               "id": "603386",
               "name": "骏亚科技",
               "changePercent": 10.03,
-              "badge": "PCB+AI算力+元件板块拉升",
+              "badge": "元件板块拉升+PCB+AI算力",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -519,7 +519,7 @@
               "id": "603081",
               "name": "大丰实业",
               "changePercent": 9.97,
-              "badge": null,
+              "badge": "人形机器人+文体旅集成",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -730,7 +730,7 @@
               "id": "301132",
               "name": "满坤科技",
               "changePercent": 20.0,
-              "badge": "AI服务器电源PCB+台达电子+PCB短缺+回购",
+              "badge": "AI服务器电源PCB+供货台达+回购",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -738,7 +738,7 @@
               "id": "603386",
               "name": "骏亚科技",
               "changePercent": 10.03,
-              "badge": "PCB+AI算力+元件板块拉升",
+              "badge": "元件板块拉升+PCB+AI算力",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -791,7 +791,7 @@
               "id": "002148",
               "name": "北纬科技",
               "changePercent": 10.0,
-              "badge": "物联网+四足机器人+此前涨幅较大",
+              "badge": "四足机器人+物联网+手机游戏",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -931,7 +931,7 @@
               "id": "603081",
               "name": "大丰实业",
               "changePercent": 9.97,
-              "badge": null,
+              "badge": "人形机器人+文体旅集成",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -1002,7 +1002,7 @@
               "id": "600467",
               "name": "好当家",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "海参+水产养殖+预制菜",
               "sortOrder": 5,
               "isDragon": false
             },
@@ -1063,7 +1063,7 @@
               "id": "603081",
               "name": "大丰实业",
               "changePercent": 9.97,
-              "badge": null,
+              "badge": "人形机器人+文体旅集成",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -1194,5 +1194,5 @@
       "breakMarginPct": 5.6
     }
   ],
-  "updatedAt": "2026-11-20 11:32:49"
+  "updatedAt": "2026-11-20 11:43:01"
 }
