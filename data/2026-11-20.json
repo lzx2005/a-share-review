@@ -1,0 +1,335 @@
+{
+  "tradeDate": "2026-11-20",
+  "weekday": "周五",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": false
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 2,
+    "limitUpSuccessRate": 100,
+    "limitDownCount": 16
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "promotion2To3": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "previousLadderPerformance": null,
+    "previousLimitUpPerformance": null,
+    "highestBoard": {
+      "stockName": "盛剑科技",
+      "boardCount": 4
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 4,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 1
+      }
+    ],
+    "hotTheme": {
+      "name": "芯片概念",
+      "stockCount": 1
+    },
+    "poolFirstBoardCount": 0,
+    "poolContinuousBoardCount": 2,
+    "poolBrokenBoardCount": 0
+  },
+  "themes": [
+    {
+      "id": "885756.TI",
+      "name": "芯片概念",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603324",
+              "name": "盛剑科技",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885789.TI",
+      "name": "宁德时代概念",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603324",
+              "name": "盛剑科技",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885843.TI",
+      "name": "华为海思概念股",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603324",
+              "name": "盛剑科技",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885864.TI",
+      "name": "光刻胶",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603324",
+              "name": "盛剑科技",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885897.TI",
+      "name": "中芯国际概念",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603324",
+              "name": "盛剑科技",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886009.TI",
+      "name": "先进封装",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603324",
+              "name": "盛剑科技",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885410.TI",
+      "name": "固废处理",
+      "stockCount": 1,
+      "highestBoardCount": 2,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000838",
+              "name": "*ST发展",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885412.TI",
+      "name": "污水处理",
+      "stockCount": 1,
+      "highestBoardCount": 2,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000838",
+              "name": "*ST发展",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885699.TI",
+      "name": "ST板块",
+      "stockCount": 1,
+      "highestBoardCount": 2,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000838",
+              "name": "*ST发展",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885758.TI",
+      "name": "租售同权",
+      "stockCount": 1,
+      "highestBoardCount": 2,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000838",
+              "name": "*ST发展",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "laggardCandidates": [],
+  "dragonYinPool": [
+    {
+      "id": "002685.SZ",
+      "name": "华东重机",
+      "boardName": "DeepSeek概念",
+      "streak": 4,
+      "yinDays": 1,
+      "yinClose": 7.38,
+      "lastClose": 7.67,
+      "breakMarginPct": 11.8
+    },
+    {
+      "id": "000707.SZ",
+      "name": "双环科技",
+      "boardName": "储能",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 4.55,
+      "lastClose": 4.55,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "002843.SZ",
+      "name": "泰嘉股份",
+      "boardName": "光伏概念",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 15.61,
+      "lastClose": 15.61,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "301391.SZ",
+      "name": "卡莱特",
+      "boardName": "华为昇腾",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 55.98,
+      "lastClose": 55.98,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "600410.SH",
+      "name": "华胜天成",
+      "boardName": "腾讯概念",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 17.0,
+      "lastClose": 16.7,
+      "breakMarginPct": 5.6
+    }
+  ],
+  "updatedAt": "2026-11-20 09:30:14"
+}
