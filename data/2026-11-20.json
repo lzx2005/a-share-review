@@ -8,8 +8,8 @@
   "marketSummary": {
     "indexChangePercent": null,
     "limitUpCount": 13,
-    "limitUpSuccessRate": 93,
-    "limitDownCount": 10
+    "limitUpSuccessRate": 87,
+    "limitDownCount": 17
   },
   "sentiment": {
     "promotion1To2": {
@@ -48,7 +48,7 @@
     },
     "poolFirstBoardCount": 9,
     "poolContinuousBoardCount": 4,
-    "poolBrokenBoardCount": 1
+    "poolBrokenBoardCount": 2
   },
   "themes": [
     {
@@ -80,7 +80,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -94,7 +94,7 @@
               "id": "002741",
               "name": "光华科技",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "光刻胶+PCB化学品+硫化锂",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -118,7 +118,7 @@
               "id": "603948",
               "name": "建业股份",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "电子化学品+半导体客户+超纯氨",
               "sortOrder": 4,
               "isDragon": false
             }
@@ -155,7 +155,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -169,7 +169,7 @@
               "id": "002741",
               "name": "光华科技",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "光刻胶+PCB化学品+硫化锂",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -222,7 +222,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -273,7 +273,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -324,7 +324,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -375,7 +375,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -426,7 +426,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -463,7 +463,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": true
             }
@@ -485,7 +485,7 @@
               "id": "002741",
               "name": "光华科技",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "光刻胶+PCB化学品+硫化锂",
               "sortOrder": 2,
               "isDragon": false
             }
@@ -508,7 +508,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": true
             }
@@ -522,7 +522,7 @@
               "id": "002086",
               "name": "东方海洋",
               "changePercent": 9.97,
-              "badge": null,
+              "badge": "海洋养殖+大健康+董事会换届",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -553,7 +553,7 @@
               "id": "002579",
               "name": "中京电子",
               "changePercent": 10.02,
-              "badge": null,
+              "badge": "高阶HDI+算力+存储",
               "sortOrder": 1,
               "isDragon": true
             }
@@ -567,7 +567,7 @@
               "id": "002741",
               "name": "光华科技",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "光刻胶+PCB化学品+硫化锂",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -760,7 +760,7 @@
               "id": "002741",
               "name": "光华科技",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "光刻胶+PCB化学品+硫化锂",
               "sortOrder": 1,
               "isDragon": false
             }
@@ -822,5 +822,5 @@
       "breakMarginPct": 5.6
     }
   ],
-  "updatedAt": "2026-11-20 09:50:38"
+  "updatedAt": "2026-11-20 10:00:52"
 }
