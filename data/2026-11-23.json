@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 138,
+    "limitUpCount": 141,
     "limitUpSuccessRate": 85,
-    "limitDownCount": 6
+    "limitDownCount": 8
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,14 +43,14 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 125
+        "stockCount": 128
       }
     ],
     "hotTheme": {
       "name": "人形机器人",
-      "stockCount": 50
+      "stockCount": 49
     },
-    "poolFirstBoardCount": 125,
+    "poolFirstBoardCount": 128,
     "poolContinuousBoardCount": 13,
     "poolBrokenBoardCount": 25
   },
@@ -58,9 +58,9 @@
     {
       "id": "886069.TI",
       "name": "人形机器人",
-      "stockCount": 50,
+      "stockCount": 49,
       "highestBoardCount": 3,
-      "limitUpCount": 50,
+      "limitUpCount": 49,
       "ladders": [
         {
           "boardCount": 3,
@@ -92,7 +92,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 48,
+          "totalCount": 47,
           "stocks": [
             {
               "id": "000026",
@@ -263,19 +263,11 @@
               "isDragon": false
             },
             {
-              "id": "301218",
-              "name": "华是科技",
-              "changePercent": 20.0,
-              "badge": "AI短剧+机器人投资+智慧城市",
-              "sortOrder": 22,
-              "isDragon": false
-            },
-            {
               "id": "301261",
               "name": "恒工精密",
               "changePercent": 20.0,
               "badge": "人形机器人+减速器+具身智能",
-              "sortOrder": 23,
+              "sortOrder": 22,
               "isDragon": false
             },
             {
@@ -283,7 +275,7 @@
               "name": "安培龙",
               "changePercent": 20.0,
               "badge": "人形机器人+力传感器+压力传感器",
-              "sortOrder": 24,
+              "sortOrder": 23,
               "isDragon": false
             },
             {
@@ -291,7 +283,7 @@
               "name": "杭齿前进",
               "changePercent": 10.01,
               "badge": "人形机器人关节组件+船用齿轮箱",
-              "sortOrder": 25,
+              "sortOrder": 24,
               "isDragon": false
             },
             {
@@ -299,7 +291,7 @@
               "name": "拓普集团",
               "changePercent": 10.0,
               "badge": "人形机器人+机器人执行器+汽车零部件",
-              "sortOrder": 26,
+              "sortOrder": 25,
               "isDragon": false
             },
             {
@@ -307,7 +299,7 @@
               "name": "北特科技",
               "changePercent": 10.0,
               "badge": "人形机器人丝杠+昆山基地投产+汽车零部件",
-              "sortOrder": 27,
+              "sortOrder": 26,
               "isDragon": false
             },
             {
@@ -315,7 +307,7 @@
               "name": "鹿山新材",
               "changePercent": 10.0,
               "badge": "电子皮肤+光伏胶膜+回购",
-              "sortOrder": 28,
+              "sortOrder": 27,
               "isDragon": false
             },
             {
@@ -323,7 +315,7 @@
               "name": "浙江荣泰",
               "changePercent": 10.0,
               "badge": "人形机器人+精密结构件+云母绝缘",
-              "sortOrder": 29,
+              "sortOrder": 28,
               "isDragon": false
             },
             {
@@ -331,7 +323,7 @@
               "name": "福达股份",
               "changePercent": 9.97,
               "badge": "人形机器人+精密减速器+曲轴",
-              "sortOrder": 30,
+              "sortOrder": 29,
               "isDragon": false
             },
             {
@@ -339,7 +331,7 @@
               "name": "移远通信",
               "changePercent": 10.01,
               "badge": "机器人+端侧AI+物联网模组",
-              "sortOrder": 31,
+              "sortOrder": 30,
               "isDragon": false
             },
             {
@@ -347,7 +339,7 @@
               "name": "大业股份",
               "changePercent": 9.99,
               "badge": "人形机器人+胎圈钢丝+商业航天",
-              "sortOrder": 32,
+              "sortOrder": 31,
               "isDragon": false
             },
             {
@@ -355,7 +347,7 @@
               "name": "日盈电子",
               "changePercent": 10.0,
               "badge": "人形机器人+电子皮肤+汽车洗涤系统",
-              "sortOrder": 33,
+              "sortOrder": 32,
               "isDragon": false
             },
             {
@@ -363,7 +355,7 @@
               "name": "旭升集团",
               "changePercent": 9.97,
               "badge": "人形机器人+汽车轻量化+特斯拉概念+商业航天",
-              "sortOrder": 34,
+              "sortOrder": 33,
               "isDragon": false
             },
             {
@@ -371,7 +363,7 @@
               "name": "杰克科技",
               "changePercent": 10.0,
               "badge": "人形机器人+缝制机械+机器人测试",
-              "sortOrder": 35,
+              "sortOrder": 34,
               "isDragon": false
             },
             {
@@ -379,7 +371,7 @@
               "name": "多伦科技",
               "changePercent": 9.93,
               "badge": "交通机器人+具身智能+智慧交通+超跌修复",
-              "sortOrder": 36,
+              "sortOrder": 35,
               "isDragon": false
             },
             {
@@ -387,7 +379,7 @@
               "name": "柯力传感",
               "changePercent": 10.0,
               "badge": "六维力传感器+人形机器人+触觉传感器",
-              "sortOrder": 37,
+              "sortOrder": 36,
               "isDragon": false
             },
             {
@@ -395,7 +387,7 @@
               "name": "亿嘉和",
               "changePercent": 10.02,
               "badge": "人形机器人+华为云合作+电力机器人",
-              "sortOrder": 38,
+              "sortOrder": 37,
               "isDragon": false
             },
             {
@@ -403,7 +395,7 @@
               "name": "五洲新春",
               "changePercent": 10.0,
               "badge": "人形机器人+丝杠+轴承",
-              "sortOrder": 39,
+              "sortOrder": 38,
               "isDragon": false
             },
             {
@@ -411,7 +403,7 @@
               "name": "鸣志电器",
               "changePercent": 10.0,
               "badge": "人形机器人+运动控制",
-              "sortOrder": 40,
+              "sortOrder": 39,
               "isDragon": false
             },
             {
@@ -419,7 +411,7 @@
               "name": "瑞芯微",
               "changePercent": 10.0,
               "badge": "端侧AI+机器人芯片+协处理器",
-              "sortOrder": 41,
+              "sortOrder": 40,
               "isDragon": false
             },
             {
@@ -427,7 +419,7 @@
               "name": "永创智能",
               "changePercent": 10.0,
               "badge": "人形机器人+智能包装+三季报增长",
-              "sortOrder": 42,
+              "sortOrder": 41,
               "isDragon": false
             },
             {
@@ -435,7 +427,7 @@
               "name": "世运电路",
               "changePercent": 10.0,
               "badge": "AI服务器PCB+人形机器人+回购",
-              "sortOrder": 43,
+              "sortOrder": 42,
               "isDragon": false
             },
             {
@@ -443,7 +435,7 @@
               "name": "福莱新材",
               "changePercent": 10.0,
               "badge": "柔性传感+数据采集手套+人形机器人",
-              "sortOrder": 44,
+              "sortOrder": 43,
               "isDragon": false
             },
             {
@@ -451,7 +443,7 @@
               "name": "敏芯股份",
               "changePercent": 19.99,
               "badge": "人形机器人+六维力传感器+MEMS+浦丹光电",
-              "sortOrder": 45,
+              "sortOrder": 44,
               "isDragon": false
             },
             {
@@ -459,7 +451,7 @@
               "name": "上纬新材",
               "changePercent": 20.0,
               "badge": "人形机器人+战略合作+智元入主+风电树脂",
-              "sortOrder": 46,
+              "sortOrder": 45,
               "isDragon": false
             },
             {
@@ -467,7 +459,7 @@
               "name": "杭州柯林",
               "changePercent": 19.99,
               "badge": "人形机器人+电网数字化+增持",
-              "sortOrder": 47,
+              "sortOrder": 46,
               "isDragon": false
             },
             {
@@ -475,7 +467,7 @@
               "name": "宇树科技-W",
               "changePercent": 20.0,
               "badge": "人形机器人+物理AI+具身智能",
-              "sortOrder": 48,
+              "sortOrder": 47,
               "isDragon": false
             }
           ]
@@ -485,9 +477,9 @@
     {
       "id": "885997.TI",
       "name": "比亚迪概念",
-      "stockCount": 35,
+      "stockCount": 36,
       "highestBoardCount": 3,
-      "limitUpCount": 35,
+      "limitUpCount": 36,
       "ladders": [
         {
           "boardCount": 3,
@@ -511,7 +503,7 @@
               "id": "000530",
               "name": "冰山冷热",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -527,7 +519,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 32,
+          "totalCount": 33,
           "stocks": [
             {
               "id": "000559",
@@ -541,8 +533,16 @@
               "id": "000636",
               "name": "风华高科",
               "changePercent": 10.02,
-              "badge": "MLCC+高端MLCC+广东国资",
+              "badge": "MLCC+商业航天+广东国资",
               "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "000678",
+              "name": "襄阳轴承",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 3,
               "isDragon": false
             },
             {
@@ -550,7 +550,7 @@
               "name": "模塑科技",
               "changePercent": 9.99,
               "badge": "人形机器人+汽车外饰件+机器人外覆盖件",
-              "sortOrder": 3,
+              "sortOrder": 4,
               "isDragon": false
             },
             {
@@ -558,7 +558,7 @@
               "name": "一彬科技",
               "changePercent": 9.99,
               "badge": "半导体掩模基板+激光除草机+汽车零部件",
-              "sortOrder": 4,
+              "sortOrder": 5,
               "isDragon": false
             },
             {
@@ -566,7 +566,7 @@
               "name": "豪鹏科技",
               "changePercent": 10.0,
               "badge": "机器人电池+智能眼镜电池+固态电池+三季报增长",
-              "sortOrder": 5,
+              "sortOrder": 6,
               "isDragon": false
             },
             {
@@ -574,7 +574,7 @@
               "name": "天奇股份",
               "changePercent": 10.03,
               "badge": "具身智能数据+人形机器人+智能装备",
-              "sortOrder": 6,
+              "sortOrder": 7,
               "isDragon": false
             },
             {
@@ -582,7 +582,7 @@
               "name": "联创电子",
               "changePercent": 9.93,
               "badge": "机器视觉+车载光学+光学器件送样",
-              "sortOrder": 7,
+              "sortOrder": 8,
               "isDragon": false
             },
             {
@@ -590,7 +590,7 @@
               "name": "大洋电机",
               "changePercent": 9.93,
               "badge": "机器人关节+散热风机+羊字辈",
-              "sortOrder": 8,
+              "sortOrder": 9,
               "isDragon": false
             },
             {
@@ -598,7 +598,7 @@
               "name": "新时达",
               "changePercent": 10.01,
               "badge": "人形机器人+具身智能+海尔定增",
-              "sortOrder": 9,
+              "sortOrder": 10,
               "isDragon": false
             },
             {
@@ -606,7 +606,7 @@
               "name": "光洋股份",
               "changePercent": 10.01,
               "badge": "机器人关节+PCB+黄山国资+“羊”字辈",
-              "sortOrder": 10,
+              "sortOrder": 11,
               "isDragon": false
             },
             {
@@ -614,7 +614,7 @@
               "name": "埃斯顿",
               "changePercent": 10.02,
               "badge": "人形机器人+工业机器人+控股股东增持",
-              "sortOrder": 11,
+              "sortOrder": 12,
               "isDragon": false
             },
             {
@@ -622,7 +622,7 @@
               "name": "崇达技术",
               "changePercent": 10.0,
               "badge": "PCB+AI服务器+珠海二厂产能爬坡",
-              "sortOrder": 12,
+              "sortOrder": 13,
               "isDragon": false
             },
             {
@@ -630,7 +630,7 @@
               "name": "宇晶股份",
               "changePercent": 10.02,
               "badge": "回购+碳化硅设备+磷化铟设备+机器人",
-              "sortOrder": 13,
+              "sortOrder": 14,
               "isDragon": false
             },
             {
@@ -638,7 +638,7 @@
               "name": "兆威机电",
               "changePercent": 10.0,
               "badge": "人形机器人+灵巧手+微型传动",
-              "sortOrder": 14,
+              "sortOrder": 15,
               "isDragon": false
             },
             {
@@ -646,7 +646,7 @@
               "name": "征和工业",
               "changePercent": 10.01,
               "badge": "灵巧手+人形机器人+农机链",
-              "sortOrder": 15,
+              "sortOrder": 16,
               "isDragon": false
             },
             {
@@ -654,7 +654,7 @@
               "name": "汉威科技",
               "changePercent": 20.01,
               "badge": "人形机器人+柔性触觉+气体传感器",
-              "sortOrder": 16,
+              "sortOrder": 17,
               "isDragon": false
             },
             {
@@ -662,7 +662,7 @@
               "name": "安培龙",
               "changePercent": 20.0,
               "badge": "人形机器人+力传感器+压力传感器",
-              "sortOrder": 17,
+              "sortOrder": 18,
               "isDragon": false
             },
             {
@@ -670,7 +670,7 @@
               "name": "福赛科技",
               "changePercent": 20.0,
               "badge": "机器人零部件+汽车内饰+新能源三电嵌件",
-              "sortOrder": 18,
+              "sortOrder": 19,
               "isDragon": false
             },
             {
@@ -678,7 +678,7 @@
               "name": "拓普集团",
               "changePercent": 10.0,
               "badge": "人形机器人+机器人执行器+汽车零部件",
-              "sortOrder": 19,
+              "sortOrder": 20,
               "isDragon": false
             },
             {
@@ -686,7 +686,7 @@
               "name": "北特科技",
               "changePercent": 10.0,
               "badge": "人形机器人丝杠+昆山基地投产+汽车零部件",
-              "sortOrder": 20,
+              "sortOrder": 21,
               "isDragon": false
             },
             {
@@ -694,7 +694,7 @@
               "name": "凯众股份",
               "changePercent": 10.04,
               "badge": "机器人零部件+汽车减震+拟收购拓盛",
-              "sortOrder": 21,
+              "sortOrder": 22,
               "isDragon": false
             },
             {
@@ -702,7 +702,7 @@
               "name": "XD新坐标",
               "changePercent": 10.01,
               "badge": "机器人丝杠+汽车零部件",
-              "sortOrder": 22,
+              "sortOrder": 23,
               "isDragon": false
             },
             {
@@ -710,7 +710,7 @@
               "name": "浙江黎明",
               "changePercent": 10.0,
               "badge": "关注机器人行业+汽车零部件+股权转让",
-              "sortOrder": 23,
+              "sortOrder": 24,
               "isDragon": false
             },
             {
@@ -718,7 +718,7 @@
               "name": "鹿山新材",
               "changePercent": 10.0,
               "badge": "电子皮肤+光伏胶膜+回购",
-              "sortOrder": 24,
+              "sortOrder": 25,
               "isDragon": false
             },
             {
@@ -726,7 +726,7 @@
               "name": "福达股份",
               "changePercent": 9.97,
               "badge": "人形机器人+精密减速器+曲轴",
-              "sortOrder": 25,
+              "sortOrder": 26,
               "isDragon": false
             },
             {
@@ -734,7 +734,7 @@
               "name": "超颖电子",
               "changePercent": 10.0,
               "badge": "AI算力PCB+存储PCB+高阶PCB认证",
-              "sortOrder": 26,
+              "sortOrder": 27,
               "isDragon": false
             },
             {
@@ -742,7 +742,7 @@
               "name": "新泉股份",
               "changePercent": 9.99,
               "badge": "机器人零部件+汽车饰件+座椅业务",
-              "sortOrder": 27,
+              "sortOrder": 28,
               "isDragon": false
             },
             {
@@ -750,7 +750,7 @@
               "name": "赛腾股份",
               "changePercent": 9.99,
               "badge": "HBM检测+三星供货+电路板设备+三季报增长",
-              "sortOrder": 28,
+              "sortOrder": 29,
               "isDragon": false
             },
             {
@@ -758,7 +758,7 @@
               "name": "日盈电子",
               "changePercent": 10.0,
               "badge": "人形机器人+电子皮肤+汽车洗涤系统",
-              "sortOrder": 29,
+              "sortOrder": 30,
               "isDragon": false
             },
             {
@@ -766,7 +766,7 @@
               "name": "旭升集团",
               "changePercent": 9.97,
               "badge": "人形机器人+汽车轻量化+特斯拉概念+商业航天",
-              "sortOrder": 30,
+              "sortOrder": 31,
               "isDragon": false
             },
             {
@@ -774,7 +774,7 @@
               "name": "多伦科技",
               "changePercent": 9.93,
               "badge": "交通机器人+具身智能+智慧交通+超跌修复",
-              "sortOrder": 31,
+              "sortOrder": 32,
               "isDragon": false
             },
             {
@@ -782,7 +782,7 @@
               "name": "瑞芯微",
               "changePercent": 10.0,
               "badge": "端侧AI+机器人芯片+协处理器",
-              "sortOrder": 32,
+              "sortOrder": 33,
               "isDragon": false
             }
           ]
@@ -894,7 +894,7 @@
               "id": "002248",
               "name": "华东数控",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "工业母机+谐波减速器+半导体订单",
               "sortOrder": 7,
               "isDragon": false
             },
@@ -1091,7 +1091,7 @@
               "id": "000530",
               "name": "冰山冷热",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -1129,7 +1129,7 @@
               "id": "000636",
               "name": "风华高科",
               "changePercent": 10.02,
-              "badge": "MLCC+高端MLCC+广东国资",
+              "badge": "MLCC+商业航天+广东国资",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -1364,7 +1364,7 @@
               "id": "000636",
               "name": "风华高科",
               "changePercent": 10.02,
-              "badge": "MLCC+高端MLCC+广东国资",
+              "badge": "MLCC+商业航天+广东国资",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -1527,9 +1527,9 @@
     {
       "id": "885887.TI",
       "name": "数据中心(AIDC)",
-      "stockCount": 21,
+      "stockCount": 20,
       "highestBoardCount": 3,
-      "limitUpCount": 21,
+      "limitUpCount": 20,
       "ladders": [
         {
           "boardCount": 3,
@@ -1553,7 +1553,7 @@
               "id": "000530",
               "name": "冰山冷热",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -1577,13 +1577,13 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 17,
+          "totalCount": 16,
           "stocks": [
             {
               "id": "000636",
               "name": "风华高科",
               "changePercent": 10.02,
-              "badge": "MLCC+高端MLCC+广东国资",
+              "badge": "MLCC+商业航天+广东国资",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -1655,16 +1655,8 @@
               "id": "301010",
               "name": "晶雪节能",
               "changePercent": 19.98,
-              "badge": null,
+              "badge": "冰雪经济+数据中心+冷库围护",
               "sortOrder": 10,
-              "isDragon": false
-            },
-            {
-              "id": "301218",
-              "name": "华是科技",
-              "changePercent": 20.0,
-              "badge": "AI短剧+机器人投资+智慧城市",
-              "sortOrder": 11,
               "isDragon": false
             },
             {
@@ -1672,7 +1664,7 @@
               "name": "青山纸业",
               "changePercent": 9.97,
               "badge": "光模块+竹浆纸+福建国资",
-              "sortOrder": 12,
+              "sortOrder": 11,
               "isDragon": false
             },
             {
@@ -1680,7 +1672,7 @@
               "name": "拓普集团",
               "changePercent": 10.0,
               "badge": "人形机器人+机器人执行器+汽车零部件",
-              "sortOrder": 13,
+              "sortOrder": 12,
               "isDragon": false
             },
             {
@@ -1688,185 +1680,6 @@
               "name": "超颖电子",
               "changePercent": 10.0,
               "badge": "AI算力PCB+存储PCB+高阶PCB认证",
-              "sortOrder": 14,
-              "isDragon": false
-            },
-            {
-              "id": "603662",
-              "name": "柯力传感",
-              "changePercent": 10.0,
-              "badge": "六维力传感器+人形机器人+触觉传感器",
-              "sortOrder": 15,
-              "isDragon": false
-            },
-            {
-              "id": "603920",
-              "name": "世运电路",
-              "changePercent": 10.0,
-              "badge": "AI服务器PCB+人形机器人+回购",
-              "sortOrder": 16,
-              "isDragon": false
-            },
-            {
-              "id": "605398",
-              "name": "新炬网络",
-              "changePercent": 9.99,
-              "badge": "短剧营销+AI应用+智能运维",
-              "sortOrder": 17,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885312.TI",
-      "name": "物联网",
-      "stockCount": 20,
-      "highestBoardCount": 3,
-      "limitUpCount": 20,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002579",
-              "name": "中京电子",
-              "changePercent": 10.01,
-              "badge": "高阶HDI+算力+存储+人形机器人",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 10.06,
-              "badge": "存储设备集采+算力服务+国企",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "301313",
-              "name": "凡拓数创",
-              "changePercent": 20.0,
-              "badge": "具身智能数据+物理AI数据基座+机器人训练场",
-              "sortOrder": 2,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 17,
-          "stocks": [
-            {
-              "id": "000056",
-              "name": "*ST皇庭",
-              "changePercent": 10.32,
-              "badge": "司法拍卖+功率半导体+商业管理",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "000711",
-              "name": "京蓝科技",
-              "changePercent": 10.1,
-              "badge": "7N高纯铟+铟资源循环+资产出售",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "001266",
-              "name": "宏英智能",
-              "changePercent": 10.01,
-              "badge": "电路板设计+智能控制+液冷储能+三季报增长",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "001326",
-              "name": "联域股份",
-              "changePercent": 10.0,
-              "badge": "机器人+参股芯智华+植物照明+回购",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "002148",
-              "name": "北纬科技",
-              "changePercent": 10.04,
-              "badge": "四足机器人+物联网+手机游戏",
-              "sortOrder": 5,
-              "isDragon": false
-            },
-            {
-              "id": "002527",
-              "name": "新时达",
-              "changePercent": 10.01,
-              "badge": "人形机器人+具身智能+海尔定增",
-              "sortOrder": 6,
-              "isDragon": false
-            },
-            {
-              "id": "002724",
-              "name": "海洋王",
-              "changePercent": 9.97,
-              "badge": "中国航展+军工+专业照明",
-              "sortOrder": 7,
-              "isDragon": false
-            },
-            {
-              "id": "300007",
-              "name": "汉威科技",
-              "changePercent": 20.01,
-              "badge": "人形机器人+柔性触觉+气体传感器",
-              "sortOrder": 8,
-              "isDragon": false
-            },
-            {
-              "id": "300508",
-              "name": "维宏股份",
-              "changePercent": 20.0,
-              "badge": "灵巧手电机+人形机器人+数控系统",
-              "sortOrder": 9,
-              "isDragon": false
-            },
-            {
-              "id": "301218",
-              "name": "华是科技",
-              "changePercent": 20.0,
-              "badge": "AI短剧+机器人投资+智慧城市",
-              "sortOrder": 10,
-              "isDragon": false
-            },
-            {
-              "id": "301318",
-              "name": "维海德",
-              "changePercent": 20.01,
-              "badge": "AI应用+云办公+音视频设备",
-              "sortOrder": 11,
-              "isDragon": false
-            },
-            {
-              "id": "603236",
-              "name": "移远通信",
-              "changePercent": 10.01,
-              "badge": "机器人+端侧AI+物联网模组",
-              "sortOrder": 12,
-              "isDragon": false
-            },
-            {
-              "id": "603528",
-              "name": "多伦科技",
-              "changePercent": 9.93,
-              "badge": "交通机器人+具身智能+智慧交通+超跌修复",
               "sortOrder": 13,
               "isDragon": false
             },
@@ -1879,27 +1692,19 @@
               "isDragon": false
             },
             {
-              "id": "603893",
-              "name": "瑞芯微",
+              "id": "603920",
+              "name": "世运电路",
               "changePercent": 10.0,
-              "badge": "端侧AI+机器人芯片+协处理器",
+              "badge": "AI服务器PCB+人形机器人+回购",
               "sortOrder": 15,
               "isDragon": false
             },
             {
-              "id": "688286",
-              "name": "敏芯股份",
-              "changePercent": 19.99,
-              "badge": "人形机器人+六维力传感器+MEMS+浦丹光电",
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 9.99,
+              "badge": "短剧营销+AI应用+智能运维",
               "sortOrder": 16,
-              "isDragon": false
-            },
-            {
-              "id": "688611",
-              "name": "杭州柯林",
-              "changePercent": 19.99,
-              "badge": "人形机器人+电网数字化+增持",
-              "sortOrder": 17,
               "isDragon": false
             }
           ]
@@ -1957,7 +1762,7 @@
               "id": "000636",
               "name": "风华高科",
               "changePercent": 10.02,
-              "badge": "MLCC+高端MLCC+广东国资",
+              "badge": "MLCC+商业航天+广东国资",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -2086,6 +1891,185 @@
       ]
     },
     {
+      "id": "885312.TI",
+      "name": "物联网",
+      "stockCount": 19,
+      "highestBoardCount": 3,
+      "limitUpCount": 19,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002579",
+              "name": "中京电子",
+              "changePercent": 10.01,
+              "badge": "高阶HDI+算力+存储+人形机器人",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.06,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "301313",
+              "name": "凡拓数创",
+              "changePercent": 20.0,
+              "badge": "具身智能数据+物理AI数据基座+机器人训练场",
+              "sortOrder": 2,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 16,
+          "stocks": [
+            {
+              "id": "000056",
+              "name": "*ST皇庭",
+              "changePercent": 10.32,
+              "badge": "司法拍卖+功率半导体+商业管理",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000711",
+              "name": "京蓝科技",
+              "changePercent": 10.1,
+              "badge": "7N高纯铟+铟资源循环+资产出售",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "001266",
+              "name": "宏英智能",
+              "changePercent": 10.01,
+              "badge": "电路板设计+智能控制+液冷储能+三季报增长",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "001326",
+              "name": "联域股份",
+              "changePercent": 10.0,
+              "badge": "机器人+参股芯智华+植物照明+回购",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "002148",
+              "name": "北纬科技",
+              "changePercent": 10.04,
+              "badge": "四足机器人+物联网+手机游戏",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "002527",
+              "name": "新时达",
+              "changePercent": 10.01,
+              "badge": "人形机器人+具身智能+海尔定增",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "002724",
+              "name": "海洋王",
+              "changePercent": 9.97,
+              "badge": "中国航展+军工+专业照明",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "300007",
+              "name": "汉威科技",
+              "changePercent": 20.01,
+              "badge": "人形机器人+柔性触觉+气体传感器",
+              "sortOrder": 8,
+              "isDragon": false
+            },
+            {
+              "id": "300508",
+              "name": "维宏股份",
+              "changePercent": 20.0,
+              "badge": "灵巧手电机+人形机器人+数控系统",
+              "sortOrder": 9,
+              "isDragon": false
+            },
+            {
+              "id": "301318",
+              "name": "维海德",
+              "changePercent": 20.01,
+              "badge": "AI应用+云办公+音视频设备",
+              "sortOrder": 10,
+              "isDragon": false
+            },
+            {
+              "id": "603236",
+              "name": "移远通信",
+              "changePercent": 10.01,
+              "badge": "机器人+端侧AI+物联网模组",
+              "sortOrder": 11,
+              "isDragon": false
+            },
+            {
+              "id": "603528",
+              "name": "多伦科技",
+              "changePercent": 9.93,
+              "badge": "交通机器人+具身智能+智慧交通+超跌修复",
+              "sortOrder": 12,
+              "isDragon": false
+            },
+            {
+              "id": "603662",
+              "name": "柯力传感",
+              "changePercent": 10.0,
+              "badge": "六维力传感器+人形机器人+触觉传感器",
+              "sortOrder": 13,
+              "isDragon": false
+            },
+            {
+              "id": "603893",
+              "name": "瑞芯微",
+              "changePercent": 10.0,
+              "badge": "端侧AI+机器人芯片+协处理器",
+              "sortOrder": 14,
+              "isDragon": false
+            },
+            {
+              "id": "688286",
+              "name": "敏芯股份",
+              "changePercent": 19.99,
+              "badge": "人形机器人+六维力传感器+MEMS+浦丹光电",
+              "sortOrder": 15,
+              "isDragon": false
+            },
+            {
+              "id": "688611",
+              "name": "杭州柯林",
+              "changePercent": 19.99,
+              "badge": "人形机器人+电网数字化+增持",
+              "sortOrder": 16,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "886057.TI",
       "name": "新型工业化",
       "stockCount": 19,
@@ -2146,7 +2130,7 @@
               "id": "002248",
               "name": "华东数控",
               "changePercent": 10.04,
-              "badge": null,
+              "badge": "工业母机+谐波减速器+半导体订单",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -2202,7 +2186,7 @@
               "id": "600243",
               "name": "*ST海华",
               "changePercent": 10.08,
-              "badge": null,
+              "badge": "减速器+机械装备+清洁能源",
               "sortOrder": 11,
               "isDragon": false
             },
@@ -2595,259 +2579,108 @@
       ]
     },
     {
-      "id": "885946.TI",
-      "name": "传感器",
+      "id": "886108.TI",
+      "name": "AI应用",
       "stockCount": 18,
-      "highestBoardCount": 1,
+      "highestBoardCount": 2,
       "limitUpCount": 18,
       "ladders": [
         {
-          "boardCount": 1,
-          "totalCount": 18,
-          "stocks": [
-            {
-              "id": "000636",
-              "name": "风华高科",
-              "changePercent": 10.02,
-              "badge": "MLCC+高端MLCC+广东国资",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "001266",
-              "name": "宏英智能",
-              "changePercent": 10.01,
-              "badge": "电路板设计+智能控制+液冷储能+三季报增长",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002036",
-              "name": "联创电子",
-              "changePercent": 9.93,
-              "badge": "机器视觉+车载光学+光学器件送样",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "002414",
-              "name": "高德红外",
-              "changePercent": 10.04,
-              "badge": "机器人+红外芯片+军工",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "002655",
-              "name": "共达电声",
-              "changePercent": 10.01,
-              "badge": "消费电子+声学元器件+拟参投硅臻芯片+控股股东增持",
-              "sortOrder": 5,
-              "isDragon": false
-            },
-            {
-              "id": "002685",
-              "name": "华东重机",
-              "changePercent": 10.0,
-              "badge": "GPU芯片+港口装卸设备+定增注册",
-              "sortOrder": 6,
-              "isDragon": false
-            },
-            {
-              "id": "002815",
-              "name": "崇达技术",
-              "changePercent": 10.0,
-              "badge": "PCB+AI服务器+珠海二厂产能爬坡",
-              "sortOrder": 7,
-              "isDragon": false
-            },
-            {
-              "id": "300007",
-              "name": "汉威科技",
-              "changePercent": 20.01,
-              "badge": "人形机器人+柔性触觉+气体传感器",
-              "sortOrder": 8,
-              "isDragon": false
-            },
-            {
-              "id": "301218",
-              "name": "华是科技",
-              "changePercent": 20.0,
-              "badge": "AI短剧+机器人投资+智慧城市",
-              "sortOrder": 9,
-              "isDragon": false
-            },
-            {
-              "id": "301413",
-              "name": "安培龙",
-              "changePercent": 20.0,
-              "badge": "人形机器人+力传感器+压力传感器",
-              "sortOrder": 10,
-              "isDragon": false
-            },
-            {
-              "id": "301529",
-              "name": "福赛科技",
-              "changePercent": 20.0,
-              "badge": "机器人零部件+汽车内饰+新能源三电嵌件",
-              "sortOrder": 11,
-              "isDragon": false
-            },
-            {
-              "id": "603051",
-              "name": "鹿山新材",
-              "changePercent": 10.0,
-              "badge": "电子皮肤+光伏胶膜+回购",
-              "sortOrder": 12,
-              "isDragon": false
-            },
-            {
-              "id": "603286",
-              "name": "日盈电子",
-              "changePercent": 10.0,
-              "badge": "人形机器人+电子皮肤+汽车洗涤系统",
-              "sortOrder": 13,
-              "isDragon": false
-            },
-            {
-              "id": "603662",
-              "name": "柯力传感",
-              "changePercent": 10.0,
-              "badge": "六维力传感器+人形机器人+触觉传感器",
-              "sortOrder": 14,
-              "isDragon": false
-            },
-            {
-              "id": "603666",
-              "name": "亿嘉和",
-              "changePercent": 10.02,
-              "badge": "人形机器人+华为云合作+电力机器人",
-              "sortOrder": 15,
-              "isDragon": false
-            },
-            {
-              "id": "605488",
-              "name": "福莱新材",
-              "changePercent": 10.0,
-              "badge": "柔性传感+数据采集手套+人形机器人",
-              "sortOrder": 16,
-              "isDragon": false
-            },
-            {
-              "id": "688286",
-              "name": "敏芯股份",
-              "changePercent": 19.99,
-              "badge": "人形机器人+六维力传感器+MEMS+浦丹光电",
-              "sortOrder": 17,
-              "isDragon": false
-            },
-            {
-              "id": "688611",
-              "name": "杭州柯林",
-              "changePercent": 19.99,
-              "badge": "人形机器人+电网数字化+增持",
-              "sortOrder": 18,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886002.TI",
-      "name": "机器视觉",
-      "stockCount": 17,
-      "highestBoardCount": 2,
-      "limitUpCount": 17,
-      "ladders": [
-        {
           "boardCount": 2,
-          "totalCount": 1,
+          "totalCount": 3,
           "stocks": [
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.06,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 1,
+              "isDragon": true
+            },
+            {
+              "id": "301313",
+              "name": "凡拓数创",
+              "changePercent": 20.0,
+              "badge": "具身智能数据+物理AI数据基座+机器人训练场",
+              "sortOrder": 2,
+              "isDragon": true
+            },
             {
               "id": "603960",
               "name": "克来机电",
               "changePercent": 10.02,
               "badge": "工业机器人+柔性自动化装备+AI应用",
-              "sortOrder": 1,
+              "sortOrder": 3,
               "isDragon": true
             }
           ]
         },
         {
           "boardCount": 1,
-          "totalCount": 16,
+          "totalCount": 15,
           "stocks": [
             {
-              "id": "001278",
-              "name": "一彬科技",
-              "changePercent": 9.99,
-              "badge": "半导体掩模基板+激光除草机+汽车零部件",
+              "id": "001229",
+              "name": "魅视科技",
+              "changePercent": 10.0,
+              "badge": "算力服务+AI算力采购+专业视听",
               "sortOrder": 1,
               "isDragon": false
             },
             {
-              "id": "001360",
-              "name": "南矿集团",
-              "changePercent": 10.0,
-              "badge": "黄金+境外金矿收购+矿山装备",
+              "id": "001330",
+              "name": "博纳影业",
+              "changePercent": 9.92,
+              "badge": "AI影视+AI短剧+院线影院+三季报减亏",
               "sortOrder": 2,
               "isDragon": false
             },
             {
-              "id": "002036",
-              "name": "联创电子",
-              "changePercent": 9.93,
-              "badge": "机器视觉+车载光学+光学器件送样",
+              "id": "002343",
+              "name": "慈文传媒",
+              "changePercent": 10.0,
+              "badge": "AI影视+微短剧+江西国资",
               "sortOrder": 3,
               "isDragon": false
             },
             {
-              "id": "002414",
-              "name": "高德红外",
-              "changePercent": 10.04,
-              "badge": "机器人+红外芯片+军工",
+              "id": "301052",
+              "name": "果麦文化",
+              "changePercent": 20.0,
+              "badge": "AI短剧+AI视频+图书出版",
               "sortOrder": 4,
               "isDragon": false
             },
             {
-              "id": "002527",
-              "name": "新时达",
-              "changePercent": 10.01,
-              "badge": "人形机器人+具身智能+海尔定增",
+              "id": "301318",
+              "name": "维海德",
+              "changePercent": 20.01,
+              "badge": "AI应用+云办公+音视频设备",
               "sortOrder": 5,
               "isDragon": false
             },
             {
-              "id": "002747",
-              "name": "埃斯顿",
-              "changePercent": 10.02,
-              "badge": "人形机器人+工业机器人+控股股东增持",
+              "id": "601599",
+              "name": "浙文影业",
+              "changePercent": 9.94,
+              "badge": "影视业务+微短剧+国企改革",
               "sortOrder": 6,
               "isDragon": false
             },
             {
-              "id": "003028",
-              "name": "振邦智能",
-              "changePercent": 10.0,
-              "badge": "人形机器人+智能控制器+机器人零部件",
+              "id": "603103",
+              "name": "横店影视",
+              "changePercent": 10.01,
+              "badge": "AI短剧+影视全产业链+IP运营",
               "sortOrder": 7,
               "isDragon": false
             },
             {
-              "id": "300508",
-              "name": "维宏股份",
-              "changePercent": 20.0,
-              "badge": "灵巧手电机+人形机器人+数控系统",
+              "id": "603166",
+              "name": "福达股份",
+              "changePercent": 9.97,
+              "badge": "人形机器人+精密减速器+曲轴",
               "sortOrder": 8,
-              "isDragon": false
-            },
-            {
-              "id": "301218",
-              "name": "华是科技",
-              "changePercent": 20.0,
-              "badge": "AI短剧+机器人投资+智慧城市",
-              "sortOrder": 9,
               "isDragon": false
             },
             {
@@ -2855,15 +2688,7 @@
               "name": "移远通信",
               "changePercent": 10.01,
               "badge": "机器人+端侧AI+物联网模组",
-              "sortOrder": 10,
-              "isDragon": false
-            },
-            {
-              "id": "603337",
-              "name": "杰克科技",
-              "changePercent": 10.0,
-              "badge": "人形机器人+缝制机械+机器人测试",
-              "sortOrder": 11,
+              "sortOrder": 9,
               "isDragon": false
             },
             {
@@ -2871,39 +2696,47 @@
               "name": "多伦科技",
               "changePercent": 9.93,
               "badge": "交通机器人+具身智能+智慧交通+超跌修复",
+              "sortOrder": 10,
+              "isDragon": false
+            },
+            {
+              "id": "603533",
+              "name": "掌阅科技",
+              "changePercent": 10.01,
+              "badge": "AI短剧+短剧出海",
+              "sortOrder": 11,
+              "isDragon": false
+            },
+            {
+              "id": "603598",
+              "name": "引力传媒",
+              "changePercent": 10.01,
+              "badge": "AI营销+AI短剧+广告营销",
               "sortOrder": 12,
               "isDragon": false
             },
             {
-              "id": "603662",
-              "name": "柯力传感",
+              "id": "605287",
+              "name": "德才股份",
               "changePercent": 10.0,
-              "badge": "六维力传感器+人形机器人+触觉传感器",
+              "badge": "AI漫剧+互动影游+智能体+建筑装饰",
               "sortOrder": 13,
               "isDragon": false
             },
             {
-              "id": "603666",
-              "name": "亿嘉和",
-              "changePercent": 10.02,
-              "badge": "人形机器人+华为云合作+电力机器人",
+              "id": "605398",
+              "name": "新炬网络",
+              "changePercent": 9.99,
+              "badge": "短剧营销+AI应用+智能运维",
               "sortOrder": 14,
               "isDragon": false
             },
             {
-              "id": "603893",
-              "name": "瑞芯微",
-              "changePercent": 10.0,
-              "badge": "端侧AI+机器人芯片+协处理器",
+              "id": "688004",
+              "name": "博汇科技",
+              "changePercent": 20.0,
+              "badge": null,
               "sortOrder": 15,
-              "isDragon": false
-            },
-            {
-              "id": "603901",
-              "name": "永创智能",
-              "changePercent": 10.0,
-              "badge": "人形机器人+智能包装+三季报增长",
-              "sortOrder": 16,
               "isDragon": false
             }
           ]
@@ -2939,7 +2772,7 @@
               "id": "000636",
               "name": "风华高科",
               "changePercent": 10.02,
-              "badge": "MLCC+高端MLCC+广东国资",
+              "badge": "MLCC+商业航天+广东国资",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -3223,9 +3056,296 @@
           ]
         }
       ]
+    },
+    {
+      "id": "885946.TI",
+      "name": "传感器",
+      "stockCount": 17,
+      "highestBoardCount": 1,
+      "limitUpCount": 17,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 17,
+          "stocks": [
+            {
+              "id": "000636",
+              "name": "风华高科",
+              "changePercent": 10.02,
+              "badge": "MLCC+商业航天+广东国资",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "001266",
+              "name": "宏英智能",
+              "changePercent": 10.01,
+              "badge": "电路板设计+智能控制+液冷储能+三季报增长",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002036",
+              "name": "联创电子",
+              "changePercent": 9.93,
+              "badge": "机器视觉+车载光学+光学器件送样",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002414",
+              "name": "高德红外",
+              "changePercent": 10.04,
+              "badge": "机器人+红外芯片+军工",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "002655",
+              "name": "共达电声",
+              "changePercent": 10.01,
+              "badge": "消费电子+声学元器件+拟参投硅臻芯片+控股股东增持",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "002685",
+              "name": "华东重机",
+              "changePercent": 10.0,
+              "badge": "GPU芯片+港口装卸设备+定增注册",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "002815",
+              "name": "崇达技术",
+              "changePercent": 10.0,
+              "badge": "PCB+AI服务器+珠海二厂产能爬坡",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "300007",
+              "name": "汉威科技",
+              "changePercent": 20.01,
+              "badge": "人形机器人+柔性触觉+气体传感器",
+              "sortOrder": 8,
+              "isDragon": false
+            },
+            {
+              "id": "301413",
+              "name": "安培龙",
+              "changePercent": 20.0,
+              "badge": "人形机器人+力传感器+压力传感器",
+              "sortOrder": 9,
+              "isDragon": false
+            },
+            {
+              "id": "301529",
+              "name": "福赛科技",
+              "changePercent": 20.0,
+              "badge": "机器人零部件+汽车内饰+新能源三电嵌件",
+              "sortOrder": 10,
+              "isDragon": false
+            },
+            {
+              "id": "603051",
+              "name": "鹿山新材",
+              "changePercent": 10.0,
+              "badge": "电子皮肤+光伏胶膜+回购",
+              "sortOrder": 11,
+              "isDragon": false
+            },
+            {
+              "id": "603286",
+              "name": "日盈电子",
+              "changePercent": 10.0,
+              "badge": "人形机器人+电子皮肤+汽车洗涤系统",
+              "sortOrder": 12,
+              "isDragon": false
+            },
+            {
+              "id": "603662",
+              "name": "柯力传感",
+              "changePercent": 10.0,
+              "badge": "六维力传感器+人形机器人+触觉传感器",
+              "sortOrder": 13,
+              "isDragon": false
+            },
+            {
+              "id": "603666",
+              "name": "亿嘉和",
+              "changePercent": 10.02,
+              "badge": "人形机器人+华为云合作+电力机器人",
+              "sortOrder": 14,
+              "isDragon": false
+            },
+            {
+              "id": "605488",
+              "name": "福莱新材",
+              "changePercent": 10.0,
+              "badge": "柔性传感+数据采集手套+人形机器人",
+              "sortOrder": 15,
+              "isDragon": false
+            },
+            {
+              "id": "688286",
+              "name": "敏芯股份",
+              "changePercent": 19.99,
+              "badge": "人形机器人+六维力传感器+MEMS+浦丹光电",
+              "sortOrder": 16,
+              "isDragon": false
+            },
+            {
+              "id": "688611",
+              "name": "杭州柯林",
+              "changePercent": 19.99,
+              "badge": "人形机器人+电网数字化+增持",
+              "sortOrder": 17,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
     }
   ],
-  "laggardCandidates": [],
+  "laggardCandidates": [
+    {
+      "id": "001368.SZ",
+      "name": "通达创智",
+      "boardName": "新型烟草(电子烟)",
+      "changePercent": 0.52,
+      "pct5d": -7.31,
+      "position": 14.7,
+      "score": 17.6
+    },
+    {
+      "id": "300207.SZ",
+      "name": "欣旺达",
+      "boardName": "新型烟草(电子烟)",
+      "changePercent": 1.71,
+      "pct5d": -6.7,
+      "position": 14.0,
+      "score": 17.1
+    },
+    {
+      "id": "603429.SH",
+      "name": "*ST集友",
+      "boardName": "新型烟草(电子烟)",
+      "changePercent": 0.0,
+      "pct5d": -6.9,
+      "position": 17.1,
+      "score": 16.7
+    },
+    {
+      "id": "300233.SZ",
+      "name": "金城医药",
+      "boardName": "新型烟草(电子烟)",
+      "changePercent": 2.38,
+      "pct5d": -7.6,
+      "position": 21.0,
+      "score": 16.6
+    },
+    {
+      "id": "002925.SZ",
+      "name": "盈趣科技",
+      "boardName": "新型烟草(电子烟)",
+      "changePercent": 1.18,
+      "pct5d": -5.64,
+      "position": 15.5,
+      "score": 15.7
+    },
+    {
+      "id": "301223.SZ",
+      "name": "中荣股份",
+      "boardName": "新型烟草(电子烟)",
+      "changePercent": 2.31,
+      "pct5d": -7.08,
+      "position": 26.0,
+      "score": 15.1
+    },
+    {
+      "id": "002191.SZ",
+      "name": "劲嘉股份",
+      "boardName": "新型烟草(电子烟)",
+      "changePercent": -1.36,
+      "pct5d": -5.84,
+      "position": 22.2,
+      "score": 14.6
+    },
+    {
+      "id": "002010.SZ",
+      "name": "传化智联",
+      "boardName": "人形机器人",
+      "changePercent": 0.24,
+      "pct5d": -7.22,
+      "position": 16.4,
+      "score": 14.5
+    },
+    {
+      "id": "002906.SZ",
+      "name": "华阳集团",
+      "boardName": "人形机器人",
+      "changePercent": 2.55,
+      "pct5d": -7.44,
+      "position": 18.1,
+      "score": 14.4
+    },
+    {
+      "id": "002737.SZ",
+      "name": "葵花药业",
+      "boardName": "黑龙江自贸区",
+      "changePercent": -1.93,
+      "pct5d": -6.69,
+      "position": 4.1,
+      "score": 14.2
+    },
+    {
+      "id": "600480.SH",
+      "name": "凌云股份",
+      "boardName": "人形机器人",
+      "changePercent": 2.95,
+      "pct5d": -7.28,
+      "position": 19.0,
+      "score": 14.1
+    },
+    {
+      "id": "601799.SH",
+      "name": "星宇股份",
+      "boardName": "人形机器人",
+      "changePercent": 0.92,
+      "pct5d": -5.67,
+      "position": 11.0,
+      "score": 14.0
+    },
+    {
+      "id": "600184.SH",
+      "name": "光电股份",
+      "boardName": "人形机器人",
+      "changePercent": 2.65,
+      "pct5d": -6.98,
+      "position": 18.1,
+      "score": 13.9
+    },
+    {
+      "id": "300463.SZ",
+      "name": "迈克生物",
+      "boardName": "人形机器人",
+      "changePercent": 1.51,
+      "pct5d": -6.37,
+      "position": 15.2,
+      "score": 13.9
+    },
+    {
+      "id": "600967.SH",
+      "name": "内蒙一机",
+      "boardName": "人形机器人",
+      "changePercent": 2.88,
+      "pct5d": -6.26,
+      "position": 14.8,
+      "score": 13.9
+    }
+  ],
   "dragonYinPool": [
     {
       "id": "002685.SZ",
@@ -3268,5 +3388,5 @@
       "breakMarginPct": 9.6
     }
   ],
-  "updatedAt": "2026-11-23 14:25:04"
+  "updatedAt": "2026-11-23 14:35:20"
 }
