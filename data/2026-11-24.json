@@ -7,8 +7,8 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 69,
-    "limitUpSuccessRate": 63,
+    "limitUpCount": 67,
+    "limitUpSuccessRate": 61,
     "limitDownCount": 5
   },
   "sentiment": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 34
+        "stockCount": 32
       }
     ],
     "hotTheme": {
       "name": "人形机器人",
       "stockCount": 18
     },
-    "poolFirstBoardCount": 34,
+    "poolFirstBoardCount": 32,
     "poolContinuousBoardCount": 35,
-    "poolBrokenBoardCount": 41
+    "poolBrokenBoardCount": 42
   },
   "themes": [
     {
@@ -1843,5 +1843,5 @@
   ],
   "laggardCandidates": [],
   "dragonYinPool": [],
-  "updatedAt": "2026-11-24 11:22:54"
+  "updatedAt": "2026-11-24 11:33:08"
 }
