@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 32,
-    "limitUpSuccessRate": 86,
-    "limitDownCount": 5
+    "limitUpCount": 35,
+    "limitUpSuccessRate": 78,
+    "limitDownCount": 3
   },
   "sentiment": {
     "promotion1To2": {
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 22
+        "stockCount": 25
       }
     ],
     "hotTheme": {
       "name": "仿制药一致性评价",
       "stockCount": 9
     },
-    "poolFirstBoardCount": 22,
+    "poolFirstBoardCount": 25,
     "poolContinuousBoardCount": 10,
-    "poolBrokenBoardCount": 5
+    "poolBrokenBoardCount": 10
   },
   "themes": [
     {
@@ -108,7 +108,7 @@
               "id": "002900",
               "name": "哈三联",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "创新药+化学制药+三季报减亏",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -124,7 +124,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "其它",
+              "badge": "重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 6,
               "isDragon": false
             },
@@ -140,7 +140,7 @@
               "id": "600488",
               "name": "津药药业",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "倍他米松+FDA+甾体激素",
               "sortOrder": 8,
               "isDragon": false
             }
@@ -193,7 +193,7 @@
               "id": "002864",
               "name": "盘龙药业",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "中药创新药+盘龙七片+回购",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -201,7 +201,7 @@
               "id": "002900",
               "name": "哈三联",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "创新药+化学制药+三季报减亏",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -209,7 +209,7 @@
               "id": "301089",
               "name": "拓新药业",
               "changePercent": 20.02,
-              "badge": null,
+              "badge": "流感+核苷原料药",
               "sortOrder": 5,
               "isDragon": false
             },
@@ -225,7 +225,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "其它",
+              "badge": "重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 7,
               "isDragon": false
             }
@@ -236,13 +236,13 @@
     {
       "id": "885539.TI",
       "name": "医疗器械概念",
-      "stockCount": 7,
+      "stockCount": 8,
       "highestBoardCount": 1,
-      "limitUpCount": 7,
+      "limitUpCount": 8,
       "ladders": [
         {
           "boardCount": 1,
-          "totalCount": 7,
+          "totalCount": 8,
           "stocks": [
             {
               "id": "000566",
@@ -264,7 +264,7 @@
               "id": "002861",
               "name": "瀛通通讯",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "AI眼镜+智能声学+消费电子",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -272,7 +272,7 @@
               "id": "002864",
               "name": "盘龙药业",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "中药创新药+盘龙七片+回购",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -280,7 +280,7 @@
               "id": "002900",
               "name": "哈三联",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "创新药+化学制药+三季报减亏",
               "sortOrder": 5,
               "isDragon": false
             },
@@ -288,7 +288,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "其它",
+              "badge": "重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 6,
               "isDragon": false
             },
@@ -298,6 +298,83 @@
               "changePercent": 9.86,
               "badge": "尿素+甲醇+煤化工",
               "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "601515",
+              "name": "衢州东峰",
+              "changePercent": 10.08,
+              "badge": null,
+              "sortOrder": 8,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 6,
+      "highestBoardCount": 3,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.12,
+              "badge": "撤销风险警示+物理AI+数据服务",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 5,
+          "stocks": [
+            {
+              "id": "000566",
+              "name": "海南海药",
+              "changePercent": 9.88,
+              "badge": "创新药+脑机接口",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "600227",
+              "name": "赤天化",
+              "changePercent": 9.86,
+              "badge": "尿素+甲醇+煤化工",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "601515",
+              "name": "衢州东峰",
+              "changePercent": 10.08,
+              "badge": null,
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "603949",
+              "name": "雪龙集团",
+              "changePercent": 10.0,
+              "badge": "商用车热管理+新能源风扇+机器人概念",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "605136",
+              "name": "丽人丽妆",
+              "changePercent": 9.94,
+              "badge": "AI应用+化妆品电商+零售",
+              "sortOrder": 5,
               "isDragon": false
             }
           ]
@@ -352,9 +429,9 @@
               "isDragon": false
             },
             {
-              "id": "002253",
-              "name": "川大智胜",
-              "changePercent": 10.0,
+              "id": "600576",
+              "name": "祥源文旅",
+              "changePercent": 10.04,
               "badge": null,
               "sortOrder": 2,
               "isDragon": false
@@ -408,7 +485,7 @@
               "id": "603926",
               "name": "铁流股份",
               "changePercent": 9.98,
-              "badge": null,
+              "badge": "机器人零部件+电机轴+三季报净利增长",
               "sortOrder": 2,
               "isDragon": false
             }
@@ -432,67 +509,6 @@
               "changePercent": 9.99,
               "badge": "机器人关节驱动+新能源产品+泵类龙头",
               "sortOrder": 2,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885413.TI",
-      "name": "创投",
-      "stockCount": 5,
-      "highestBoardCount": 3,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002122",
-              "name": "汇洲智能",
-              "changePercent": 10.12,
-              "badge": "撤销风险警示+物理AI+数据服务",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000566",
-              "name": "海南海药",
-              "changePercent": 9.88,
-              "badge": "创新药+脑机接口",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "600227",
-              "name": "赤天化",
-              "changePercent": 9.86,
-              "badge": "尿素+甲醇+煤化工",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "603949",
-              "name": "雪龙集团",
-              "changePercent": 10.0,
-              "badge": "商用车热管理+新能源风扇+机器人概念",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "605136",
-              "name": "丽人丽妆",
-              "changePercent": 9.94,
-              "badge": "AI应用+化妆品电商+零售",
-              "sortOrder": 4,
               "isDragon": false
             }
           ]
@@ -530,7 +546,7 @@
               "id": "002864",
               "name": "盘龙药业",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "中药创新药+盘龙七片+回购",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -538,7 +554,7 @@
               "id": "002900",
               "name": "哈三联",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "创新药+化学制药+三季报减亏",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -546,7 +562,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "其它",
+              "badge": "重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 5,
               "isDragon": false
             }
@@ -585,7 +601,7 @@
               "id": "002864",
               "name": "盘龙药业",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "中药创新药+盘龙七片+回购",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -593,7 +609,7 @@
               "id": "301089",
               "name": "拓新药业",
               "changePercent": 20.02,
-              "badge": null,
+              "badge": "流感+核苷原料药",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -610,8 +626,8 @@
       ]
     },
     {
-      "id": "885921.TI",
-      "name": "储能",
+      "id": "885997.TI",
+      "name": "比亚迪概念",
       "stockCount": 4,
       "highestBoardCount": 4,
       "limitUpCount": 4,
@@ -635,86 +651,27 @@
           "totalCount": 3,
           "stocks": [
             {
-              "id": "000593",
-              "name": "德龙汇能",
-              "changePercent": 10.02,
-              "badge": "天然气+参股半导体+氢能",
+              "id": "002861",
+              "name": "瀛通通讯",
+              "changePercent": 10.03,
+              "badge": "AI眼镜+智能声学+消费电子",
               "sortOrder": 1,
               "isDragon": false
             },
             {
-              "id": "002190",
-              "name": "成飞集成",
-              "changePercent": 9.99,
-              "badge": "无人飞行平台+航空零部件+军工央企",
+              "id": "601515",
+              "name": "衢州东峰",
+              "changePercent": 10.08,
+              "badge": null,
               "sortOrder": 2,
               "isDragon": false
             },
             {
-              "id": "600691",
-              "name": "潞化科技",
-              "changePercent": 10.0,
-              "badge": null,
+              "id": "603178",
+              "name": "圣龙股份",
+              "changePercent": 9.99,
+              "badge": "机器人关节驱动+新能源产品+泵类龙头",
               "sortOrder": 3,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885775.TI",
-      "name": "燃料电池",
-      "stockCount": 4,
-      "highestBoardCount": 4,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603960",
-              "name": "克来机电",
-              "changePercent": 9.99,
-              "badge": "工业机器人+柔性自动化装备+汽车零部件",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603926",
-              "name": "铁流股份",
-              "changePercent": 9.98,
-              "badge": null,
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "002480",
-              "name": "新筑股份",
-              "changePercent": 9.94,
-              "badge": null,
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "600691",
-              "name": "潞化科技",
-              "changePercent": 10.0,
-              "badge": null,
-              "sortOrder": 2,
               "isDragon": false
             }
           ]
@@ -806,26 +763,26 @@
           "totalCount": 3,
           "stocks": [
             {
-              "id": "002253",
-              "name": "川大智胜",
-              "changePercent": 10.0,
-              "badge": null,
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
               "id": "002861",
               "name": "瀛通通讯",
               "changePercent": 10.03,
-              "badge": null,
-              "sortOrder": 2,
+              "badge": "AI眼镜+智能声学+消费电子",
+              "sortOrder": 1,
               "isDragon": false
             },
             {
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "其它",
+              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "600576",
+              "name": "祥源文旅",
+              "changePercent": 10.04,
+              "badge": null,
               "sortOrder": 3,
               "isDragon": false
             }
@@ -864,7 +821,7 @@
               "id": "002864",
               "name": "盘龙药业",
               "changePercent": 10.03,
-              "badge": null,
+              "badge": "中药创新药+盘龙七片+回购",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -872,54 +829,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "其它",
-              "sortOrder": 4,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885882.TI",
-      "name": "消毒剂",
-      "stockCount": 4,
-      "highestBoardCount": 1,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000908",
-              "name": "石药景峰",
-              "changePercent": 10.07,
-              "badge": "中药创新药+石药入主+三季报扭亏",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002864",
-              "name": "盘龙药业",
-              "changePercent": 10.03,
-              "badge": null,
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002900",
-              "name": "哈三联",
-              "changePercent": 10.0,
-              "badge": null,
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "600691",
-              "name": "潞化科技",
-              "changePercent": 10.0,
-              "badge": null,
+              "badge": "重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 4,
               "isDragon": false
             }
@@ -958,7 +868,7 @@
               "id": "002900",
               "name": "哈三联",
               "changePercent": 10.0,
-              "badge": null,
+              "badge": "创新药+化学制药+三季报减亏",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -966,8 +876,100 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "其它",
+              "badge": "重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885705.TI",
+      "name": "乡村振兴",
+      "stockCount": 4,
+      "highestBoardCount": 1,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "600223",
+              "name": "福瑞达",
+              "changePercent": 10.02,
+              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "600227",
+              "name": "赤天化",
+              "changePercent": 9.86,
+              "badge": "尿素+甲醇+煤化工",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "600467",
+              "name": "好当家",
+              "changePercent": 10.09,
+              "badge": "海参+水产养殖+预制菜",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "605136",
+              "name": "丽人丽妆",
+              "changePercent": 9.94,
+              "badge": "AI应用+化妆品电商+零售",
+              "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885736.TI",
+      "name": "无人驾驶",
+      "stockCount": 3,
+      "highestBoardCount": 4,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": "工业机器人+柔性自动化装备+汽车零部件",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "603069",
+              "name": "海汽集团",
+              "changePercent": 9.98,
+              "badge": "免税重组+海南国资+道路客运",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "603178",
+              "name": "圣龙股份",
+              "changePercent": 9.99,
+              "badge": "机器人关节驱动+新能源产品+泵类龙头",
+              "sortOrder": 2,
               "isDragon": false
             }
           ]
@@ -977,5 +979,5 @@
   ],
   "laggardCandidates": [],
   "dragonYinPool": [],
-  "updatedAt": "2026-11-25 09:40:42"
+  "updatedAt": "2026-11-25 09:50:56"
 }
