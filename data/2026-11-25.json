@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 48,
-    "limitUpSuccessRate": 58,
-    "limitDownCount": 17
+    "limitUpCount": 52,
+    "limitUpSuccessRate": 60,
+    "limitDownCount": 24
   },
   "sentiment": {
     "promotion1To2": {
@@ -35,7 +35,7 @@
       },
       {
         "boardCount": 3,
-        "stockCount": 5
+        "stockCount": 6
       },
       {
         "boardCount": 2,
@@ -43,16 +43,16 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 36
+        "stockCount": 39
       }
     ],
     "hotTheme": {
       "name": "流感",
       "stockCount": 12
     },
-    "poolFirstBoardCount": 36,
-    "poolContinuousBoardCount": 12,
-    "poolBrokenBoardCount": 35
+    "poolFirstBoardCount": 39,
+    "poolContinuousBoardCount": 13,
+    "poolBrokenBoardCount": 34
   },
   "themes": [
     {
@@ -173,6 +173,115 @@
       ]
     },
     {
+      "id": "885705.TI",
+      "name": "乡村振兴",
+      "stockCount": 11,
+      "highestBoardCount": 4,
+      "limitUpCount": 11,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002548",
+              "name": "金新农",
+              "changePercent": 10.11,
+              "badge": "生猪养殖+猪饲料+生猪现货涨价",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 10,
+          "stocks": [
+            {
+              "id": "000826",
+              "name": "*ST启环",
+              "changePercent": 10.38,
+              "badge": "预重整推进+数字环卫+无人驾驶环卫",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002069",
+              "name": "獐子岛",
+              "changePercent": 9.94,
+              "badge": "水产养殖+海洋牧场+国企改革",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 9.95,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.05,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "600088",
+              "name": "中视传媒",
+              "changePercent": 10.01,
+              "badge": "短剧+AI应用+央企传媒",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "600103",
+              "name": "青山纸业",
+              "changePercent": 9.88,
+              "badge": "光模块+竹浆纸+福建国资",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "600223",
+              "name": "福瑞达",
+              "changePercent": 10.02,
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "600467",
+              "name": "好当家",
+              "changePercent": 10.09,
+              "badge": "海参+水产养殖+预制菜",
+              "sortOrder": 8,
+              "isDragon": false
+            },
+            {
+              "id": "603708",
+              "name": "家家悦",
+              "changePercent": 10.0,
+              "badge": "零售+连锁超市经营+生鲜食品+AI应用",
+              "sortOrder": 9,
+              "isDragon": false
+            },
+            {
+              "id": "605136",
+              "name": "丽人丽妆",
+              "changePercent": 9.94,
+              "badge": "AI应用+化妆品电商+零售",
+              "sortOrder": 10,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885856.TI",
       "name": "仿制药一致性评价",
       "stockCount": 11,
@@ -282,107 +391,6 @@
       ]
     },
     {
-      "id": "885705.TI",
-      "name": "乡村振兴",
-      "stockCount": 10,
-      "highestBoardCount": 4,
-      "limitUpCount": 10,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002548",
-              "name": "金新农",
-              "changePercent": 10.11,
-              "badge": "生猪养殖+猪饲料+生猪现货涨价",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 9,
-          "stocks": [
-            {
-              "id": "000826",
-              "name": "*ST启环",
-              "changePercent": 10.38,
-              "badge": "预重整推进+数字环卫+无人驾驶环卫",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002069",
-              "name": "獐子岛",
-              "changePercent": 9.94,
-              "badge": "水产养殖+海洋牧场+国企改革",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 9.95,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "600088",
-              "name": "中视传媒",
-              "changePercent": 10.01,
-              "badge": "短剧+AI应用+央企传媒",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "600103",
-              "name": "青山纸业",
-              "changePercent": 9.88,
-              "badge": "光模块+竹浆纸+福建国资",
-              "sortOrder": 5,
-              "isDragon": false
-            },
-            {
-              "id": "600223",
-              "name": "福瑞达",
-              "changePercent": 10.02,
-              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
-              "sortOrder": 6,
-              "isDragon": false
-            },
-            {
-              "id": "600467",
-              "name": "好当家",
-              "changePercent": 10.09,
-              "badge": "海参+水产养殖+预制菜",
-              "sortOrder": 7,
-              "isDragon": false
-            },
-            {
-              "id": "603708",
-              "name": "家家悦",
-              "changePercent": 10.0,
-              "badge": "零售+连锁超市经营+生鲜食品+AI应用",
-              "sortOrder": 8,
-              "isDragon": false
-            },
-            {
-              "id": "605136",
-              "name": "丽人丽妆",
-              "changePercent": 9.94,
-              "badge": "AI应用+化妆品电商+零售",
-              "sortOrder": 9,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "886015.TI",
       "name": "创新药",
       "stockCount": 9,
@@ -470,6 +478,162 @@
       ]
     },
     {
+      "id": "885539.TI",
+      "name": "医疗器械概念",
+      "stockCount": 8,
+      "highestBoardCount": 1,
+      "limitUpCount": 8,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "000078",
+              "name": "ST海王",
+              "changePercent": 10.28,
+              "badge": "资金占用整改+医药商业+物流配送",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000908",
+              "name": "石药景峰",
+              "changePercent": 10.07,
+              "badge": "中药创新药+石药入主+三季报扭亏",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002144",
+              "name": "宏达高科",
+              "changePercent": 10.06,
+              "badge": "汽车内饰+按摩机器人+超声诊断+碳纤维",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002861",
+              "name": "瀛通通讯",
+              "changePercent": 10.03,
+              "badge": "AI眼镜+智能声学+消费电子",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "002864",
+              "name": "盘龙药业",
+              "changePercent": 10.03,
+              "badge": "中药创新药+盘龙七片+回购",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "002900",
+              "name": "哈三联",
+              "changePercent": 10.0,
+              "badge": "创新药+化学制药+三季报减亏",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "600156",
+              "name": "华升股份",
+              "changePercent": 8.64,
+              "badge": "算力租赁+重组推进+湖南国资",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "600223",
+              "name": "福瑞达",
+              "changePercent": 10.02,
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
+              "sortOrder": 8,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885887.TI",
+      "name": "数据中心(AIDC)",
+      "stockCount": 7,
+      "highestBoardCount": 3,
+      "limitUpCount": 7,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.12,
+              "badge": "撤销风险警示+物理AI+数据服务",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 9.95,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002480",
+              "name": "新筑股份",
+              "changePercent": 9.94,
+              "badge": "重大资产重组+清洁能源+高管增持",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.05,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "600103",
+              "name": "青山纸业",
+              "changePercent": 9.88,
+              "badge": "光模块+竹浆纸+福建国资",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "600156",
+              "name": "华升股份",
+              "changePercent": 8.64,
+              "badge": "算力租赁+重组推进+湖南国资",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "603887",
+              "name": "城地香江",
+              "changePercent": 9.99,
+              "badge": "东数西算+数据中心EPC",
+              "sortOrder": 6,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885699.TI",
       "name": "ST板块",
       "stockCount": 7,
@@ -546,77 +710,6 @@
               "changePercent": 20.0,
               "badge": "卫星遥感+商业航天+可转债下修",
               "sortOrder": 4,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885539.TI",
-      "name": "医疗器械概念",
-      "stockCount": 7,
-      "highestBoardCount": 1,
-      "limitUpCount": 7,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 7,
-          "stocks": [
-            {
-              "id": "000078",
-              "name": "ST海王",
-              "changePercent": 10.28,
-              "badge": "资金占用整改+医药商业+物流配送",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "000908",
-              "name": "石药景峰",
-              "changePercent": 10.07,
-              "badge": "中药创新药+石药入主+三季报扭亏",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002144",
-              "name": "宏达高科",
-              "changePercent": 10.06,
-              "badge": "汽车内饰+按摩机器人+超声诊断+碳纤维",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "002861",
-              "name": "瀛通通讯",
-              "changePercent": 10.03,
-              "badge": "AI眼镜+智能声学+消费电子",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "002864",
-              "name": "盘龙药业",
-              "changePercent": 10.03,
-              "badge": "中药创新药+盘龙七片+回购",
-              "sortOrder": 5,
-              "isDragon": false
-            },
-            {
-              "id": "002900",
-              "name": "哈三联",
-              "changePercent": 10.0,
-              "badge": "创新药+化学制药+三季报减亏",
-              "sortOrder": 6,
-              "isDragon": false
-            },
-            {
-              "id": "600223",
-              "name": "福瑞达",
-              "changePercent": 10.02,
-              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
-              "sortOrder": 7,
               "isDragon": false
             }
           ]
@@ -766,6 +859,144 @@
       ]
     },
     {
+      "id": "886041.TI",
+      "name": "数据要素",
+      "stockCount": 6,
+      "highestBoardCount": 3,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.12,
+              "badge": "撤销风险警示+物理AI+数据服务",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600180",
+              "name": "*ST瑞茂",
+              "changePercent": 10.91,
+              "badge": "面值退市博弈+煤炭供应链",
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 9.95,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.05,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "600229",
+              "name": "城市传媒",
+              "changePercent": 9.96,
+              "badge": "AIGC+IP运营+数字文化体验+青岛国资",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "688066",
+              "name": "*ST航图",
+              "changePercent": 20.0,
+              "badge": "卫星遥感+商业航天+可转债下修",
+              "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885919.TI",
+      "name": "碳中和",
+      "stockCount": 6,
+      "highestBoardCount": 1,
+      "limitUpCount": 6,
+      "ladders": [
+        {
+          "boardCount": 1,
+          "totalCount": 6,
+          "stocks": [
+            {
+              "id": "000593",
+              "name": "德龙汇能",
+              "changePercent": 10.02,
+              "badge": "天然气+参股半导体+氢能",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000826",
+              "name": "*ST启环",
+              "changePercent": 10.38,
+              "badge": "预重整推进+数字环卫+无人驾驶环卫",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002069",
+              "name": "獐子岛",
+              "changePercent": 9.94,
+              "badge": "水产养殖+海洋牧场+国企改革",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.05,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "600103",
+              "name": "青山纸业",
+              "changePercent": 9.88,
+              "badge": "光模块+竹浆纸+福建国资",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "688066",
+              "name": "*ST航图",
+              "changePercent": 20.0,
+              "badge": "卫星遥感+商业航天+可转债下修",
+              "sortOrder": 6,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885913.TI",
       "name": "医美概念",
       "stockCount": 6,
@@ -829,6 +1060,67 @@
       ]
     },
     {
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 5,
+      "highestBoardCount": 4,
+      "limitUpCount": 5,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": "工业机器人+柔性自动化装备+汽车零部件",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 9.95,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.05,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "605136",
+              "name": "丽人丽妆",
+              "changePercent": 9.94,
+              "badge": "AI应用+化妆品电商+零售",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "688066",
+              "name": "*ST航图",
+              "changePercent": 20.0,
+              "badge": "卫星遥感+商业航天+可转债下修",
+              "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "885413.TI",
       "name": "创投",
       "stockCount": 5,
@@ -862,18 +1154,18 @@
               "isDragon": false
             },
             {
-              "id": "600103",
-              "name": "青山纸业",
-              "changePercent": 9.88,
-              "badge": "光模块+竹浆纸+福建国资",
+              "id": "301066",
+              "name": "万事利",
+              "changePercent": 19.96,
+              "badge": "丝绸文创+AIGC+回购完毕",
               "sortOrder": 2,
               "isDragon": false
             },
             {
-              "id": "603949",
-              "name": "雪龙集团",
-              "changePercent": 10.0,
-              "badge": "商用车热管理+新能源风扇+间接投资宇树科技",
+              "id": "600103",
+              "name": "青山纸业",
+              "changePercent": 9.88,
+              "badge": "光模块+竹浆纸+福建国资",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -890,8 +1182,8 @@
       ]
     },
     {
-      "id": "885887.TI",
-      "name": "数据中心(AIDC)",
+      "id": "885957.TI",
+      "name": "东数西算(算力)",
       "stockCount": 5,
       "highestBoardCount": 3,
       "limitUpCount": 5,
@@ -923,18 +1215,18 @@
               "isDragon": false
             },
             {
-              "id": "002480",
-              "name": "新筑股份",
-              "changePercent": 9.94,
-              "badge": "重大资产重组+清洁能源+高管增持",
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.05,
+              "badge": "存储设备集采+算力服务+国企",
               "sortOrder": 2,
               "isDragon": false
             },
             {
-              "id": "600103",
-              "name": "青山纸业",
-              "changePercent": 9.88,
-              "badge": "光模块+竹浆纸+福建国资",
+              "id": "600156",
+              "name": "华升股份",
+              "changePercent": 8.64,
+              "badge": "算力租赁+重组推进+湖南国资",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -949,239 +1241,145 @@
           ]
         }
       ]
-    },
-    {
-      "id": "886041.TI",
-      "name": "数据要素",
-      "stockCount": 5,
-      "highestBoardCount": 3,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002122",
-              "name": "汇洲智能",
-              "changePercent": 10.12,
-              "badge": "撤销风险警示+物理AI+数据服务",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600180",
-              "name": "*ST瑞茂",
-              "changePercent": 10.91,
-              "badge": "面值退市博弈+煤炭供应链",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 9.95,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "600229",
-              "name": "城市传媒",
-              "changePercent": 9.96,
-              "badge": "AIGC+IP运营+数字文化体验+青岛国资",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "688066",
-              "name": "*ST航图",
-              "changePercent": 20.0,
-              "badge": "卫星遥感+商业航天+可转债下修",
-              "sortOrder": 3,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885919.TI",
-      "name": "碳中和",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000593",
-              "name": "德龙汇能",
-              "changePercent": 10.02,
-              "badge": "天然气+参股半导体+氢能",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "000826",
-              "name": "*ST启环",
-              "changePercent": 10.38,
-              "badge": "预重整推进+数字环卫+无人驾驶环卫",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002069",
-              "name": "獐子岛",
-              "changePercent": 9.94,
-              "badge": "水产养殖+海洋牧场+国企改革",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "600103",
-              "name": "青山纸业",
-              "changePercent": 9.88,
-              "badge": "光模块+竹浆纸+福建国资",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "688066",
-              "name": "*ST航图",
-              "changePercent": 20.0,
-              "badge": "卫星遥感+商业航天+可转债下修",
-              "sortOrder": 5,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885951.TI",
-      "name": "预制菜",
-      "stockCount": 5,
-      "highestBoardCount": 1,
-      "limitUpCount": 5,
-      "ladders": [
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000702",
-              "name": "正虹科技",
-              "changePercent": 9.91,
-              "badge": "饲料主业+养殖业",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002069",
-              "name": "獐子岛",
-              "changePercent": 9.94,
-              "badge": "水产养殖+海洋牧场+国企改革",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002820",
-              "name": "桂发祥",
-              "changePercent": 10.06,
-              "badge": "休闲食品+非遗麻花+国企改革",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "600467",
-              "name": "好当家",
-              "changePercent": 10.09,
-              "badge": "海参+水产养殖+预制菜",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "603708",
-              "name": "家家悦",
-              "changePercent": 10.0,
-              "badge": "零售+连锁超市经营+生鲜食品+AI应用",
-              "sortOrder": 5,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886108.TI",
-      "name": "AI应用",
-      "stockCount": 4,
-      "highestBoardCount": 4,
-      "limitUpCount": 4,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603960",
-              "name": "克来机电",
-              "changePercent": 9.99,
-              "badge": "工业机器人+柔性自动化装备+汽车零部件",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 9.95,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "605136",
-              "name": "丽人丽妆",
-              "changePercent": 9.94,
-              "badge": "AI应用+化妆品电商+零售",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "688066",
-              "name": "*ST航图",
-              "changePercent": 20.0,
-              "badge": "卫星遥感+商业航天+可转债下修",
-              "sortOrder": 3,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
     }
   ],
-  "laggardCandidates": [],
+  "laggardCandidates": [
+    {
+      "id": "002393.SZ",
+      "name": "力生制药",
+      "boardName": "仿制药一致性评价",
+      "changePercent": 0.18,
+      "pct5d": -7.84,
+      "position": 3.9,
+      "score": 14.0
+    },
+    {
+      "id": "000915.SZ",
+      "name": "华特达因",
+      "boardName": "流感",
+      "changePercent": -0.06,
+      "pct5d": -7.62,
+      "position": 2.5,
+      "score": 13.8
+    },
+    {
+      "id": "688739.SH",
+      "name": "成大生物",
+      "boardName": "流感",
+      "changePercent": -0.91,
+      "pct5d": -7.42,
+      "position": 2.3,
+      "score": 13.7
+    },
+    {
+      "id": "002030.SZ",
+      "name": "达安基因",
+      "boardName": "流感",
+      "changePercent": -0.64,
+      "pct5d": -7.94,
+      "position": 4.9,
+      "score": 13.7
+    },
+    {
+      "id": "300142.SZ",
+      "name": "沃森生物",
+      "boardName": "流感",
+      "changePercent": 0.1,
+      "pct5d": -7.75,
+      "position": 4.0,
+      "score": 13.7
+    },
+    {
+      "id": "600351.SH",
+      "name": "亚宝药业",
+      "boardName": "仿制药一致性评价",
+      "changePercent": -0.17,
+      "pct5d": -7.34,
+      "position": 3.2,
+      "score": 13.6
+    },
+    {
+      "id": "603392.SH",
+      "name": "万泰生物",
+      "boardName": "流感",
+      "changePercent": -0.86,
+      "pct5d": -7.76,
+      "position": 5.6,
+      "score": 13.3
+    },
+    {
+      "id": "688389.SH",
+      "name": "普门科技",
+      "boardName": "流感",
+      "changePercent": -1.39,
+      "pct5d": -7.61,
+      "position": 6.5,
+      "score": 13.0
+    },
+    {
+      "id": "300294.SZ",
+      "name": "博雅生物",
+      "boardName": "仿制药一致性评价",
+      "changePercent": 0.08,
+      "pct5d": -7.14,
+      "position": 5.3,
+      "score": 13.0
+    },
+    {
+      "id": "600976.SH",
+      "name": "健民集团",
+      "boardName": "流感",
+      "changePercent": 0.37,
+      "pct5d": -7.24,
+      "position": 5.0,
+      "score": 12.9
+    },
+    {
+      "id": "603676.SH",
+      "name": "XD卫信康",
+      "boardName": "仿制药一致性评价",
+      "changePercent": -0.83,
+      "pct5d": -7.68,
+      "position": 8.4,
+      "score": 12.9
+    },
+    {
+      "id": "920047.BJ",
+      "name": "诺思兰德",
+      "boardName": "仿制药一致性评价",
+      "changePercent": -1.68,
+      "pct5d": -6.73,
+      "position": 4.8,
+      "score": 12.7
+    },
+    {
+      "id": "002019.SZ",
+      "name": "亿帆医药",
+      "boardName": "流感",
+      "changePercent": 0.0,
+      "pct5d": -7.5,
+      "position": 8.2,
+      "score": 12.6
+    },
+    {
+      "id": "600195.SH",
+      "name": "中牧股份",
+      "boardName": "流感",
+      "changePercent": -1.41,
+      "pct5d": -6.64,
+      "position": 4.1,
+      "score": 12.5
+    },
+    {
+      "id": "300601.SZ",
+      "name": "康泰生物",
+      "boardName": "流感",
+      "changePercent": 0.66,
+      "pct5d": -6.84,
+      "position": 5.1,
+      "score": 12.5
+    }
+  ],
   "dragonYinPool": [
     {
       "id": "002771.SZ",
@@ -1284,5 +1482,5 @@
       "breakMarginPct": 7.5
     }
   ],
-  "updatedAt": "2026-11-25 14:23:17"
+  "updatedAt": "2026-11-25 14:33:31"
 }
