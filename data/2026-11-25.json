@@ -7,7 +7,7 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 67,
+    "limitUpCount": 68,
     "limitUpSuccessRate": 83,
     "limitDownCount": 3
   },
@@ -43,18 +43,165 @@
       },
       {
         "boardCount": 1,
-        "stockCount": 53
+        "stockCount": 54
       }
     ],
     "hotTheme": {
-      "name": "流感",
+      "name": "乡村振兴",
       "stockCount": 15
     },
-    "poolFirstBoardCount": 53,
+    "poolFirstBoardCount": 54,
     "poolContinuousBoardCount": 14,
     "poolBrokenBoardCount": 14
   },
   "themes": [
+    {
+      "id": "885705.TI",
+      "name": "乡村振兴",
+      "stockCount": 15,
+      "highestBoardCount": 4,
+      "limitUpCount": 15,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002548",
+              "name": "金新农",
+              "changePercent": 10.11,
+              "badge": "生猪养殖+猪饲料+生猪现货涨价",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603359",
+              "name": "*ST东珠",
+              "changePercent": 9.57,
+              "badge": "退市风险+生态修复+林业碳汇",
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 13,
+          "stocks": [
+            {
+              "id": "000715",
+              "name": "中兴商业",
+              "changePercent": 9.98,
+              "badge": "冰雪经济+百货零售+恐龙文旅",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "001338",
+              "name": "永顺泰",
+              "changePercent": 10.07,
+              "badge": "啤酒麦芽+特种麦芽",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002069",
+              "name": "獐子岛",
+              "changePercent": 9.94,
+              "badge": "水产养殖+海洋牧场+国企改革",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 9.95,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "002607",
+              "name": "中公教育",
+              "changePercent": 9.79,
+              "badge": "职业教育+增持延期",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 10.05,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "600088",
+              "name": "中视传媒",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "600103",
+              "name": "青山纸业",
+              "changePercent": 9.88,
+              "badge": "光模块+竹浆纸+福建国资",
+              "sortOrder": 8,
+              "isDragon": false
+            },
+            {
+              "id": "600223",
+              "name": "福瑞达",
+              "changePercent": 10.02,
+              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "sortOrder": 9,
+              "isDragon": false
+            },
+            {
+              "id": "600467",
+              "name": "好当家",
+              "changePercent": 10.09,
+              "badge": "海参+水产养殖+预制菜",
+              "sortOrder": 10,
+              "isDragon": false
+            },
+            {
+              "id": "600965",
+              "name": "*ST福成",
+              "changePercent": 9.78,
+              "badge": "预制菜+肉牛养殖",
+              "sortOrder": 11,
+              "isDragon": false
+            },
+            {
+              "id": "603708",
+              "name": "家家悦",
+              "changePercent": 10.0,
+              "badge": "连锁超市经营+生鲜食品+AI应用",
+              "sortOrder": 12,
+              "isDragon": false
+            },
+            {
+              "id": "605136",
+              "name": "丽人丽妆",
+              "changePercent": 9.94,
+              "badge": "AI应用+化妆品电商+零售",
+              "sortOrder": 13,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "885879.TI",
       "name": "流感",
@@ -190,145 +337,6 @@
               "changePercent": 9.96,
               "badge": "医药商业+流感+超跌反弹",
               "sortOrder": 14,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885705.TI",
-      "name": "乡村振兴",
-      "stockCount": 14,
-      "highestBoardCount": 4,
-      "limitUpCount": 14,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002548",
-              "name": "金新农",
-              "changePercent": 10.11,
-              "badge": "生猪养殖+猪饲料+生猪现货涨价",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "603359",
-              "name": "*ST东珠",
-              "changePercent": 9.57,
-              "badge": "退市风险+生态修复+林业碳汇",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 12,
-          "stocks": [
-            {
-              "id": "000715",
-              "name": "中兴商业",
-              "changePercent": 9.98,
-              "badge": "冰雪经济+百货零售+恐龙文旅",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "001338",
-              "name": "永顺泰",
-              "changePercent": 10.07,
-              "badge": "啤酒麦芽+特种麦芽",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002069",
-              "name": "獐子岛",
-              "changePercent": 9.94,
-              "badge": "水产养殖+海洋牧场+国企改革",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 9.95,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "002607",
-              "name": "中公教育",
-              "changePercent": 9.79,
-              "badge": "职业教育+增持延期",
-              "sortOrder": 5,
-              "isDragon": false
-            },
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 10.05,
-              "badge": "存储设备集采+算力服务+国企",
-              "sortOrder": 6,
-              "isDragon": false
-            },
-            {
-              "id": "600103",
-              "name": "青山纸业",
-              "changePercent": 9.88,
-              "badge": "光模块+竹浆纸+福建国资",
-              "sortOrder": 7,
-              "isDragon": false
-            },
-            {
-              "id": "600223",
-              "name": "福瑞达",
-              "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
-              "sortOrder": 8,
-              "isDragon": false
-            },
-            {
-              "id": "600467",
-              "name": "好当家",
-              "changePercent": 10.09,
-              "badge": "海参+水产养殖+预制菜",
-              "sortOrder": 9,
-              "isDragon": false
-            },
-            {
-              "id": "600965",
-              "name": "*ST福成",
-              "changePercent": 9.78,
-              "badge": "预制菜+肉牛养殖",
-              "sortOrder": 10,
-              "isDragon": false
-            },
-            {
-              "id": "603708",
-              "name": "家家悦",
-              "changePercent": 10.0,
-              "badge": "连锁超市经营+生鲜食品+AI应用",
-              "sortOrder": 11,
-              "isDragon": false
-            },
-            {
-              "id": "605136",
-              "name": "丽人丽妆",
-              "changePercent": 9.94,
-              "badge": "AI应用+化妆品电商+零售",
-              "sortOrder": 12,
               "isDragon": false
             }
           ]
@@ -499,7 +507,7 @@
               "id": "002144",
               "name": "宏达高科",
               "changePercent": 10.06,
-              "badge": "碳纤维+AI超声+汽车内饰",
+              "badge": "汽车内饰+按摩机器人+超声诊断+碳纤维",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -539,7 +547,7 @@
               "id": "600156",
               "name": "华升股份",
               "changePercent": 10.05,
-              "badge": null,
+              "badge": "湖南国资",
               "sortOrder": 9,
               "isDragon": false
             },
@@ -1133,7 +1141,7 @@
               "id": "600156",
               "name": "华升股份",
               "changePercent": 10.05,
-              "badge": null,
+              "badge": "湖南国资",
               "sortOrder": 6,
               "isDragon": false
             },
@@ -1279,7 +1287,7 @@
               "id": "600156",
               "name": "华升股份",
               "changePercent": 10.05,
-              "badge": null,
+              "badge": "湖南国资",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -1612,5 +1620,5 @@
       "breakMarginPct": 7.5
     }
   ],
-  "updatedAt": "2026-11-25 11:19:02"
+  "updatedAt": "2026-11-25 11:29:15"
 }
