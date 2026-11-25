@@ -146,7 +146,7 @@
               "id": "600088",
               "name": "中视传媒",
               "changePercent": 10.01,
-              "badge": null,
+              "badge": "短剧+AI应用",
               "sortOrder": 7,
               "isDragon": false
             },
@@ -162,7 +162,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 9,
               "isDragon": false
             },
@@ -186,7 +186,7 @@
               "id": "603708",
               "name": "家家悦",
               "changePercent": 10.0,
-              "badge": "连锁超市经营+生鲜食品+AI应用",
+              "badge": "零售+连锁超市经营+生鲜食品+AI应用",
               "sortOrder": 12,
               "isDragon": false
             },
@@ -327,7 +327,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 13,
               "isDragon": false
             },
@@ -452,7 +452,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 11,
               "isDragon": false
             },
@@ -547,7 +547,7 @@
               "id": "600156",
               "name": "华升股份",
               "changePercent": 10.05,
-              "badge": "湖南国资",
+              "badge": "算力租赁+重组推进+湖南国资",
               "sortOrder": 9,
               "isDragon": false
             },
@@ -555,7 +555,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 10,
               "isDragon": false
             },
@@ -666,7 +666,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 10,
               "isDragon": false
             },
@@ -777,7 +777,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 11,
               "isDragon": false
             }
@@ -1141,7 +1141,7 @@
               "id": "600156",
               "name": "华升股份",
               "changePercent": 10.05,
-              "badge": "湖南国资",
+              "badge": "算力租赁+重组推进+湖南国资",
               "sortOrder": 6,
               "isDragon": false
             },
@@ -1287,7 +1287,7 @@
               "id": "600156",
               "name": "华升股份",
               "changePercent": 10.05,
-              "badge": "湖南国资",
+              "badge": "算力租赁+重组推进+湖南国资",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -1356,7 +1356,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -1425,7 +1425,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -1500,7 +1500,7 @@
               "id": "600223",
               "name": "福瑞达",
               "changePercent": 10.02,
-              "badge": "重组胶原蛋白+合成生物+山东国资",
+              "badge": "零售+重组胶原蛋白+合成生物+山东国资",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -1620,5 +1620,5 @@
       "breakMarginPct": 7.5
     }
   ],
-  "updatedAt": "2026-11-25 11:29:15"
+  "updatedAt": "2026-11-25 11:39:30"
 }
