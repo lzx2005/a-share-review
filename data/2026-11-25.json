@@ -1,0 +1,596 @@
+{
+  "tradeDate": "2026-11-25",
+  "weekday": "周三",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": false
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 6,
+    "limitUpSuccessRate": 100,
+    "limitDownCount": 4
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "promotion2To3": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "previousLadderPerformance": null,
+    "previousLimitUpPerformance": null,
+    "highestBoard": {
+      "stockName": "金新农",
+      "boardCount": 4
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 4,
+        "stockCount": 2
+      },
+      {
+        "boardCount": 3,
+        "stockCount": 2
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 2
+      }
+    ],
+    "hotTheme": {
+      "name": "高端装备",
+      "stockCount": 2
+    },
+    "poolFirstBoardCount": 0,
+    "poolContinuousBoardCount": 6,
+    "poolBrokenBoardCount": 0
+  },
+  "themes": [
+    {
+      "id": "885427.TI",
+      "name": "高端装备",
+      "stockCount": 2,
+      "highestBoardCount": 4,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.12,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885756.TI",
+      "name": "芯片概念",
+      "stockCount": 2,
+      "highestBoardCount": 4,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001278",
+              "name": "一彬科技",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886002.TI",
+      "name": "机器视觉",
+      "stockCount": 2,
+      "highestBoardCount": 4,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001278",
+              "name": "一彬科技",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885545.TI",
+      "name": "汽车电子",
+      "stockCount": 2,
+      "highestBoardCount": 4,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "001278",
+              "name": "一彬科技",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886057.TI",
+      "name": "新型工业化",
+      "stockCount": 2,
+      "highestBoardCount": 4,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.12,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886061.TI",
+      "name": "长安汽车概念",
+      "stockCount": 2,
+      "highestBoardCount": 3,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "001278",
+              "name": "一彬科技",
+              "changePercent": 10.02,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            },
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.12,
+              "badge": null,
+              "sortOrder": 2,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885699.TI",
+      "name": "ST板块",
+      "stockCount": 2,
+      "highestBoardCount": 3,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.12,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002872",
+              "name": "天圣制药",
+              "changePercent": 10.08,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885573.TI",
+      "name": "猪肉",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002548",
+              "name": "金新农",
+              "changePercent": 10.11,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885705.TI",
+      "name": "乡村振兴",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002548",
+              "name": "金新农",
+              "changePercent": 10.11,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885505.TI",
+      "name": "生态农业",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002548",
+              "name": "金新农",
+              "changePercent": 10.11,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885775.TI",
+      "name": "燃料电池",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885736.TI",
+      "name": "无人驾驶",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885770.TI",
+      "name": "智能物流",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885823.TI",
+      "name": "氢能源",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885834.TI",
+      "name": "华为汽车",
+      "stockCount": 1,
+      "highestBoardCount": 4,
+      "limitUpCount": 1,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603960",
+              "name": "克来机电",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "laggardCandidates": [],
+  "dragonYinPool": [
+    {
+      "id": "002771.SZ",
+      "name": "真视通",
+      "boardName": "储能",
+      "streak": 5,
+      "yinDays": 1,
+      "yinClose": 17.33,
+      "lastClose": 17.33,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "603324.SH",
+      "name": "盛剑科技",
+      "boardName": "芯片概念",
+      "streak": 5,
+      "yinDays": 1,
+      "yinClose": 29.34,
+      "lastClose": 29.34,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "000530.SZ",
+      "name": "冰山冷热",
+      "boardName": "核电",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 13.42,
+      "lastClose": 13.42,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "000593.SZ",
+      "name": "德龙汇能",
+      "boardName": "碳中和",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 18.67,
+      "lastClose": 18.67,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "002199.SZ",
+      "name": "东晶电子",
+      "boardName": "锂电池概念",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 11.4,
+      "lastClose": 11.4,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "002642.SZ",
+      "name": "荣联科技",
+      "boardName": "乡村振兴",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 7.76,
+      "lastClose": 7.76,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "301313.SZ",
+      "name": "凡拓数创",
+      "boardName": "IP经济(谷子经济)",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 82.8,
+      "lastClose": 82.8,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "600327.SH",
+      "name": "大东方",
+      "boardName": "参股银行",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 5.3,
+      "lastClose": 5.3,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "600340.SH",
+      "name": "*ST华幸",
+      "boardName": "ST板块",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 0.94,
+      "lastClose": 0.94,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "605577.SH",
+      "name": "龙版传媒",
+      "boardName": "文化传媒概念",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 18.21,
+      "lastClose": 18.21,
+      "breakMarginPct": 7.5
+    }
+  ],
+  "updatedAt": "2026-11-25 09:30:17"
+}
