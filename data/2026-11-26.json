@@ -193,7 +193,7 @@
               "id": "000530",
               "name": "冰山冷热",
               "changePercent": 10.0,
-              "badge": "冰雪经济+数据中心液冷+船舶制冷",
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -417,7 +417,7 @@
               "id": "000530",
               "name": "冰山冷热",
               "changePercent": 10.0,
-              "badge": "冰雪经济+数据中心液冷+船舶制冷",
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -611,7 +611,7 @@
               "id": "000530",
               "name": "冰山冷热",
               "changePercent": 10.0,
-              "badge": "冰雪经济+数据中心液冷+船舶制冷",
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
               "sortOrder": 2,
               "isDragon": false
             },
@@ -811,7 +811,7 @@
               "id": "600499",
               "name": "科达制造",
               "changePercent": 10.03,
-              "badge": "股份转让+海外建材",
+              "badge": "股份转让+海外建材+碳酸锂",
               "sortOrder": 3,
               "isDragon": false
             },
@@ -1103,7 +1103,7 @@
               "id": "000530",
               "name": "冰山冷热",
               "changePercent": 10.0,
-              "badge": "冰雪经济+数据中心液冷+船舶制冷",
+              "badge": "冰雪工程+数据中心液冷+船舶制冷+股权受让",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -1127,7 +1127,7 @@
               "id": "600499",
               "name": "科达制造",
               "changePercent": 10.03,
-              "badge": "股份转让+海外建材",
+              "badge": "股份转让+海外建材+碳酸锂",
               "sortOrder": 4,
               "isDragon": false
             },
@@ -1285,7 +1285,7 @@
               "id": "600499",
               "name": "科达制造",
               "changePercent": 10.03,
-              "badge": "股份转让+海外建材",
+              "badge": "股份转让+海外建材+碳酸锂",
               "sortOrder": 6,
               "isDragon": false
             },
@@ -1514,5 +1514,5 @@
       "breakMarginPct": 17.8
     }
   ],
-  "updatedAt": "2026-11-26 11:33:26"
+  "updatedAt": "2026-11-26 11:43:39"
 }
