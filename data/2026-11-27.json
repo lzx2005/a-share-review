@@ -1,0 +1,896 @@
+{
+  "tradeDate": "2026-11-27",
+  "weekday": "周五",
+  "navigation": {
+    "hasPrevious": true,
+    "hasNext": false
+  },
+  "marketSummary": {
+    "indexChangePercent": null,
+    "limitUpCount": 10,
+    "limitUpSuccessRate": 100,
+    "limitDownCount": 1
+  },
+  "sentiment": {
+    "promotion1To2": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "promotion2To3": {
+      "previousCount": 0,
+      "currentCount": 0,
+      "rate": null
+    },
+    "previousLadderPerformance": null,
+    "previousLimitUpPerformance": null,
+    "highestBoard": {
+      "stockName": "*ST瑞茂",
+      "boardCount": 4
+    },
+    "poolLadderSummary": [
+      {
+        "boardCount": 4,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 3,
+        "stockCount": 1
+      },
+      {
+        "boardCount": 2,
+        "stockCount": 4
+      },
+      {
+        "boardCount": 1,
+        "stockCount": 4
+      }
+    ],
+    "hotTheme": {
+      "name": "互联网金融",
+      "stockCount": 4
+    },
+    "poolFirstBoardCount": 4,
+    "poolContinuousBoardCount": 6,
+    "poolBrokenBoardCount": 0
+  },
+  "themes": [
+    {
+      "id": "885456.TI",
+      "name": "互联网金融",
+      "stockCount": 4,
+      "highestBoardCount": 4,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600180",
+              "name": "*ST瑞茂",
+              "changePercent": 10.45,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002344",
+              "name": "海宁皮城",
+              "changePercent": 10.12,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885783.TI",
+      "name": "工业互联网",
+      "stockCount": 4,
+      "highestBoardCount": 4,
+      "limitUpCount": 4,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600180",
+              "name": "*ST瑞茂",
+              "changePercent": 10.45,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "600567",
+              "name": "山鹰国际",
+              "changePercent": 9.9,
+              "badge": null,
+              "sortOrder": 2,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "603213",
+              "name": "镇洋发展",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886041.TI",
+      "name": "数据要素",
+      "stockCount": 3,
+      "highestBoardCount": 4,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600180",
+              "name": "*ST瑞茂",
+              "changePercent": 10.45,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885957.TI",
+      "name": "东数西算(算力)",
+      "stockCount": 3,
+      "highestBoardCount": 3,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002930",
+              "name": "宏川智慧",
+              "changePercent": 10.05,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886050.TI",
+      "name": "算力租赁",
+      "stockCount": 3,
+      "highestBoardCount": 3,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002930",
+              "name": "宏川智慧",
+              "changePercent": 10.05,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885976.TI",
+      "name": "数字经济",
+      "stockCount": 3,
+      "highestBoardCount": 3,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "600567",
+              "name": "山鹰国际",
+              "changePercent": 9.9,
+              "badge": null,
+              "sortOrder": 2,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885413.TI",
+      "name": "创投",
+      "stockCount": 3,
+      "highestBoardCount": 2,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600567",
+              "name": "山鹰国际",
+              "changePercent": 9.9,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "002344",
+              "name": "海宁皮城",
+              "changePercent": 10.12,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "600825",
+              "name": "新华传媒",
+              "changePercent": 9.96,
+              "badge": null,
+              "sortOrder": 2,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885835.TI",
+      "name": "参股银行",
+      "stockCount": 3,
+      "highestBoardCount": 2,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            },
+            {
+              "id": "600567",
+              "name": "山鹰国际",
+              "changePercent": 9.9,
+              "badge": null,
+              "sortOrder": 2,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002344",
+              "name": "海宁皮城",
+              "changePercent": 10.12,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885997.TI",
+      "name": "比亚迪概念",
+      "stockCount": 3,
+      "highestBoardCount": 2,
+      "limitUpCount": 3,
+      "ladders": [
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "600567",
+              "name": "山鹰国际",
+              "changePercent": 9.9,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            },
+            {
+              "id": "603051",
+              "name": "鹿山新材",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 2,
+              "isDragon": true
+            },
+            {
+              "id": "603386",
+              "name": "骏亚科技",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 3,
+              "isDragon": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885988.TI",
+      "name": "统一大市场",
+      "stockCount": 2,
+      "highestBoardCount": 4,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 4,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "600180",
+              "name": "*ST瑞茂",
+              "changePercent": 10.45,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002930",
+              "name": "宏川智慧",
+              "changePercent": 10.05,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885459.TI",
+      "name": "网络安全",
+      "stockCount": 2,
+      "highestBoardCount": 3,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885461.TI",
+      "name": "充电桩",
+      "stockCount": 2,
+      "highestBoardCount": 3,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885797.TI",
+      "name": "百度概念",
+      "stockCount": 2,
+      "highestBoardCount": 3,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885611.TI",
+      "name": "阿里巴巴概念",
+      "stockCount": 2,
+      "highestBoardCount": 3,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885779.TI",
+      "name": "腾讯概念",
+      "stockCount": 2,
+      "highestBoardCount": 3,
+      "limitUpCount": 2,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "laggardCandidates": [],
+  "dragonYinPool": [
+    {
+      "id": "002579.SZ",
+      "name": "中京电子",
+      "boardName": "医疗器械概念",
+      "streak": 5,
+      "yinDays": 1,
+      "yinClose": 19.23,
+      "lastClose": 19.23,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "002548.SZ",
+      "name": "金新农",
+      "boardName": "乡村振兴",
+      "streak": 4,
+      "yinDays": 1,
+      "yinClose": 5.33,
+      "lastClose": 5.33,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "002122.SZ",
+      "name": "汇洲智能",
+      "boardName": "ST板块",
+      "streak": 3,
+      "yinDays": 1,
+      "yinClose": 3.8,
+      "lastClose": 3.8,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "002164.SZ",
+      "name": "宁波东力",
+      "boardName": "共同富裕示范区",
+      "streak": 3,
+      "yinDays": 1,
+      "yinClose": 21.06,
+      "lastClose": 21.06,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "002242.SZ",
+      "name": "九阳股份",
+      "boardName": "绿色电力",
+      "streak": 3,
+      "yinDays": 1,
+      "yinClose": 41.9,
+      "lastClose": 41.9,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "300703.SZ",
+      "name": "创源股份",
+      "boardName": "宠物经济",
+      "streak": 3,
+      "yinDays": 1,
+      "yinClose": 16.3,
+      "lastClose": 16.3,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "605018.SH",
+      "name": "长华集团",
+      "boardName": "长安汽车概念",
+      "streak": 3,
+      "yinDays": 2,
+      "yinClose": 13.03,
+      "lastClose": 12.68,
+      "breakMarginPct": 4.6
+    },
+    {
+      "id": "603360.SH",
+      "name": "百傲化学",
+      "boardName": "消毒剂",
+      "streak": 2,
+      "yinDays": 1,
+      "yinClose": 11.25,
+      "lastClose": 11.25,
+      "breakMarginPct": 7.5
+    },
+    {
+      "id": "001229.SZ",
+      "name": "魅视科技",
+      "boardName": "多模态AI",
+      "streak": 2,
+      "yinDays": 2,
+      "yinClose": 27.43,
+      "lastClose": 26.4,
+      "breakMarginPct": 3.5
+    },
+    {
+      "id": "001358.SZ",
+      "name": "兴欣新材",
+      "boardName": "碳中和",
+      "streak": 2,
+      "yinDays": 2,
+      "yinClose": 33.54,
+      "lastClose": 32.11,
+      "breakMarginPct": 2.9
+    },
+    {
+      "id": "002724.SZ",
+      "name": "海洋王",
+      "boardName": "军工",
+      "streak": 2,
+      "yinDays": 2,
+      "yinClose": 9.54,
+      "lastClose": 9.14,
+      "breakMarginPct": 3.0
+    },
+    {
+      "id": "301575.SZ",
+      "name": "艾芬达",
+      "boardName": "家用电器",
+      "streak": 2,
+      "yinDays": 2,
+      "yinClose": 30.89,
+      "lastClose": 30.85,
+      "breakMarginPct": 7.4
+    },
+    {
+      "id": "601599.SH",
+      "name": "浙文影业",
+      "boardName": "短剧游戏",
+      "streak": 2,
+      "yinDays": 2,
+      "yinClose": 3.76,
+      "lastClose": 3.68,
+      "breakMarginPct": 5.2
+    },
+    {
+      "id": "603021.SH",
+      "name": "*ST华鹏",
+      "boardName": "地下管网",
+      "streak": 2,
+      "yinDays": 2,
+      "yinClose": 3.76,
+      "lastClose": 3.85,
+      "breakMarginPct": 10.1
+    },
+    {
+      "id": "603516.SH",
+      "name": "淳中科技",
+      "boardName": "液冷服务器",
+      "streak": 2,
+      "yinDays": 2,
+      "yinClose": 44.93,
+      "lastClose": 43.95,
+      "breakMarginPct": 5.2
+    },
+    {
+      "id": "603666.SH",
+      "name": "亿嘉和",
+      "boardName": "充电桩",
+      "streak": 2,
+      "yinDays": 2,
+      "yinClose": 26.23,
+      "lastClose": 28.2,
+      "breakMarginPct": 15.6
+    }
+  ],
+  "updatedAt": "2026-11-27 09:30:23"
+}
