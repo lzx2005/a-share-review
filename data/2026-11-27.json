@@ -7,9 +7,9 @@
   },
   "marketSummary": {
     "indexChangePercent": null,
-    "limitUpCount": 35,
+    "limitUpCount": 43,
     "limitUpSuccessRate": 74,
-    "limitDownCount": 2
+    "limitDownCount": 1
   },
   "sentiment": {
     "promotion1To2": {
@@ -39,25 +39,204 @@
       },
       {
         "boardCount": 2,
-        "stockCount": 11
+        "stockCount": 10
       },
       {
         "boardCount": 1,
-        "stockCount": 20
+        "stockCount": 29
       }
     ],
     "hotTheme": {
       "name": "东数西算(算力)",
-      "stockCount": 15
+      "stockCount": 19
     },
-    "poolFirstBoardCount": 20,
-    "poolContinuousBoardCount": 15,
-    "poolBrokenBoardCount": 12
+    "poolFirstBoardCount": 29,
+    "poolContinuousBoardCount": 14,
+    "poolBrokenBoardCount": 15
   },
   "themes": [
     {
       "id": "885957.TI",
       "name": "东数西算(算力)",
+      "stockCount": 19,
+      "highestBoardCount": 3,
+      "limitUpCount": 19,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": "华为昇腾+算力+词元工厂",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002261",
+              "name": "拓维信息",
+              "changePercent": 10.02,
+              "badge": "华为昇腾+算力+机器人",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002298",
+              "name": "中电鑫龙",
+              "changePercent": 10.07,
+              "badge": "算力基础设施+智能输配电+并购重组",
+              "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 15,
+          "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000062",
+              "name": "深圳华强",
+              "changePercent": 9.98,
+              "badge": "华为昇腾+存储芯片+算力服务",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "000409",
+              "name": "云鼎科技",
+              "changePercent": 10.03,
+              "badge": "AI应用+智能矿山+风电运维",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 9.96,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "002930",
+              "name": "宏川智慧",
+              "changePercent": 10.05,
+              "badge": "燧原经销+算力租赁+石化仓储",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "300047",
+              "name": "天源迪科",
+              "changePercent": 20.0,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "300339",
+              "name": "润和软件",
+              "changePercent": 19.99,
+              "badge": null,
+              "sortOrder": 8,
+              "isDragon": false
+            },
+            {
+              "id": "301178",
+              "name": "天亿马",
+              "changePercent": 19.99,
+              "badge": "算力租赁+词元出海+人形机器人",
+              "sortOrder": 9,
+              "isDragon": false
+            },
+            {
+              "id": "301259",
+              "name": "艾布鲁",
+              "changePercent": 19.97,
+              "badge": "算力租赁+参股TPU芯片+环境治理",
+              "sortOrder": 10,
+              "isDragon": false
+            },
+            {
+              "id": "600589",
+              "name": "大位科技",
+              "changePercent": 10.02,
+              "badge": "算力租赁+东数西算+数据中心",
+              "sortOrder": 11,
+              "isDragon": false
+            },
+            {
+              "id": "600797",
+              "name": "浙大网新",
+              "changePercent": 10.07,
+              "badge": "算力租赁+智算转型+AI应用",
+              "sortOrder": 12,
+              "isDragon": false
+            },
+            {
+              "id": "603220",
+              "name": "中贝通信",
+              "changePercent": 10.03,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 13,
+              "isDragon": false
+            },
+            {
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 14,
+              "isDragon": false
+            },
+            {
+              "id": "605168",
+              "name": "三人行",
+              "changePercent": 10.0,
+              "badge": "字节生态+算力租赁+AI营销",
+              "sortOrder": 15,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885887.TI",
+      "name": "数据中心(AIDC)",
       "stockCount": 15,
       "highestBoardCount": 3,
       "limitUpCount": 15,
@@ -78,153 +257,6 @@
         },
         {
           "boardCount": 2,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.01,
-              "badge": "华为昇腾+算力+词元工厂",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002261",
-              "name": "拓维信息",
-              "changePercent": 10.02,
-              "badge": "华为昇腾+算力+机器人",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002298",
-              "name": "中电鑫龙",
-              "changePercent": 10.07,
-              "badge": "算力基础设施+智能输配电+并购重组",
-              "sortOrder": 3,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 11,
-          "stocks": [
-            {
-              "id": "000062",
-              "name": "深圳华强",
-              "changePercent": 9.98,
-              "badge": "华为昇腾+存储芯片+算力服务",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "000409",
-              "name": "云鼎科技",
-              "changePercent": 10.03,
-              "badge": "AI应用+智能矿山+风电运维",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "002930",
-              "name": "宏川智慧",
-              "changePercent": 10.05,
-              "badge": "燧原经销+算力租赁+石化仓储",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "300047",
-              "name": "天源迪科",
-              "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 5,
-              "isDragon": false
-            },
-            {
-              "id": "301178",
-              "name": "天亿马",
-              "changePercent": 19.99,
-              "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 6,
-              "isDragon": false
-            },
-            {
-              "id": "301259",
-              "name": "艾布鲁",
-              "changePercent": 19.97,
-              "badge": "算力租赁+参股TPU芯片+控股子公司杭州星",
-              "sortOrder": 7,
-              "isDragon": false
-            },
-            {
-              "id": "600589",
-              "name": "大位科技",
-              "changePercent": 10.02,
-              "badge": "算力租赁+东数西算+数据中心",
-              "sortOrder": 8,
-              "isDragon": false
-            },
-            {
-              "id": "600797",
-              "name": "浙大网新",
-              "changePercent": 10.07,
-              "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 9,
-              "isDragon": false
-            },
-            {
-              "id": "603220",
-              "name": "中贝通信",
-              "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
-              "sortOrder": 10,
-              "isDragon": false
-            },
-            {
-              "id": "605168",
-              "name": "三人行",
-              "changePercent": 10.0,
-              "badge": "字节生态+算力租赁+AI营销",
-              "sortOrder": 11,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885887.TI",
-      "name": "数据中心(AIDC)",
-      "stockCount": 12,
-      "highestBoardCount": 3,
-      "limitUpCount": 12,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.07,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
           "totalCount": 2,
           "stocks": [
             {
@@ -247,38 +279,54 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 9,
+          "totalCount": 12,
           "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
             {
               "id": "000409",
               "name": "云鼎科技",
               "changePercent": 10.03,
               "badge": "AI应用+智能矿山+风电运维",
-              "sortOrder": 1,
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 3,
               "isDragon": false
             },
             {
               "id": "002480",
               "name": "新筑股份",
               "changePercent": 10.06,
-              "badge": "清洁能源+重组审核+高管增持",
-              "sortOrder": 2,
+              "badge": "数据中心+清洁能源+重组审核+高管增持",
+              "sortOrder": 4,
               "isDragon": false
             },
             {
               "id": "002642",
               "name": "荣联科技",
               "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 3,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 5,
               "isDragon": false
             },
             {
               "id": "300047",
               "name": "天源迪科",
               "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 4,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 6,
               "isDragon": false
             },
             {
@@ -286,465 +334,23 @@
               "name": "天亿马",
               "changePercent": 19.99,
               "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 5,
+              "sortOrder": 7,
               "isDragon": false
             },
             {
               "id": "301259",
               "name": "艾布鲁",
               "changePercent": 19.97,
-              "badge": "算力租赁+参股TPU芯片+控股子公司杭州星",
-              "sortOrder": 6,
-              "isDragon": false
-            },
-            {
-              "id": "600589",
-              "name": "大位科技",
-              "changePercent": 10.02,
-              "badge": "算力租赁+东数西算+数据中心",
-              "sortOrder": 7,
-              "isDragon": false
-            },
-            {
-              "id": "600797",
-              "name": "浙大网新",
-              "changePercent": 10.07,
-              "badge": "算力租赁+智算转型+AI应用",
+              "badge": "算力租赁+参股TPU芯片+环境治理",
               "sortOrder": 8,
               "isDragon": false
             },
             {
-              "id": "603220",
-              "name": "中贝通信",
-              "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
-              "sortOrder": 9,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885779.TI",
-      "name": "腾讯概念",
-      "stockCount": 11,
-      "highestBoardCount": 3,
-      "limitUpCount": 11,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.07,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.01,
-              "badge": "华为昇腾+算力+词元工厂",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "000889",
-              "name": "中嘉博创",
-              "changePercent": 9.97,
-              "badge": "算力销售+通信网络维护+业绩扭亏",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002298",
-              "name": "中电鑫龙",
-              "changePercent": 10.07,
-              "badge": "算力基础设施+智能输配电+并购重组",
-              "sortOrder": 3,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 7,
-          "stocks": [
-            {
-              "id": "000062",
-              "name": "深圳华强",
-              "changePercent": 9.98,
-              "badge": "华为昇腾+存储芯片+算力服务",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "000409",
-              "name": "云鼎科技",
-              "changePercent": 10.03,
-              "badge": "AI应用+智能矿山+风电运维",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "300047",
-              "name": "天源迪科",
-              "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "301178",
-              "name": "天亿马",
-              "changePercent": 19.99,
-              "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 5,
-              "isDragon": false
-            },
-            {
-              "id": "600797",
-              "name": "浙大网新",
-              "changePercent": 10.07,
-              "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 6,
-              "isDragon": false
-            },
-            {
-              "id": "605168",
-              "name": "三人行",
-              "changePercent": 10.0,
-              "badge": "字节生态+算力租赁+AI营销",
-              "sortOrder": 7,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886108.TI",
-      "name": "AI应用",
-      "stockCount": 11,
-      "highestBoardCount": 3,
-      "limitUpCount": 11,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.07,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 3,
-          "stocks": [
-            {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.01,
-              "badge": "华为昇腾+算力+词元工厂",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002261",
-              "name": "拓维信息",
-              "changePercent": 10.02,
-              "badge": "华为昇腾+算力+机器人",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "003040",
-              "name": "楚天龙",
-              "changePercent": 10.03,
-              "badge": "eSIM+数字人民币+AI政务",
-              "sortOrder": 3,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 7,
-          "stocks": [
-            {
-              "id": "000409",
-              "name": "云鼎科技",
-              "changePercent": 10.03,
-              "badge": "AI应用+智能矿山+风电运维",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "300047",
-              "name": "天源迪科",
-              "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "301178",
-              "name": "天亿马",
-              "changePercent": 19.99,
-              "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "600797",
-              "name": "浙大网新",
-              "changePercent": 10.07,
-              "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 5,
-              "isDragon": false
-            },
-            {
-              "id": "603220",
-              "name": "中贝通信",
-              "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
-              "sortOrder": 6,
-              "isDragon": false
-            },
-            {
-              "id": "605168",
-              "name": "三人行",
-              "changePercent": 10.0,
-              "badge": "字节生态+算力租赁+AI营销",
-              "sortOrder": 7,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886041.TI",
-      "name": "数据要素",
-      "stockCount": 10,
-      "highestBoardCount": 4,
-      "limitUpCount": 10,
-      "ladders": [
-        {
-          "boardCount": 4,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "600180",
-              "name": "*ST瑞茂",
-              "changePercent": 10.45,
-              "badge": "面值退市博弈+煤炭供应链+重整协议解除",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.07,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 1,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.01,
-              "badge": "华为昇腾+算力+词元工厂",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002298",
-              "name": "中电鑫龙",
-              "changePercent": 10.07,
-              "badge": "算力基础设施+智能输配电+并购重组",
-              "sortOrder": 2,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 6,
-          "stocks": [
-            {
-              "id": "000409",
-              "name": "云鼎科技",
-              "changePercent": 10.03,
-              "badge": "AI应用+智能矿山+风电运维",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "300047",
-              "name": "天源迪科",
-              "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "301178",
-              "name": "天亿马",
-              "changePercent": 19.99,
-              "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "600797",
-              "name": "浙大网新",
-              "changePercent": 10.07,
-              "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 5,
-              "isDragon": false
-            },
-            {
-              "id": "605168",
-              "name": "三人行",
-              "changePercent": 10.0,
-              "badge": "字节生态+算力租赁+AI营销",
-              "sortOrder": 6,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "886050.TI",
-      "name": "算力租赁",
-      "stockCount": 10,
-      "highestBoardCount": 3,
-      "limitUpCount": 10,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.07,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 2,
-          "stocks": [
-            {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.01,
-              "badge": "华为昇腾+算力+词元工厂",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "000889",
-              "name": "中嘉博创",
-              "changePercent": 9.97,
-              "badge": "算力销售+通信网络维护+业绩扭亏",
-              "sortOrder": 2,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 7,
-          "stocks": [
-            {
-              "id": "002930",
-              "name": "宏川智慧",
-              "changePercent": 10.05,
-              "badge": "燧原经销+算力租赁+石化仓储",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "301178",
-              "name": "天亿马",
-              "changePercent": 19.99,
-              "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "301259",
-              "name": "艾布鲁",
-              "changePercent": 19.97,
-              "badge": "算力租赁+参股TPU芯片+控股子公司杭州星",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
               "id": "600589",
               "name": "大位科技",
               "changePercent": 10.02,
               "badge": "算力租赁+东数西算+数据中心",
-              "sortOrder": 4,
+              "sortOrder": 9,
               "isDragon": false
             },
             {
@@ -752,23 +358,23 @@
               "name": "浙大网新",
               "changePercent": 10.07,
               "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 5,
+              "sortOrder": 10,
               "isDragon": false
             },
             {
               "id": "603220",
               "name": "中贝通信",
               "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
-              "sortOrder": 6,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 11,
               "isDragon": false
             },
             {
-              "id": "605168",
-              "name": "三人行",
-              "changePercent": 10.0,
-              "badge": "字节生态+算力租赁+AI营销",
-              "sortOrder": 7,
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 12,
               "isDragon": false
             }
           ]
@@ -778,9 +384,9 @@
     {
       "id": "886100.TI",
       "name": "DeepSeek概念",
-      "stockCount": 10,
+      "stockCount": 14,
       "highestBoardCount": 3,
-      "limitUpCount": 10,
+      "limitUpCount": 14,
       "ladders": [
         {
           "boardCount": 3,
@@ -828,30 +434,54 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 6,
+          "totalCount": 10,
           "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
             {
               "id": "000409",
               "name": "云鼎科技",
               "changePercent": 10.03,
               "badge": "AI应用+智能矿山+风电运维",
-              "sortOrder": 1,
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 3,
               "isDragon": false
             },
             {
               "id": "002642",
               "name": "荣联科技",
               "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 2,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 4,
               "isDragon": false
             },
             {
               "id": "300047",
               "name": "天源迪科",
               "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 3,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "300339",
+              "name": "润和软件",
+              "changePercent": 19.99,
+              "badge": null,
+              "sortOrder": 6,
               "isDragon": false
             },
             {
@@ -859,7 +489,7 @@
               "name": "天亿马",
               "changePercent": 19.99,
               "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 4,
+              "sortOrder": 7,
               "isDragon": false
             },
             {
@@ -867,15 +497,23 @@
               "name": "浙大网新",
               "changePercent": 10.07,
               "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 5,
+              "sortOrder": 8,
               "isDragon": false
             },
             {
               "id": "603220",
               "name": "中贝通信",
               "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
-              "sortOrder": 6,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 9,
+              "isDragon": false
+            },
+            {
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 10,
               "isDragon": false
             }
           ]
@@ -883,11 +521,11 @@
       ]
     },
     {
-      "id": "885362.TI",
-      "name": "云计算",
-      "stockCount": 10,
+      "id": "886108.TI",
+      "name": "AI应用",
+      "stockCount": 14,
       "highestBoardCount": 3,
-      "limitUpCount": 10,
+      "limitUpCount": 14,
       "ladders": [
         {
           "boardCount": 3,
@@ -924,10 +562,10 @@
               "isDragon": false
             },
             {
-              "id": "002298",
-              "name": "中电鑫龙",
-              "changePercent": 10.07,
-              "badge": "算力基础设施+智能输配电+并购重组",
+              "id": "003040",
+              "name": "楚天龙",
+              "changePercent": 10.03,
+              "badge": "eSIM+数字人民币+AI政务",
               "sortOrder": 3,
               "isDragon": false
             }
@@ -935,268 +573,86 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 6,
+          "totalCount": 10,
           "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
             {
               "id": "000409",
               "name": "云鼎科技",
               "changePercent": 10.03,
               "badge": "AI应用+智能矿山+风电运维",
-              "sortOrder": 1,
+              "sortOrder": 2,
               "isDragon": false
             },
             {
               "id": "002642",
               "name": "荣联科技",
               "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 2,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 3,
               "isDragon": false
             },
             {
               "id": "300047",
               "name": "天源迪科",
               "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "600589",
-              "name": "大位科技",
-              "changePercent": 10.02,
-              "badge": "算力租赁+东数西算+数据中心",
+              "badge": "华为昇腾+算力分销+AI智能体",
               "sortOrder": 4,
               "isDragon": false
             },
             {
-              "id": "600797",
-              "name": "浙大网新",
-              "changePercent": 10.07,
-              "badge": "算力租赁+智算转型+AI应用",
+              "id": "300339",
+              "name": "润和软件",
+              "changePercent": 19.99,
+              "badge": null,
               "sortOrder": 5,
               "isDragon": false
             },
             {
-              "id": "603220",
-              "name": "中贝通信",
-              "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
+              "id": "301178",
+              "name": "天亿马",
+              "changePercent": 19.99,
+              "badge": "算力租赁+词元出海+人形机器人",
               "sortOrder": 6,
               "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885956.TI",
-      "name": "智慧政务",
-      "stockCount": 10,
-      "highestBoardCount": 3,
-      "limitUpCount": 10,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.07,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.01,
-              "badge": "华为昇腾+算力+词元工厂",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002261",
-              "name": "拓维信息",
-              "changePercent": 10.02,
-              "badge": "华为昇腾+算力+机器人",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "002298",
-              "name": "中电鑫龙",
-              "changePercent": 10.07,
-              "badge": "算力基础设施+智能输配电+并购重组",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "003040",
-              "name": "楚天龙",
-              "changePercent": 10.03,
-              "badge": "eSIM+数字人民币+AI政务",
-              "sortOrder": 4,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "300047",
-              "name": "天源迪科",
-              "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "301178",
-              "name": "天亿马",
-              "changePercent": 19.99,
-              "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 3,
-              "isDragon": false
             },
             {
               "id": "600797",
               "name": "浙大网新",
               "changePercent": 10.07,
               "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 4,
+              "sortOrder": 7,
               "isDragon": false
             },
             {
               "id": "603220",
               "name": "中贝通信",
               "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
-              "sortOrder": 5,
-              "isDragon": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "885976.TI",
-      "name": "数字经济",
-      "stockCount": 10,
-      "highestBoardCount": 3,
-      "limitUpCount": 10,
-      "ladders": [
-        {
-          "boardCount": 3,
-          "totalCount": 1,
-          "stocks": [
-            {
-              "id": "002197",
-              "name": "证通电子",
-              "changePercent": 10.07,
-              "badge": "算力租赁+数据中心+股权激励",
-              "sortOrder": 1,
-              "isDragon": true
-            }
-          ]
-        },
-        {
-          "boardCount": 2,
-          "totalCount": 4,
-          "stocks": [
-            {
-              "id": "000158",
-              "name": "常山北明",
-              "changePercent": 10.01,
-              "badge": "华为昇腾+算力+词元工厂",
-              "sortOrder": 1,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 8,
               "isDragon": false
             },
             {
-              "id": "002298",
-              "name": "中电鑫龙",
-              "changePercent": 10.07,
-              "badge": "算力基础设施+智能输配电+并购重组",
-              "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "003040",
-              "name": "楚天龙",
+              "id": "603496",
+              "name": "恒为科技",
               "changePercent": 10.03,
-              "badge": "eSIM+数字人民币+AI政务",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "600567",
-              "name": "山鹰国际",
-              "changePercent": 9.9,
-              "badge": "要约收购+此前一度触及面值退市+包装纸",
-              "sortOrder": 4,
-              "isDragon": false
-            }
-          ]
-        },
-        {
-          "boardCount": 1,
-          "totalCount": 5,
-          "stocks": [
-            {
-              "id": "000409",
-              "name": "云鼎科技",
-              "changePercent": 10.03,
-              "badge": "AI应用+智能矿山+风电运维",
-              "sortOrder": 1,
-              "isDragon": false
-            },
-            {
-              "id": "002642",
-              "name": "荣联科技",
-              "changePercent": 9.96,
               "badge": null,
-              "sortOrder": 2,
+              "sortOrder": 9,
               "isDragon": false
             },
             {
-              "id": "300047",
-              "name": "天源迪科",
-              "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 3,
-              "isDragon": false
-            },
-            {
-              "id": "301178",
-              "name": "天亿马",
-              "changePercent": 19.99,
-              "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 4,
-              "isDragon": false
-            },
-            {
-              "id": "600797",
-              "name": "浙大网新",
-              "changePercent": 10.07,
-              "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 5,
+              "id": "605168",
+              "name": "三人行",
+              "changePercent": 10.0,
+              "badge": "字节生态+算力租赁+AI营销",
+              "sortOrder": 10,
               "isDragon": false
             }
           ]
@@ -1206,9 +662,9 @@
     {
       "id": "885312.TI",
       "name": "物联网",
-      "stockCount": 9,
+      "stockCount": 12,
       "highestBoardCount": 4,
-      "limitUpCount": 9,
+      "limitUpCount": 12,
       "ladders": [
         {
           "boardCount": 4,
@@ -1256,12 +712,627 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 5,
+          "totalCount": 8,
           "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
             {
               "id": "000056",
               "name": "*ST皇庭",
               "changePercent": 9.77,
+              "badge": "司法拍卖+功率半导体+商业管理",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "000409",
+              "name": "云鼎科技",
+              "changePercent": 10.03,
+              "badge": "AI应用+智能矿山+风电运维",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 9.96,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "300339",
+              "name": "润和软件",
+              "changePercent": 19.99,
+              "badge": null,
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "600797",
+              "name": "浙大网新",
+              "changePercent": 10.07,
+              "badge": "算力租赁+智算转型+AI应用",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "603220",
+              "name": "中贝通信",
+              "changePercent": 10.03,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 8,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885459.TI",
+      "name": "网络安全",
+      "stockCount": 12,
+      "highestBoardCount": 3,
+      "limitUpCount": 12,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": "华为昇腾+算力+词元工厂",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002298",
+              "name": "中电鑫龙",
+              "changePercent": 10.07,
+              "badge": "算力基础设施+智能输配电+并购重组",
+              "sortOrder": 2,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 9,
+          "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000409",
+              "name": "云鼎科技",
+              "changePercent": 10.03,
+              "badge": "AI应用+智能矿山+风电运维",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.0,
+              "badge": null,
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 9.96,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "300047",
+              "name": "天源迪科",
+              "changePercent": 20.0,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "300339",
+              "name": "润和软件",
+              "changePercent": 19.99,
+              "badge": null,
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "301178",
+              "name": "天亿马",
+              "changePercent": 19.99,
+              "badge": "算力租赁+词元出海+人形机器人",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "600797",
+              "name": "浙大网新",
+              "changePercent": 10.07,
+              "badge": "算力租赁+智算转型+AI应用",
+              "sortOrder": 8,
+              "isDragon": false
+            },
+            {
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 9,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886050.TI",
+      "name": "算力租赁",
+      "stockCount": 12,
+      "highestBoardCount": 3,
+      "limitUpCount": 12,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 2,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": "华为昇腾+算力+词元工厂",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000889",
+              "name": "中嘉博创",
+              "changePercent": 9.97,
+              "badge": "算力销售+通信网络维护+业绩扭亏",
+              "sortOrder": 2,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 9,
+          "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002930",
+              "name": "宏川智慧",
+              "changePercent": 10.05,
+              "badge": "燧原经销+算力租赁+石化仓储",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "301178",
+              "name": "天亿马",
+              "changePercent": 19.99,
+              "badge": "算力租赁+词元出海+人形机器人",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "301259",
+              "name": "艾布鲁",
+              "changePercent": 19.97,
+              "badge": "算力租赁+参股TPU芯片+环境治理",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "600589",
+              "name": "大位科技",
+              "changePercent": 10.02,
+              "badge": "算力租赁+东数西算+数据中心",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "600797",
+              "name": "浙大网新",
+              "changePercent": 10.07,
+              "badge": "算力租赁+智算转型+AI应用",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "603220",
+              "name": "中贝通信",
+              "changePercent": 10.03,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 8,
+              "isDragon": false
+            },
+            {
+              "id": "605168",
+              "name": "三人行",
+              "changePercent": 10.0,
+              "badge": "字节生态+算力租赁+AI营销",
+              "sortOrder": 9,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885779.TI",
+      "name": "腾讯概念",
+      "stockCount": 12,
+      "highestBoardCount": 3,
+      "limitUpCount": 12,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": "华为昇腾+算力+词元工厂",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000889",
+              "name": "中嘉博创",
+              "changePercent": 9.97,
+              "badge": "算力销售+通信网络维护+业绩扭亏",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002298",
+              "name": "中电鑫龙",
+              "changePercent": 10.07,
+              "badge": "算力基础设施+智能输配电+并购重组",
+              "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000062",
+              "name": "深圳华强",
+              "changePercent": 9.98,
+              "badge": "华为昇腾+存储芯片+算力服务",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "000409",
+              "name": "云鼎科技",
+              "changePercent": 10.03,
+              "badge": "AI应用+智能矿山+风电运维",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 9.96,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "300047",
+              "name": "天源迪科",
+              "changePercent": 20.0,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "301178",
+              "name": "天亿马",
+              "changePercent": 19.99,
+              "badge": "算力租赁+词元出海+人形机器人",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "600797",
+              "name": "浙大网新",
+              "changePercent": 10.07,
+              "badge": "算力租赁+智算转型+AI应用",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "605168",
+              "name": "三人行",
+              "changePercent": 10.0,
+              "badge": "字节生态+算力租赁+AI营销",
+              "sortOrder": 8,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885923.TI",
+      "name": "鸿蒙概念",
+      "stockCount": 12,
+      "highestBoardCount": 3,
+      "limitUpCount": 12,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": "华为昇腾+算力+词元工厂",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002261",
+              "name": "拓维信息",
+              "changePercent": 10.02,
+              "badge": "华为昇腾+算力+机器人",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "003040",
+              "name": "楚天龙",
+              "changePercent": 10.03,
+              "badge": "eSIM+数字人民币+AI政务",
+              "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "000409",
+              "name": "云鼎科技",
+              "changePercent": 10.03,
+              "badge": "AI应用+智能矿山+风电运维",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "300047",
+              "name": "天源迪科",
+              "changePercent": 20.0,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "300339",
+              "name": "润和软件",
+              "changePercent": 19.99,
+              "badge": null,
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "301178",
+              "name": "天亿马",
+              "changePercent": 19.99,
+              "badge": "算力租赁+词元出海+人形机器人",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "600797",
+              "name": "浙大网新",
+              "changePercent": 10.07,
+              "badge": "算力租赁+智算转型+AI应用",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "603421",
+              "name": "鼎信通讯",
+              "changePercent": 10.09,
+              "badge": null,
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 8,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "885362.TI",
+      "name": "云计算",
+      "stockCount": 12,
+      "highestBoardCount": 3,
+      "limitUpCount": 12,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 3,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": "华为昇腾+算力+词元工厂",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002261",
+              "name": "拓维信息",
+              "changePercent": 10.02,
+              "badge": "华为昇腾+算力+机器人",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002298",
+              "name": "中电鑫龙",
+              "changePercent": 10.07,
+              "badge": "算力基础设施+智能输配电+并购重组",
+              "sortOrder": 3,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 8,
+          "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
               "badge": null,
               "sortOrder": 1,
               "isDragon": false
@@ -1278,8 +1349,24 @@
               "id": "002642",
               "name": "荣联科技",
               "changePercent": 9.96,
-              "badge": null,
+              "badge": "存储设备集采+算力服务+国企",
               "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "300047",
+              "name": "天源迪科",
+              "changePercent": 20.0,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "600589",
+              "name": "大位科技",
+              "changePercent": 10.02,
+              "badge": "算力租赁+东数西算+数据中心",
+              "sortOrder": 5,
               "isDragon": false
             },
             {
@@ -1287,15 +1374,23 @@
               "name": "浙大网新",
               "changePercent": 10.07,
               "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 4,
+              "sortOrder": 6,
               "isDragon": false
             },
             {
               "id": "603220",
               "name": "中贝通信",
               "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
-              "sortOrder": 5,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 7,
+              "isDragon": false
+            },
+            {
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 8,
               "isDragon": false
             }
           ]
@@ -1303,11 +1398,134 @@
       ]
     },
     {
-      "id": "885456.TI",
-      "name": "互联网金融",
-      "stockCount": 9,
+      "id": "886013.TI",
+      "name": "信创",
+      "stockCount": 12,
+      "highestBoardCount": 3,
+      "limitUpCount": 12,
+      "ladders": [
+        {
+          "boardCount": 3,
+          "totalCount": 1,
+          "stocks": [
+            {
+              "id": "002197",
+              "name": "证通电子",
+              "changePercent": 10.07,
+              "badge": "算力租赁+数据中心+股权激励",
+              "sortOrder": 1,
+              "isDragon": true
+            }
+          ]
+        },
+        {
+          "boardCount": 2,
+          "totalCount": 4,
+          "stocks": [
+            {
+              "id": "000158",
+              "name": "常山北明",
+              "changePercent": 10.01,
+              "badge": "华为昇腾+算力+词元工厂",
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002261",
+              "name": "拓维信息",
+              "changePercent": 10.02,
+              "badge": "华为昇腾+算力+机器人",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "002298",
+              "name": "中电鑫龙",
+              "changePercent": 10.07,
+              "badge": "算力基础设施+智能输配电+并购重组",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "003040",
+              "name": "楚天龙",
+              "changePercent": 10.03,
+              "badge": "eSIM+数字人民币+AI政务",
+              "sortOrder": 4,
+              "isDragon": false
+            }
+          ]
+        },
+        {
+          "boardCount": 1,
+          "totalCount": 7,
+          "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
+            {
+              "id": "002642",
+              "name": "荣联科技",
+              "changePercent": 9.96,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "300047",
+              "name": "天源迪科",
+              "changePercent": 20.0,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "300339",
+              "name": "润和软件",
+              "changePercent": 19.99,
+              "badge": null,
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "301178",
+              "name": "天亿马",
+              "changePercent": 19.99,
+              "badge": "算力租赁+词元出海+人形机器人",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "600797",
+              "name": "浙大网新",
+              "changePercent": 10.07,
+              "badge": "算力租赁+智算转型+AI应用",
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 7,
+              "isDragon": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "886041.TI",
+      "name": "数据要素",
+      "stockCount": 11,
       "highestBoardCount": 4,
-      "limitUpCount": 9,
+      "limitUpCount": 11,
       "ladders": [
         {
           "boardCount": 4,
@@ -1339,7 +1557,7 @@
         },
         {
           "boardCount": 2,
-          "totalCount": 3,
+          "totalCount": 2,
           "stocks": [
             {
               "id": "000158",
@@ -1350,40 +1568,32 @@
               "isDragon": false
             },
             {
-              "id": "000889",
-              "name": "中嘉博创",
-              "changePercent": 9.97,
-              "badge": "算力销售+通信网络维护+业绩扭亏",
+              "id": "002298",
+              "name": "中电鑫龙",
+              "changePercent": 10.07,
+              "badge": "算力基础设施+智能输配电+并购重组",
               "sortOrder": 2,
-              "isDragon": false
-            },
-            {
-              "id": "003040",
-              "name": "楚天龙",
-              "changePercent": 10.03,
-              "badge": "eSIM+数字人民币+AI政务",
-              "sortOrder": 3,
               "isDragon": false
             }
           ]
         },
         {
           "boardCount": 1,
-          "totalCount": 4,
+          "totalCount": 7,
           "stocks": [
             {
-              "id": "000062",
-              "name": "深圳华强",
-              "changePercent": 9.98,
-              "badge": "华为昇腾+存储芯片+算力服务",
+              "id": "000409",
+              "name": "云鼎科技",
+              "changePercent": 10.03,
+              "badge": "AI应用+智能矿山+风电运维",
               "sortOrder": 1,
               "isDragon": false
             },
             {
-              "id": "002344",
-              "name": "海宁皮城",
-              "changePercent": 10.12,
-              "badge": "皮革市场+国企改革+光伏资产+主营皮革专业市场",
+              "id": "002122",
+              "name": "汇洲智能",
+              "changePercent": 10.0,
+              "badge": null,
               "sortOrder": 2,
               "isDragon": false
             },
@@ -1391,8 +1601,24 @@
               "id": "002642",
               "name": "荣联科技",
               "changePercent": 9.96,
-              "badge": null,
+              "badge": "存储设备集采+算力服务+国企",
               "sortOrder": 3,
+              "isDragon": false
+            },
+            {
+              "id": "300047",
+              "name": "天源迪科",
+              "changePercent": 20.0,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 4,
+              "isDragon": false
+            },
+            {
+              "id": "301178",
+              "name": "天亿马",
+              "changePercent": 19.99,
+              "badge": "算力租赁+词元出海+人形机器人",
+              "sortOrder": 5,
               "isDragon": false
             },
             {
@@ -1400,7 +1626,15 @@
               "name": "浙大网新",
               "changePercent": 10.07,
               "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 4,
+              "sortOrder": 6,
+              "isDragon": false
+            },
+            {
+              "id": "605168",
+              "name": "三人行",
+              "changePercent": 10.0,
+              "badge": "字节生态+算力租赁+AI营销",
+              "sortOrder": 7,
               "isDragon": false
             }
           ]
@@ -1410,9 +1644,9 @@
     {
       "id": "885783.TI",
       "name": "工业互联网",
-      "stockCount": 9,
+      "stockCount": 11,
       "highestBoardCount": 4,
-      "limitUpCount": 9,
+      "limitUpCount": 11,
       "ladders": [
         {
           "boardCount": 4,
@@ -1468,7 +1702,7 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 4,
+          "totalCount": 6,
           "stocks": [
             {
               "id": "000409",
@@ -1479,11 +1713,19 @@
               "isDragon": false
             },
             {
+              "id": "002403",
+              "name": "爱仕达",
+              "changePercent": 9.98,
+              "badge": "其它",
+              "sortOrder": 2,
+              "isDragon": false
+            },
+            {
               "id": "002642",
               "name": "荣联科技",
               "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 2,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 3,
               "isDragon": false
             },
             {
@@ -1491,15 +1733,23 @@
               "name": "镇洋发展",
               "changePercent": 10.0,
               "badge": "换股吸并+现金选择权+终止上市",
-              "sortOrder": 3,
+              "sortOrder": 4,
               "isDragon": false
             },
             {
               "id": "603220",
               "name": "中贝通信",
               "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
-              "sortOrder": 4,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "603496",
+              "name": "恒为科技",
+              "changePercent": 10.03,
+              "badge": null,
+              "sortOrder": 6,
               "isDragon": false
             }
           ]
@@ -1507,11 +1757,11 @@
       ]
     },
     {
-      "id": "886013.TI",
-      "name": "信创",
-      "stockCount": 9,
+      "id": "885956.TI",
+      "name": "智慧政务",
+      "stockCount": 11,
       "highestBoardCount": 3,
-      "limitUpCount": 9,
+      "limitUpCount": 11,
       "ladders": [
         {
           "boardCount": 3,
@@ -1567,13 +1817,13 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 4,
+          "totalCount": 6,
           "stocks": [
             {
               "id": "002642",
               "name": "荣联科技",
               "changePercent": 9.96,
-              "badge": null,
+              "badge": "存储设备集采+算力服务+国企",
               "sortOrder": 1,
               "isDragon": false
             },
@@ -1581,8 +1831,16 @@
               "id": "300047",
               "name": "天源迪科",
               "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
+              "badge": "华为昇腾+算力分销+AI智能体",
               "sortOrder": 2,
+              "isDragon": false
+            },
+            {
+              "id": "300339",
+              "name": "润和软件",
+              "changePercent": 19.99,
+              "badge": null,
+              "sortOrder": 3,
               "isDragon": false
             },
             {
@@ -1590,7 +1848,7 @@
               "name": "天亿马",
               "changePercent": 19.99,
               "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 3,
+              "sortOrder": 4,
               "isDragon": false
             },
             {
@@ -1598,7 +1856,15 @@
               "name": "浙大网新",
               "changePercent": 10.07,
               "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 4,
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "603220",
+              "name": "中贝通信",
+              "changePercent": 10.03,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 6,
               "isDragon": false
             }
           ]
@@ -1608,9 +1874,9 @@
     {
       "id": "886099.TI",
       "name": "AI智能体",
-      "stockCount": 9,
+      "stockCount": 11,
       "highestBoardCount": 2,
-      "limitUpCount": 9,
+      "limitUpCount": 11,
       "ladders": [
         {
           "boardCount": 2,
@@ -1628,14 +1894,22 @@
         },
         {
           "boardCount": 1,
-          "totalCount": 8,
+          "totalCount": 10,
           "stocks": [
+            {
+              "id": "000034",
+              "name": "神州数码",
+              "changePercent": 9.99,
+              "badge": null,
+              "sortOrder": 1,
+              "isDragon": false
+            },
             {
               "id": "000062",
               "name": "深圳华强",
               "changePercent": 9.98,
               "badge": "华为昇腾+存储芯片+算力服务",
-              "sortOrder": 1,
+              "sortOrder": 2,
               "isDragon": false
             },
             {
@@ -1643,23 +1917,31 @@
               "name": "云鼎科技",
               "changePercent": 10.03,
               "badge": "AI应用+智能矿山+风电运维",
-              "sortOrder": 2,
+              "sortOrder": 3,
               "isDragon": false
             },
             {
               "id": "002642",
               "name": "荣联科技",
               "changePercent": 9.96,
-              "badge": null,
-              "sortOrder": 3,
+              "badge": "存储设备集采+算力服务+国企",
+              "sortOrder": 4,
               "isDragon": false
             },
             {
               "id": "300047",
               "name": "天源迪科",
               "changePercent": 20.0,
-              "badge": "算力分销+华为昇腾+AI智能体",
-              "sortOrder": 4,
+              "badge": "华为昇腾+算力分销+AI智能体",
+              "sortOrder": 5,
+              "isDragon": false
+            },
+            {
+              "id": "300339",
+              "name": "润和软件",
+              "changePercent": 19.99,
+              "badge": null,
+              "sortOrder": 6,
               "isDragon": false
             },
             {
@@ -1667,7 +1949,7 @@
               "name": "天亿马",
               "changePercent": 19.99,
               "badge": "算力租赁+词元出海+人形机器人",
-              "sortOrder": 5,
+              "sortOrder": 7,
               "isDragon": false
             },
             {
@@ -1675,15 +1957,15 @@
               "name": "浙大网新",
               "changePercent": 10.07,
               "badge": "算力租赁+智算转型+AI应用",
-              "sortOrder": 6,
+              "sortOrder": 8,
               "isDragon": false
             },
             {
               "id": "603220",
               "name": "中贝通信",
               "changePercent": 10.03,
-              "badge": "算力租赁+回购+智算业务",
-              "sortOrder": 7,
+              "badge": "算力租赁+智算业务+回购",
+              "sortOrder": 9,
               "isDragon": false
             },
             {
@@ -1691,7 +1973,7 @@
               "name": "三人行",
               "changePercent": 10.0,
               "badge": "字节生态+算力租赁+AI营销",
-              "sortOrder": 8,
+              "sortOrder": 10,
               "isDragon": false
             }
           ]
@@ -1862,5 +2144,5 @@
       "breakMarginPct": 15.6
     }
   ],
-  "updatedAt": "2026-11-27 09:55:29"
+  "updatedAt": "2026-11-27 10:05:46"
 }
